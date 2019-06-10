@@ -7,14 +7,14 @@ dotfiles
 ## Installation:
 
 ```
-git clone --separate-git-dir=$HOME/.dotfiles https://github.com/anandpiyer/.dotfiles.git tmpdotfiles
+git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
 rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 rm -r tmpdotfiles
 ```
 or just use stow:
 
 ```
-$git clone git://github.com/thoughtbot/.dotfiles.git ~/.dotfiles
+$git clone git://github.com/sentaku/.dotfiles.git ~/.dotfiles
 $stow .dotfiles
 ```
 
