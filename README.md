@@ -14,7 +14,7 @@ rm -r tmpdotfiles
 or just use stow:
 
 ```
-$git clone git://github.com/sentaku/.dotfiles.git ~/.dotfiles
+$git clone git://github.com/sentakuhm/.dotfiles.git ~/.dotfiles
 $stow .dotfiles
 ```
 
