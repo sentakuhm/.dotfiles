@@ -11,12 +11,6 @@ git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfi
 rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 rm -r tmpdotfiles
 ```
-or just use stow:
-
-```
-$git clone git://github.com/sentakuhm/.dotfiles.git ~/.dotfiles
-$stow .dotfiles
-```
 
 ## Treminal theme:
 i'm using Gruvbox, to change one go to: 
