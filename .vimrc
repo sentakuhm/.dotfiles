@@ -22,9 +22,9 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-"Plugin 'Valloric/YouCompleteMe'
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'morhetz/gruvbox'
-"Plugin 'itchyny/lightline.vim'
+Plugin 'itchyny/lightline.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'mattn/emmet-vim'
 Plugin 'airblade/vim-gitgutter'
@@ -34,7 +34,6 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'majutsushi/tagbar'
 Plugin 'honza/vim-snippets'
 Plugin 'scrooloose/nerdcommenter'
-"Plugin 'Valloric/YouCompleteMe'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
@@ -103,17 +102,17 @@ set encoding=utf-8
 "Emmets:
  let g:user_emmet_mode='a'
 
-"NERDTree:
- autocmd vimenter * NERDTree
- let g:NERDTreeDirArrowExpandable = '▸'
- let g:NERDTreeDirArrowCollapsible = '▾'
- let NERDTreeShowHidden=1
  "Gitgutter:
  let g:gitgutter_max_signs = 500
 
 "Ident-Guides:
  let g:indent_guides_enable_on_vim_startup = 1
 
+"NERDTree:
+ autocmd vimenter * NERDTree
+ let g:NERDTreeDirArrowExpandable = '▸'
+ let g:NERDTreeDirArrowCollapsible = '▾'
+ let NERDTreeShowHidden=1
 "NRDCommenter:
  let g:NERDSpaceDelims = 1
  let g:NERDCompactSexyComs = 1
