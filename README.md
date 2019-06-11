@@ -1,8 +1,9 @@
 dotfiles
-===================
+***
 ![screenshot](https://github.com/madaramost/.dotfiles/blob/master/Screenshot.png)
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
+***
 
 ### Notes
 * befor install make sure you have installed:
@@ -63,6 +64,7 @@ you'll find all themes, to change one open terminal then:
 $bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
 enter number of desired them and enter.
+***
 
 ## issues
 
@@ -84,6 +86,7 @@ set rtp+=~/.vim/bundle/nerdtree
 autocmd vimenter * NERDTree
 ```
 save and exit.
+***
 
 ### Tmux Commands
 ```
