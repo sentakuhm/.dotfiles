@@ -44,14 +44,14 @@ $rm -r tmpdotfiles
 ## Treminal theme:
 Only upported terminals:
 ```
-   mintty and deriviates
-   guake
-   iTerm2
-   elementary terminal (pantheon/elementary)
-   mate-terminal
-   gnome-terminal
-   tilix
-   xfce4-terminal
+mintty and deriviates
+guake
+iTerm2
+elementary terminal (pantheon/elementary)
+mate-terminal
+gnome-terminal
+tilix
+xfce4-terminal
 ```
 i'm using Gruvbox, to change one go to: 
 https://mayccoll.github.io/Gogh/
