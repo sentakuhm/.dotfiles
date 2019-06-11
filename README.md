@@ -41,9 +41,9 @@ $git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotf
 $rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 $rm -r tmpdotfiles
 ```
-* run vim then :PluginInstall to install all needed plugins and exit.
+* run vim then `:PluginInstall` to install all needed plugins and exit.
 
-* run tmux then Ctrl+a then click shift+i to install all plugins and exit. 
+* run tmux then `Ctrl+a` then click `shift+i` to install all plugins and exit. 
 
 ### Treminal theme:
 + Only upported terminals:
@@ -66,7 +66,7 @@ enter number of desired them and enter.
 
 ## issues
 
-+ if you faced : E185: Cannot find color scheme 'gruvbox'
++ if you faced : `E185: Cannot find color scheme 'gruvbox'`
 
 just do:
 ```
@@ -75,10 +75,10 @@ $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
 + if you faced: 
-Error detected while processing VimEnter Auto commands for "*":
-E492: Not an editor command: NERDTree
+`Error detected while processing VimEnter Auto commands for "*":
+E492: Not an editor command: NERDTree`
 
-add 'set rtp+=~/.vim/bundle/nerdtree' to .vimrc befor line: 'autocmd vimenter * NERDTree' like this
+add `set rtp+=~/.vim/bundle/nerdtree` to .vimrc before line: `autocmd vimenter * NERDTree` like this
 ```
 set rtp+=~/.vim/bundle/nerdtree
 autocmd vimenter * NERDTree
