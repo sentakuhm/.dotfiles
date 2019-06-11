@@ -4,8 +4,8 @@ dotfiles
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
 
-## Notes
-befor install make sure you have installed:
+### Notes
+* befor install make sure you have installed:
 ```
 vim
 tmux
@@ -14,17 +14,17 @@ powerline
 ```
 
 and clone vundle and tmux plugins manager to home directory:
-for vundle:
++ for vundle:
 ```
 $git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-for tmux plugin manager:
++ for tmux plugin manager:
 ```
 $git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-## ubuntu needed
+### ubuntu needed
 
 make sure you installed:
 ```
@@ -34,19 +34,19 @@ mono-complete /*after install run npm install xbuild*/
 cargo
 golang-go
 ```
-## Installation
+### Installation
 
 ```
 $git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
 $rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 $rm -r tmpdotfiles
 ```
-run vim then :PluginInstall to install all needed plugins and exit.
+* run vim then :PluginInstall to install all needed plugins and exit.
 
-run tmux then Ctrl+a then click shift+i to install all plugins and exit. 
+* run tmux then Ctrl+a then click shift+i to install all plugins and exit. 
 
-## Treminal theme:
-Only upported terminals:
+### Treminal theme:
++ Only upported terminals:
 ```
 mintty and deriviates
 guake
@@ -66,7 +66,7 @@ enter number of desired them and enter.
 
 ## issues
 
-if you faced : E185: Cannot find color scheme 'gruvbox'
++ if you faced : E185: Cannot find color scheme 'gruvbox'
 
 just do:
 ```
@@ -74,7 +74,7 @@ $mkdir ~/.vim/colors
 $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
-if you faced: 
++ if you faced: 
 Error detected while processing VimEnter Auto commands for "*":
 E492: Not an editor command: NERDTree
 
@@ -85,7 +85,7 @@ autocmd vimenter * NERDTree
 ```
 save and exit.
 
-## Tmux Commands
+### Tmux Commands
 ```
 Ctrl + a	Command
 Command + t	New window
