@@ -61,3 +61,24 @@ you'll find all themes, to change one open terminal then:
 $bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
 enter number of desired them and enter.
+
+## issues
+
+if you faced : E185: Cannot find color scheme 'gruvbox'
+
+just do:
+```
+$mkdir ~/.vim/colors
+$cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
+```
+
+if you faced: 
+Error detected while processing VimEnter Auto commands for "*":
+E492: Not an editor command: NERDTree
+
+add 'set rtp+=~/.vim/bundle/nerdtree' to .vimrc befor line: 'autocmd vimenter * NERDTree' like this
+```
+set rtp+=~/.vim/bundle/nerdtree
+autocmd vimenter * NERDTree
+```
+save and exit.
