@@ -9,7 +9,7 @@ befor install make sure you have installed:
 ```
 vim
 tmux
-rango
+ranger
 ```
 
 and clone vundle and tmux plugins manager to home directory:
