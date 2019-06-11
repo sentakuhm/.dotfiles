@@ -75,8 +75,8 @@ $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
 + if you faced: 
-`Error detected while processing VimEnter Auto commands for "*":
-E492: Not an editor command: NERDTree`
+`Error detected while processing VimEnter Auto commands for "*":`
+`E492: Not an editor command: NERDTree`
 
 add `set rtp+=~/.vim/bundle/nerdtree` to .vimrc before line: `autocmd vimenter * NERDTree` like this
 ```
