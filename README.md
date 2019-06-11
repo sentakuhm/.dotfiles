@@ -4,7 +4,7 @@ dotfiles
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
 
-## Notes:
+## Notes
 befor install make sure you have installed:
 ```
 vim
@@ -23,7 +23,7 @@ for tmux plugin manager:
 $git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-## ubuntu needed:
+## ubuntu needed
 
 make sure you installed:
 ```
@@ -33,7 +33,7 @@ mono-complete /*after install run npm install xbuild*/
 cargo
 golang-go
 ```
-## Installation:
+## Installation
 
 ```
 $git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
