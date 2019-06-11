@@ -10,6 +10,7 @@ befor install make sure you have installed:
 vim
 tmux
 ranger
+powerline
 ```
 
 and clone vundle and tmux plugins manager to home directory:
