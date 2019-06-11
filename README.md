@@ -57,8 +57,7 @@ gnome-terminal
 tilix
 xfce4-terminal
 ```
-i'm using Gruvbox, to change one go to: 
-https://mayccoll.github.io/Gogh/
+i'm using Gruvbox, to change one [Click Here](https://mayccoll.github.io/Gogh/)
 you'll find all themes, to change one open terminal then:
 ```
 $bash -c  "$(wget -qO- https://git.io/vQgMr)"
