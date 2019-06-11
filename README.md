@@ -4,7 +4,7 @@ dotfiles
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
 
-##Notes:
+## Notes:
 befor install make sure you have installed:
 ```
 vim
@@ -20,10 +20,10 @@ $git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 for tmux plugin manager:
 ```
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-#ubuntu needed:
+## ubuntu needed:
 
 make sure you installed:
 ```
@@ -36,9 +36,9 @@ golang-go
 ## Installation:
 
 ```
-git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
-rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
-rm -r tmpdotfiles
+$git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
+$rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
+$rm -r tmpdotfiles
 ```
 
 ## Treminal theme:
