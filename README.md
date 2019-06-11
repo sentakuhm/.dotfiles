@@ -4,6 +4,35 @@ dotfiles
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
 
+##Notes:
+befor install make sure you have installed:
+```
+vim
+tmux
+rango
+```
+
+and clone vundle and tmux plugins manager to home directory:
+for vundle:
+```
+$git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
+for tmux plugin manager:
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+#ubuntu needed:
+
+make sure you installed:
+```
+build-essential
+npm
+mono-complete /*after install run npm install xbuild*/
+cargo
+golang-go
+```
 ## Installation:
 
 ```
