@@ -41,6 +41,9 @@ $git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotf
 $rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 $rm -r tmpdotfiles
 ```
+run vim then :PluginInstall to install all needed plugins and exit.
+
+run tmux then Ctrl+a then click shift+i to install all plugins and exit. 
 
 ## Treminal theme:
 Only upported terminals:
@@ -82,3 +85,23 @@ set rtp+=~/.vim/bundle/nerdtree
 autocmd vimenter * NERDTree
 ```
 save and exit.
+
+## Tmux Commands
+```
+Ctrl + a	Command
+Command + t	New window
+Command + w	Kill pane
+Command + q	Kill session
+Command + r	Reload tmux config
+Command + z	Zoom to pane
+Command + $	Rename session
+Command + ,	Rename window
+Command + g	Split vertically
+Command + h	Split horizontally
+Command + ?	List keyboard shortcuts
+Command + :	Command prompt
+Command + s	List sessions
+Command + Ctrl + r	Reload session
+Command + Ctrl + s	Save session
+Command + Shift + i	Install plugins
+```
