@@ -6,15 +6,13 @@ dotfiles
 ***
 
 ### Notes
-* before install dotfiles make sure you have installed:
-```
-vim
-tmux
-ranger
-powerline
-```
+* before install dotfiles make sure you have installed:<br/>
+vim<br/>
+tmux<br/>
+ranger<br/>
+powerline<br/>
 
-+ and clone vundle and tmux plugins manager to home directory:
++ and clone vundle and tmux plugins manager to home directory:<br/>
 for vundle:
 ```
 $git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
@@ -77,7 +75,7 @@ $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
 + if you faced: 
-`Error detected while processing VimEnter Auto commands for "*":`
+`Error detected while processing VimEnter Auto commands for "*":`<br/>
 `E492: Not an editor command: NERDTree`
 
 add `set rtp+=~/.vim/bundle/nerdtree` to .vimrc before line: `autocmd vimenter * NERDTree` like this
@@ -89,21 +87,20 @@ save and exit.
 ***
 
 ### Tmux Commands
-```
-Ctrl + a	Command
-Command + t	New window
-Command + w	Kill pane
-Command + q	Kill session
-Command + r	Reload tmux config
-Command + z	Zoom to pane
-Command + $	Rename session
-Command + ,	Rename window
-Command + g	Split vertically
-Command + h	Split horizontally
-Command + ?	List keyboard shortcuts
-Command + :	Command prompt
-Command + s	List sessions
-Command + Ctrl + r	Reload session
-Command + Ctrl + s	Save session
-Command + Shift + i	Install plugins
-```
+
+`Ctrl + a`	Command<br/>
+`Command + t`	New window<br/>
+`Command + w`	Kill pane<br/>
+`Command + q`	Kill session<br/>
+`Command + r`	Reload tmux config<br/>
+`Command + z`	Zoom to pane<br/>
+`Command + $`	Rename session<br/>
+`Command + ,`	Rename window<br/>
+`Command + g`	Split vertically<br/>
+`Command + h`	Split horizontally<br/>
+`Command + ?`	List keyboard shortcuts<br/>
+`Command + :`	Command prompt<br/>
+`Command + s`	List sessions<br/>
+`Command + Ctrl + r`	Reload session<br/>
+`Command + Ctrl + s`	Save session<br/>
+`Command + Shift + i`	Install plugins<br/>
