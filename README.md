@@ -53,10 +53,8 @@ $rm -r tmpdotfiles
 -xfce4-terminal<br/>
 
 i'm using Gruvbox, to change one [Click Here](https://mayccoll.github.io/Gogh/)
-you'll find all themes, to change one open terminal then:
-```
-$bash -c  "$(wget -qO- https://git.io/vQgMr)"
-```
+you'll find all themes, to change one open terminal then:<br/>
+`$bash -c  "$(wget -qO- https://git.io/vQgMr)"`<br/>
 enter number of desired theme and click enter.
 ***
 
