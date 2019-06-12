@@ -6,7 +6,7 @@ dotfiles
 ***
 
 ### Notes
-* befor install make sure you have installed:
+* before install dotfiles make sure you have installed:
 ```
 vim
 tmux
@@ -14,13 +14,13 @@ ranger
 powerline
 ```
 
-and clone vundle and tmux plugins manager to home directory:
-+ for vundle:
++ and clone vundle and tmux plugins manager to home directory:
+for vundle:
 ```
 $git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-+ for tmux plugin manager:
+for tmux plugin manager:
 ```
 $git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
@@ -31,7 +31,7 @@ make sure you installed:
 ```
 build-essential
 npm
-mono-complete /*after install run npm install xbuild*/
+mono-complete /*after install run `npm install xbuild`*/
 cargo
 golang-go
 ```
@@ -47,7 +47,7 @@ $rm -r tmpdotfiles
 * run tmux then `Ctrl+a` then click `shift+i` to install all plugins and exit. 
 
 ### Treminal theme:
-+ Only upported terminals:
++ Only supported terminals:
 ```
 mintty and deriviates
 guake
@@ -63,7 +63,7 @@ you'll find all themes, to change one open terminal then:
 ```
 $bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
-enter number of desired them and enter.
+enter number of desired theme and click enter.
 ***
 
 ## issues
