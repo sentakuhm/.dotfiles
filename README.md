@@ -14,25 +14,22 @@ powerline<br/>
 
 + and clone vundle and tmux plugins manager to home directory:<br/>
 for vundle:
-```
-$git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-```
 
-for tmux plugin manager:
-```
-$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-```
+`$git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+
++ for tmux plugin manager:
+
+`$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 ### ubuntu needed
 
-make sure you installed:
-```
-build-essential
-npm
-mono-complete /*after install run `npm install xbuild`*/
-cargo
-golang-go
-```
++ make sure you installed:<br/>
+build-essential<br/>
+npm<br/>
+mono-complete after install run `$npm install xbuild`<br/>
+cargo<br/>
+golang-go<br/>
+
 ### Installation
 
 ```
