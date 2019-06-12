@@ -1,0 +1,9 @@
+T 1560266792 19*	19Now talking on ##fix_your_connection
+T 1560266792 29*	29Topic for ##fix_your_connection 29is: You have been redirected here from another channel because your client's connection seems to be working intermittently. This causes annoying spam to the channel. Please fix your connection, and then poke a channel operator. How do I do that?  /msg chanserv access #CHANNEL list
+T 1560266792 29*	29Topic for ##fix_your_connection 29set by unknown 29at Thu May 29 19:24:17 2008
+T 1560266793 28-29ChanServ28-	[##fix_your_connection] You have been redirected here from another channel because your client's connection seems to be working intermittently. This causes annoying spam to the channel. Please fix your connection, and then poke a channel operator. How do I do that? /msg chanserv access #CHANNEL list
+T 1560267371 19*	19Now talking on ##fix_your_connection
+T 1560267371 29*	29Topic for ##fix_your_connection 29is: You have been redirected here from another channel because your client's connection seems to be working intermittently. This causes annoying spam to the channel. Please fix your connection, and then poke a channel operator. How do I do that?  /msg chanserv access #CHANNEL list
+T 1560267371 29*	29Topic for ##fix_your_connection 29set by unknown 29at Thu May 29 19:24:17 2008
+T 1560267371 28-29ChanServ28-	[##fix_your_connection] You have been redirected here from another channel because your client's connection seems to be working intermittently. This causes annoying spam to the channel. Please fix your connection, and then poke a channel operator. How do I do that? /msg chanserv access #CHANNEL list
+T 1560268570 23*	23serg-z has quit (23Quit: ZNC 1.7.2 - https://znc.in23)

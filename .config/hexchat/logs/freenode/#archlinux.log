@@ -1,0 +1,496 @@
+**** BEGIN LOGGING AT Sun Jun  9 05:31:17 2019
+
+Jun 09 05:31:17 *	Now talking on #archlinux
+Jun 09 05:31:17 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 09 05:31:17 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad (Mon Mar 11 15:44:32 2019)
+Jun 09 05:31:38 *	seaglass has quit (Quit: WeeChat 2.4)
+Jun 09 05:32:43 <sentaku>	hello
+Jun 09 05:33:09 <Scimmia>	!give sentaku welcome
+Jun 09 05:33:10 <phrik>	sentaku: Welcome to #archlinux, tell us how you fucked up.
+Jun 09 05:33:35 <sentaku>	idk rlly!!
+Jun 09 05:33:47 <sentaku>	xD
+Jun 09 05:34:54 <rex1234>	!give rex1234 welcome
+Jun 09 05:34:56 <phrik>	rex1234: Welcome to #archlinux, tell us how you fucked up.
+Jun 09 05:35:04 *	seaglass (~seaglass@unaffiliated/seaglass) has joined
+Jun 09 05:35:17 <rex1234>	@Scimmia: sorry man im just trying to figure this out
+Jun 09 05:35:57 <rex1234>	i just want to play WoW and zone the fuck out of life for a few hours and  its been a nightmare day trying to make it happen
+Jun 09 05:36:29 *	Nefertiti (~Nefertiti@unaffiliated/nefertiti) has joined
+Jun 09 05:36:42 *	Nefertari has quit (Ping timeout: 258 seconds)
+Jun 09 05:41:25 *	luxeve_ (~luxeve@2001:8003:2355:7600:69ad:814:1e49:2f8) has joined
+**** ENDING LOGGING AT Sun Jun  9 05:47:31 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:47:31 2019
+
+Jun 09 05:48:15 *	matheusmoreira has quit (Ping timeout: 248 seconds)
+Jun 09 05:49:11 *	matheusmoreira (~matheusmo@191.249.136.252) has joined
+Jun 09 05:50:07 *	asashnov (~quassel@185.244.130.37) has joined
+Jun 09 05:50:44 *	C5OK5Y (~C5OK5Y@ip-78-102-149-138.net.upcbroadband.cz) has joined
+Jun 09 05:51:39 *	cyberpunk (~jm@gateway/tor-sasl/johnnymnemonic) has joined
+Jun 09 05:52:10 *	JohnnyMnemonic has quit (Remote host closed the connection)
+Jun 09 05:53:26 <rex1234>	@Scimmia: so i need to generate config files for kms?
+Jun 09 05:53:38 *	urodna has quit (Quit: urodna)
+Jun 09 05:53:42 *	techno_x64 has quit (Quit: WeeChat 2.4)
+Jun 09 05:54:29 *	cshrik3 has quit (Quit: WeeChat 2.4)
+Jun 09 05:55:38 <Scimmia>	rex1234: no
+Jun 09 05:57:17 *	Nefertiti has quit (Ping timeout: 268 seconds)
+Jun 09 05:57:28 *	day__ (~Unknown@unaffiliated/day) has joined
+Jun 09 05:59:09 *	weedloser (~weedloser@c-fb6d235c.045-512-73746f34.bbcust.telenor.se) has joined
+Jun 09 05:59:43 *	beest (~beest@c-67-190-92-233.hsd1.co.comcast.net) has joined
+Jun 09 05:59:55 *	reber (~reber@unaffiliated/reber) has joined
+Jun 09 06:00:37 *	day has quit (Ping timeout: 248 seconds)
+Jun 09 06:00:37 *	day__ is now known as day
+Jun 09 06:02:03 *	pks_ (~pks@x590ed469.dyn.telefonica.de) has joined
+Jun 09 06:02:35 *	R3d_Sky has quit (Quit: R3d_Sky)
+Jun 09 06:02:47 *	pks has quit (Ping timeout: 245 seconds)
+Jun 09 06:02:47 *	pks_ is now known as pks
+Jun 09 06:02:49 *	hutch (~hutch@71.236.248.124) has joined
+Jun 09 06:04:16 *	dannyboy35 (~Mutter@73.142.14.255) has joined
+Jun 09 06:04:38 *	Kilroo (~Kilroo@173.94.24.151) has joined
+Jun 09 06:04:42 <dannyboy35>	I am trying to use nmcli but it’s telling me networkmanager isn’t running 
+Jun 09 06:04:51 <dannyboy35>	I’ve enabled the service 
+Jun 09 06:04:58 <dannyboy35>	Is there something else I need to do 
+Jun 09 06:05:43 <dannyboy35>	Do I need to reboot after I enable it? 
+Jun 09 06:06:31 <beest>	you have to start the service
+Jun 09 06:07:08 <beest>	start works, enable —-now works as well
+Jun 09 06:07:22 <beest>	although reboot would have worked for your purposes but is unnecessary
+Jun 09 06:08:37 *	shizy has quit (Ping timeout: 245 seconds)
+Jun 09 06:14:38 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 09 06:18:23 *	bashfulshell has quit (Quit: Connection closed for inactivity)
+Jun 09 06:19:52 *	eb0t has quit (Quit: WeeChat 2.3)
+Jun 09 06:19:57 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 09 06:20:18 *	mcurran (~muteman@c-73-186-201-244.hsd1.ma.comcast.net) has joined
+Jun 09 06:21:10 *	hutch has quit (Ping timeout: 258 seconds)
+Jun 09 06:21:22 <mcurran>	Can someone please help me identify why my gnome3/arch desktop keeps randomly freezing out?  I would appreciate if someone could lead me in checking some logs or something...
+Jun 09 06:23:25 *	charon77 (~Charon77@139.195.134.149) has joined
+Jun 09 06:24:27 *	kalio has quit (Ping timeout: 245 seconds)
+Jun 09 06:24:53 <sheep>	mcurran: how do you start gnome?
+Jun 09 06:28:01 *	easo2k has quit (Remote host closed the connection)
+Jun 09 06:28:49 <mcurran>	I have auto login enabled, but obviously still have to put in the key password, it's gdm by systemd
+Jun 09 06:29:07 <sheep>	gdm is what I wanted
+Jun 09 06:29:21 <sheep>	what do you see in journalctl -u gdm, dmesg, and journalctl -k?
+Jun 09 06:32:56 *	Oatmeal has quit (Remote host closed the connection)
+Jun 09 06:33:15 *	MarcinWieczorek (~marcin@178-36-211-60.adsl.inetia.pl) has joined
+Jun 09 06:36:15 *	epsilonKNOT has quit (Ping timeout: 248 seconds)
+Jun 09 06:36:27 *	palasso (~palasso@unaffiliated/palasso) has joined
+Jun 09 06:36:35 <mcurran>	could be this:  MDS CPU bug present and SMT on, data leak possible, a broken pci device (probably my old wifi card), and nouveaufb is complaining, even though i use nvidia-beta.  I might need to rebuild the drivers again, but it's been happening for a lot of releases
+Jun 09 06:37:26 <mcurran>	I thought proprietary drivers automatically disabled nouveau module, but are there parts that still fight?
+Jun 09 06:37:47 <sheep>	you might have to manually blacklist it
+Jun 09 06:37:48 *	iovec (uid171740@gateway/web/irccloud.com/x-mkmwdmqfheuqjiqo) has joined
+Jun 09 06:39:59 *	Yomi has quit (Ping timeout: 248 seconds)
+Jun 09 06:40:28 <mcurran>	that wifi card isn't even in there :( - I thought that was it.  I actually think i need to repair the partition fdsk or whatever.  but it's a pain in the ass to get gparted to boot from usb on this old ass IBM for some reason lately.  it has to be fat16 and it doesn't run long enough to run gparted natively to make the bootable usb ...
+Jun 09 06:40:33 *	FrostFeline has quit (Quit: Connection closed for inactivity)
+Jun 09 06:41:42 <mcurran>	yeah, nouveau is in lsmod
+Jun 09 06:42:51 <mcurran>	The repo package blacklists it for you.  how do i do that?
+Jun 09 06:43:04 <mcurran>	because I have to use nvidia-beta for my card
+Jun 09 06:43:28 *	kalio (~kalio@unaffiliated/kalio) has joined
+Jun 09 06:43:32 <sheep>	add a .conf file in /etc/modprobe.d that contains this line: blacklist nouveau
+Jun 09 06:43:42 *	epsilonKNOT (~epsilon@pool-108-35-221-153.nwrknj.fios.verizon.net) has joined
+Jun 09 06:43:57 *	Goatman (~goatman@kchapman.de) has joined
+Jun 09 06:44:30 <mcurran>	i found wht wiki, nevermind.  thank you
+Jun 09 06:46:01 <mcurran>	yeah, it's a big dependency mess on mesa
+Jun 09 06:46:12 *	MarcinWieczorek has quit (Ping timeout: 244 seconds)
+Jun 09 06:46:29 <mcurran>	do you know the short way to just blacklist it instead of uninstalling
+Jun 09 06:46:31 *	MarcinWieczorek (~marcin@178-36-211-60.adsl.inetia.pl) has joined
+Jun 09 06:46:49 <sheep>	blacklist what
+Jun 09 06:47:09 *	vlatkoB (~IRC_clien@unaffiliated/vlatkob) has joined
+Jun 09 06:47:25 <mcurran>	i got it.  all the nouveau and fb crap in modprobe.d
+Jun 09 06:48:00 <mcurran>	if I'm using a manual build of the beta driver, hopefully it'll work without that crap
+Jun 09 06:50:53 *	abort_aba (~gloria@205.173.79.242) has joined
+Jun 09 06:50:56 *	damentz (~damentz@cpe-70-122-5-111.austin.res.rr.com) has joined
+Jun 09 06:50:58 *	Tobbi (~Tobbi@supertux/tobbi) has joined
+Jun 09 06:51:32 *	delx has quit (Ping timeout: 272 seconds)
+Jun 09 06:52:52 *	jusss has quit (Remote host closed the connection)
+Jun 09 06:53:05 *	delx (~delx@59.167.161.142) has joined
+Jun 09 06:53:11 *	jusss (~user@unaffiliated/jusss) has joined
+**** BEGIN LOGGING AT Mon Jun 10 06:01:40 2019
+
+Jun 10 06:01:40 *	Now talking on #archlinux
+Jun 10 06:01:40 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 10 06:01:40 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad (Mon Mar 11 15:44:32 2019)
+Jun 10 06:01:45 <Edu4rdSHL>	Chr|s, paste the output nfor `modinfo rtl8812bu`
+Jun 10 06:01:47 *	pks_ (~pks@x4d0b7f91.dyn.telefonica.de) has joined
+Jun 10 06:02:53 <Chr|s>	Edu4rdSHL, modinfo: ERROR: Module rtl8812bu not found.
+Jun 10 06:03:00 *	D-rex (derek@gateway/vpn/privateinternetaccess/d-rex) has joined
+Jun 10 06:03:11 *	fopso has quit (Ping timeout: 248 seconds)
+Jun 10 06:03:11 *	pks has quit (Ping timeout: 248 seconds)
+Jun 10 06:03:11 *	pks_ is now known as pks
+Jun 10 06:03:11 <Edu4rdSHL>	What module do you've loaded?
+Jun 10 06:03:24 <Edu4rdSHL>	lsmod |grep 8812
+Jun 10 06:03:54 *	tdy1 (~tdy@unaffiliated/tdy) has joined
+Jun 10 06:04:48 <Chr|s>	nvidia 18812928  343 nvidia_modeset
+Jun 10 06:04:49 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:05:08 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:05:18 *	barteks2x (~barteks2x@156.17.232.33) has joined
+Jun 10 06:05:49 <Chr|s>	I loaded that module up, thats the thing, not sure how its working if its not loaded
+Jun 10 06:08:09 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 10 06:08:25 *	D-rex_ (derek@gateway/vpn/privateinternetaccess/d-rex) has joined
+Jun 10 06:08:43 <Chr|s>	this is the package that I installed via yay https://aur.archlinux.org/packages/rtl88x2bu-dkms-git/
+Jun 10 06:08:44 <phrik>	Title: AUR (en) - rtl88x2bu-dkms-git (at aur.archlinux.org)
+Jun 10 06:09:22 *	Pupnik (~Pupnik@ppp118-209-104-95.bras1.mel11.internode.on.net) has joined
+Jun 10 06:09:54 *	D-rex has quit (Ping timeout: 272 seconds)
+Jun 10 06:10:18 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:10:39 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:11:22 <Chr|s>	ok I got the mod info
+**** ENDING LOGGING AT Mon Jun 10 06:11:36 2019
+
+**** BEGIN LOGGING AT Mon Jun 10 06:11:36 2019
+
+Jun 10 06:11:52 <Chr|s>	had to enter modinfo 88x2bu
+Jun 10 06:12:12 <Tom^>	Chr|s: some other dude in the comments section of that package had the same issue and simply just moved the usb stick from the front to the back
+Jun 10 06:12:12 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 10 06:12:22 *	csauve (~csauve@node-1w7jr9sru7h9r4hke4fre6e7w.ipv6.telus.net) has joined
+Jun 10 06:12:33 <Tom^>	why that would even change anything
+Jun 10 06:12:33 *	olavx200 (~olavx200@229.221.202.84.customer.cdi.no) has joined
+Jun 10 06:13:29 <Chr|s>	Yeah, I mean I could try that, but I doubt that would help me. He probably had usb 2.0 or 3.0
+Jun 10 06:13:48 <Chr|s>	Edu4rdSHL, http://sprunge.us/y25dQ6
+Jun 10 06:14:01 *	luxeve (~luxeve@2001:8003:2355:7600:e1e1:7c03:a021:2ef9) has joined
+Jun 10 06:14:32 *	cotko has quit (Quit: Konversation terminated!)
+Jun 10 06:15:18 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:15:42 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:16:29 *	throstur has quit (Quit: WeeChat 2.4)
+Jun 10 06:17:04 *	tzero (~tzero@unaffiliated/tzero) has joined
+Jun 10 06:18:30 *	cotko (~cotko@84-255-193-179.static.t-2.net) has joined
+Jun 10 06:19:08 *	ivlioioilvi (~Thunderbi@2409:8a62:5111:ca10:2c1e:9fff:fe52:ee39) has joined
+Jun 10 06:21:03 *	jmorris has quit (Quit: WeeChat 2.4)
+Jun 10 06:21:52 *	Chr|s_ (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:21:52 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:21:56 *	fatalhalt has quit (Quit: fatal halt)
+Jun 10 06:21:56 *	barteks2x has quit (Ping timeout: 272 seconds)
+Jun 10 06:23:11 *	flaccid has quit (Quit: flaccid)
+Jun 10 06:26:44 *	D-rex_ has quit (Quit: Konversation terminated!)
+Jun 10 06:28:59 *	adenosine3p (~adenosine@2a0b:ae40:2:40ac::3) has joined
+Jun 10 06:29:26 *	treble has quit (Ping timeout: 245 seconds)
+Jun 10 06:30:21 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:30:23 *	Chr|s_ has quit (Ping timeout: 248 seconds)
+Jun 10 06:31:21 <Chr|s>	yeah im not sure, been non stop at this the last few days
+Jun 10 06:32:20 *	tdy1 has quit (Read error: error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac)
+Jun 10 06:33:04 *	xorcc (~ro@gateway/tor-sasl/xorcc) has joined
+Jun 10 06:33:44 *	tdy1 (~tdy@unaffiliated/tdy) has joined
+Jun 10 06:34:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:34:31 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:34:56 <Chr|s>	probably going to find someone to fix this for me, because this is driving me nuts.
+Jun 10 06:35:48 *	Yomi has quit (Ping timeout: 248 seconds)
+Jun 10 06:35:48 *	epsilonKNOT has quit (Ping timeout: 248 seconds)
+Jun 10 06:36:54 *	Eiii has quit (Quit: !)
+Jun 10 06:38:04 <Tom^>	Chr|s: you could try disable usb powersaving
+Jun 10 06:39:07 <Tom^>	Chr|s: echo on |sudo tee /sys/bus/usb/devices/<your device>/power/control 
+Jun 10 06:39:26 <Tom^>	and lsusb should tell you which <your device> is
+Jun 10 06:39:41 *	afos has quit (Quit: WeeChat 2.4)
+Jun 10 06:40:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:40:36 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:41:45 <Chr|s>	Tom^, if I knew how to do this exactly I would. My brain is fried from going over websites, wiki pages..etc lol not sure what to do
+Jun 10 06:42:29 *	epsilonKNOT (~epsilon@pool-108-35-221-153.nwrknj.fios.verizon.net) has joined
+Jun 10 06:42:44 *	Pryka (~Pryka@unaffiliated/pryka) has joined
+Jun 10 06:43:35 <Tom^>	Chr|s: pastebin "ls /sys/bus/usb/devices/" and lsusb
+Jun 10 06:45:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:46:01 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:46:13 <Chr|s>	Tom^, http://sprunge.us/tzg2nt http://sprunge.us/FNLYd2
+Jun 10 06:47:17 *	tdy1 has quit (Read error: Connection reset by peer)
+Jun 10 06:48:26 *	WhoNeedszZz has quit (Remote host closed the connection)
+Jun 10 06:48:31 <Tom^>	Chr|s: echo on | sudo tee /sys/bus/usb/devices/1-4/power/control
+Jun 10 06:48:54 <Tom^>	Chr|s: its not permanent, replugging or rebooting resets it
+Jun 10 06:49:52 *	tdy1 (~tdy@unaffiliated/tdy) has joined
+Jun 10 06:51:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:52:02 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:52:42 <Chr|s>	not sure if that was it, I just got disconnected 
+Jun 10 06:52:57 <Chr|s>	Im looking at journalctl with follow flag
+Jun 10 06:54:01 <Chr|s>	and keep on getting this
+Jun 10 06:54:03 <Chr|s>	https://8n1.org/15349/91b6
+Jun 10 06:56:36 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:57:04 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:58:38 *	palasso (~palasso@unaffiliated/palasso) has joined
+Jun 10 06:59:39 *	Arch-optimus has quit (Quit: Konversation terminated!)
+Jun 10 07:00:19 *	tilduke (~tilduke@31.127.120.138) has joined
+Jun 10 07:01:02 *	ubervison (~ubervison@tsf-444-wpa-0-250.epfl.ch) has joined
+Jun 10 07:01:31 *	oatmealraisin has quit (Ping timeout: 252 seconds)
+Jun 10 07:02:06 <Chr|s>	It could be because of systemd, dhcpcd wpa_suppilicant I see they are trying to load sometimes and fail
+Jun 10 07:02:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:02:55 *	grazzolini_ (grazzolini@archlinux/developer/grazzolini) has joined
+Jun 10 07:03:02 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:03:43 *	grazzolini has quit (Ping timeout: 252 seconds)
+Jun 10 07:03:43 *	grazzolini_ is now known as grazzolini
+Jun 10 07:04:26 *	inkbottle has quit (Ping timeout: 245 seconds)
+Jun 10 07:06:29 *	airwind (~belovent@user149.c3.hrastnik.kabelnet.net) has joined
+Jun 10 07:08:11 *	homerj has quit (Remote host closed the connection)
+Jun 10 07:08:32 *	sepehrdad has quit (Quit: Quit)
+Jun 10 07:08:39 *	pabloo (~pabloaria@2001:a61:a7d:3101:118d:7f91:3715:c240) has joined
+Jun 10 07:08:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:09:03 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:13:54 *	sQVe (~sQVe@unaffiliated/sqve) has joined
+Jun 10 07:14:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:14:30 *	Kilroo has quit (Ping timeout: 272 seconds)
+Jun 10 07:14:32 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:14:59 *	Danct12_ (~Danct12m]@103.7.39.160) has joined
+Jun 10 07:15:22 *	Danct12_ has quit (Read error: Connection reset by peer)
+Jun 10 07:15:49 <Edu4rdSHL>	Hello, I've a very weird situation that I've not seen before in my home network. I can't ping local devices from mi ArchLinux computer to anothers but others can between they.
+Jun 10 07:16:14 <Edu4rdSHL>	Apparently all seems ok in the computer side. The only weird thing that I see is that the ping is bouncing in my local ip address.
+Jun 10 07:16:40 <Edu4rdSHL>	It's what I got: https://paste.securityhacklabs.net/?eda170ca4e382a9c#o9lnAVJYMfCr/+NhYQnNYNBDVtZeWNSfKTN6VSSqdxg=
+Jun 10 07:17:04 *	flaccid (~cfordham@unaffiliated/flaccid) has joined
+Jun 10 07:17:13 *	flaccid has quit (Client Quit)
+Jun 10 07:17:40 *	flxfoo (~dave@125.red-83-36-192.dynamicip.rima-tde.net) has joined
+Jun 10 07:17:41 *	chozen has quit (Ping timeout: 258 seconds)
+Jun 10 07:18:03 *	docmax1 (~docmax@x4d0a1ff5.dyn.telefonica.de) has joined
+Jun 10 07:18:26 *	DarkGable (papa@gateway/vpn/privateinternetaccess/darkgable) has joined
+Jun 10 07:19:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:19:41 *	tdy2 (~tdy@unaffiliated/tdy) has joined
+Jun 10 07:20:00 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:20:12 *	docmax has quit (Ping timeout: 272 seconds)
+Jun 10 07:20:12 *	docmax1 is now known as docmax
+Jun 10 07:20:30 *	tilduke has quit (Ping timeout: 248 seconds)
+Jun 10 07:21:08 *	queip has quit (Ping timeout: 248 seconds)
+Jun 10 07:21:18 *	tpa (uid223004@gateway/web/irccloud.com/x-hejdjmokkzszekqo) has joined
+Jun 10 07:22:18 *	tdy1 has quit (Ping timeout: 244 seconds)
+Jun 10 07:23:25 *	mordz (~mordz@cm-84.213.202.56.getinternet.no) has joined
+Jun 10 07:24:44 *	docmax1 (~docmax@x5f74d160.dyn.telefonica.de) has joined
+Jun 10 07:24:44 *	tdy3 (~tdy@unaffiliated/tdy) has joined
+Jun 10 07:25:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:25:28 *	efertone has quit (Quit: The Lounge @ Code-Infection)
+Jun 10 07:25:31 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:25:56 *	docmax has quit (Ping timeout: 248 seconds)
+Jun 10 07:25:56 *	docmax1 is now known as docmax
+Jun 10 07:26:26 *	queip (~queip@unaffiliated/rezurus) has joined
+Jun 10 07:26:41 *	nperry (~nperry@unaffiliated/nperry) has joined
+Jun 10 07:26:57 *	tdy2 has quit (Ping timeout: 244 seconds)
+Jun 10 07:27:05 *	efertone (~efertone@46.101.133.223) has joined
+Jun 10 07:28:36 *	superduperuser has quit (Ping timeout: 248 seconds)
+**** BEGIN LOGGING AT Tue Jun 11 15:08:08 2019
+
+Jun 11 15:08:08 *	Now talking on #archlinux
+Jun 11 15:08:08 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:08:08 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad (Mon Mar 11 15:44:32 2019)
+Jun 11 15:09:02 *	mquy90 has quit (Quit: Leaving)
+Jun 11 15:09:58 *	joshuaBPMan has quit (Remote host closed the connection)
+Jun 11 15:10:06 *	m1sosoup (~m1sosoup@62.23.209.50) has joined
+Jun 11 15:10:59 *	frvr has quit (Ping timeout: 248 seconds)
+Jun 11 15:11:08 *	Yomi (~yomi@ip68-109-112-37.ri.ri.cox.net) has joined
+Jun 11 15:11:16 *	techno_x64 has quit (Ping timeout: 258 seconds)
+Jun 11 15:11:32 <Namarrgon>	promach_: why is your /home on a vfat fs?
+Jun 11 15:11:39 *	jdfthetech has quit (Ping timeout: 258 seconds)
+Jun 11 15:12:07 <Namarrgon>	nvm, that was already brought up
+Jun 11 15:12:50 *	exmortus is now known as snosk8r
+**** BEGIN LOGGING AT Tue Jun 11 15:13:57 2019
+
+Jun 11 15:13:57 »»	Now talking on #archlinux
+Jun 11 15:13:57 »»	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:13:57 »»	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:14:18 «---	JackWinter1 (~jack@ppp-378.vo.lu) has Quit (Ping timeout: 246 seconds)
+**** BEGIN LOGGING AT Tue Jun 11 15:15:37 2019
+
+Jun 11 15:15:37 *	Now talking on #archlinux
+Jun 11 15:15:37 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:15:37 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+**** BEGIN LOGGING AT Tue Jun 11 15:16:56 2019
+
+Jun 11 15:16:56 *	Now talking on #archlinux
+Jun 11 15:16:56 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:16:56 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:17:04 *	HEX0 (~HEX0@unaffiliated/bl4de) has joined #archlinux
+Jun 11 15:17:13 *	rattie777 (~rattie777@2a02:a31a:141:fe80:221:6bff:fe26:26a4) has joined #archlinux
+Jun 11 15:17:18 *	vsbogd has quit (Remote host closed the connection)
+Jun 11 15:17:37 *	_aeris_ has quit (Remote host closed the connection)
+Jun 11 15:17:41 <Namarrgon>	hi
+Jun 11 15:17:50 <snosk8r>	Hola
+Jun 11 15:17:52 *	_aeris_ (~aeris@april/board/aeris) has joined #archlinux
+**** BEGIN LOGGING AT Tue Jun 11 15:19:42 2019
+
+Jun 11 15:19:42 *	Now talking on #archlinux
+Jun 11 15:19:42 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:19:42 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:19:46 *	jwgarber[m] (~jwgarber@167.99.100.103) has joined #archlinux
+**** BEGIN LOGGING AT Tue Jun 11 15:20:56 2019
+
+Jun 11 15:20:56 »»	Now talking on #archlinux
+Jun 11 15:20:56 »»	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:20:56 »»	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:21:00 »»	Disconnected (Remote host closed socket).
+**** ENDING LOGGING AT Tue Jun 11 15:21:00 2019
+
+**** BEGIN LOGGING AT Tue Jun 11 15:21:26 2019
+
+Jun 11 15:21:26 »»	Now talking on #archlinux
+Jun 11 15:21:26 »»	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:21:26 »»	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:21:32 ---»	Jaekr (~jaekr@2a01:e0a:14f:5230:e37e:b872:f19e:5314) has Joined #archlinux
+Jun 11 15:21:40 «---	onoketa (~Thunderbi@27.102.130.173) has Quit (Remote host closed the connection)
+Jun 11 15:22:23 «---	p71 (~chatzilla@68-187-65-81.dhcp.ftwo.tx.charter.com) has Quit (Remote host closed the connection)
+Jun 11 15:22:44 «---	frvr (~florea@83.103.192.82) has Quit (Ping timeout: 244 seconds)
+Jun 11 15:23:08 ---»	is_null (~jpic@pdpc/supporter/professional/is-null) has Joined #archlinux
+**** BEGIN LOGGING AT Tue Jun 11 15:24:30 2019
+
+Jun 11 15:24:30 »»	Now talking on #archlinux
+Jun 11 15:24:30 »»	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:24:30 »»	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+**** BEGIN LOGGING AT Tue Jun 11 15:26:32 2019
+
+Jun 11 15:26:32 *	Now talking on #archlinux
+Jun 11 15:26:32 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:26:32 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:27:00 <promach_>	 /etc/shells content does not contain any username at all
+Jun 11 15:27:06 <promach_>	what are you trying to convey ?
+Jun 11 15:27:14 <promach_>	not even   root
+Jun 11 15:27:17 <Namarrgon>	what is the new account name?
+Jun 11 15:27:23 *	Live (~codeaequi@pdpc/supporter/active/live) has joined #archlinux
+Jun 11 15:27:23 <promach_>	I am using root account to talk to you
+Jun 11 15:27:45 <th0rne>	What is this? http://ix.io/1Lwy
+Jun 11 15:27:52 *	Albori has quit (Quit: Albori)
+Jun 11 15:27:53 <promach_>	I mean I using irc client on root account
+Jun 11 15:28:10 <Namarrgon>	th0rne: are you using the lts kernel?
+Jun 11 15:28:13 <th0rne>	Yes sit.
+Jun 11 15:28:15 <th0rne>	*sir
+Jun 11 15:28:21 <Namarrgon>	that module doesn't exist on lts yet
+Jun 11 15:28:39 <th0rne>	Should I switch default kernel to non-lts?
+Jun 11 15:28:45 <Namarrgon>	if you want to
+Jun 11 15:29:00 <th0rne>	Ok.
+Jun 11 15:29:10 <ayekat>	promach_: what's your user's login shell?
+Jun 11 15:29:20 *	Jesin has quit (Quit: Leaving)
+Jun 11 15:29:25 <mrngm>	promach_: the shell != the user's name
+Jun 11 15:29:30 *	ulili (~quassel@p200300C96F13C300EA9A8FFFFEBD3E0F.dip0.t-ipconnect.de) has joined #archlinux
+Jun 11 15:29:59 <promach_>	ayekat : how do I find this out ?
+Jun 11 15:30:03 <promach_>	login shell
+Jun 11 15:30:06 *	m0rr1gan has quit (Remote host closed the connection)
+Jun 11 15:30:18 <ayekat>	promach_: getent passwd {username} - the last entry
+Jun 11 15:30:36 *	piie is now known as piiE
+Jun 11 15:30:38 *	frvr has quit (Ping timeout: 248 seconds)
+Jun 11 15:30:39 *	m0rr1gan (~m0rr1gan@gateway/tor-sasl/m0rr1gan) has joined #archlinux
+Jun 11 15:30:50 *	autoit4you has quit (Remote host closed the connection)
+Jun 11 15:30:52 <promach_>	 /bin/bash
+Jun 11 15:30:57 <th0rne>	Namarrgon: Worked, thanks. :)
+Jun 11 15:30:58 *	frvr (~florea@83.103.192.82) has joined #archlinux
+Jun 11 15:31:01 <promach_>	ayekat
+Jun 11 15:31:15 <th0rne>	Finally my boot has no failed modules! :)
+Jun 11 15:31:26 <th0rne>	(I uninstalled ifplugd)
+Jun 11 15:31:28 <ayekat>	promach_: if you rename all .bashrc and .bash_profile files in your home directory to something else, then try to log in as your user, what happens?
+Jun 11 15:31:58 <Scimmia>	promach_: so you reformatted /home, did you make the users home dir on that partition after?
+Jun 11 15:32:24 <promach_>	Scimmia : see https://paste.ubuntu.com/p/YrPrKGQ2fG/ 
+Jun 11 15:32:26 <@phrik>	Title: Ubuntu Pastebin (at paste.ubuntu.com)
+Jun 11 15:32:34 <Scimmia>	promach_: meaningless
+Jun 11 15:32:38 <promach_>	huh ?
+Jun 11 15:32:47 <Scimmia>	has nothing to do with my questions
+Jun 11 15:33:03 <Enumeration>	reinstall arch 
+Jun 11 15:33:07 *	Sudoquai (~Sudoquai@93-142-56-92.adsl.net.t-com.hr) has joined #archlinux
+Jun 11 15:33:08 *	elagost has quit (Quit: elagost)
+Jun 11 15:33:24 <ayekat>	Enumeration: you first
+Jun 11 15:33:35 *	leonixyz has quit (Ping timeout: 244 seconds)
+Jun 11 15:33:40 <promach_>	I did not do anything other than reformating the new external disc as ext4 and modifying /etc/fstab
+Jun 11 15:33:42 *	post-factum has quit (Quit: ZNC 1.7.3 - https://znc.in)
+Jun 11 15:33:42 <promach_>	Scimmia
+Jun 11 15:33:57 <Scimmia>	promach_: so the user has no home dir and can't log in
+Jun 11 15:34:05 *	post-factum (~post-fact@vulcan.natalenko.name) has joined #archlinux
+Jun 11 15:34:10 <promach_>	so, what should I do ?
+Jun 11 15:34:12 <ayekat>	Scimmia: if the home directory does not exist, the shell usually just drops you into /, no?
+Jun 11 15:34:19 <Scimmia>	ayekat: no
+Jun 11 15:34:23 <sebasriv>	is there any way to remove joined/left messages from console?
+Jun 11 15:34:29 *	ayekat is gonna try
+Jun 11 15:34:33 *	rattie777 has quit (Ping timeout: 252 seconds)
+Jun 11 15:34:40 <Namarrgon>	!give sebasriv joinpart
+Jun 11 15:34:42 <@phrik>	sebasriv: http://wiki.xkcd.com/irc/Hide_join_part_messages
+Jun 11 15:34:46 *	leonixyz (~leonixyz@151.62.221.155) has joined #archlinux
+Jun 11 15:34:54 *	flxfoo_ has quit (Ping timeout: 268 seconds)
+Jun 11 15:35:08 <sebasriv>	thank you, anon human beings
+Jun 11 15:35:15 *	Cerpin (~Cerpin@47-36-157-72.dhcp.knwc.wa.charter.com) has joined #archlinux
+**** BEGIN LOGGING AT Tue Jun 11 15:36:10 2019
+
+Jun 11 15:36:10 *	Now talking on #archlinux
+Jun 11 15:36:10 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+Jun 11 15:36:10 *	Topic for #archlinux set by alad!~alad@archlinux/trusteduser/alad at Mon Mar 11 15:44:32 2019
+Jun 11 15:36:36 *	is_null has quit (Remote host closed the connection)
+Jun 11 15:36:50 <ayekat>	I would start checking if .bashrc/.bash_profile are weird, but ¯\(°_o)/¯
+Jun 11 15:36:52 *	tijko (~tijko@unaffiliated/tijko) has joined #archlinux
+Jun 11 15:37:03 <promach_>	Scimmia Namarrgon ayekat : https://paste.ubuntu.com/p/YrPrKGQ2fG/ is not enough to create a new home directory ?
+Jun 11 15:37:04 <@phrik>	Title: Ubuntu Pastebin (at paste.ubuntu.com)
+Jun 11 15:37:24 <ayekat>	promach_: again, that fstab is irrelevant here
+Jun 11 15:37:30 <Scimmia>	ayekat: with a completely non-existent home dir? Unless something has changed recently, login will fail, always has
+Jun 11 15:37:45 <Namarrgon>	promach_: stop posting that as the answer to every question
+Jun 11 15:37:50 <promach_>	so, how to create a new home directory ?
+Jun 11 15:37:59 <Scimmia>	promach_: do you know what a home dir is?
+Jun 11 15:38:03 <Namarrgon>	promach_: grep <username> /etc/passwd
+Jun 11 15:38:06 <Enumeration>	probably not
+Jun 11 15:38:11 <Namarrgon>	recreate the directory structure
+Jun 11 15:38:13 <ayekat>	Scimmia: well, just `useradd homeless`, `passwd homeless`, and try on a TTY - maybe my setup's just weird, but... I always remember it working that way
+Jun 11 15:38:21 <Enumeration>	chown -R nobody:nobody ~/
+Jun 11 15:38:34 <ayekat>	Enumeration: you first
+Jun 11 15:38:40 <Enumeration>	wtf
+Jun 11 15:38:41 <Enumeration>	lol
+Jun 11 15:38:44 <Namarrgon>	Enumeration: please test all your advice on your system first
+Jun 11 15:39:03 <Enumeration>	no im running the best os windows 10
+Jun 11 15:39:30 <Namarrgon>	if you're here just to troll then i will show you the door
+Jun 11 15:39:38 <promach_>	ok, I got it now
+Jun 11 15:39:40 <post-factum>	zomfg teh drama
+Jun 11 15:39:42 *	transacid has quit (Ping timeout: 248 seconds)
+Jun 11 15:39:48 *	TSPenguin (~Knecht@0154400414.0.fullrate.ninja) has joined #archlinux
+Jun 11 15:40:05 <Enumeration>	fine i wont troll
+Jun 11 15:40:10 <post-factum>	!troll
+Jun 11 15:40:11 <@phrik>	http://i.imgur.com/xbLKV.jpg
+Jun 11 15:40:20 *	sQVe has quit (Quit: Bye!)
+Jun 11 15:40:23 <Jaekr>	Woah
+Jun 11 15:40:39 <promach_>	I need to reboot my computer now
+Jun 11 15:40:43 *	promach_ has quit (Quit: WeeChat 2.4)
+Jun 11 15:40:45 <Enumeration>	got it no more
+Jun 11 15:40:47 <earnestly>	I will refuse to acknowledge the redefinition of troll as "generic asshole"
+Jun 11 15:40:51 *	eper3z has quit (Ping timeout: 248 seconds)
+Jun 11 15:41:04 *	Ips (sid492@gateway/web/irccloud.com/x-gcgxocagmciaaign) has joined #archlinux
+Jun 11 15:41:16 <tijko>	earnestly we wouldn't expect anything less
+Jun 11 15:41:32 <Enumeration>	so i made my own router running arch linux
+Jun 11 15:41:37 <Namarrgon>	the difference between trolls and assholes is that the former are doing it for fun while the latter are just wired that way
+Jun 11 15:41:42 <Enumeration>	my question is there any compatiblej 802.11ac cards
+Jun 11 15:41:55 *	orivej has quit (Ping timeout: 248 seconds)
+Jun 11 15:42:07 <tijko>	Namarrgon in a word, awareness
+Jun 11 15:42:24 <earnestly>	Namarrgon: Trolling is the ability to turn the audience into unwitting performers
+Jun 11 15:42:26 <Enumeration>	seems like there are poor ac drivers 
+Jun 11 15:42:31 <earnestly>	It has nothing to do with being an asshole
+Jun 11 15:42:36 <Enumeration>	anyone?
+Jun 11 15:42:48 <post-factum>	i'd expect atheros to be ok as usual
+Jun 11 15:42:52 <Enumeration>	and no i dont want to run a ubiquti ap
+Jun 11 15:42:57 *	is_null (~jpic@pdpc/supporter/professional/is-null) has joined #archlinux
+Jun 11 15:43:01 <Enumeration>	but does it have 802.11ac support
+Jun 11 15:43:34 *	Pupnik has quit (Remote host closed the connection)
+Jun 11 15:43:39 <Enumeration>	im reading that there isnt great drivers for linux like my router that i made has arch but no wifi right now and before thinking to add one
+Jun 11 15:43:48 *	Sudoquai has quit (Quit: Leaving.)
+Jun 11 15:44:06 <s00pcan>	Namarrgon: wait, you mean the xkcd wiki has useful pages?
+Jun 11 15:44:07 <post-factum>	https://wireless.wiki.kernel.org/en/users/drivers/ath10k
+Jun 11 15:44:08 <@phrik>	Title: en:users:drivers:ath10k [Linux Wireless] (at wireless.wiki.kernel.org)
+Jun 11 15:44:09 *	mtn has quit (Quit: Konversation terminated!)
+Jun 11 15:44:25 *	TSPenguin has quit (Ping timeout: 245 seconds)
+Jun 11 15:44:30 <Enumeration>	thanks post factum
+Jun 11 15:44:36 *	yrlf (~yrlf@core.recodex.at) has joined #archlinux
+Jun 11 15:44:36 <Namarrgon>	s00pcan: that's the only page of their wiki i've ever seen
+Jun 11 15:44:37 *	mayurvpatil has quit (Quit: This computer has gone to sleep)
+Jun 11 15:44:45 *	flc (~flc@164.77.47.46) has joined #archlinux
+Jun 11 15:44:55 <Enumeration>	eh 
+Jun 11 15:44:59 <Enumeration>	no 4x4 mumo
+Jun 11 15:45:01 <Enumeration>	sigh
+Jun 11 15:45:08 <Enumeration>	so its wireless ap i guess
+Jun 11 15:45:11 *	tombusby (~tombusby@gateway/tor-sasl/tombusby) has joined #archlinux
+Jun 11 15:45:24 *	transacid (~transacid@pdpc/supporter/professional/transacid) has joined #archlinux
+Jun 11 15:45:36 <post-factum>	you just go to your favourite store, list all the ac-capable pci-e cards and then google whether they work
+Jun 11 15:45:39 <post-factum>	i bet they will
+Jun 11 15:45:46 *	mayurvpatil (~mayurvpat@202.149.218.202) has joined #archlinux
+Jun 11 15:45:58 *	Jesin (~Jesin@pool-72-83-62-150.washdc.fios.verizon.net) has joined #archlinux
+Jun 11 15:46:12 <gehidore>	I was thinking the same to lazy to respond to those to lazy to search o.O
+Jun 11 15:46:35 *	mayurvpatil has quit (Client Quit)
+Jun 11 15:46:38 <Enumeration>	im not lazy wtf
+Jun 11 15:47:15 <post-factum>	well, u r
+Jun 11 15:47:24 <Enumeration>	k
+Jun 11 15:48:35 *	freswa (~freswa@2a01:4f8:1c0c:80a0:840:ad17:2135:8af8) has joined #archlinux
+Jun 11 15:48:41 *	ubervison (~ubervison@tsf-444-wpa-1-243.epfl.ch) has joined #archlinux
+Jun 11 15:48:56 *	frvr_ (~florea@83.103.192.82) has joined #archlinux
+Jun 11 15:49:00 *	slash_ has quit (Ping timeout: 245 seconds)
+Jun 11 15:49:14 *	Albori (~Albori@64-251-148-96.fidnet.com) has joined #archlinux
+Jun 11 15:49:18 *	v01d4lph4 has quit (Remote host closed the connection)
+Jun 11 15:49:20 *	sebasriv has quit (Remote host closed the connection)
+Jun 11 15:49:53 *	v01d4lph4 (~v01d4lph4@103.6.158.186) has joined #archlinux
+Jun 11 15:50:28 *	mayurvpatil (~mayurvpat@202.149.218.202) has joined #archlinux
+Jun 11 15:50:34 *	Zephros (Zephros@gateway/vpn/privateinternetaccess/zephros) has joined #archlinux
+Jun 11 15:51:14 <h4rd3n3D>	earnestly:  thanks, I really like that performance-based definition, and distinction
+Jun 11 15:51:34 *	Tobbi has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+Jun 11 15:52:06 *	frvr has quit (Ping timeout: 246 seconds)
+Jun 11 15:52:33 *	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth) has joined #archlinux
+Jun 11 15:53:50 *	frvr (~florea@83.103.192.82) has joined #archlinux
+Jun 11 15:54:01 *	frvr_ has quit (Ping timeout: 268 seconds)
+Jun 11 15:54:16 *	Galactus (~Galactus@unaffiliated/galactus) has joined #archlinux
+Jun 11 15:54:18 <buhman>	the earnestDefinition™©® is something we should all aspire to
+Jun 11 15:54:38 *	v01d4lph4 has quit (Ping timeout: 248 seconds)
+Jun 11 15:54:46 *	Zephros has quit (Ping timeout: 244 seconds)
+Jun 11 15:54:49 *	HerbY_NL2 has quit (Quit: Leaving)
+Jun 11 15:56:06 *	mayurvpatil has quit (Quit: This computer has gone to sleep)
+Jun 11 15:56:10 *	serg-z has quit (Quit: ZNC 1.7.2 - https://znc.in)

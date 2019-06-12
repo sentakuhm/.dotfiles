@@ -1,0 +1,256 @@
+T 1560059013 19*	Now talking on 22#vim
+T 1560059013 22*	Topic for 22#vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560059013 22*	Topic for 22#vim set by 26phy1729 (24Wed Jun  5 17:23:57 2019)
+T 1560059013 -18ChanServ-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560059013 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560059109 24*	diniwed has quit (Ping timeout: 248 seconds)
+T 1560059181 24*	viking has quit (Quit: Quitting...)
+T 1560059204 23*	viking (~viking@pdpc/supporter/21for7/viking23) has joined
+T 1560059499 23*	gdibass (~gdibass@rrcs-76-80-178-5.west.biz.rr.com23) has joined
+T 1560059953 23*	Snoober (~Snoober@98.248.173.10723) has joined
+T 1560059967 24*	Snoober has quit (Client Quit)
+T 1560060027 24*	seaoh has quit (Quit: See ya.)
+T 1560060212 23*	pt1 (~pt1@31-208-142-54.cust.bredband2.com23) has joined
+T 1560060469 24*	pt1 has quit (Ping timeout: 246 seconds)
+T 1560060488 23*	sctskw (~sctskw@c-76-120-17-178.hsd1.co.comcast.net23) has joined
+T 1560060490 24*	giraffe has quit (Excess Flood)
+T 1560060529 24*	camfl has quit (Quit: %flyaway%)
+T 1560060544 23*	giraffe (skarn@gateway/shell/firrre/x-girouuhcfprqquwp23) has joined
+T 1560060624 23*	camfl (~flyaway@135-23-103-117.cpe.pppoe.ca23) has joined
+T 1560060632 23*	pt1 (~pt1@31-208-142-54.cust.bredband2.com23) has joined
+T 1560060634 23*	halogenandtoast (~halogenan@2601:cd:c480:2b9:4092:e3b0:4254:91b823) has joined
+T 1560060762 23*	gehn (gehn@gateway/vpn/privateinternetaccess/gehn23) has joined
+T 1560060764 24*	sctskw has quit (Ping timeout: 246 seconds)
+T 1560060901 24*	pt1 has quit (Ping timeout: 248 seconds)
+T 1560061024 24*	imposter has quit (Ping timeout: 248 seconds)
+T 1560061027 18<29brandonkal18>	For the mac users, I started really diving into learning more vim shortcuts and am hooked. Do you know of a way to use at least the basic shortcuts in a normal app. I see vim-anywhere, but it seems to be mostly a shortcut to copy and paste between the terminal.
+T 1560061063 23*	imposter (~kyle@99-105-22-176.lightspeed.miamfl.sbcglobal.net23) has joined
+T 1560061148 18<26tejr18>	brandonkal: You've done vimtutor yeah?
+T 1560061166 18<29brandonkal18>	tejr, yes
+T 1560061169 18<26tejr18>	Cool
+T 1560061192 24*	eb0t has quit (Quit: WeeChat 2.3)
+T 1560061207 18<26tejr18>	On Windows I use TextEditorAnywhere; I know of no workable Mac equivalent
+T 1560061267 24*	tomku has quit (Ping timeout: 272 seconds)
+T 1560061405 23*	charon77 (~Charon77@139.195.134.14923) has joined
+T 1560061413 23*	pt1 (~pt1@31-208-142-54.cust.bredband2.com23) has joined
+T 1560061431 24*	obiwan90 has quit (Ping timeout: 258 seconds)
+T 1560061687 24*	pt1 has quit (Ping timeout: 268 seconds)
+T 1560061694 23*	rtudu (~rtud@85.204.7.13623) has joined
+T 1560061704 18<29brandonkal18>	tejr, that looks quite similar to vim-anywhere. I opened up my mac screenwriting app (Slugline) It's mostly markdown with specific formatting and keyboard shortcuts. Thought it would be cool to use vim movement commands in such apps.
+T 1560061750 18<26tejr18>	I think generally people look for plugins specific to the application
+T 1560061789 18<26tejr18>	The only thing I can find is this https://medium.com/@dnlholliday/why-every-screenwriter-should-learn-vim-ee4a588ee7f
+T 1560061791 18<29brandonkal18>	Yes, it seems like it is a matter of asking each app developer to add the features.
+T 1560061951 24*	gdibass has quit (Remote host closed the connection)
+T 1560061976 24*	Oatmeal has quit (Remote host closed the connection)
+T 1560061983 24*	rtudu has quit (Ping timeout: 248 seconds)
+T 1560062598 24*	halogenandtoast has quit (Ping timeout: 252 seconds)
+T 1560063044 23*	tomku (~tomku@unaffiliated/tomku23) has joined
+T 1560063163 23*	crose (~weechat@2001:41d0:fe1d:5300:3512:16d2:5d96:307223) has joined
+T 1560146630 19*	Now talking on 22#vim
+T 1560146630 22*	Topic for 22#vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560146630 22*	Topic for 22#vim set by 26phy1729 (24Wed Jun  5 17:23:57 2019)
+T 1560146630 -18ChanServ-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560146630 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560146682 23*	tdy1 (~tdy@unaffiliated/tdy23) has joined
+T 1560146879 24*	lprd has quit (Ping timeout: 258 seconds)
+T 1560146911 24*	snuffkins has quit (Ping timeout: 248 seconds)
+T 1560147033 23*	snuffkins (~snuffkins@196.196.193.8623) has joined
+T 1560147186 23*	b4d (~b4d@unaffiliated/b4d23) has joined
+T 1560147272 24*	cotko has quit (Quit: Konversation terminated!)
+T 1560147272 24*	pt1 has quit (Read error: Connection reset by peer)
+T 1560147276 23*	pt1_ (~pt1@31-208-142-54.cust.bredband2.com23) has joined
+T 1560147495 23*	sctskw (~sctskw@c-76-120-17-178.hsd1.co.comcast.net23) has joined
+T 1560147510 23*	cotko (~cotko@84-255-193-179.static.t-2.net23) has joined
+T 1560147548 23*	ivlioioilvi (~Thunderbi@2409:8a62:5111:ca10:2c1e:9fff:fe52:ee3923) has joined
+T 1560147578 23*	rindolf (~rindolf@176.230.228.13423) has joined
+T 1560147716 24*	fatalhalt has quit (Quit: fatal halt)
+T 1560147766 24*	sctskw has quit (Ping timeout: 246 seconds)
+T 1560148000 23*	dez (uid92154@fedora/deSouza23) has joined
+T 1560148029 23*	notis (~notis@192.145.127.2723) has joined
+T 1560148156 24*	gkatsev has quit (Ping timeout: 268 seconds)
+T 1560148166 24*	treble has quit (Ping timeout: 245 seconds)
+T 1560148171 23*	gkatsev (~gkatsev@oftn/oswg-board/gkatsev23) has joined
+T 1560148340 24*	tdy1 has quit (Read error: error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac)
+T 1560148447 24*	coffeevector has quit (Ping timeout: 248 seconds)
+T 1560148472 23*	tdy1 (~tdy@unaffiliated/tdy23) has joined
+T 1560148488 23*	narimiran_ (~miran@unaffiliated/miran23) has joined
+T 1560148528 24*	narimiran_ has quit (Remote host closed the connection)
+T 1560148577 23*	coffeevector (~coffeevec@162-199-94-124.lightspeed.sntcca.sbcglobal.net23) has joined
+T 1560148629 23*	Raging_Hog (~hna@193.64.112.2223) has joined
+T 1560148636 23*	narimiran (~miran@unaffiliated/miran23) has joined
+T 1560148652 24*	coffeevector has quit (Client Quit)
+T 1560148739 23*	yokisuci (~yokisuci@188.150.212.18823) has joined
+T 1560148996 24*	nickspoons has quit (Ping timeout: 248 seconds)
+T 1560149027 23*	framend (~framend@unaffiliated/framend23) has joined
+T 1560149138 23*	ronskisika (~hna@193.64.112.2223) has joined
+T 1560149237 24*	tdy1 has quit (Read error: Connection reset by peer)
+T 1560149252 24*	notis has quit (Ping timeout: 248 seconds)
+T 1560149311 24*	Raging_Hog has quit (Ping timeout: 248 seconds)
+T 1560149353 23*	lprd (~jon@2a01cb0404945e0181e665e9677a6639.ipv6.abo.wanadoo.fr23) has joined
+T 1560149366 23*	notis (~notis@192.145.127.623) has joined
+T 1560149445 23*	tdy1 (~tdy@unaffiliated/tdy23) has joined
+T 1560149511 23*	crose (~weechat@2001:41d0:fe1d:5300:3512:16d2:5d96:307223) has joined
+T 1560149511 24*	notis has quit (Read error: Connection reset by peer)
+T 1560149525 23*	rtudu (~rtud@85.204.7.13623) has joined
+T 1560149579 23*	notis (~notis@192.145.127.623) has joined
+T 1560149803 24*	rtudu has quit (Ping timeout: 246 seconds)
+T 1560149817 23*	andrzejv (~andzej@mail.belyj.eu23) has joined
+T 1560149906 23*	sunjon (~sunjon@h-155-4-39-166.NA.cust.bahnhof.se23) has joined
+T 1560150091 24*	oatmealraisin has quit (Ping timeout: 252 seconds)
+T 1560150128 24*	Kaedenn has quit (Remote host closed the connection)
+T 1560150431 23*	YuGiOhJCJ (~YuGiOhJCJ@gateway/tor-sasl/yugiohjcj23) has joined
+T 1560150443 24*	ygivenx has quit (Remote host closed the connection)
+T 1560150483 23*	ygivenx (~ygivenx@2601:647:4e01:1561:5f4:45c7:1eca:21b823) has joined
+T 1560150512 24*	lprd has quit (Ping timeout: 258 seconds)
+T 1560150520 23*	pabloo (~pabloaria@2001:a61:a7d:3101:118d:7f91:3715:c24023) has joined
+T 1560150532 24*	hellozee has quit (Ping timeout: 248 seconds)
+T 1560150687 24*	sul has quit (Ping timeout: 244 seconds)
+T 1560150694 23*	sul (~sul@193.40.12.1023) has joined
+T 1560150782 24*	ygivenx has quit (Ping timeout: 248 seconds)
+T 1560150834 23*	sQVe (~sQVe@unaffiliated/sqve23) has joined
+T 1560150834 24*	thorbw has quit (Read error: Connection reset by peer)
+T 1560150889 23*	ithanium (~ithanium@2a01:4b00:8718:6100:689a:6b58:d932:e7c23) has joined
+T 1560151198 23*	thorbw (~tw@46.230.132.5523) has joined
+T 1560151229 23*	tdy2 (~tdy@unaffiliated/tdy23) has joined
+T 1560151268 24*	queip has quit (Ping timeout: 248 seconds)
+T 1560151338 24*	tdy1 has quit (Ping timeout: 244 seconds)
+T 1560151472 23*	lprd (~jon@2a01cb0404945e0181e665e9677a6639.ipv6.abo.wanadoo.fr23) has joined
+T 1560151478 23*	wafflehunter (~wafflehun@149.172.254.4623) has joined
+T 1560151528 24*	efertone has quit (Quit: The Lounge @ Code-Infection)
+T 1560151532 23*	tdy3 (~tdy@unaffiliated/tdy23) has joined
+T 1560151617 24*	tdy2 has quit (Ping timeout: 244 seconds)
+T 1560151624 23*	efertone (~efertone@46.101.133.22323) has joined
+T 1560151659 23*	queip (~queip@unaffiliated/rezurus23) has joined
+T 1560151697 24*	aerex has quit (Ping timeout: 252 seconds)
+T 1560151721 23*	sb35 (~sb35@67.231.16.20323) has joined
+T 1560265688 19*	Now talking on 22#vim
+T 1560265688 22*	Topic for 22#vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560265688 22*	Topic for 22#vim set by 26phy1729 (24Wed Jun  5 17:23:57 2019)
+T 1560265690 -18ChanServ-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560265690 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560265806 23*	m1sosoup (~m1sosoup@62.23.209.5023) has joined
+T 1560265932 24*	lhe has quit (Quit: Lost terminal)
+T 1560265990 24*	andrzejv has quit (Ping timeout: 245 seconds)
+T 1560266037 16»19»	16Now talking on #vim
+T 1560266037 29»17»	29Topic for #vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266037 29»17»	29Topic for #vim set by phy1729 at Wed Jun  5 17:23:57 2019
+T 1560266038 28-21Notice28-	21{25from ChanServ21} [#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266038 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266050 21«21-16-31-	21fishcat (~fishcat@110.183.37.129) has Quit (Ping timeout: 272 seconds21)
+T 1560266138 19*	19Now talking on #vim
+T 1560266138 29*	29Topic for #vim 29is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266138 29*	29Topic for #vim 29set by phy1729 29at Wed Jun  5 17:23:57 2019
+T 1560266138 28-29ChanServ28-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266138 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266216 19*	19Now talking on #vim
+T 1560266216 29*	29Topic for #vim 29is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266216 29*	29Topic for #vim 29set by phy1729 29at Wed Jun  5 17:23:57 2019
+T 1560266217 28-29ChanServ28-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266217 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266222 27<171825markzen27>	self-compiled and couldn't find perl or sth
+T 1560266238 23*	23vsbogd has quit (23Remote host closed the connection23)
+T 1560266244 27<171825markzen27>	ed to the rescue
+T 1560266246 27<171828kirch27>	TIL novum is short for novumsensum, or newsense ¯\_(ツ)_/¯
+T 1560266253 19*	19BeerLover (~BeerLover@203.122.2.56) has joined #vim
+T 1560266270 23*	23fredsir has quit (23Quit: Connection closed for inactivity23)
+T 1560266280 27<171828novum27>	or nuissance :)
+T 1560266306 27<171825markzen27>	or nuisette
+T 1560266306 27<171828novum27>	GranitePenguin, it's a bit of a pain, and you may have to try a few times, but worth imo (@ coffee shop right now, eg, on tor): https://freenode.net/kb/answer/chat https://weechat.org/files/doc/devel/weechat_user.en.html#irc_tor_freenode
+T 1560266318 27<171828novum27>	GranitePenguin, you have to follow ALL of the instructions ;D
+T 1560266321 27<171828kirch27>	AH, pun - I get it - good one
+T 1560266382 19*	19Now talking on #vim
+T 1560266382 29*	29Topic for #vim 29is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266382 29*	29Topic for #vim 29set by phy1729 29at Wed Jun  5 17:23:57 2019
+T 1560266382 28-29ChanServ28-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266382 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266394 27<171828novum27>	it's a 2-level-ish pun I suppose. And it's a bit inception-ish. It provides a new sense to itself, I suppose. But it's a weird mixing of English and Latin ..
+T 1560266456 25»19»	19Now talking on #vim
+T 1560266456 29»22»	22Topic for #vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266456 29»22»	22Topic for #vim set by phy1729 at Wed Jun  5 17:23:57 2019
+T 1560266458 28-21Notice28-	21{28from ChanServ21} [#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266458 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266460 28»18»	Disconnected (Remote host closed socket).
+T 1560266486 25»19»	19Now talking on #vim
+T 1560266486 29»22»	22Topic for #vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266486 29»22»	22Topic for #vim set by phy1729 at Wed Jun  5 17:23:57 2019
+T 1560266486 28-21Notice28-	21{28from ChanServ21} [#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266486 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266496 28.:192428kirch28:.	nova sensus probably works better in latin, I guess
+T 1560266524 28.:192428novum28:.	novum sensum is proper to my knowledge. I only took one year of latin
+T 1560266538 28.:192428novum28:.	A new sense.
+T 1560266585 31-25-19-19»	19comptroller (~comptroll@47-213-222-253.paolcmtc01.res.dyn.suddenlink.net19) has Joined #vim
+T 1560266588 31-25-19-19»	19is_null (~jpic@pdpc/supporter/professional/is-null19) has Joined #vim
+T 1560266591 28.:192428novum28:.	GranitePenguin, https://i.imgur.com/boivmvT.png
+T 1560266670 25»19»	19Now talking on #vim
+T 1560266670 29»17»	17Topic for #vim is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266670 29»17»	17Topic for #vim set by phy1729 at Wed Jun  5 17:23:57 2019
+T 1560266671 28-21Notice28-	21{17from ChanServ21} [#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266671 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266675 29»22»22	28kirch hasn't had any formal training in latin.... but could ask his dad who learned a bit of ancient languages in seminary
+T 1560266792 19*	19Now talking on #vim
+T 1560266792 29*	29Topic for #vim 29is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560266792 29*	29Topic for #vim 29set by phy1729 29at Wed Jun  5 17:23:57 2019
+T 1560266793 28-29ChanServ28-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560266793 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560266872 23*	23Albori has quit (23Quit: Albori23)
+T 1560266902 27<171827PepeVulgaris27>	novum: that you sexually identify as_
+T 1560266904 27<171827PepeVulgaris27>	?
+T 1560266935 27<171828novum27>	PepeVulgaris, no I identify as a hardinthemotherfuckinpaintapacheattackhelicopter
+T 1560266960 23*	23Jesin has quit (23Quit: Leaving23)
+T 1560266967 23*	23bronsen has quit (23Ping timeout: 244 seconds23)
+T 1560267043 27<171828novum27>	just a normal boy. I guess. I don't really care what you identify as, unlike some people, but if you're persecuted for that, then that's not ok. just let people be.
+T 1560267054 27<171819GranitePenguin27>	davroc
+T 1560267063 19*	19ixil (~ixil@2001:67c:10ec:574b:8000::13b5) has joined #vim
+T 1560267075 27<171819GranitePenguin27>	ugh.. window focus
+T 1560267107 23*	23duane has quit (23Ping timeout: 248 seconds23)
+T 1560267144 19*	19patoconnor43 (~patoconno@ip72-201-192-186.ph.ph.cox.net) has joined #vim
+T 1560267180 18*	28kirch likes etymology in general - so sometimes I drop down to latin, greek, or something
+T 1560267216 27<171828romainl27>	I like to dress as a general, too
+T 1560267229 19*	19duane (~duane@173.226.27.229) has joined #vim
+T 1560267260 19*	19bronsen (housetier@pdpc/supporter/professional/housetier) has joined #vim
+T 1560267319 19*	19voidoid (~mbwilgus@107-190-43-116.cpe.teksavvy.com) has joined #vim
+T 1560267371 19*	19Now talking on #vim
+T 1560267371 29*	29Topic for #vim 29is: Can't talk? Register https://freenode.net/kb/answer/registration | Vim 8.1.1467 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1560267371 29*	29Topic for #vim 29set by phy1729 29at Wed Jun  5 17:23:57 2019
+T 1560267371 28-29ChanServ28-	[#vim] vim discussion .. www.vim.org, vim.sf.net, :help
+T 1560267371 22*	Channel 22#vim url: 24http://vi-improved.org
+T 1560267396 23*	23is_null has quit (23Remote host closed the connection23)
+T 1560267423 23*	23patoconnor43 has quit (23Ping timeout: 246 seconds23)
+T 1560267491 23*	23stonair has quit (23Ping timeout: 272 seconds23)
+T 1560267599 19*	19stonair (~stonair@115.178.207.111) has joined #vim
+T 1560267620 23*	23sQVe has quit (23Quit: Bye!23)
+T 1560267660 27<171826lopid27>	i stopped reading at "romainl: I like to dress"
+T 1560267684 27<171828romainl27>	You prefer to imagine me naked?
+T 1560267695 27<171825steven27>	who wouldn't?
+T 1560267698 27<171826lopid27>	gfdhbdfgjdgf
+T 1560267702 23*	23sunjon has quit (23Ping timeout: 252 seconds23)
+T 1560267741 27<171825steven27>	otherwise we'd have to imagine how you'd dress, too romainl .. thats a lot of effort
+T 1560267777 19*	19is_null (~jpic@pdpc/supporter/professional/is-null) has joined #vim
+T 1560267788 27<171828romainl27>	thinking of naked men is carbon-neutral
+T 1560267877 23*	23mayurvpatil has quit (23Quit: This computer has gone to sleep23)
+T 1560267884 19*	19flc (~flc@164.77.47.46) has joined #vim
+T 1560267931 19*	19lprd_ (~jon@2a01cb0404945e01d8c886e04823f687.ipv6.abo.wanadoo.fr) has joined #vim
+T 1560267946 19*	19mayurvpatil (~mayurvpat@202.149.218.202) has joined #vim
+T 1560267947 27<171828novum27>	romainl, lopid, you two are very off-topic, and I am scolding you. jk I love it <3:D
+T 1560267958 19*	19Jesin (~Jesin@pool-72-83-62-150.washdc.fios.verizon.net) has joined #vim
+T 1560267994 27<171828novum27>	wait .. I didn't even read that last line. where in the world did that come from
+T 1560267995 23*	23mayurvpatil has quit (23Client Quit23)
+T 1560268011 27<171828romainl27>	a macbook, apparently
+T 1560268049 27<171828novum27>	well aren't you just a literalist =D
+T 1560268094 23*	23lprd has quit (23Ping timeout: 248 seconds23)
+T 1560268126 19*	19ygivenx (~ygivenx@c-67-161-30-108.hsd1.ca.comcast.net) has joined #vim
+T 1560268154 19*	19Albori (~Albori@64-251-148-96.fidnet.com) has joined #vim
+T 1560268207 23*	23rafspiny-work has quit (23Quit: No Ping reply in 180 seconds.23)
+T 1560268228 19*	19mayurvpatil (~mayurvpat@202.149.218.202) has joined #vim
+T 1560268243 27<171828romainl27>	I am literally an alliteral literalist
+T 1560268281 27<171828romainl27>	s/al\>/ative
+T 1560268317 27<171828novum27>	"I am literactively an alliteral literalist"
+T 1560268327 27<171828novum27>	oh .. not enough sleep. \>
+T 1560268356 19*	19rafspiny-work (~quassel@D4B25FCB.static.ziggozakelijk.nl) has joined #vim
+T 1560268393 23*	23R2robot has quit (23Ping timeout: 244 seconds23)
+T 1560268475 19*	19ahmedelg1 (~ahmedelga@89.20.162.246.static.ef-service.nl) has joined #vim
+T 1560268478 23*	23thott has quit (23Ping timeout: 268 seconds23)
+T 1560268489 23*	23HerbY_NL2 has quit (23Quit: Leaving23)
+T 1560268523 23*	23rubiano has quit (23Remote host closed the connection23)
+T 1560268566 23*	23mayurvpatil has quit (23Quit: This computer has gone to sleep23)
+T 1560268583 19*	19thott (~tott@static-89-1-30-180.netcologne.de) has joined #vim

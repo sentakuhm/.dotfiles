@@ -1,0 +1,602 @@
+**** BEGIN LOGGING AT Sun Jun  9 05:00:26 2019
+
+Jun 09 05:00:26 *	*** Looking up your hostname...
+Jun 09 05:00:26 *	*** Checking Ident
+Jun 09 05:00:26 *	*** Couldn't look up your hostname
+Jun 09 05:00:28 *	*** No Ident response
+Jun 09 05:00:28 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Jun 09 05:00:28 *	Capabilities requested: away-notify chghost multi-prefix userhost-in-names 
+Jun 09 05:00:28 *	Capabilities acknowledged: away-notify chghost multi-prefix userhost-in-names
+Jun 09 05:00:28 *	*** Your host is masked (399B7248.771F67E7.6A6A7B9E.IP)
+**** ENDING LOGGING AT Sun Jun  9 05:00:28 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:00:28 2019
+
+Jun 09 05:00:28 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 09 05:00:28 *	Your host is irc.rizon.fun, running version plexus-4(hybrid-8.1.20)
+Jun 09 05:00:28 *	This server was created Apr 30 2019 at 01:08:02
+Jun 09 05:00:28 *	irc.rizon.fun plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 09 05:00:28 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 09 05:00:28 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST KNOCK AWAYLEN=180 NAMESX UHNAMES WATCH=60 :are supported by this server
+Jun 09 05:00:28 *	There are 43 users and 12855 invisible on 22 servers
+Jun 09 05:00:28 *	75 :IRC Operators online
+Jun 09 05:00:28 *	10335 :channels formed
+Jun 09 05:00:28 *	I have 12898 clients and 22 servers
+Jun 09 05:00:28 *	Current local users: 12898  Max: 13849
+Jun 09 05:00:28 *	Current global users: 12898  Max: 13849
+Jun 09 05:00:28 *	- irc.rizon.fun Message of the Day - 
+Jun 09 05:00:28 *	-          oo                            
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 09 05:00:28 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 09 05:00:28 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 09 05:00:28 *	- dP       dP d888888P `88888P' dP    dP
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- Rizon Chat Network -- http://rizon.net
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- Rules:
+Jun 09 05:00:28 *	- o No spamming or flooding
+Jun 09 05:00:28 *	- o No clones or malicious bots
+Jun 09 05:00:28 *	- o No takeovers
+Jun 09 05:00:28 *	- o No distribution of child pornography
+Jun 09 05:00:28 *	- o Clients must respond to VERSION requests
+Jun 09 05:00:28 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- First steps:
+Jun 09 05:00:28 *	- o To register your nick: /msg NickServ HELP
+Jun 09 05:00:28 *	- o To register your channel: /msg ChanServ HELP
+Jun 09 05:00:28 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 09 05:00:28 *	- o For other help with Rizon: /join #help
+Jun 09 05:00:28 *	- 
+Jun 09 05:00:28 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 09 05:00:28 *	- transit provider, therefore no person or entity involved with
+Jun 09 05:00:28 *	- *.rizon.net or irc.rizon.fun takes any responsibility for
+Jun 09 05:00:28 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 09 05:00:28 *	End of /MOTD command.
+Jun 09 05:00:28 *	sentaku sets mode +i on sentaku
+Jun 09 05:00:28 *	sentaku sets mode +x on sentaku
+Jun 09 05:00:28 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 09 05:00:28 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 09 05:00:28 -Global-	[Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+Jun 09 05:00:29 *	Received a CTCP VERSION from py-ctcp
+**** ENDING LOGGING AT Sun Jun  9 05:08:23 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:08:23 2019
+
+**** ENDING LOGGING AT Sun Jun  9 05:47:31 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:47:31 2019
+
+**** BEGIN LOGGING AT Mon Jun 10 05:57:03 2019
+
+Jun 10 05:57:03 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 10 05:57:03 *	Your host is irc.x2x.cc, running version plexus-4(hybrid-8.1.20)
+Jun 10 05:57:03 *	This server was created Dec  5 2018 at 16:16:55
+Jun 10 05:57:03 *	irc.x2x.cc plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 10 05:57:03 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 10 05:57:03 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz NAMESX UHNAMES ELIST=CMNTU SAFELIST AWAYLEN=180 WATCH=60 KNOCK :are supported by this server
+Jun 10 05:57:03 *	There are 44 users and 12497 invisible on 22 servers
+Jun 10 05:57:03 *	75 :IRC Operators online
+Jun 10 05:57:03 *	1 :unknown connection(s)
+Jun 10 05:57:03 *	10144 :channels formed
+Jun 10 05:57:03 *	I have 12541 clients and 22 servers
+Jun 10 05:57:03 *	Current local users: 12541  Max: 19437
+Jun 10 05:57:03 *	Current global users: 12541  Max: 19437
+Jun 10 05:57:03 *	- irc.x2x.cc Message of the Day - 
+Jun 10 05:57:03 *	-          oo                            
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 10 05:57:03 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 10 05:57:03 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 10 05:57:03 *	- dP       dP d888888P `88888P' dP    dP
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- Rizon Chat Network -- http://rizon.net
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- Rules:
+Jun 10 05:57:03 *	- o No spamming or flooding
+Jun 10 05:57:03 *	- o No clones or malicious bots
+Jun 10 05:57:03 *	- o No takeovers
+Jun 10 05:57:03 *	- o No distribution of child pornography
+Jun 10 05:57:03 *	- o Clients must respond to VERSION requests
+Jun 10 05:57:03 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- First steps:
+Jun 10 05:57:03 *	- o To register your nick: /msg NickServ HELP
+Jun 10 05:57:03 *	- o To register your channel: /msg ChanServ HELP
+Jun 10 05:57:03 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 10 05:57:03 *	- o For other help with Rizon: /join #help
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- Sponsor:
+Jun 10 05:57:03 *	- o Thanks to london trust media <londontrustmedia.com> for sponsoring irc.x2x.cc 
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- 
+Jun 10 05:57:03 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 10 05:57:03 *	- transit provider, therefore no person or entity involved with
+Jun 10 05:57:03 *	- *.rizon.net or irc.x2x.cc takes any responsibility for
+Jun 10 05:57:03 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 10 05:57:03 *	End of /MOTD command.
+Jun 10 05:57:03 *	sentaku sets mode +i on sentaku
+Jun 10 05:57:03 *	sentaku sets mode +x on sentaku
+Jun 10 05:57:03 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 10 05:57:03 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 10 05:57:03 -Global-	[Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+Jun 10 05:57:03 *	Received a CTCP VERSION from py-ctcp
+Jun 10 06:00:26 SHA-256 checksum for [HorribleSubs] Shingeki no Kyojin S3 - 56 [480p].mkv (local): 907890d0f67b2d07a140593e9db39f85360c734523b8b2a78f06792709accca0
+Jun 10 06:00:26 *	DCC RECV '[HorribleSubs] Shingeki no Kyojin S3 - 56 [480p].mkv' from CR-ARCHIVE|SD complete [1315322 cps]
+**** ENDING LOGGING AT Mon Jun 10 06:11:36 2019
+
+**** BEGIN LOGGING AT Mon Jun 10 06:11:36 2019
+
+**** BEGIN LOGGING AT Tue Jun 11 15:07:51 2019
+
+Jun 11 15:07:51 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:07:51 *	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:07:51 *	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:07:51 *	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:07:51 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:07:51 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:07:51 *	There are 44 users and 12446 invisible on 22 servers
+Jun 11 15:07:51 *	73 :IRC Operators online
+Jun 11 15:07:51 *	10131 :channels formed
+Jun 11 15:07:51 *	I have 12490 clients and 22 servers
+Jun 11 15:07:51 *	Current local users: 12490  Max: 15556
+Jun 11 15:07:51 *	Current global users: 12490  Max: 15556
+Jun 11 15:07:51 *	- magnet.rizon.net Message of the Day - 
+Jun 11 15:07:51 *	-          oo                            
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:07:51 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:07:51 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:07:51 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- Rules:
+Jun 11 15:07:51 *	- o No spamming or flooding
+Jun 11 15:07:51 *	- o No clones or malicious bots
+Jun 11 15:07:51 *	- o No takeovers
+Jun 11 15:07:51 *	- o No distribution of child pornography
+Jun 11 15:07:51 *	- o Clients must respond to VERSION requests
+Jun 11 15:07:51 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- First steps:
+Jun 11 15:07:51 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:07:51 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:07:51 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:07:51 *	- o For other help with Rizon: /join #help
+Jun 11 15:07:51 *	- 
+Jun 11 15:07:51 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:07:51 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:07:51 *	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:07:51 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:07:51 *	End of /MOTD command.
+Jun 11 15:07:51 *	sentaku sets mode +i on sentaku
+Jun 11 15:07:51 *	sentaku sets mode +x on sentaku
+Jun 11 15:07:51 *	Received a CTCP VERSION from py-ctcp
+Jun 11 15:07:51 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:07:51 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:07:51 -Global-	[Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+**** BEGIN LOGGING AT Tue Jun 11 15:13:41 2019
+
+Jun 11 15:13:41 »»	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:13:41 »»	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:13:41 »»	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:13:41 »»	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:13:41 »»	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:13:41 »»	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:13:41 »»	There are 44 users and 12473 invisible on 22 servers
+Jun 11 15:13:41 »»	73 :IRC Operators online
+Jun 11 15:13:41 »»	10132 :channels formed
+Jun 11 15:13:42 »»	I have 12517 clients and 22 servers
+Jun 11 15:13:42 »»	Current local users: 12517  Max: 15556
+Jun 11 15:13:42 »»	Current global users: 12517  Max: 15556
+Jun 11 15:13:42 »»	- magnet.rizon.net Message of the Day - 
+Jun 11 15:13:42 »»	-          oo                            
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:13:42 »»	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:13:42 »»	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:13:42 »»	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- Rules:
+Jun 11 15:13:42 »»	- o No spamming or flooding
+Jun 11 15:13:42 »»	- o No clones or malicious bots
+Jun 11 15:13:42 »»	- o No takeovers
+Jun 11 15:13:42 »»	- o No distribution of child pornography
+Jun 11 15:13:42 »»	- o Clients must respond to VERSION requests
+Jun 11 15:13:42 »»	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- First steps:
+Jun 11 15:13:42 »»	- o To register your nick: /msg NickServ HELP
+Jun 11 15:13:42 »»	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:13:42 »»	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:13:42 »»	- o For other help with Rizon: /join #help
+Jun 11 15:13:42 »»	- 
+Jun 11 15:13:42 »»	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:13:42 »»	- transit provider, therefore no person or entity involved with
+Jun 11 15:13:42 »»	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:13:42 »»	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:13:42 »»	End of /MOTD command.
+Jun 11 15:13:42 »»	sentaku sets mode +i sentaku
+Jun 11 15:13:42 »»	sentaku sets mode +x sentaku
+Jun 11 15:13:42 »»	Received a CTCP VERSION from py-ctcp
+Jun 11 15:13:42 -Notice-	{from Global} [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:13:42 -Notice-	{from Global} [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:13:42 -Notice-	{from Global} [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+**** BEGIN LOGGING AT Tue Jun 11 15:15:20 2019
+
+Jun 11 15:15:20 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:15:20 *	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:15:20 *	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:15:20 *	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:15:20 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:15:20 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:15:20 *	There are 44 users and 12468 invisible on 22 servers
+Jun 11 15:15:20 *	73 :IRC Operators online
+Jun 11 15:15:20 *	10124 :channels formed
+Jun 11 15:15:21 *	I have 12512 clients and 22 servers
+Jun 11 15:15:21 *	Current local users: 12512  Max: 15556
+Jun 11 15:15:21 *	Current global users: 12512  Max: 15556
+Jun 11 15:15:21 *	- magnet.rizon.net Message of the Day - 
+Jun 11 15:15:21 *	-          oo                            
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:15:21 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:15:21 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:15:21 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- Rules:
+Jun 11 15:15:21 *	- o No spamming or flooding
+Jun 11 15:15:21 *	- o No clones or malicious bots
+Jun 11 15:15:21 *	- o No takeovers
+Jun 11 15:15:21 *	- o No distribution of child pornography
+Jun 11 15:15:21 *	- o Clients must respond to VERSION requests
+Jun 11 15:15:21 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- First steps:
+Jun 11 15:15:21 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:15:21 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:15:21 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:15:21 *	- o For other help with Rizon: /join #help
+Jun 11 15:15:21 *	- 
+Jun 11 15:15:21 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:15:21 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:15:21 *	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:15:21 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:15:21 *	End of /MOTD command.
+Jun 11 15:15:21 *	sentaku sets mode +i sentaku
+Jun 11 15:15:21 *	sentaku sets mode +x sentaku
+Jun 11 15:15:21 *	Received a CTCP VERSION from py-ctcp
+Jun 11 15:15:21 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:15:21 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:15:21 -Global-	[Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+**** BEGIN LOGGING AT Tue Jun 11 15:16:42 2019
+
+Jun 11 15:16:42 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:16:42 *	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:16:42 *	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:16:42 *	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:16:42 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:16:42 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:16:42 *	There are 44 users and 12477 invisible on 22 servers
+Jun 11 15:16:42 *	73 :IRC Operators online
+Jun 11 15:16:42 *	10117 :channels formed
+Jun 11 15:16:42 *	I have 12521 clients and 22 servers
+Jun 11 15:16:42 *	Current local users: 12521  Max: 15556
+Jun 11 15:16:42 *	Current global users: 12521  Max: 15556
+Jun 11 15:16:42 *	- magnet.rizon.net Message of the Day - 
+Jun 11 15:16:42 *	-          oo                            
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:16:42 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:16:42 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:16:42 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- Rules:
+Jun 11 15:16:42 *	- o No spamming or flooding
+Jun 11 15:16:42 *	- o No clones or malicious bots
+Jun 11 15:16:42 *	- o No takeovers
+Jun 11 15:16:42 *	- o No distribution of child pornography
+Jun 11 15:16:42 *	- o Clients must respond to VERSION requests
+Jun 11 15:16:42 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- First steps:
+Jun 11 15:16:42 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:16:42 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:16:42 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:16:42 *	- o For other help with Rizon: /join #help
+Jun 11 15:16:42 *	- 
+Jun 11 15:16:42 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:16:42 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:16:42 *	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:16:42 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:16:42 *	End of /MOTD command.
+Jun 11 15:16:42 *	sentaku sets mode +i sentaku
+Jun 11 15:16:42 *	sentaku sets mode +x sentaku
+Jun 11 15:16:42 *	Received a CTCP VERSION from py-ctcp
+Jun 11 15:16:42 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:16:42 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:16:42 -Global-	[Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+**** BEGIN LOGGING AT Tue Jun 11 15:19:25 2019
+
+Jun 11 15:19:25 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:19:25 *	Your host is irc.x2x.cc, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:19:25 *	This server was created Dec  5 2018 at 16:16:55
+Jun 11 15:19:25 *	irc.x2x.cc plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:19:25 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:19:25 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz NAMESX UHNAMES ELIST=CMNTU SAFELIST AWAYLEN=180 WATCH=60 KNOCK :are supported by this server
+Jun 11 15:19:25 *	There are 44 users and 12489 invisible on 22 servers
+Jun 11 15:19:25 *	73 :IRC Operators online
+Jun 11 15:19:25 *	3 :unknown connection(s)
+Jun 11 15:19:25 *	10117 :channels formed
+Jun 11 15:19:25 *	I have 12533 clients and 22 servers
+Jun 11 15:19:25 *	Current local users: 12533  Max: 19437
+Jun 11 15:19:25 *	Current global users: 12533  Max: 19437
+Jun 11 15:19:25 *	- irc.x2x.cc Message of the Day - 
+Jun 11 15:19:25 *	-          oo                            
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:19:25 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:19:25 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:19:25 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- Rules:
+Jun 11 15:19:25 *	- o No spamming or flooding
+Jun 11 15:19:25 *	- o No clones or malicious bots
+Jun 11 15:19:25 *	- o No takeovers
+Jun 11 15:19:25 *	- o No distribution of child pornography
+Jun 11 15:19:25 *	- o Clients must respond to VERSION requests
+Jun 11 15:19:25 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- First steps:
+Jun 11 15:19:25 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:19:25 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:19:25 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:19:25 *	- o For other help with Rizon: /join #help
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- Sponsor:
+Jun 11 15:19:25 *	- o Thanks to london trust media <londontrustmedia.com> for sponsoring irc.x2x.cc 
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- 
+Jun 11 15:19:25 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:19:25 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:19:25 *	- *.rizon.net or irc.x2x.cc takes any responsibility for
+Jun 11 15:19:25 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:19:25 *	End of /MOTD command.
+Jun 11 15:19:25 *	sentaku sets mode +i sentaku
+Jun 11 15:19:25 *	sentaku sets mode +x sentaku
+Jun 11 15:19:26 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:19:26 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:19:26 -Global-	[Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+Jun 11 15:19:26 *	Received a CTCP VERSION from py-ctcp
+**** BEGIN LOGGING AT Tue Jun 11 15:20:38 2019
+
+Jun 11 15:20:38 »»	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:20:38 »»	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:20:38 »»	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:20:38 »»	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:20:38 »»	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:20:38 »»	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:20:38 »»	There are 44 users and 12486 invisible on 22 servers
+Jun 11 15:20:38 »»	73 :IRC Operators online
+Jun 11 15:20:38 »»	10118 :channels formed
+Jun 11 15:20:38 »»	I have 12530 clients and 22 servers
+Jun 11 15:20:38 »»	Current local users: 12530  Max: 15556
+Jun 11 15:20:38 »»	Current global users: 12530  Max: 15556
+Jun 11 15:20:38 »»	- magnet.rizon.net Message of the Day - 
+Jun 11 15:20:38 »»	-          oo                            
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:20:38 »»	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:20:38 »»	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:20:38 »»	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- Rules:
+Jun 11 15:20:38 »»	- o No spamming or flooding
+Jun 11 15:20:38 »»	- o No clones or malicious bots
+Jun 11 15:20:38 »»	- o No takeovers
+Jun 11 15:20:38 »»	- o No distribution of child pornography
+Jun 11 15:20:38 »»	- o Clients must respond to VERSION requests
+Jun 11 15:20:38 »»	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- First steps:
+Jun 11 15:20:38 »»	- o To register your nick: /msg NickServ HELP
+Jun 11 15:20:38 »»	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:20:38 »»	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:20:38 »»	- o For other help with Rizon: /join #help
+Jun 11 15:20:38 »»	- 
+Jun 11 15:20:38 »»	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:20:38 »»	- transit provider, therefore no person or entity involved with
+Jun 11 15:20:38 »»	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:20:38 »»	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:20:38 »»	End of /MOTD command.
+Jun 11 15:20:38 »»	sentaku sets mode +i sentaku
+Jun 11 15:20:38 »»	sentaku sets mode +x sentaku
+Jun 11 15:20:38 »»	Received a CTCP VERSION from py-ctcp
+Jun 11 15:20:38 -Notice-	{from Global} [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:20:38 -Notice-	{from Global} [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:20:38 -Notice-	{from Global} [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+**** BEGIN LOGGING AT Tue Jun 11 15:24:15 2019
+
+Jun 11 15:24:15 »»	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:24:15 »»	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:24:15 »»	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:24:15 »»	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:24:15 »»	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:24:15 »»	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:24:15 »»	There are 44 users and 12486 invisible on 22 servers
+Jun 11 15:24:15 »»	73 :IRC Operators online
+Jun 11 15:24:15 »»	10116 :channels formed
+Jun 11 15:24:15 »»	I have 12530 clients and 22 servers
+Jun 11 15:24:15 »»	Current local users: 12530  Max: 15556
+Jun 11 15:24:15 »»	Current global users: 12530  Max: 15556
+Jun 11 15:24:15 »»	- magnet.rizon.net Message of the Day - 
+Jun 11 15:24:15 »»	-          oo                            
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:24:15 »»	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:24:15 »»	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:24:15 »»	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- Rules:
+Jun 11 15:24:15 »»	- o No spamming or flooding
+Jun 11 15:24:15 »»	- o No clones or malicious bots
+Jun 11 15:24:15 »»	- o No takeovers
+Jun 11 15:24:15 »»	- o No distribution of child pornography
+Jun 11 15:24:15 »»	- o Clients must respond to VERSION requests
+Jun 11 15:24:15 »»	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- First steps:
+Jun 11 15:24:15 »»	- o To register your nick: /msg NickServ HELP
+Jun 11 15:24:15 »»	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:24:15 »»	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:24:15 »»	- o For other help with Rizon: /join #help
+Jun 11 15:24:15 »»	- 
+Jun 11 15:24:15 »»	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:24:15 »»	- transit provider, therefore no person or entity involved with
+Jun 11 15:24:15 »»	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:24:15 »»	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:24:15 »»	End of /MOTD command.
+Jun 11 15:24:15 »»	sentaku sets mode +i sentaku
+Jun 11 15:24:15 »»	sentaku sets mode +x sentaku
+Jun 11 15:24:15 »»	Received a CTCP VERSION from py-ctcp
+Jun 11 15:24:15 -Notice-	{from Global} [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:24:15 -Notice-	{from Global} [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:24:15 -Notice-	{from Global} [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+**** BEGIN LOGGING AT Tue Jun 11 15:26:15 2019
+
+Jun 11 15:26:15 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:26:15 *	Your host is irc.x2x.cc, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:26:15 *	This server was created Dec  5 2018 at 16:16:55
+Jun 11 15:26:15 *	irc.x2x.cc plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:26:15 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:26:15 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz NAMESX UHNAMES ELIST=CMNTU SAFELIST AWAYLEN=180 WATCH=60 KNOCK :are supported by this server
+Jun 11 15:26:15 *	There are 44 users and 12485 invisible on 22 servers
+Jun 11 15:26:15 *	73 :IRC Operators online
+Jun 11 15:26:15 *	3 :unknown connection(s)
+Jun 11 15:26:15 *	10118 :channels formed
+Jun 11 15:26:15 *	I have 12529 clients and 22 servers
+Jun 11 15:26:15 *	Current local users: 12529  Max: 19437
+Jun 11 15:26:15 *	Current global users: 12529  Max: 19437
+Jun 11 15:26:15 *	- irc.x2x.cc Message of the Day - 
+Jun 11 15:26:15 *	-          oo                            
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:26:15 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:26:15 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:26:15 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- Rules:
+Jun 11 15:26:15 *	- o No spamming or flooding
+Jun 11 15:26:15 *	- o No clones or malicious bots
+Jun 11 15:26:15 *	- o No takeovers
+Jun 11 15:26:15 *	- o No distribution of child pornography
+Jun 11 15:26:15 *	- o Clients must respond to VERSION requests
+Jun 11 15:26:15 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- First steps:
+Jun 11 15:26:15 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:26:15 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:26:15 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:26:15 *	- o For other help with Rizon: /join #help
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- Sponsor:
+Jun 11 15:26:15 *	- o Thanks to london trust media <londontrustmedia.com> for sponsoring irc.x2x.cc 
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- 
+Jun 11 15:26:15 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:26:15 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:26:15 *	- *.rizon.net or irc.x2x.cc takes any responsibility for
+Jun 11 15:26:15 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:26:15 *	End of /MOTD command.
+Jun 11 15:26:15 *	sentaku sets mode +i sentaku
+Jun 11 15:26:15 *	sentaku sets mode +x sentaku
+Jun 11 15:26:15 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:26:15 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:26:15 -Global-	[Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+Jun 11 15:26:15 *	Received a CTCP VERSION from py-ctcp
+**** BEGIN LOGGING AT Tue Jun 11 15:35:58 2019
+
+Jun 11 15:35:58 *	Welcome to the Rizon Internet Relay Chat Network sentaku
+Jun 11 15:35:58 *	Your host is magnet.rizon.net, running version plexus-4(hybrid-8.1.20)
+Jun 11 15:35:58 *	This server was created Dec  9 2018 at 23:36:11
+Jun 11 15:35:58 *	magnet.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+Jun 11 15:35:58 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+Jun 11 15:35:58 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST AWAYLEN=180 KNOCK NAMESX UHNAMES :are supported by this server
+Jun 11 15:35:58 *	There are 43 users and 12530 invisible on 22 servers
+Jun 11 15:35:58 *	73 :IRC Operators online
+Jun 11 15:35:58 *	10118 :channels formed
+Jun 11 15:35:59 *	I have 12573 clients and 22 servers
+Jun 11 15:35:59 *	Current local users: 12573  Max: 15556
+Jun 11 15:35:59 *	Current global users: 12573  Max: 15556
+Jun 11 15:35:59 *	- magnet.rizon.net Message of the Day - 
+Jun 11 15:35:59 *	-          oo                            
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+Jun 11 15:35:59 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+Jun 11 15:35:59 *	- 88       88  .Y8P    88.  .88 88    88 
+Jun 11 15:35:59 *	- dP       dP d888888P `88888P' dP    dP
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- Rizon Chat Network -- http://rizon.net
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- Rules:
+Jun 11 15:35:59 *	- o No spamming or flooding
+Jun 11 15:35:59 *	- o No clones or malicious bots
+Jun 11 15:35:59 *	- o No takeovers
+Jun 11 15:35:59 *	- o No distribution of child pornography
+Jun 11 15:35:59 *	- o Clients must respond to VERSION requests
+Jun 11 15:35:59 *	- o Rizon staff may disconnect clients for any or no reason
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- First steps:
+Jun 11 15:35:59 *	- o To register your nick: /msg NickServ HELP
+Jun 11 15:35:59 *	- o To register your channel: /msg ChanServ HELP
+Jun 11 15:35:59 *	- o To get a vHost: /msg HostServ HELP REQUEST
+Jun 11 15:35:59 *	- o For other help with Rizon: /join #help
+Jun 11 15:35:59 *	- 
+Jun 11 15:35:59 *	- Usage of this network is a privilege, not a right. Rizon is a
+Jun 11 15:35:59 *	- transit provider, therefore no person or entity involved with
+Jun 11 15:35:59 *	- *.rizon.net or magnet.rizon.net takes any responsibility for
+Jun 11 15:35:59 *	- users' actions. Absolutely no warranty is expressed or implied.
+Jun 11 15:35:59 *	End of /MOTD command.
+Jun 11 15:35:59 *	sentaku sets mode +i sentaku
+Jun 11 15:35:59 *	sentaku sets mode +x sentaku
+Jun 11 15:35:59 *	Received a CTCP VERSION from py-ctcp
+Jun 11 15:35:59 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+Jun 11 15:35:59 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+Jun 11 15:35:59 -Global-	[Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff

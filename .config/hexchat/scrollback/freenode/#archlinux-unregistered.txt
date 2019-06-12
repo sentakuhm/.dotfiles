@@ -1,0 +1,4 @@
+T 1560057875 19*	Now talking on 22#archlinux-unregistered
+T 1560057875 22*	Topic for 22#archlinux-unregistered is: === You need a freenode account to join #archlinux. Register by following the instructions at <http://freenode.net/kb/answer/registration>. You can get a list of people who can help you by typing `/msg chanserv access #archlinux list`, or join #freenode and ask there. The bot can give you a one-time ticket. ===
+T 1560057875 22*	Topic for 22#archlinux-unregistered set by 26tigrmesh!~tigrmesh@archlinux/op/tigrmesh (24Tue Aug  9 04:33:51 2016)
+T 1560057875 24*	Received a CTCP 24VERSION from 18EMIYA

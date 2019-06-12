@@ -1,0 +1,1555 @@
+T 1560056429 19*	Now talking on 22#HorribleSubs
+T 1560056429 22*	Topic for 22#HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560056429 22*	Topic for 22#HorribleSubs set by 26[M]-V!MV@The.Anime.God (24Wed Jan  9 17:36:59 2019)
+T 1560056429 -18Horribly-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560056468 23*	cimiso (~cimiso@DACF33F1.B36EE491.7343A331.IP23) has joined
+T 1560056473 24*	dbdhdbehhe has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+T 1560056474 23*	ThxAndBye (~ThxAndBye@Rizon-BE2EFDB0.dip0.t-ipconnect.de23) has joined
+T 1560056486 24*	cimiso has quit (Remote host closed the connection)
+T 1560056524 23*	famowo (~famowo@Rizon-B6DF8914.pa.qld.optusnet.com.au23) has joined
+T 1560056535 23*	HatoriTakaya (~elfenstri@Rizon-3947BEAB.pa.vic.optusnet.com.au23) has joined
+T 1560056541 >18CR-ARCHIVE|SD<	xdcc send #17988
+T 1560056542 24*	18CR-ARCHIVE|SD has offered '23[HorribleSubs] Fairy Tail Final Season - 312 [480p].mkv' (24210572526 bytes)
+T 1560056555 24*	DCC RECV connection established to 18CR-ARCHIVE|SD 30[2423.29.114.200:5182430]
+T 1560056559 23*	RogueKitsune (~RogueKits@Life.is.a.series.of.choices.between.bad.and.worse23) has joined
+T 1560056560 24*	BDRyan has quit (Remote host closed the connection)
+T 1560056578 24*	Orsted has quit (Read error: Connection reset by peer)
+T 1560056585 24*	ThxAndBye_ has quit (Ping timeout: 240 seconds)
+T 1560056591 23*	Fried (~FriedSP@27E5D7E.D544033B.ABD123BC.IP23) has joined
+T 1560056621 24*	KuroKitsune has quit (Ping timeout: 240 seconds)
+T 1560056649 24*	bejawe has quit (Read error: Connection reset by peer)
+T 1560056661 >18CR-ARCHIVE|SD<	xdcc send #17989
+T 1560056662 24*	18CR-ARCHIVE|SD has offered '23[HorribleSubs] One Piece - 888 [480p].mkv' (24202094595 bytes)
+T 1560056670 24*	DCC RECV connection established to 18CR-ARCHIVE|SD 30[2423.29.114.200:5193130]
+T 1560056681 24*	Enzio has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1560056690 24*	katzer (~villaflo@E02B623.F771C81.1CFAB62.IP24) has left
+T 1560056696 23*	spincic (~almengor@Rizon-22CA350.access.telenet.be23) has joined
+T 1560056703 24*	berithpy has quit (Ping timeout: 240 seconds)
+T 1560056725 SHA-256 checksum for [HorribleSubs] Fairy Tail Final Season - 312 [480p].mkv (local): ce9b2747afb342bfe848dae901412b2db996760034e0b201bcbad0e408d2cb3f
+T 1560056725 24*	DCC RECV '23[HorribleSubs] Fairy Tail Final Season - 312 [480p].mkv' from 18CR-ARCHIVE|SD complete 30[241253407 cps30]
+T 1560056727 24*	famowo has quit (Read error: Connection reset by peer)
+T 1560056737 24*	myName has quit (Ping timeout: 240 seconds)
+T 1560056754 23*	ZzY (~ZzY@Rizon-C69B797B.lightspeed.hstntx.sbcglobal.net23) has joined
+T 1560056796 23*	Acer__ (~Fidazzle@Rizon-34D69A5C.static.mtpk.ca.charter.com23) has joined
+T 1560056838 24*	Meraki has quit (Quit: Leaving)
+T 1560056841 23*	Enzio (~enzio@BD4E8FF8.49281C69.84D67B06.IP23) has joined
+T 1560056851 24*	TheRealFr3ak25 has quit (Quit: Leaving)
+T 1560056854 23*	ditzyowl (~ditzyowl@Rizon-66D99BA7.res.spectrum.com23) has joined
+T 1560056893 24*	hazardpro has quit (Read error: Connection reset by peer)
+T 1560056904 24*	lucid has quit (Quit: Leaving)
+T 1560056911 >18CR-ARCHIVE|SD<	xdcc send #17974
+T 1560056913 24*	18CR-ARCHIVE|SD has offered '23[HorribleSubs] Bungou Stray Dogs - 34 [480p].mkv' (24158818232 bytes)
+T 1560056917 24*	DCC RECV connection established to 18CR-ARCHIVE|SD 30[2423.29.114.200:5215530]
+T 1560056923 24*	Martin1234 has quit ()
+T 1560056925 24*	Wooper has quit ()
+T 1560056927 24*	payday99999 has quit (Ping timeout: 240 seconds)
+T 1560056933 24*	volece has quit (Ping timeout: 240 seconds)
+T 1560056935 23*	Gimpy (~Gimpy@Rizon-6A42D18B.nwrknj.fios.verizon.net23) has joined
+T 1560056952 23*	bi00d (~joshu@Rizon-2B6C38DF.se.biz.rr.com23) has joined
+T 1560056953 24*	xexex has quit (Quit: -=SysReset 2.53=-)
+T 1560056960 23*	stormyskye (~stormyske@Rizon-EC0E1764.hsd1.ca.comcast.net23) has joined
+T 1560056963 23*	lorivi (~lorivi@A6D28EA2:F57BB402:E604CC08:IP23) has joined
+T 1560056975 23*	famowo (~famowo@Rizon-B6DF8914.pa.qld.optusnet.com.au23) has joined
+T 1560056976 23*	hebeyo (~hebeyo@Rizon-7B51B438.nap.wideopenwest.com23) has joined
+T 1560057035 23*	joshu__ (~joshu@Rizon-39B979D4.pools.spcsdns.net23) has joined
+T 1560057041 SHA-256 checksum for [HorribleSubs] One Piece - 888 [480p].mkv (local): ad6c898901dc423260fa8c0e30a02c0b74c850f593d3c5d412531dd4a8645317
+T 1560057041 24*	DCC RECV '23[HorribleSubs] One Piece - 888 [480p].mkv' from 18CR-ARCHIVE|SD complete 30[24546201 cps30]
+T 1560057044 23*	anne_onmute (uid32107@take.me.away23) has joined
+T 1560057096 24*	bi00dy has quit (Ping timeout: 240 seconds)
+T 1560057109 SHA-256 checksum for [HorribleSubs] Bungou Stray Dogs - 34 [480p].mkv (local): 84213caf8732731c4b5229ad153bd7d718d19feec99fc76d911ad2a6538abd8e
+T 1560057109 24*	DCC RECV '23[HorribleSubs] Bungou Stray Dogs - 34 [480p].mkv' from 18CR-ARCHIVE|SD complete 30[24831509 cps30]
+T 1560057120 23*	Red_Ragnarok (~Red_Ragna@Rizon-2569F80E.dsl.teksavvy.com23) has joined
+T 1560057126 24*	Cha-Cho has quit (Ping timeout: 240 seconds)
+T 1560057148 24*	tehewo has quit (Read error: Connection reset by peer)
+T 1560057149 23*	tagola (~tagola@4DD7228E:CD64A167:451E3506:IP23) has joined
+T 1560057155 23*	tehewo (~tehewo@Rizon-5F6C6B45.try.wideopenwest.com23) has joined
+T 1560057155 24*	ZzY has quit ()
+T 1560057185 24*	tehewo has quit (Read error: Connection reset by peer)
+T 1560057200 24*	bi00d has quit (Ping timeout: 240 seconds)
+T 1560057204 24*	lorivi has quit (Ping timeout: 240 seconds)
+T 1560057206 24*	spincic (~almengor@Rizon-22CA350.access.telenet.be24) has left
+T 1560057230 24*	tagola has quit (Read error: Connection reset by peer)
+T 1560057236 23*	ciraco (~lies@5161829.0F5EE91.1E91F07.IP23) has joined
+T 1560057237 23*	myName (~myfourth@Rizon-8ADAA23C.hsd1.ca.comcast.net23) has joined
+T 1560057245 23*	BDRyan (~bdryan@Domo.Arigatou.Mr.Roboto23) has joined
+T 1560057281 23*	mysecondName (~myfourth@897F92A3.2B959885.52BE5DAC.IP23) has joined
+T 1560057305 24*	Kumool has quit (Quit: EXIT)
+T 1560057311 24*	surfa_ has quit (Ping timeout: 240 seconds)
+T 1560057311 24*	surfa has quit (Ping timeout: 240 seconds)
+T 1560057312 23*	FleetingAura (FleetingAu@Rizon-F505C303.ptld.qwest.net23) has joined
+T 1560057333 24*	blackie has quit (Quit: Leaving)
+T 1560057367 23*	gloopiz (~gloopiz@51D3BAE3:A59FB274:64076DF1:IP23) has joined
+T 1560057376 24*	fengnelson1123 has quit (Quit: Leaving)
+T 1560057377 23*	jefke_ (~jefke@Rizon-BCC42BC9.ip6.access.telenet.be23) has joined
+T 1560057388 23*	dragone (~dragone@6479F7D.25AB3184.358C9C08.IP23) has joined
+T 1560057397 24*	gloopiz has quit ()
+T 1560057413 24*	Gimpy has quit ()
+T 1560057422 24*	yofixe has quit (Read error: Connection reset by peer)
+T 1560057427 23*	surfa_ (~surfa@Rizon-82C13ABB.dyn.optonline.net23) has joined
+T 1560057437 23*	surfa (~surfa@Rizon-82C13ABB.dyn.optonline.net23) has joined
+T 1560057443 24*	hebeyo has quit (Remote host closed the connection)
+T 1560057472 24*	Spine has quit (Quit: Leaving)
+T 1560057472 24*	Weasel has quit (Quit: Leaving)
+T 1560057483 24*	myName has quit (Ping timeout: 240 seconds)
+T 1560057557 23*	Knyghtyme (~Knyghtyme@Rizon-6F739AE.res.spectrum.com23) has joined
+T 1560057563 24*	smbdspk has quit (Ping timeout: 240 seconds)
+T 1560057563 23*	Moas90 (~Moas@ED178059.A8DCFBE.D15973C2.IP23) has joined
+T 1560057566 23*	UA (~UA@9D0BCF37.3C5F091D.D82428E4.IP23) has joined
+T 1560057566 24*	Knyghtyme has quit (Read error: Connection reset by peer)
+T 1560057574 24*	phantommbot has quit (Ping timeout: 240 seconds)
+T 1560057581 24*	SC30 has quit (Ping timeout: 240 seconds)
+T 1560057626 23*	Gainey (~gainey666@Rizon-3A27F3AA.client.mchsi.com23) has joined
+T 1560057628 23*	Hanael (~Hanael@Rizon-2F9A6B2.try.wideopenwest.com23) has joined
+T 1560057639 24*	Sirion has quit (Quit: Leaving)
+T 1560057642 23*	smbdspk (~smbdspk@Rizon-42E68878.pppoe.avangarddsl.ru23) has joined
+T 1560057643 24*	freyjadour has quit (Quit: Leaving)
+T 1560057648 24*	grom_ has quit (Ping timeout: 240 seconds)
+T 1560057654 24*	mophead4eyess has quit (Quit: Leaving)
+T 1560057688 24*	Jhosy has quit (Quit: -=SysReset 2.55=-)
+T 1560057691 24*	ImaNguyener has quit (Read error: Connection reset by peer)
+T 1560057698 23*	PyourK (~Edwin@Rizon-7201DCB5.cpe.net.cable.rogers.com23) has joined
+T 1560057710 24*	Iron has quit (Read error: Connection reset by peer)
+T 1560057734 24*	deathtofishes has quit (Quit:  HydraIRC -> http://www.hydrairc.com <- \o/)
+T 1560057755 24*	Coud has quit ()
+T 1560057784 23*	Erza318 (~Titania31@E57D80C0:64BA28FB:2645E1C5:IP23) has joined
+T 1560057785 24*	Moas11 has quit (Ping timeout: 240 seconds)
+T 1560057790 24*	HatoriTakaya has quit (Quit: Leaving)
+T 1560057790 23*	Iron (~Iron@Rizon-F24BA370.cm.vtr.net23) has joined
+T 1560057802 24*	ararararagi has quit (Ping timeout: 240 seconds)
+T 1560057824 24*	ciraco (~lies@5161829.0F5EE91.1E91F07.IP24) has left
+T 1560057843 23*	sessin (pavese@E60ACE6.5FF6034.8EB216F.IP23) has joined
+T 1560057863 24*	test_123 has quit (Remote host closed the connection)
+T 1560057869 24*	smote has quit (Ping timeout: 240 seconds)
+T 1560057875 24*	Hanael has quit ()
+T 1560057890 24*	dyancat has quit (Read error: Connection reset by peer)
+T 1560057903 23*	dyancat (~dyancat@4E1FD0F3.48F37925.DD919C24.IP23) has joined
+T 1560057943 24*	Titania318 has quit (Ping timeout: 240 seconds)
+T 1560057945 23*	Nomad_ (~Nomad@5C6E86F1:302F81C5:F895F652:IP23) has joined
+T 1560057966 23*	dyancat_ (~dyancat@4E1FD0F3.48F37925.DD919C24.IP23) has joined
+T 1560057968 24*	AKIce has quit (Quit: Leaving)
+T 1560057968 24*	legnahcra has quit (Ping timeout: 240 seconds)
+T 1560057974 23*	song_ (~song@4DC29ACE.7DE56BE9.E1660D21.IP23) has joined
+T 1560057975 24*	newbie|3 (~kvirc@Rizon-D0A521B1.bchsia.telus.net24) has left
+T 1560057983 23*	smote (~Ian@Rizon-17F38517.ph.ph.cox.net23) has joined
+T 1560057993 24*	Fried has quit (Quit: Leaving)
+T 1560058063 23*	Hanael (~Hanael@Rizon-2F9A6B2.try.wideopenwest.com23) has joined
+T 1560058090 23*	aoya (~jordan@Rizon-32E85953.hawaii.res.rr.com23) has joined
+T 1560058108 24*	Ankit has quit (Remote host closed the connection)
+T 1560058121 24*	FierceMuffin has quit (Quit: Bab)
+T 1560058123 23*	Ankit (~Ankit@45C2F39B:7EC6C303:2059C8E7:IP23) has joined
+T 1560058134 23*	coldarmpits__ (~coldarmpi@5525D0AA.FEA27FF8.7CC1980D.IP23) has joined
+T 1560058143 24*	vonota has quit (Read error: Connection reset by peer)
+T 1560058153 24*	song has quit (Ping timeout: 240 seconds)
+T 1560058153 24*	dyancat has quit (Ping timeout: 240 seconds)
+T 1560058157 24*	DotA has quit ()
+T 1560058160 24*	coldarmpits_ has quit (Ping timeout: 240 seconds)
+T 1560058169 23*	lamer_ (~lamer@Rizon-D00E9BBD.sctnpa.east.verizon.net23) has joined
+T 1560058181 24*	Hanael has quit ()
+T 1560058187 24*	zakezoe85 has quit (Ping timeout: 240 seconds)
+T 1560058232 24*	shiny has quit (Ping timeout: 240 seconds)
+T 1560058242 24*	stormyskye has quit (Quit: Leaving)
+T 1560058288 24*	sp0nge has quit (Ping timeout: 240 seconds)
+T 1560058291 23*	OneBar (~OneBar@4F7D94CB.425BB5DF.C857A0EF.IP23) has joined
+T 1560058340 23*	Khilandros (~herp@crazy.canuck.mmm.beer23) has joined
+T 1560058346 24*	Acer__ has quit (Ping timeout: 240 seconds)
+T 1560058347 24*	sessin (pavese@E60ACE6.5FF6034.8EB216F.IP24) has left
+T 1560058353 24*	Tolrin has quit (Ping timeout: 240 seconds)
+T 1560058366 23*	raride (~raride@Rizon-4C07C8FA.b49640.syd.nbn.aussiebb.net23) has joined
+T 1560058386 23*	mkvenner14 (~mkvenner1@A044C8FB.CAACEF33.4F3A79CB.IP23) has joined
+T 1560058388 23*	havely (~lanphear@Rizon-449F6A7.mc.videotron.ca23) has joined
+T 1560058407 23*	aarong (~AaronG@Rizon-1234BDD1.dhcp.lncy.or.charter.com23) has joined
+T 1560058420 24*	Phate has quit (Ping timeout: 240 seconds)
+T 1560058431 23*	tempo_doeloe (~lakonsama@Rizon-8582AA7B.tpgi.com.au23) has joined
+T 1560058482 23*	Omega_42 (~Omega42@Rizon-DFF09851.dip0.t-ipconnect.de23) has joined
+T 1560058516 24*	Omega42 has quit (Ping timeout: 240 seconds)
+T 1560058516 24*	28Omega_42 is now known as 18Omega42
+T 1560058532 23*	OneBar1 (~OneBar@6270A227.2A5EFCCB.EC7D9848.IP23) has joined
+T 1560058566 23*	Acer__ (~Fidazzle@Rizon-34D69A5C.static.mtpk.ca.charter.com23) has joined
+T 1560058597 24*	OneBar has quit (Ping timeout: 240 seconds)
+T 1560058605 23*	SnipeBlue (~SnipeBlue@EBBE11A7:61C245F8:CEABA245:IP23) has joined
+T 1560058607 24*	saviho has quit (Read error: Connection reset by peer)
+T 1560058626 23*	yofixe (~yofixe@471F279D:776E503F:A40056E9:IP23) has joined
+T 1560058678 23*	stormyskye (~stormyske@Rizon-EC0E1764.hsd1.ca.comcast.net23) has joined
+T 1560058700 23*	minim (~minim@5DB22765:2AC3FAA4:FADD55B3:IP23) has joined
+T 1560058719 23*	Wardub (~Wardub@Rizon-72FD55AA.dhcp6.chtrptr.net23) has joined
+T 1560058732 24*	havely (~lanphear@Rizon-449F6A7.mc.videotron.ca24) has left
+T 1560058742 24*	aarong has quit (Ping timeout: 240 seconds)
+T 1560058782 23*	mccolley (~polek@4E9BF63.C1597D8.1080F46.IP23) has joined
+T 1560058783 23*	Asus (~Asus@Rizon-3C1D818C.dynamic.kbronet.com.tw23) has joined
+T 1560058827 24*	jefke_ has quit (Quit: Leaving)
+T 1560058833 24*	Iskandar has quit (Read error: Connection reset by peer)
+T 1560058837 24*	Citrusman has quit (Ping timeout: 240 seconds)
+T 1560058880 24*	Youzou has quit (Quit: Leaving)
+T 1560058906 23*	insigopaltus (~androirc@891170AF.7149F79D.FFC12E86.IP23) has joined
+T 1560058916 23*	Mayu (~Mayu@622C91CC.62C8E898.28E5281B.IP23) has joined
+T 1560058930 23*	Cowin (~Cowin@Rizon-9440CFB7.cpe.teksavvy.com23) has joined
+T 1560058931 24*	insigopaltus has quit (Read error: Connection reset by peer)
+T 1560058953 24*	anuraglucifer6411 has quit (Quit: Leaving)
+T 1560058970 23*	takaXD (~taka@A742BB17:2D7E670D:A5304AD5:IP23) has joined
+T 1560058989 23*	Fause (~Fause@Rizon-195E44CF.dhcp.stcd.mn.charter.com23) has joined
+T 1560059002 23*	note7 (~bold@5670B687.D7E4EAB4.4B7CE667.IP23) has joined
+T 1560059004 24*	Casker has quit (Read error: Connection reset by peer)
+T 1560059005 24*	Nomad_ has quit (Quit: Leaving)
+T 1560059027 23*	Gimpy (~Gimpy@Rizon-6A42D18B.nwrknj.fios.verizon.net23) has joined
+T 1560059034 24*	Neofox has quit (Ping timeout: 240 seconds)
+T 1560059065 24*	Kawai has quit (Ping timeout: 240 seconds)
+T 1560059072 23*	insigopaltus (~androirc@37133046.FCC0D8B0.FFC12E86.IP23) has joined
+T 1560059093 24*	Prodox has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1560059094 24*	insigopaltus has quit (Read error: Connection reset by peer)
+T 1560059105 24*	ilyushin has quit (Ping timeout: 240 seconds)
+T 1560059115 24*	Pocolip has quit (Ping timeout: 240 seconds)
+T 1560059131 23*	diamonddust (~evergladi@Rizon-6A677F6C.hsd1.co.comcast.net23) has joined
+T 1560059180 23*	minatosama89 (~minatosam@76336CF1:F5140093:987AC624:IP23) has joined
+T 1560059187 24*	mccolley (~polek@4E9BF63.C1597D8.1080F46.IP24) has left
+T 1560059187 24*	Meep has quit (Read error: Connection reset by peer)
+T 1560059194 23*	insigopaltus (~androirc@37133046.FCC0D8B0.FFC12E86.IP23) has joined
+T 1560059197 23*	Kawai (~Kawai@Rizon-926FFF09.dsl.dyn.forthnet.gr23) has joined
+T 1560059217 23*	hinsch (~matayosh@72233B0.501B033.38C8E3D.IP23) has joined
+T 1560059229 23*	poiytu (~poiytu@55C765F6.FF684A12.86E6EF03.IP23) has joined
+T 1560059300 23*	tequov (~tequov@160CB225:FA5ABF46:27DEFED1:IP23) has joined
+T 1560059300 24*	tequov has quit (Read error: Connection reset by peer)
+T 1560059300 24*	soawkalm has quit (Ping timeout: 240 seconds)
+T 1560059344 23*	otBBo (~otBvio@21B763AE.5457EB29.FE3EEAB9.IP23) has joined
+T 1560059356 24*	insigopaltus has quit (Remote host closed the connection)
+T 1560059388 23*	insigopaltus (~androirc@E488AC64.DADB14EE.FFC12E86.IP23) has joined
+T 1560059392 24*	chasse has quit ()
+T 1560059408 23*	koreanbbqgrill (~koreanbbq@Rizon-EDDE1795.washdc.fios.verizon.net23) has joined
+T 1560059415 24*	coffeeiazo has quit (Read error: Connection reset by peer)
+T 1560059416 24*	koreanbbqgrill has quit (Remote host closed the connection)
+T 1560059416 24*	insigopaltus has quit (Read error: Connection reset by peer)
+T 1560059458 23*	coolkid1 (~coolkid@Rizon-AB8CE22A.nc.res.rr.com23) has joined
+T 1560059485 23*	insigopaltus (~androirc@E488AC64.DADB14EE.FFC12E86.IP23) has joined
+T 1560059487 24*	poiytu has quit ()
+T 1560059494 24*	nguye_ has quit (Quit: Leaving)
+T 1560059494 24*	nguye has quit (Quit: Leaving)
+T 1560059503 23*	tmd (~philipson@Rizon-D167C8AF.singnet.com.sg23) has joined
+T 1560059542 24*	Budi0812 has quit (Remote host closed the connection)
+T 1560059545 24*	Cowin has quit (Quit: Leaving)
+T 1560059551 23*	Budi0812 (~Budi0812@4B9F674.84658746.537895F0.IP23) has joined
+T 1560059566 24*	otBio has quit (Ping timeout: 240 seconds)
+T 1560059568 23*	garepe (~garepe@Rizon-E815E38B.nycmny.fios.verizon.net23) has joined
+T 1560059573 24*	UnknownSoldier has quit (Read error: Connection reset by peer)
+T 1560059577 23*	RPM_ (~RPM@Rizon-27BF3370.lightspeed.miamfl.sbcglobal.net23) has joined
+T 1560059601 24*	Mayu has quit (Quit: Leaving)
+T 1560059624 24*	RPM_ (~RPM@Rizon-27BF3370.lightspeed.miamfl.sbcglobal.net24) has left
+T 1560059625 24*	Bob has quit (Quit: Leaving)
+T 1560059661 24*	Khilandros has quit (Quit: 03.�02�03UPP02�03�.)
+T 1560059667 23*	birdman (~malp@ED37D5C2.48E87FBB.538E00DC.IP23) has joined
+T 1560059690 23*	pi1 (~pi@Rizon-67F6CEA1.cpe.teksavvy.com23) has joined
+T 1560059694 24*	kupochan has quit (Quit: Leaving)
+T 1560059772 24*	hinsch (~matayosh@72233B0.501B033.38C8E3D.IP24) has left
+T 1560059808 23*	mitchel (~alrod@BEAD0AA.210D70E.6B90A23.IP23) has joined
+T 1560059808 23*	nguye (~nguye@79E81771.EEF8BD96.89DEF32F.IP23) has joined
+T 1560059816 23*	nguye_ (~nguye@79E81771.EEF8BD96.89DEF32F.IP23) has joined
+T 1560059821 24*	WillYang has quit (Read error: Connection reset by peer)
+T 1560059829 23*	vdn20 (~vdn20@Rizon-794C37FC.hsd1.ca.comcast.net23) has joined
+T 1560059834 24*	Red_Ragnarok has quit (Read error: Connection reset by peer)
+T 1560059838 24*	diamonddust has quit (Quit: Leaving)
+T 1560059841 23*	chicken (~chicken@EF6764EF.F0F336C.4E9BD775.IP23) has joined
+T 1560059844 24*	canova has quit (Ping timeout: 240 seconds)
+T 1560059849 23*	Red_Ragnarok (~Red_Ragna@Rizon-2569F80E.dsl.teksavvy.com23) has joined
+T 1560059866 23*	Gimps (~Gimpy@Rizon-6A42D18B.nwrknj.fios.verizon.net23) has joined
+T 1560059872 23*	sowiti (~sowiti@601262E7.A0A18FDA.7CA8C9EB.IP23) has joined
+T 1560059885 24*	insigopaltus has quit (Remote host closed the connection)
+T 1560059903 24*	BanjoFuzz has quit (Read error: Connection reset by peer)
+T 1560059905 23*	insigopaltus (~androirc@E488AC64.DADB14EE.FFC12E86.IP23) has joined
+T 1560059908 23*	Bruiser (~Jack@EC8C6B0E.49E888CB.835705A.IP23) has joined
+T 1560059911 24*	Bruiser has quit (Read error: Connection reset by peer)
+T 1560059913 23*	sasukeskapa (~sasukeska@Rizon-B8C512DE.pool.digikabel.hu23) has joined
+T 1560060016 24*	Gimpy has quit (Ping timeout: 240 seconds)
+T 1560060022 23*	GertnasPi (~Thomas@Rizon-B5BD05E4.w86-218.abo.wanadoo.fr23) has joined
+T 1560060023 23*	Thomas_ (~Thomas@Rizon-B5BD05E4.w86-218.abo.wanadoo.fr23) has joined
+T 1560060026 24*	insigopaltus has quit (Remote host closed the connection)
+T 1560060030 24*	Thomas_ has quit (Read error: Connection reset by peer)
+T 1560060033 23*	knowleech (~knowleech@Rizon-78AC2B6A.dip0.t-ipconnect.de23) has joined
+T 1560060058 23*	insigopaltus (~androirc@DA22F70.FCC0D8B0.FFC12E86.IP23) has joined
+T 1560060065 23*	bosami (~bosami@Rizon-A38FC9F2.dsl.bell.ca23) has joined
+T 1560060084 24*	note7 has quit ()
+T 1560060108 24*	Ekard has quit (Quit: Leaving)
+T 1560060109 23*	hungrynublet (~db@Rizon-859CA91B.hsd1.ca.comcast.net23) has joined
+T 1560060110 24*	insigopaltus has quit (Remote host closed the connection)
+T 1560060118 23*	Garward (~Garward@Rizon-13D8E75C.hsd1.mn.comcast.net23) has joined
+T 1560060131 24*	sowiti has quit (Remote host closed the connection)
+T 1560060145 23*	dvorak89 (~dvorak89@A698D70B.4E5D34FA.53F43230.IP23) has joined
+T 1560060145 23*	sowiti (~sowiti@601262E7.A0A18FDA.7CA8C9EB.IP23) has joined
+T 1560060153 23*	Lobo (~dark@A7399F85:80FDBDF0:E12DDFED:IP23) has joined
+T 1560060168 23*	insigopaltus (~androirc@DA22F70.FCC0D8B0.FFC12E86.IP23) has joined
+T 1560060223 24*	Tartarga has quit (Ping timeout: 240 seconds)
+T 1560060227 23*	linkscrems (~linkscrem@Rizon-9827BE0E.hsd1.ca.comcast.net23) has joined
+T 1560060235 23*	Rhttt (~Rho124@D9157A40.DFD4BA76.384816C0.IP23) has joined
+T 1560060250 24*	birdman has quit (Ping timeout: 240 seconds)
+T 1560060252 24*	radii has quit (Ping timeout: 240 seconds)
+T 1560060255 24*	exiledd11 has quit (Read error: Connection reset by peer)
+T 1560060255 24*	Jay_ has quit (Quit: Leaving)
+T 1560060297 24*	schizo has quit (Quit: ZNC - https://znc.in)
+T 1560060339 24*	mitchel (~alrod@BEAD0AA.210D70E.6B90A23.IP24) has left
+T 1560060343 23*	Cleverness (~clevernes@Rizon-A82C4627.dyn.optonline.net23) has joined
+T 1560060347 24*	insigopaltus has quit (Remote host closed the connection)
+T 1560060377 23*	athalone (~chirinos@Rizon-3D95A5E.liwest.at23) has joined
+T 1560060388 24*	sowiti has quit (Ping timeout: 240 seconds)
+T 1560060395 24*	Gainey has quit (Quit: Leaving)
+T 1560060399 23*	matth (~matth@Rizon-A0AA09A6.mas1.nsw.optusnet.com.au23) has joined
+T 1560060402 23*	schizo (~schizo@40214328:6A9A5899:6D8EED05:IP23) has joined
+T 1560060411 24*	Rho122 has quit (Ping timeout: 240 seconds)
+T 1560060418 23*	Steakncheesey (~Steaknche@Rizon-34EB2F01.pa.vic.optusnet.com.au23) has joined
+T 1560060431 24*	champagne has quit (Read error: Connection reset by peer)
+T 1560060471 24*	Tohro-dono has quit (Remote host closed the connection)
+T 1560060478 23*	Tohro-dono (~tohru@C5E17EB5.570E81B5.E09954AA.IP23) has joined
+T 1560060553 23*	payday99999 (~payday999@CAE642EC.39B35BF9.E09954AA.IP23) has joined
+T 1560060554 24*	Ladholyman has quit ()
+T 1560060568 24*	Gimps has quit (Remote host closed the connection)
+T 1560060569 23*	bino (~bino@CA92CE27.8849D421.3A82D9C7.IP23) has joined
+T 1560060573 24*	forexjammer has quit (Read error: Connection reset by peer)
+T 1560060579 24*	misskasha has quit (Read error: Connection reset by peer)
+T 1560060580 23*	forexjammer (~forexjamm@DA455873:8FDB57C1:E11F493E:IP23) has joined
+T 1560060581 23*	Gimps (~Gimpy@Rizon-6A42D18B.nwrknj.fios.verizon.net23) has joined
+T 1560060587 23*	misskasha (~MissKasha@Rizon-E03D30B0.hsd1.nh.comcast.net23) has joined
+T 1560060596 24*	FleetingAura has quit ()
+T 1560060620 23*	Yukoko (~Ikuko@Rizon-EF43C870.dynamic.kabel-deutschland.de23) has joined
+T 1560060622 23*	jagoxi (~jagoxi@17B103FA.791A323D.8D1C6678.IP23) has joined
+T 1560060635 23*	ManiacDC (~Maniac@Rizon-58858F01.hsd1.ma.comcast.net23) has joined
+T 1560060649 23*	youyou (~youyou@Rizon-9F595159.catv296.ne.jp23) has joined
+T 1560060651 23*	jonny1971 (~jonny@Rizon-D62AA27A.dyn.eolo.it23) has joined
+T 1560060663 23*	gacebi (~gacebi@B416A359.BF417AC4.216F072D.IP23) has joined
+T 1560060668 23*	grom_ (~grom_@E0E7BADD.C5D36D08.A4DBB6F7.IP23) has joined
+T 1560060677 24*	gacebi has quit (Read error: Connection reset by peer)
+T 1560060715 24*	bino__ has quit (Ping timeout: 240 seconds)
+T 1560060723 23*	Zero46 (~zero46@Rizon-9E5D3105.hsi7.kabel-badenwuerttemberg.de23) has joined
+T 1560060730 24*	Doonthelis has quit (Quit: Leaving)
+T 1560060731 23*	insigopaltus (~androirc@BF6DEF77.DADB14EE.FFC12E86.IP23) has joined
+T 1560060737 23*	Kogutou (~kogutou@C10203AA.9CF8893F.C679193.IP23) has joined
+T 1560060745 24*	athalone (~chirinos@Rizon-3D95A5E.liwest.at24) has left
+T 1560060749 24*	jonny has quit (Ping timeout: 240 seconds)
+T 1560060766 23*	leffelman (~costabil@8851AAF.3D6158F.0D9B7FF.IP23) has joined
+T 1560060766 24*	insigopaltus has quit (Read error: Connection reset by peer)
+T 1560060770 24*	Avalon_ has quit (Quit: Leaving)
+T 1560060807 23*	insigopaltus (~androirc@BF6DEF77.DADB14EE.FFC12E86.IP23) has joined
+T 1560060807 23*	blarg (~blarg@Rizon-795BFA76.fibre.fibrestream.ca23) has joined
+T 1560060822 23*	gacebi (~gacebi@B416A359.BF417AC4.216F072D.IP23) has joined
+T 1560060827 24*	Buzzzzzz has quit (Quit: Leaving)
+T 1560060843 24*	matth has quit ()
+T 1560060843 24*	insigopaltus has quit (Read error: Connection reset by peer)
+T 1560060865 24*	jagoxi has quit (Ping timeout: 240 seconds)
+T 1560060868 24*	Acer__ has quit (Ping timeout: 240 seconds)
+T 1560060869 23*	tanona (~tanona@5ADD2417.42F8300.AFAD1EFF.IP23) has joined
+T 1560060904 23*	crimsan (~crimsin@Rizon-819BF3F9.hsd1.md.comcast.net23) has joined
+T 1560060928 23*	anon43257 (~anon9463@Rizon-36B0F9C4.direct-adsl.nl23) has joined
+T 1560060946 23*	gagaca (~gagaca@Rizon-1461F5C7.dyn.iinet.net.au23) has joined
+T 1560060982 24*	anon43257 has quit ()
+T 1560060987 24*	Red_Ragnarok has quit (Ping timeout: 240 seconds)
+T 1560061003 23*	DumbyS (~androirc@Rizon-F6638BFF.cust.vodafone.cz23) has joined
+T 1560061009 24*	BDruid has quit (Quit: Leaving)
+T 1560061021 24*	DumbyS has quit (Read error: Connection reset by peer)
+T 1560061027 24*	anana has quit (Ping timeout: 240 seconds)
+T 1560061030 23*	Dumbym (~androirc@Rizon-F6638BFF.cust.vodafone.cz23) has joined
+T 1560061032 24*	Dumbym has quit ()
+T 1560061039 23*	BDruid (~billy@979F54BB.E49280C5.CE2C0498.IP23) has joined
+T 1560061047 24*	Kogutou has quit (Ping timeout: 240 seconds)
+T 1560061056 23*	Dumbym (~androirc@Rizon-F6638BFF.cust.vodafone.cz23) has joined
+T 1560061061 24*	Garward has quit (Quit: HexChat: http://www.hexchat.org)
+T 1560061063 24*	gacebi has quit (Ping timeout: 240 seconds)
+T 1560061070 24*	H-S-A has quit (Quit: Leaving)
+T 1560061073 23*	anana (~androirc@Rizon-564B45FC.dynamic.kabel-deutschland.de23) has joined
+T 1560061114 23*	paxiko (~paxiko@20981AD2.86DD382D.6852EA5F.IP23) has joined
+T 1560061162 24*	Lobo has quit (Remote host closed the connection)
+T 1560061170 24*	knowleech has quit (Quit: Leaving)
+T 1560061172 23*	Lobo (~dark@A7399F85:80FDBDF0:E12DDFED:IP23) has joined
+T 1560061172 24*	leffelman (~costabil@8851AAF.3D6158F.0D9B7FF.IP24) has left
+T 1560061190 24*	BDruid has quit ()
+T 1560061197 24*	Cherrii has quit (Ping timeout: 240 seconds)
+T 1560061205 23*	mussenden (~coll@B20D3CC.07A3450.1583703.IP23) has joined
+T 1560061253 23*	jabawo (~jabawo@Rizon-4EC5B583.ed.shawcable.net23) has joined
+T 1560061258 24*	jabawo has quit (Read error: Connection reset by peer)
+T 1560061335 24*	crimsan has quit ()
+T 1560061338 24*	nguye_ has quit (Ping timeout: 240 seconds)
+T 1560061338 24*	nguye has quit (Ping timeout: 240 seconds)
+T 1560061361 24*	TKW has quit (Ping timeout: 240 seconds)
+T 1560061401 23*	mutopis (~mutopis@F35D1621:B75D89A5:D975408D:IP23) has joined
+T 1560061450 24*	yofixe has quit (Read error: Connection reset by peer)
+T 1560061455 24*	minim has quit (Quit: Leaving)
+T 1560061477 24*	bosami has quit (Ping timeout: 240 seconds)
+T 1560061492 23*	dangerzone (~dangerzon@10144CB1.2DB75192.E72AA2EE.IP23) has joined
+T 1560061512 24*	pejexi has quit (Read error: Connection reset by peer)
+T 1560061513 23*	smartini (~giozkgfjk@CA382E8C.D388414D.E3266C7B.IP23) has joined
+T 1560061514 24*	Bridosaure has quit (Ping timeout: 240 seconds)
+T 1560061533 24*	mkvenner14 has quit (Remote host closed the connection)
+T 1560061552 23*	minatosama89_ (~minatosam@76336CF1:F5140093:987AC624:IP23) has joined
+T 1560061559 23*	xasopa (~xasopa@Rizon-AF2C0A4A.hsd1.wa.comcast.net23) has joined
+T 1560061568 24*	RyryTheBold has quit (Quit: Leaving)
+T 1560061603 23*	ZeroSafe (~ZeroSafe@Rizon-F6C07C07.dhcp.oxfr.ma.charter.com23) has joined
+T 1560061607 24*	minatosama89 has quit (Ping timeout: 240 seconds)
+T 1560061648 24*	mutopis has quit ()
+T 1560061672 23*	Chronolf (~Chronolf@Rizon-71C2D761.static.user.transix.jp23) has joined
+T 1560061677 24*	Chronolf has quit ()
+T 1560061686 23*	abcdefg (~Blua@Rizon-58E32EF.dip0.t-ipconnect.de23) has joined
+T 1560061698 24*	Courageo has quit (Quit: Leaving)
+T 1560061704 23*	Vregat (~Vregat@CBDA51D5.1430C828.A0D157A7.IP23) has joined
+T 1560061710 23*	KamuiHOTS (~KamuiHOTS@Rizon-3A24433A.nycmny.fios.verizon.net23) has joined
+T 1560061710 23*	Chronolf (~Chronolf@Rizon-71C2D761.static.user.transix.jp23) has joined
+T 1560061711 24*	mussenden (~coll@B20D3CC.07A3450.1583703.IP24) has left
+T 1560061730 23*	elewa (~isip@A2DF0D2.24FB4F6.93712BC.IP23) has joined
+T 1560061741 23*	Djorbus (~Djorbus@Rizon-3ECCAE49.dhcp.mdsn.wi.charter.com23) has joined
+T 1560061748 24*	loveylily has quit (Ping timeout: 240 seconds)
+T 1560061763 23*	minatosama89__ (~minatosam@76336CF1:F5140093:987AC624:IP23) has joined
+T 1560061763 23*	Tennouji (~Tennouji@EE2FEB43.51D0307B.28E5281B.IP23) has joined
+T 1560061766 24*	ZeroSafe has quit ()
+T 1560061807 23*	woofson (~woofson@Rizon-8669D09.res.spectrum.com23) has joined
+T 1560061822 23*	vexojo (~vexojo@Rizon-9D4E0B59.nycmny.fios.verizon.net23) has joined
+T 1560061833 24*	Vregat has quit ()
+T 1560061837 24*	tahapo has quit (Read error: Connection reset by peer)
+T 1560061839 23*	minatosama89 (~minatosam@76336CF1:F5140093:987AC624:IP23) has joined
+T 1560061843 23*	bosami (~bosami@Rizon-A38FC9F2.dsl.bell.ca23) has joined
+T 1560061881 24*	paxiko has quit (Read error: Connection reset by peer)
+T 1560061885 23*	cikabona (~Bona@83A58E48.7167A1C5.7FE04B61.IP23) has joined
+T 1560061888 23*	Edryll22 (~Edryll22@94BD9E15.3D6D7E16.452C1A0D.IP23) has joined
+T 1560061891 23*	coldarmpits_ (~coldarmpi@9D99A661:953E3D3F:25DC89F7:IP23) has joined
+T 1560061913 24*	dvorak89 has quit (Quit: Leaving)
+T 1560061919 23*	nguye (~nguye@5E01B6A2.C5D79353.6E57E15A.IP23) has joined
+T 1560061933 23*	nguye_ (~nguye@5E01B6A2.C5D79353.6E57E15A.IP23) has joined
+T 1560061933 24*	Dumbym has quit (Read error: Connection reset by peer)
+T 1560061936 24*	coldarmpits__ has quit (Ping timeout: 240 seconds)
+T 1560061938 24*	minatosama89_ has quit (Ping timeout: 240 seconds)
+T 1560061938 24*	blarg has quit (Quit: Leaving)
+T 1560061953 24*	Ankit has quit (Ping timeout: 240 seconds)
+T 1560061969 24*	abcdefg has quit ()
+T 1560062006 23*	aarong (~AaronG@Rizon-1234BDD1.dhcp.lncy.or.charter.com23) has joined
+T 1560062007 24*	minatosama89__ has quit (Ping timeout: 240 seconds)
+T 1560062030 23*	Starz (~Starz@Rizon-547128E2.res.spectrum.com23) has joined
+T 1560062034 23*	minatosama89_ (~minatosam@76336CF1:F5140093:987AC624:IP23) has joined
+T 1560062041 23*	satsuki (~satsuki@417A52E8:7201928B:6284C4B3:IP23) has joined
+T 1560062049 24*	28satsuki is now known as 18hyakko
+T 1560062051 23*	BDruid (~billy@2DECA468.E49280C5.CE2C0498.IP23) has joined
+T 1560062102 23*	Alpinevelo (~Alpinevel@Rizon-3ED0CEB0.ph.ph.cox.net23) has joined
+T 1560062132 24*	minatosama89 has quit (Ping timeout: 240 seconds)
+T 1560062184 24*	tempo_doeloe has quit (Ping timeout: 240 seconds)
+T 1560062224 23*	Ankit (~Ankit@39389D2B:2045BEC2:8686C465:IP23) has joined
+T 1560062226 24*	PyourK has quit (Read error: Connection reset by peer)
+T 1560062233 23*	starfox31114 (~starfox31@45F98D07.307D2DDA.B9A77F5A.IP23) has joined
+T 1560062267 24*	S3RG10 has quit (Quit: Leaving)
+T 1560062268 23*	Mindeye (~kvirc@Rizon-1E9A060E.pool85-48-40.dynamic.orange.es23) has joined
+T 1560062277 23*	handsome (~handsome@Rizon-90C1C592.lightspeed.stlsmo.sbcglobal.net23) has joined
+T 1560062278 24*	Ankit has quit (Remote host closed the connection)
+T 1560062295 23*	co-chi (~Yanto@E19C2A08.93A44DC3.96ABDDA1.IP23) has joined
+T 1560062297 23*	Kazumaru (~Kazumaru@AE47A949:72DA545A:381907D8:IP23) has joined
+T 1560062307 24*	xasopa has quit (Ping timeout: 240 seconds)
+T 1560062312 24*	elewa (~isip@A2DF0D2.24FB4F6.93712BC.IP24) has left
+T 1560062331 24*	mishaguchisama has quit (Read error: Connection reset by peer)
+T 1560062335 23*	Komari_Azu (~Komari_Az@FB7F656F.DECCB54B.DE4B12D8.IP23) has joined
+T 1560062338 23*	gums (~ardizone@A504A1A.A1011CC.AF60AE8.IP23) has joined
+T 1560062342 24*	aarong has quit (Ping timeout: 240 seconds)
+T 1560062345 24*	hyakko has quit ()
+T 1560062377 23*	the_Lost_Cause (~L0stCause@Rizon-71548943.san.res.rr.com23) has joined
+T 1560062383 24*	linkscrems has quit (Quit: Leaving)
+T 1560062390 24*	whiskey has quit (Quit: Konversation terminated!)
+T 1560062415 24*	anana has quit (Remote host closed the connection)
+T 1560062433 24*	MielonMusk has quit (Ping timeout: 240 seconds)
+T 1560062450 23*	crabbyrabbit (~crabbyrab@Rizon-8CE2A70D.socal.res.rr.com23) has joined
+T 1560062502 23*	MaxCapacitor (~MaxCapaci@ea.mithril.nani23) has joined
+T 1560062546 23*	Vikage (~psv_m@Rizon-8F3A18A0.rev.sfr.net23) has joined
+T 1560062565 23*	soulreaver45 (~kvirc@Rizon-617E01D0.dip0.t-ipconnect.de23) has joined
+T 1560062624 23*	MielonMusk (~androirc@Rizon-C70DE475.neoplus.adsl.tpnet.pl23) has joined
+T 1560062672 23*	jointy (~jointy@Rizon-78CECC0C.dynamic.v6.chello.sk23) has joined
+T 1560062723 23*	moomoochoo (~moomoocho@Rizon-D5B3EE6F.pa.nsw.optusnet.com.au23) has joined
+T 1560062744 23*	nanoshii (~nano@435E645E.F7939CEB.1C101108.IP23) has joined
+T 1560062756 24*	Kazumaru has quit ()
+T 1560062757 24*	tmd has quit (Quit: Leaving)
+T 1560062761 23*	Prown (~Proj@Rizon-85F2BC9F.dhcp.lnbh.ca.charter.com23) has joined
+T 1560062766 23*	way2quik- (~way2quik@Rizon-3360B19C.bchsia.telus.net23) has joined
+T 1560062768 23*	Kazumaru (~Kazumaru@AE47A949:72DA545A:381907D8:IP23) has joined
+T 1560062771 24*	MaxCapacitor has quit ()
+T 1560062789 24*	famowo has quit (Ping timeout: 240 seconds)
+T 1560062815 24*	Vikage has quit ()
+T 1560062817 24*	joshu__ has quit (Quit: Leaving)
+T 1560062822 23*	joshu__ (~joshu@Rizon-39B979D4.pools.spcsdns.net23) has joined
+T 1560062847 24*	Rhttt has quit (Quit: Leaving)
+T 1560062856 24*	gums (~ardizone@A504A1A.A1011CC.AF60AE8.IP24) has left
+T 1560062897 23*	marasigan (~ovdenk@12762BC.3663FFF.521831E.IP23) has joined
+T 1560062905 23*	celimo (~celimo@EDADD5E8.7F030843.39E48453.IP23) has joined
+T 1560062909 24*	ditzyowl has quit (Quit: Leaving)
+T 1560062920 23*	vulcanodon (~vulcanodo@1B8452B7:B9F09CE0:AA72A213:IP23) has joined
+T 1560062923 23*	Adavon (~Adavon@Rizon-C47EB2D9.twcny.res.rr.com23) has joined
+T 1560062926 23*	kee (~kee@3653D2EE.326F9280.A7E8F279.IP23) has joined
+T 1560062934 23*	tgeoxy11 (~androirc@77031F05:2780D4B7:632C5A27:IP23) has joined
+T 1560062968 24*	celimo has quit (Read error: Connection reset by peer)
+T 1560062968 24*	vdn20 has quit (Quit:  Want to be different? Try HydraIRC -> http://www.hydrairc.com <-)
+T 1560063006 24*	Mindeye has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1560063028 23*	Kogutou (~kogutou@C10203AA.9CF8893F.C679193.IP23) has joined
+T 1560063030 23*	Mariano (~Mariano@B5B0D863:D68DBEDD:19F34FC8:IP23) has joined
+T 1560063051 23*	way2quik-- (~way2quik@C50F713B.B83506BF.38107B0.IP23) has joined
+T 1560063053 23*	ImaNguyener (~Username@F7B6B867.23E72ED1.E4E32221.IP23) has joined
+T 1560063061 24*	Kazumaru has quit ()
+T 1560063064 24*	soulreaver45 has quit ()
+T 1560063068 24*	Adavon has quit ()
+T 1560063076 24*	Mariano has quit ()
+T 1560063101 24*	Penetration has quit (Ping timeout: 240 seconds)
+T 1560063104 23*	bakesa (~bakesa@Rizon-F8FFB590.dyn6.twc.com23) has joined
+T 1560063126 24*	nanoshii has quit (Read error: Connection reset by peer)
+T 1560063144 24*	moomoochoo has quit ()
+T 1560063150 23*	DumbyS (~DumbyS@Rizon-29093B2C.customer.interconnect.cz23) has joined
+T 1560063159 23*	Nickey (~nickey@Rizon-3D3746DD.seedhost.eu23) has joined
+T 1560063206 24*	Pene has quit (Ping timeout: 240 seconds)
+T 1560063213 23*	Nick3y (~nickey@Rizon-93E85D42.dip0.t-ipconnect.de23) has joined
+T 1560063215 24*	Nick3y has quit (Remote host closed the connection)
+T 1560146226 19*	Now talking on 22#HorribleSubs
+T 1560146226 22*	Topic for 22#HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560146226 22*	Topic for 22#HorribleSubs set by 26[M]-V!MV@The.Anime.God (24Wed Jan  9 17:36:59 2019)
+T 1560146227 -18Horribly-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560146233 23*	abhi10 (~abhi_10@8FBFE125:62AAC89A:64191AE0:IP23) has joined
+T 1560146243 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146260 >18CR-ARCHIVE|SD<	xdcc send #17996
+T 1560146261 24*	18CR-ARCHIVE|SD has offered '23[HorribleSubs] Shingeki no Kyojin S3 - 56 [480p].mkv' (24205190270 bytes)
+T 1560146262 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146263 24*	Absalon has quit (Quit: Leaving)
+T 1560146269 24*	DCC RECV connection established to 18CR-ARCHIVE|SD 30[2423.29.114.200:5620130]
+T 1560146279 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146284 24*	Moas11 has quit (Ping timeout: 240 seconds)
+T 1560146293 24*	ritelyper has quit (Ping timeout: 240 seconds)
+T 1560146295 24*	PaperDerp[MMM] has quit ()
+T 1560146300 24*	runeswagger has quit (Quit: Leaving)
+T 1560146311 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146328 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146347 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146350 24*	rosane (~crusan@Rizon-BFF1D7D.cpe.net.cable.rogers.com24) has left
+T 1560146359 23*	pedroso (~tharnish@049C849.ED7BB61.63E61C6.IP23) has joined
+T 1560146359 23*	tako (~tako@Rizon-13676B76.lightspeed.snmtca.sbcglobal.net23) has joined
+T 1560146364 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146380 23*	steelgolem_ (~SteelGole@Rizon-A9F4B9C.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1560146384 22*	26Horribly gives voice to 18steelgolem_
+T 1560146386 24*	PaperDerp has quit (Ping timeout: 240 seconds)
+T 1560146386 23*	redpanda (~redpanda@Rizon-A720FE5.lightspeed.mmphtn.sbcglobal.net23) has joined
+T 1560146401 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146419 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146438 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146448 23*	frrtr (~frrtr@5A1B621C.9788AAFE.25B41B1E.IP23) has joined
+T 1560146452 18<22EurekaRenton18>	 /msg CR-ARCHIVE|720p xdcc send #14741
+T 1560146452 23*	doomoid (~doomoid@Rizon-C1C04553.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1560146455 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146468 24*	Tartarga has quit (Ping timeout: 240 seconds)
+T 1560146477 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146495 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146511 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146528 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146551 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146552 24*	Yukoko has quit (Quit: Leaving)
+T 1560146552 23*	pesite (~pesite@Rizon-651917FF.oc.oc.cox.net23) has joined
+T 1560146557 24*	steelgolem has quit (Ping timeout: 240 seconds)
+T 1560146568 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146586 24*	Prown has quit (Read error: Connection reset by peer)
+T 1560146595 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146612 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146629 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146631 23*	rosydaqbar (~rosydaqba@3C918F39.ED2381C6.7AF5C24B.IP23) has joined
+T 1560146646 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146651 23*	ceomi (~ceomi@Rizon-1504E8CA.dhcp.mdfd.or.charter.com23) has joined
+T 1560146662 23*	BabyMagnum (~HeavyObje@CE8FB1A4.F4FF32C9.79D0BFCC.IP23) has joined
+T 1560146672 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146677 24*	whiskey has quit (Quit: Konversation terminated!)
+T 1560146682 24*	tako has quit (Ping timeout: 240 seconds)
+T 1560146689 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146708 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146715 23*	Kairu-san (~kvirc@66883647.6C062705.FEFEA10.IP23) has joined
+T 1560146722 23*	diamonddust (~evergladi@Rizon-6A677F6C.hsd1.co.comcast.net23) has joined
+T 1560146725 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146729 24*	kichimi has quit (Remote host closed the connection)
+T 1560146744 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146752 24*	all4n has quit (Ping timeout: 240 seconds)
+T 1560146761 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146767 23*	ticeme (~ticeme@FFF6DAAC:8665BF36:DFC49840:IP23) has joined
+T 1560146772 24*	pedroso (~tharnish@049C849.ED7BB61.63E61C6.IP24) has left
+T 1560146790 24*	chaosdragon0000 has quit (Ping timeout: 240 seconds)
+T 1560146795 23*	cookerly (~conditt@Rizon-89EB8F8.pool871.interbusiness.it23) has joined
+T 1560146805 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146822 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146839 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146856 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146868 24*	kevafa has quit (Read error: Connection reset by peer)
+T 1560146877 24*	pesite has quit (Ping timeout: 240 seconds)
+T 1560146879 24*	Statue has quit (Remote host closed the connection)
+T 1560146885 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560146888 24*	Dresden has quit (Quit: Leaving)
+T 1560146898 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146900 23*	kichimi (~cat@eat.the.poo.poo23) has joined
+T 1560146905 23*	Bleb (~Blebr@Rizon-5D21C370.robinson.cam.ac.uk23) has joined
+T 1560146915 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146927 24*	abhi10 has quit (Ping timeout: 240 seconds)
+T 1560146941 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146958 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560146977 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560146978 24*	Tserge has quit (Ping timeout: 240 seconds)
+T 1560146994 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147002 23*	PaperDerp (~PaperDerp@Rizon-D4B32708.albyny.fios.verizon.net23) has joined
+T 1560147012 23*	genj1 (~christoph@Rizon-34478CA1.dyn.optonline.net23) has joined
+T 1560147016 23*	nkpyo (~nkp@Rizon-B701010.hfc.comcastbusiness.net23) has joined
+T 1560147031 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147034 23*	ManiacDC (~Maniac@Rizon-58858F01.hsd1.ma.comcast.net23) has joined
+T 1560147048 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147055 23*	pesite (~pesite@Rizon-651917FF.oc.oc.cox.net23) has joined
+T 1560147063 23*	test345 (~test1254@Rizon-7641F3A1.alshamil.net.ae23) has joined
+T 1560147072 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147089 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147092 24*	Nidorix has quit (Quit: Always try to be modest, and be proud about it!)
+T 1560147105 23*	Amakza (~Amakza@Rizon-A5EF2BB.ppp-bb.dion.ne.jp23) has joined
+T 1560147109 23*	MT (~M_T@Rizon-3C2A580E.w92-160.abo.wanadoo.fr23) has joined
+T 1560147119 24*	diamonddust has quit ()
+T 1560147128 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147142 24*	anon99055 has quit (Quit: Leaving)
+T 1560147145 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147162 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147179 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147196 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147202 24*	elwin has quit (Quit: Leaving)
+T 1560147202 24*	pesite has quit (Read error: Connection reset by peer)
+T 1560147213 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147217 24*	Kairu-san has quit ()
+T 1560147227 24*	ticeme has quit (Read error: Connection reset by peer)
+T 1560147228 23*	pesite (~pesite@Rizon-651917FF.oc.oc.cox.net23) has joined
+T 1560147237 23*	quexip (~quexip@Rizon-25212F4E.oc.oc.cox.net23) has joined
+T 1560147239 23*	Rayne (~Love@Rizon-90FD6AED.hsd1.ca.comcast.net23) has joined
+T 1560147245 24*	Fujirenka has quit (Ping timeout: 240 seconds)
+T 1560147255 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147262 24*	nkpyo has quit (Ping timeout: 240 seconds)
+T 1560147272 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147289 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147306 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147306 23*	pavliko (~pavliko@182B3721.A001E446.47F3D6C7.IP23) has joined
+T 1560147331 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147343 24*	code_glitch has quit (Remote host closed the connection)
+T 1560147349 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147358 23*	raride (~raride@Rizon-4C07C8FA.b49640.syd.nbn.aussiebb.net23) has joined
+T 1560147368 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147384 24*	Rizelu has quit (Remote host closed the connection)
+T 1560147386 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147389 24*	quarer has quit (Ping timeout: 240 seconds)
+T 1560147394 24*	gopher has quit (Quit: WeeChat 2.2)
+T 1560147394 24*	cookerly (~conditt@Rizon-89EB8F8.pool871.interbusiness.it24) has left
+T 1560147404 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147422 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147436 24*	coldarmpits__ has quit (Ping timeout: 240 seconds)
+T 1560147436 24*	wandering_fear has quit ()
+T 1560147440 24*	quexip has quit (Read error: Connection reset by peer)
+T 1560147443 24*	Gann_ has quit (Quit: Leaving)
+T 1560147444 23*	frenzel (~blanquet@Rizon-4056F4C.versanet.de23) has joined
+T 1560147445 24*	REAZON has quit (Quit: Leaving)
+T 1560147452 24*	Kryomatics has quit (Ping timeout: 240 seconds)
+T 1560147454 24*	O01eg has quit ()
+T 1560147461 23*	all4n (~princeriv@BFA8ADEF.71DF7C79.71836E3.IP23) has joined
+T 1560147469 23*	maxdig (~dia@1616D266.C2AAA286.FA447E91.IP23) has joined
+T 1560147471 23*	code_glitch (~cd_g_@71642622.F8DB244D.70B11D14.IP23) has joined
+T 1560147481 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147482 24*	BabyMagnum has quit (Ping timeout: 240 seconds)
+T 1560147486 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560147487 23*	coldarmpits (~coldarmpi@EEDC48D1.FEA27FF8.7CC1980D.IP23) has joined
+T 1560147498 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147517 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147532 23*	michkrol (~kvirc@Rizon-2AA50AD2.gdansk.vectranet.pl23) has joined
+T 1560147534 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147548 23*	code_glitch_ (~cd_g_@71642622.F8DB244D.70B11D14.IP23) has joined
+T 1560147558 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147575 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147579 24*	test345 has quit ()
+T 1560147601 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147619 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147634 24*	kaidosempai has quit (Ping timeout: 240 seconds)
+T 1560147645 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147658 23*	Lucas_The_Magnificent (~Lucas_The@Rizon-D0FD22E0.cust.telenor.se23) has joined
+T 1560147663 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147664 24*	fatangel has quit (Quit: Leaving)
+T 1560147679 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147679 23*	demula (~demula@Rizon-E7340433.dip0.t-ipconnect.de23) has joined
+T 1560147696 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147721 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147739 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147750 23*	xohoci (~xohoci@270AE131.56CB4D1B.85189220.IP23) has joined
+T 1560147760 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147777 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147794 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147799 24*	pesite has quit (Read error: Connection reset by peer)
+T 1560147811 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147821 24*	QNeverKnowsBest has quit (Quit: Leaving)
+T 1560147840 24*	xohoci has quit (Read error: Connection reset by peer)
+T 1560147847 23*	kevafa (~kevafa@Rizon-7A080D24.ipv6.telus.net23) has joined
+T 1560147847 23*	xohoci (~xohoci@270AE131.56CB4D1B.85189220.IP23) has joined
+T 1560147854 23*	Inoma (~Inoma@847ED728.D03635D9.612D4377.IP23) has joined
+T 1560147854 24*	kevafa has quit (Read error: Connection reset by peer)
+T 1560147856 24*	redpanda has quit (Quit: Leaving)
+T 1560147871 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147889 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147907 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147922 24*	raride has quit (Read error: Connection reset by peer)
+T 1560147924 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147942 23*	kevafa (~kevafa@Rizon-7A080D24.ipv6.telus.net23) has joined
+T 1560147952 24*	Inoma (~Inoma@847ED728.D03635D9.612D4377.IP24) has left
+T 1560147962 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560147979 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560147990 24*	frenzel (~blanquet@Rizon-4056F4C.versanet.de24) has left
+T 1560147999 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148013 24*	Amakza has quit (Quit: Leaving...)
+T 1560148017 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148023 24*	Nenton has quit ()
+T 1560148033 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148034 23*	delanoy (~sartore@Rizon-93B02BA.rns02-dryb-mel.dsl.comindico.com.au23) has joined
+T 1560148050 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148054 23*	hiroshim (~drew@Rizon-62760715.fibre.fibrestream.ca23) has joined
+T 1560148067 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148081 24*	Mary has quit (Ping timeout: 240 seconds)
+T 1560148084 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148091 24*	code_glitch has quit (Remote host closed the connection)
+T 1560148091 24*	code_glitch_ has quit (Remote host closed the connection)
+T 1560148101 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148119 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148125 24*	ceomi has quit (Quit: Leaving)
+T 1560148129 24*	Bufu has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1560148130 23*	Storaket (~Storaket@Rizon-43F80313.socal.res.rr.com23) has joined
+T 1560148141 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148159 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148171 24*	Lucas_The_Magnificent has quit ()
+T 1560148181 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148185 24*	dragone has quit (Ping timeout: 240 seconds)
+T 1560148198 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148211 24*	nagasaki has quit (Ping timeout: 240 seconds)
+T 1560148221 23*	WQFHUZQAKD (~WQFHUZQAK@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148230 24*	michkrol has quit (Read error: Connection reset by peer)
+T 1560148230 23*	quepid (~quepid@93C666DD:AC2B92CE:AFEC2C94:IP23) has joined
+T 1560148234 24*	KamuiHOTS has quit (Quit: Leaving)
+T 1560148239 23*	Air-Trigger (~airtrigge@75D7BCC7.9294219.EF63E3D6.IP23) has joined
+T 1560148240 23*	Kennylein (~Kennylein@Rizon-BF48507C.hsi01.unitymediagroup.de23) has joined
+T 1560148250 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148265 23*	pesite (~pesite@Rizon-651917FF.oc.oc.cox.net23) has joined
+T 1560148268 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148298 24*	Vagabond_INC has quit (Ping timeout: 240 seconds)
+T 1560148306 24*	pesite has quit (Read error: Connection reset by peer)
+T 1560148310 23*	katifi (~katifi@EDC7AC97:4BAE576B:CDC4DB2:IP23) has joined
+T 1560148321 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148327 23*	chikki (~fred@Rizon-46151777.dyn.telefonica.de23) has joined
+T 1560148333 24*	nima has quit (Ping timeout: 240 seconds)
+T 1560148338 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148347 23*	CAD (~CAD@3464C82F.A9426620.313D4852.IP23) has joined
+T 1560148351 23*	Lorem (~Lorem@Rizon-61DA96E8.west.biz.rr.com23) has joined
+T 1560148361 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148378 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148394 24*	WQFHUZQAKD has quit ()
+T 1560148395 23*	aarong (~AaronG@Rizon-1234BDD1.dhcp.lncy.or.charter.com23) has joined
+T 1560148396 23*	WEPBCROKOT (~WEPBCROKO@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148399 24*	Zoldyck_Killua has quit (Quit: Leaving)
+T 1560148401 23*	kifugin (~KifuGin@DA9373A5.B31CB30E.BB43C68A.IP23) has joined
+T 1560148411 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148414 23*	Skub (~Skub@1DCA3D29:CE59B220:5B87360C:IP23) has joined
+T 1560148428 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148433 24*	quarer has quit (Ping timeout: 240 seconds)
+T 1560148441 23*	orenji (~orenji@73DF466B.346CDDCF.534BD2FE.IP23) has joined
+T 1560148450 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560148456 24*	delanoy (~sartore@Rizon-93B02BA.rns02-dryb-mel.dsl.comindico.com.au24) has left
+T 1560148468 23*	Manic (~Manic@ACE9093E.CA021AAF.9F25AF11.IP23) has joined
+T 1560148472 24*	quarer has quit (Read error: Connection reset by peer)
+T 1560148482 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148484 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560148487 23*	esquinaldo (~sprung@Rizon-01E285B.carolina.res.rr.com23) has joined
+T 1560148492 24*	Henrique has quit (Quit: Leaving)
+T 1560148499 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148508 23*	Reikyuubi (~Reikyuubi@3EF28EAC.7E1F2B8F.C14D28BC.IP23) has joined
+T 1560148516 24*	orenji has quit ()
+T 1560148520 23*	ziggyjrc (~ziggyjrc@4045D2CA:F5454D00:5D476FD9:IP23) has joined
+T 1560148524 24*	Shaik has quit (Ping timeout: 240 seconds)
+T 1560148525 23*	orenji (~orenji@73DF466B.346CDDCF.534BD2FE.IP23) has joined
+T 1560148534 24*	WEPBCROKOT has quit ()
+T 1560148536 23*	AWBJDGTVAC (~AWBJDGTVA@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148544 23*	nima (~kvirc@Rizon-E36EE3ED.tpgi.com.au23) has joined
+T 1560148547 24*	kifugin has quit ()
+T 1560148548 24*	jonibo has quit (Read error: Connection reset by peer)
+T 1560148554 18<19ziggyjrc18>	!find Boruto 110 [480
+T 1560148564 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148575 23*	Misa (~MisaHayas@75040C28:DE109B08:7AE56B:IP23) has joined
+T 1560148579 23*	heviva (~heviva@EDADD5E8.7F030843.39E48453.IP23) has joined
+T 1560148581 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148600 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148617 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148618 23*	sockwithahole (~sockwitha@A5180BE3:8026B425:1F481282:IP23) has joined
+T 1560148618 24*	stryd3r has quit (Ping timeout: 240 seconds)
+T 1560148626 23*	xegaho (~xegaho@26C9AB:1BBBA366:DA0D2DF3:IP23) has joined
+T 1560148636 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148638 24*	all4n has quit (Ping timeout: 240 seconds)
+T 1560148642 23*	Mo16 (~Mo16@Rizon-B7865BF0.in-addr.arpa23) has joined
+T 1560148647 24*	heviva has quit (Read error: Connection reset by peer)
+T 1560148647 18<19ziggyjrc18>	!find Boruto 111 [480
+T 1560148647 23*	all4n (~princeriv@BFA8ADEF.71DF7C79.71836E3.IP23) has joined
+T 1560148653 18<19ziggyjrc18>	!find Boruto 112 [480
+T 1560148653 23*	Nenton (~Nenton@B1ACED73.2E92806F.29E25E3E.IP23) has joined
+T 1560148653 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148666 24*	AWBJDGTVAC has quit ()
+T 1560148668 23*	gidamo (~gidamo@EDADD5E8.7F030843.39E48453.IP23) has joined
+T 1560148668 23*	SNTBTEFVRI (~SNTBTEFVR@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148669 24*	Skub has quit ()
+T 1560148681 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148688 23*	nolomo (~nolomo@Rizon-E6CB377C.washdc.fios.verizon.net23) has joined
+T 1560148698 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148709 24*	Rayne has quit (Quit: Leaving)
+T 1560148712 18<19ziggyjrc18>	!find Boruto 111 [480
+T 1560148713 18<19ziggyjrc18>	!find Boruto 112 [480
+T 1560148714 23*	flappyng (~flappyng@Rizon-BA7ACBAA.abo.bbox.fr23) has joined
+T 1560148720 24*	ziggyjrc (~ziggyjrc@4045D2CA:F5454D00:5D476FD9:IP24) has left
+T 1560148725 24*	chikki has quit ()
+T 1560148727 24*	nolomo has quit (Read error: Connection reset by peer)
+T 1560148730 24*	Katana has quit (Ping timeout: 240 seconds)
+T 1560148739 24*	aarong has quit (Ping timeout: 240 seconds)
+T 1560148739 24*	lazy7771 has quit (Ping timeout: 240 seconds)
+T 1560148739 24*	frrtr has quit (Read error: Connection reset by peer)
+T 1560148749 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148751 24*	verdandi has quit (Ping timeout: 240 seconds)
+T 1560148759 24*	Lorem has quit ()
+T 1560148759 24*	gidamo has quit (Read error: Connection reset by peer)
+T 1560148765 24*	E48 has quit (Quit: Leaving)
+T 1560148765 24*	Misa has quit ()
+T 1560148766 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148772 24*	Zaneed has quit (Read error: Connection reset by peer)
+T 1560148773 23*	Misa (~MisaHayas@Rizon-F2C95549.ipv6.telus.net23) has joined
+T 1560148776 23*	Ubaruu (~Ubaruu@Rizon-B875B934.dip0.t-ipconnect.de23) has joined
+T 1560148786 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148801 23*	zenakuzen (~Babak@Rizon-98269B41.dhcp.ahvl.nc.charter.com23) has joined
+T 1560148802 24*	SNTBTEFVRI has quit ()
+T 1560148803 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148804 23*	BFVKRCJTNU (~BFVKRCJTN@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148820 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148837 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148861 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148878 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148888 24*	Reikyuubi has quit ()
+T 1560148898 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148912 23*	Bob (~Bob@BA22B933.DF5AE2ED.F08E5A6.IP23) has joined
+T 1560148914 23*	canova (~canova@Rizon-B79EDF6.elisa-laajakaista.fi23) has joined
+T 1560148915 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148921 24*	BFVKRCJTNU has quit ()
+T 1560148922 23*	DZLCSUEURV (~DZLCSUEUR@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148932 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148949 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560148963 24*	DZLCSUEURV has quit ()
+T 1560148963 23*	MXZTQNEXUP (~MXZTQNEXU@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560148969 24*	MXZTQNEXUP has quit ()
+T 1560148978 24*	mophead4eyes has quit (Quit: Leaving)
+T 1560148988 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560148998 24*	nima has quit (Ping timeout: 240 seconds)
+T 1560149005 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149022 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149039 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149051 24*	mrT has quit (Read error: Connection reset by peer)
+T 1560149052 23*	fiberizone (~fiberizon@E642B728.A2BEA62B.18CFF6E9.IP23) has joined
+T 1560149053 23*	nima (~kvirc@Rizon-E36EE3ED.tpgi.com.au23) has joined
+T 1560149060 24*	Motra has quit (Ping timeout: 240 seconds)
+T 1560149064 24*	quarer has quit (Ping timeout: 240 seconds)
+T 1560149072 24*	esquinaldo (~sprung@Rizon-01E285B.carolina.res.rr.com24) has left
+T 1560149082 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149089 24*	nobains has quit (Ping timeout: 240 seconds)
+T 1560149099 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149101 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560149111 23*	KPJDUSTZWD (~KPJDUSTZW@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560149113 24*	Kennylein has quit ()
+T 1560149114 23*	leavell (~piepenbr@Rizon-056A7CA.access.telenet.be23) has joined
+T 1560149131 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149131 24*	quarer has quit (Read error: Connection reset by peer)
+T 1560149140 23*	RIP (~RIP@Rizon-E65315D2.eastlink.ca23) has joined
+T 1560149148 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149154 24*	Statue has quit (Remote host closed the connection)
+T 1560149156 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560149157 23*	Shuuta (~Shuuta@Rizon-5CDBDEC9.ip1.george24.com23) has joined
+T 1560149159 24*	28RIP is now known as 18Guest23921
+T 1560149159 22*	26Horribly has kicked 18Guest23921 from 22#HorribleSubs (24Guest nicks are not allowed)
+T 1560149159 24*	Statue has quit (Remote host closed the connection)
+T 1560149165 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560149166 23*	abhi10 (~abhi_10@CEAE7F7B:39359C51:64191AE0:IP23) has joined
+T 1560149176 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149179 23*	Bourbon (~tedi0722@Rizon-72EB8846.lightspeed.irvnca.sbcglobal.net23) has joined
+T 1560149180 24*	Boris_ has quit (Quit: Leaving)
+T 1560149187 23*	Umi (~Umi@chun.chun23) has joined
+T 1560149193 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149195 23*	JohnSmith (~JohnSmith@2C2FC372:799BD799:D538A525:IP23) has joined
+T 1560149205 24*	Yiiu has quit (Ping timeout: 240 seconds)
+T 1560149221 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149238 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149257 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149262 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560149264 23*	aliba (~androirc@D0AE9FC6:BAF5F928:632C5A27:IP23) has joined
+T 1560149271 24*	Statue has quit (Remote host closed the connection)
+T 1560149273 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560149273 24*	mario500 has quit ()
+T 1560149274 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149283 23*	Jo (~Jo@Rizon-36039752.socal.res.rr.com23) has joined
+T 1560149284 23*	Namster (Namster@Rizon-3BAF7174.hsd1.ca.comcast.net23) has joined
+T 1560149291 23*	ntea121 (~ntea121@34447842.CE1C953.BD151A0.IP23) has joined
+T 1560149295 24*	quarer has quit (Read error: Connection reset by peer)
+T 1560149310 23*	quarer (~quarer@BA024A3A.E225B3CA.A307B952.IP23) has joined
+T 1560149312 23*	PudiPudi (~PudiPudi@DF54D350.F8D3BE2D.B44E66B7.IP23) has joined
+T 1560149314 23*	amd14 (~amd14@E6DC11AD.832FD550.9864E4F2.IP23) has joined
+T 1560149323 24*	Ubaruu has quit ()
+T 1560149341 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149345 24*	MRMO has quit (Ping timeout: 240 seconds)
+T 1560149348 24*	coffeeiazo has quit (Read error: Connection reset by peer)
+T 1560149355 24*	KPJDUSTZWD has quit ()
+T 1560149358 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149367 24*	FierceMuffin has quit (Quit: Bab)
+T 1560149376 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149392 23*	WEUWOBRSJR (~WEUWOBRSJ@BF4C8712.859F89DE.F45EA333.IP23) has joined
+T 1560149393 24*	WEUWOBRSJR has quit ()
+T 1560149394 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149399 24*	demula has quit (Ping timeout: 240 seconds)
+T 1560149400 23*	messo (~messo@Rizon-9363B873.rdns.cenic.net23) has joined
+T 1560149407 23*	frrtr (~frrtr@5A1B621C.9788AAFE.25B41B1E.IP23) has joined
+T 1560149414 24*	frrtr has quit (Read error: Connection reset by peer)
+T 1560149430 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149432 23*	frrtr (~frrtr@5A1B621C.9788AAFE.25B41B1E.IP23) has joined
+T 1560149448 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149449 23*	JohnJR (~John@EE639D2:44A723F9:31A0E4D8:IP23) has joined
+T 1560149455 23*	tentitan (~tentitan@697A2C22.B3BD4EFD.6A6A2602.IP23) has joined
+T 1560149459 23*	jamie (AdiIRC@Rizon-F120359A.ip.windstream.net23) has joined
+T 1560149459 23*	abhi_10010 (~abhi_10@B5AF531F:1EE59E4E:64191AE0:IP23) has joined
+T 1560149462 24*	zenakuzen has quit (Quit: Leaving)
+T 1560149468 24*	Bourbon has quit ()
+T 1560149477 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149483 23*	Kennylein (~Kennylein@Rizon-BF48507C.hsi01.unitymediagroup.de23) has joined
+T 1560149495 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149520 24*	silencegremlin has quit (Ping timeout: 240 seconds)
+T 1560149520 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149531 24*	Penetration has quit (Ping timeout: 240 seconds)
+T 1560149538 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149557 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149558 24*	leavell (~piepenbr@Rizon-056A7CA.access.telenet.be24) has left
+T 1560149566 24*	Pene has quit (Ping timeout: 240 seconds)
+T 1560149574 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149584 23*	rheault (~reister@6A1AFAF.FE4B5B3.0A68D9F.IP23) has joined
+T 1560149594 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149598 24*	Ron has quit (Quit: Leaving)
+T 1560149611 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149614 23*	Yabani (~Yabani@EDB08226.F2C53AC7.2033F329.IP23) has joined
+T 1560149618 23*	Arisu (~Arisu@B9C7E90D.B1855A53.E2DF7855.IP23) has joined
+T 1560149623 23*	HAMAKAZE98 (~Zack@E989314E.8806E030.CDF23951.IP23) has joined
+T 1560149640 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149648 23*	X-zero (UPP@Rizon-E7B77C0C.hsd1.tn.comcast.net23) has joined
+T 1560149650 24*	Namster has quit ()
+T 1560149651 24*	abhi10 has quit (Ping timeout: 240 seconds)
+T 1560149656 24*	tentitan has quit ()
+T 1560149656 23*	Janfox (~Janfox@Rizon-63D40212.dip0.t-ipconnect.de23) has joined
+T 1560149658 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149676 23*	[ryoma] (~ryoma]@Rizon-5E3D50E9.socal.res.rr.com23) has joined
+T 1560149677 23*	peach (~peach@Rizon-D62377BF.revip17.asianet.co.th23) has joined
+T 1560149677 24*	Kirihara_Izaki has quit (Quit: Leaving)
+T 1560149686 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149704 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149721 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149734 24*	sockwithahole has quit (Quit: Leaving)
+T 1560149739 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149746 23*	HIIZ (~HIIZ@133F4C8C.1A1F233B.DC729E2D.IP23) has joined
+T 1560149755 24*	Manic has quit (Quit: Leaving)
+T 1560149756 24*	HIIZ has quit (Read error: Connection reset by peer)
+T 1560149760 24*	soawkalm has quit (Ping timeout: 240 seconds)
+T 1560149769 24*	zs has quit (Quit: Leaving)
+T 1560149779 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149796 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149804 24*	rakha has quit (Ping timeout: 240 seconds)
+T 1560149808 23*	fastp (~fastp@F8668BCE:A3DE13B0:E3D13736:IP23) has joined
+T 1560149821 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149823 23*	rakha (~rakha@1005D2DF.2CE21DC8.49A2285E.IP23) has joined
+T 1560149830 23*	Bifeldy (~bifeldy@C31C957F.C5797382.5A27FA79.IP23) has joined
+T 1560149838 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149840 24*	Bifeldy has quit ()
+T 1560149857 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149867 23*	Bifeldy (~bifeldy@C31C957F.C5797382.5A27FA79.IP23) has joined
+T 1560149874 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149874 23*	Nickey (~nickey@Rizon-3D3746DD.seedhost.eu23) has joined
+T 1560149890 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149908 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149925 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149926 24*	Nickey (~nickey@Rizon-3D3746DD.seedhost.eu24) has left
+T 1560149928 24*	fastp has quit ()
+T 1560149930 24*	sziur_18 has quit (Quit: Leaving)
+T 1560149935 24*	rheault (~reister@6A1AFAF.FE4B5B3.0A68D9F.IP24) has left
+T 1560149942 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149948 23*	MRMO (~MRMO@Rizon-118CE173.nwrknj.fios.verizon.net23) has joined
+T 1560149959 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560149973 24*	Blackiris has quit (Remote host closed the connection)
+T 1560149974 24*	peach has quit ()
+T 1560149976 23*	sorto (~omo@B664554.206B417.4CB0861.IP23) has joined
+T 1560149976 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560149980 23*	Blackiris (~Blackiris@FD8E8B79.F50005E5.6B0AAE6C.IP23) has joined
+T 1560149993 24*	JohnJR has quit ()
+T 1560149994 23*	WolfScythe (~WolfScyth@CC371649.9FBA47F1.85E626DD.IP23) has joined
+T 1560150004 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150014 24*	crazyfied has quit (Quit: Leaving)
+T 1560150021 23*	abhi10 (~abhi_10@2232ADFD:7E52605D:5EC8CD9E:IP23) has joined
+T 1560150021 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150040 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150056 23*	Shaik (~Shaik@D6C6707C.920AEFBA.3D7F127D.IP23) has joined
+T 1560150057 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150074 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150082 23*	amd14_ (~amd14@AE6DA188.F8317120.9864E4F2.IP23) has joined
+T 1560150091 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150102 24*	abhi_10010 has quit (Ping timeout: 240 seconds)
+T 1560150102 23*	Torvalin (~Torv@5F6A549B:53F95AB6:73C87795:IP23) has joined
+T 1560150121 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150126 23*	Harambro (~Harambro@AF16C779:AD4249F4:CC2F7236:IP23) has joined
+T 1560150138 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150156 23*	Hirezolution (~R01zrd@D4C7F84A.43DF96C0.35BF18B3.IP23) has joined
+T 1560150165 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150166 24*	Torvalin has quit ()
+T 1560150167 24*	nima has quit (Ping timeout: 240 seconds)
+T 1560150176 24*	preview has quit (Ping timeout: 240 seconds)
+T 1560150179 23*	Slim12345 (~chris-fox@Rizon-97FACC5A.versanet.de23) has joined
+T 1560150182 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150190 23*	fari (~fari@7CECCDCD.BB12071C.CFE7E35B.IP23) has joined
+T 1560150199 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150202 24*	Double_Helix has quit (Quit: Leaving)
+T 1560150217 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150218 24*	Kirgan has quit ()
+T 1560150227 24*	Sapphoron has quit (Read error: Connection reset by peer)
+T 1560150240 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150244 24*	ntea121 has quit (Quit: Leaving...)
+T 1560150258 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150259 24*	Janfox has quit (Quit: Leaving)
+T 1560150273 24*	amd14 has quit (Ping timeout: 240 seconds)
+T 1560150273 23*	Vregat (~Vregat@CBDA51D5.1430C828.A0D157A7.IP23) has joined
+T 1560150282 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150293 24*	Lubo has quit (Remote host closed the connection)
+T 1560150300 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150302 23*	Lubo (~dark@A7399F85:80FDBDF0:E12DDFED:IP23) has joined
+T 1560150316 23*	Komari_Azu (~Komari_Az@5888DEBB:6F544D9C:659ED313:IP23) has joined
+T 1560150326 24*	Kumool has quit (Quit: EXIT)
+T 1560150333 24*	Statue has quit (Remote host closed the connection)
+T 1560150334 24*	][GaRg0lA][ has quit (Ping timeout: 240 seconds)
+T 1560150335 24*	sorto (~omo@B664554.206B417.4CB0861.IP24) has left
+T 1560150338 23*	preview (~quassel@1EB7C64A:8A0997D1:4B59E09:IP23) has joined
+T 1560150340 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560150343 24*	Vregat has quit ()
+T 1560150357 23*	qwertycfv (~qwertycfv@Rizon-F0E3841A.neoplus.adsl.tpnet.pl23) has joined
+T 1560150367 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150384 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150385 23*	fiberizone_ (~fiberizon@Rizon-6B062C2.rev.sfr.net23) has joined
+T 1560150393 23*	budnik (~patneaud@Rizon-77DA7EC.bulldogdsl.com23) has joined
+T 1560150393 23*	momo (~momo@3146D091.45E4D169.96D6D235.IP23) has joined
+T 1560150399 24*	kevafa has quit (Read error: Connection reset by peer)
+T 1560150401 23*	Villa_01 (~Villa@2C0DA751.378862E4.326673B9.IP23) has joined
+T 1560150411 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150428 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150447 23*	][GaRg0lA][ (~GaRgOlA@814D173B.C376902B.E91CA039.IP23) has joined
+T 1560150457 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150472 24*	Gimpy has quit (Quit: Leaving)
+T 1560150474 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150481 24*	Nenton has quit ()
+T 1560150481 23*	Orsted (~Badigadi@7765E4AB.E12367DB.C6E5C23.IP23) has joined
+T 1560150486 24*	Harambro has quit ()
+T 1560150495 24*	fari has quit ()
+T 1560150496 24*	chaoszero112 has quit (Quit: Leaving)
+T 1560150498 24*	Statue has quit (Remote host closed the connection)
+T 1560150504 24*	dank has quit (Ping timeout: 240 seconds)
+T 1560150505 23*	tempo_doeloe (~lakonsama@Rizon-8582AA7B.tpgi.com.au23) has joined
+T 1560150506 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560150515 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150525 24*	Buda has quit (Quit: leaving)
+T 1560150533 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150544 23*	lefeyo (~lefeyo@Rizon-8FB83B7F.static.exetel.com.au23) has joined
+T 1560150546 24*	Mo16 has quit (Quit: Leaving)
+T 1560150554 24*	fiberizone has quit (Ping timeout: 240 seconds)
+T 1560150571 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150588 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150603 23*	bexaxo (~bexaxo@719084A3:A761956A:4A0695F5:IP23) has joined
+T 1560150614 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150618 24*	Statue has quit (Remote host closed the connection)
+T 1560150624 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560150624 24*	Ayame has quit (Ping timeout: 240 seconds)
+T 1560150631 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150636 23*	maddison736 (~budby@93715F63.FB443065.55F9DCCC.IP23) has joined
+T 1560150639 24*	frrtr has quit (Read error: Connection reset by peer)
+T 1560150649 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150666 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150679 24*	Yabani has quit (Ping timeout: 240 seconds)
+T 1560150684 24*	jamie has quit (Quit: Going offline, see ya! (www.adiirc.com))
+T 1560150686 24*	Statue has quit (Remote host closed the connection)
+T 1560150690 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560150691 23*	Kommando (~Kommando@Rizon-A13F72E0.vc.shawcable.net23) has joined
+T 1560150702 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150704 23*	aswaad (~aswaad@B2D38D91.E562BA4B.B876245B.IP23) has joined
+T 1560150709 24*	Lubo has quit (Ping timeout: 240 seconds)
+T 1560150712 24*	RyryTheBold has quit (Quit: Leaving)
+T 1560150719 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150736 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150737 24*	sandking has quit ()
+T 1560150753 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150769 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150787 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150788 23*	sandking (~sandking@351B2F1.92A5CA3A.DAE086DF.IP23) has joined
+T 1560150791 24*	Kommando has quit ()
+T 1560150797 24*	aubz has quit (Ping timeout: 240 seconds)
+T 1560150804 24*	budnik (~patneaud@Rizon-77DA7EC.bulldogdsl.com24) has left
+T 1560150814 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150825 24*	Umi has quit (Quit: Leaving)
+T 1560150831 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150833 23*	ebo (~ebo@Ultima.Ratio23) has joined
+T 1560150833 23*	Hurst (~Hurst@Rizon-1BB48527.ljusnet.se23) has joined
+T 1560150841 23*	eastern (~meagher@A45DD4A.F4C64A7.81DC93C.IP23) has joined
+T 1560150851 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150854 23*	Bobalotrock (~Bobalotro@E932BDBD.D66F4CF5.2FF36917.IP23) has joined
+T 1560150865 23*	sodaman (~sodaman@Rizon-F5890C76.phlapa.fios.verizon.net23) has joined
+T 1560150868 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150878 23*	Euphoric (~Euphoric@47A2A525.2CF3966.B6F10FCA.IP23) has joined
+T 1560150885 23*	Torvalin (~Torv@5F6A549B:53F95AB6:73C87795:IP23) has joined
+T 1560150901 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150907 23*	Antutrex (~Antu@AB449BD0.AF66B3A4.DE4B12D8.IP23) has joined
+T 1560150918 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150918 24*	Torvalin has quit ()
+T 1560150931 23*	dbxrwlvo (~dbxrwlvo@Rizon-1CADCDC3.consolidated.net23) has joined
+T 1560150937 24*	genj1 has quit ()
+T 1560150948 23*	Storaket_ (~Storaket@D3866CF7.4F7D7AA9.550E1A7.IP23) has joined
+T 1560150949 24*	orenji has quit (Quit: Leaving)
+T 1560150962 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560150977 24*	Jo has quit (Quit: Leaving)
+T 1560150978 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560150996 24*	Budi0812 has quit (Read error: Connection reset by peer)
+T 1560151006 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151023 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151028 23*	Yabani (~Yabani@EDB08226.F2C53AC7.2033F329.IP23) has joined
+T 1560151028 23*	Robbe (~Robbe@9E400732.DFA45923.26D8F97B.IP23) has joined
+T 1560151033 23*	Baller4Life (~Baller4Li@E419DA98.AFEFCDA0.E761D20F.IP23) has joined
+T 1560151034 24*	Statue has quit (Remote host closed the connection)
+T 1560151040 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151051 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151068 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151069 23*	fahide (~fahide@Rizon-7B7FB17D.washdc.fios.verizon.net23) has joined
+T 1560151087 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151104 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151111 24*	aoya has quit (Ping timeout: 240 seconds)
+T 1560151123 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151129 23*	Budi0812 (~Budi0812@4B9F674.84658746.537895F0.IP23) has joined
+T 1560151141 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151143 24*	acidheart has quit (Remote host closed the connection)
+T 1560151145 24*	Statue has quit (Remote host closed the connection)
+T 1560151147 24*	Storaket has quit (Ping timeout: 240 seconds)
+T 1560151151 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151160 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151160 24*	sodaman has quit ()
+T 1560151168 24*	Statue has quit (Remote host closed the connection)
+T 1560151174 23*	nima (~kvirc@counting.to.potato23) has joined
+T 1560151175 23*	Aleksi (~Aleksi@Rizon-4600A409.cust.vodafonedsl.it23) has joined
+T 1560151176 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151178 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151180 23*	blcknv009 (~blcknv009@F4E41FDB:F9F51503:7A925914:IP23) has joined
+T 1560151189 24*	aswaad has quit (Remote host closed the connection)
+T 1560151196 24*	Statue has quit (Remote host closed the connection)
+T 1560151205 24*	Albedo has quit (Read error: Connection reset by peer)
+T 1560151207 24*	Kalisto has quit (Remote host closed the connection)
+T 1560151209 24*	EurekaRenton has quit (Quit: Leaving)
+T 1560151212 24*	loveyouwongtime has quit (Quit: Leaving)
+T 1560151214 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151220 23*	zakkewasser67 (~dango@Rizon-3E5AF97B.access.telenet.be23) has joined
+T 1560151223 24*	Statue has quit (Remote host closed the connection)
+T 1560151224 24*	X-zero has quit (Quit: 13.06«13UPP06»13.)
+T 1560151243 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151244 23*	coldarmpits__ (~coldarmpi@DBF66DC5.7D774D4D.7CC1980D.IP23) has joined
+T 1560151248 24*	Blackiris has quit (Ping timeout: 240 seconds)
+T 1560151250 23*	TaPO4eg3D (~TaPO4eg3D@46409D58.D614A926.2739B602.IP23) has joined
+T 1560151260 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151274 24*	Arisu has quit ()
+T 1560151275 24*	coldarmpits has quit (Ping timeout: 240 seconds)
+T 1560151283 24*	Komari_Azu has quit (Quit: Leaving)
+T 1560151284 23*	ShiroDN (~tomas@Rizon-A94FF8AA.net.upcbroadband.cz23) has joined
+T 1560151293 24*	fahide has quit (Read error: Connection reset by peer)
+T 1560151294 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151295 24*	Statue has quit (Read error: Connection reset by peer)
+T 1560151305 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151318 24*	eastern (~meagher@A45DD4A.F4C64A7.81DC93C.IP24) has left
+T 1560151322 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151329 23*	zeek (~sunier@4D72D6D.9ED134B.044FE75.IP23) has joined
+T 1560151339 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151356 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151367 24*	HAMAKAZE98 has quit (Remote host closed the connection)
+T 1560151373 23*	HAMAKAZE98 (~Zack@E989314E.8806E030.CDF23951.IP23) has joined
+T 1560151383 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151400 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151402 24*	irtouv has quit ()
+T 1560151419 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151425 24*	all4n has quit (Quit: Leaving)
+T 1560151436 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151441 24*	Budi0812 has quit (Read error: Connection reset by peer)
+T 1560151450 23*	Budi0812 (~Budi0812@4B9F674.84658746.537895F0.IP23) has joined
+T 1560151460 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151477 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151479 18<24jonny197118>	Kim Dotcom
+T 1560151496 24*	Metanoia_ has quit (Remote host closed the connection)
+T 1560151496 24*	Metanoia has quit (Remote host closed the connection)
+T 1560151501 24*	28jonny1971 is now known as 18jonny
+T 1560151510 23*	Metanoia (~Metanoia@Rizon-B701010.hfc.comcastbusiness.net23) has joined
+T 1560151513 23*	abhi_10010 (~abhi_10@2232ADFD:7E52605D:5EC8CD9E:IP23) has joined
+T 1560151520 18<19jonny18>	sorry. wrong chat
+T 1560151531 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151532 23*	Nic_ (~Nic@Rizon-36DF4BD9.cable.virginm.net23) has joined
+T 1560151548 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151554 23*	Statue (~Statue@4693969A.D7A96680.DC6AD537.IP23) has joined
+T 1560151557 24*	nima has quit (Ping timeout: 240 seconds)
+T 1560151568 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151579 23*	dragone (~dragone@6479F7D.25AB3184.358C9C08.IP23) has joined
+T 1560151585 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151601 24*	maddison736 has quit ()
+T 1560151621 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151626 23*	Ayush (~Ayush@42008396.ABBC5E08.CEABF83.IP23) has joined
+T 1560151633 23*	nima (~kvirc@Rizon-E36EE3ED.tpgi.com.au23) has joined
+T 1560151638 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151640 24*	Kazuki has quit (Ping timeout: 240 seconds)
+T 1560151642 24*	abhi10 has quit (Ping timeout: 240 seconds)
+T 1560151643 23*	c (~vgjvc@Rizon-68AF2FBE.dialup.tiscali.it23) has joined
+T 1560151648 24*	zeek (~sunier@4D72D6D.9ED134B.044FE75.IP24) has left
+T 1560151657 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151660 24*	Bob has quit (Quit: Leaving)
+T 1560151662 24*	28c is now known as 18Guest11467
+T 1560151662 22*	26Horribly has kicked 18Guest11467 from 22#HorribleSubs (24Guest nicks are not allowed)
+T 1560151674 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560151688 24*	Budi0812 has quit (Read error: Connection reset by peer)
+T 1560151696 23*	IchrisI (~chris4381@Rizon-1C02A60D.dynamic.kabel-deutschland.de23) has joined
+T 1560151696 23*	Budi0812 (~Budi0812@4B9F674.84658746.537895F0.IP23) has joined
+T 1560151697 23*	D-melanogaster (~D-melanog@F29E68EC.C66D8016.C68B27BB.IP23) has joined
+T 1560151699 23*	skrzypinski (~fogler@68365D6.A9455BD.CCF725E.IP23) has joined
+T 1560151710 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560151717 23*	shangxor (~sh@ng.xor23) has joined
+T 1560151725 24*	Slim12345 has quit ()
+T 1560151728 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265672 19*	Now talking on 22#HorribleSubs
+T 1560265672 22*	Topic for 22#HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560265672 22*	Topic for 22#HorribleSubs set by 26[M]-V!MV@The.Anime.God (24Wed Jan  9 17:36:59 2019)
+T 1560265673 -18Horribly-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560265677 23*	JamesB (~Boshi@EED3554D.F5230E06.3301D0F5.IP23) has joined
+T 1560265683 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265690 23*	Air-Trigger (~airtrigge@3AAC1C9B.4BFA6F46.527961FD.IP23) has joined
+T 1560265698 23*	Zanakand (~IceChat9@E552CCF7:2D3787FB:1ADCFBDB:IP23) has joined
+T 1560265705 24*	Darkhelmet has quit (Quit: Leaving)
+T 1560265713 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265721 23*	jegipo (~jegipo@E5160473.65C17E7F.96697DF7.IP23) has joined
+T 1560265724 23*	Kuinshi (~Kuinshi@B8BE1CC6:91E4067:13E0C6CB:IP23) has joined
+T 1560265731 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265749 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265767 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265773 23*	SwordNoob (~SwordNoob@Rizon-FBB4AD70.singnet.com.sg23) has joined
+T 1560265784 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265799 23*	ChaB (~ChaB@Rizon-736F65F8.cable.virginm.net23) has joined
+T 1560265800 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265803 23*	Tsukinotaku (~Tsukinota@Rizon-3DB6B767.abo.bbox.fr23) has joined
+T 1560265811 23*	Uli_ (~Uli@Rizon-546C8F76.dip.versatel-1u1.de23) has joined
+T 1560265828 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265845 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265864 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265882 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265898 24*	robusto (~mims@4DA3850.0013C86.3A49F11.IP24) has left
+T 1560265900 24*	Tsukinotaku has quit (Read error: Connection reset by peer)
+T 1560265907 23*	milby (~pallafor@3F6A6EB.8537C56.63B6AE3.IP23) has joined
+T 1560265918 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265926 23*	Tsukinotaku (~Tsukinota@Rizon-3DB6B767.abo.bbox.fr23) has joined
+T 1560265935 24*	jegipo has quit (Read error: Connection reset by peer)
+T 1560265936 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265948 23*	Kikuchan (~Kikuchan@853DBBCA:9D3D7A74:B2541536:IP23) has joined
+T 1560265958 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560265964 23*	Mapiko (~Mappen@Rizon-7278BB18.tokyo.ocn.ne.jp23) has joined
+T 1560265969 24*	Tsukinotaku has quit (Read error: Connection reset by peer)
+T 1560265970 23*	Nobaschutella (~Nobaschut@Rizon-BBBECA91.dyn.telefonica.de23) has joined
+T 1560265975 23*	ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP23) has joined
+T 1560265976 23*	Mappen (~Mappen@Rizon-7278BB18.tokyo.ocn.ne.jp23) has joined
+T 1560265981 23*	sohum (~sohumg22@4DDA2174:8BFF3751:6973FD92:IP23) has joined
+T 1560265992 24*	ZuzzleXYZa has quit (Remote host closed the connection)
+T 1560266023 16»19»	16Now talking on #HorribleSubs
+T 1560266023 29»17»	29Topic for #HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266023 29»17»	29Topic for #HorribleSubs set by [M]-V!MV@The.Anime.God at Wed Jan  9 17:36:59 2019
+T 1560266024 28-21Notice28-	21{25from Horribly21} [#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266038 21«21-16-31-	21ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has Quit (Remote host closed the connection21)
+T 1560266056 31-21-25-29»	29ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has Joined #HorribleSubs
+T 1560266122 19*	19Now talking on #HorribleSubs
+T 1560266122 29*	29Topic for #HorribleSubs 29is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266122 29*	29Topic for #HorribleSubs 29set by [M]-V!MV@The.Anime.God 29at Wed Jan  9 17:36:59 2019
+T 1560266123 28-29Horribly28-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266134 23*	23Holddasoysauce has quit (23Read error: Connection reset by peer23)
+T 1560266135 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266135 19*	19Jeraw_ (~Jeraw@6FA162B2:E2E54A2D:12EA522F:IP) has joined #HorribleSubs
+T 1560266203 19*	19Now talking on #HorribleSubs
+T 1560266203 29*	29Topic for #HorribleSubs 29is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266203 29*	29Topic for #HorribleSubs 29set by [M]-V!MV@The.Anime.God 29at Wed Jan  9 17:36:59 2019
+T 1560266204 28-29Horribly28-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266209 23*	23Jeraw has quit (23Ping timeout: 240 seconds23)
+T 1560266218 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266233 23*	23TuxSH has quit (2323)
+T 1560266248 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266266 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266284 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266299 23*	23shezie has quit (23Read error: Connection reset by peer23)
+T 1560266302 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266311 19*	19Tsukinotaku (~Tsukinota@Rizon-F6F3FD29.dsl.sta.abo.bbox.fr) has joined #HorribleSubs
+T 1560266321 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266324 19*	19Reikyuubi (~Reikyuubi@3EF28EAC.7E1F2B8F.C14D28BC.IP) has joined #HorribleSubs
+T 1560266332 19*	19loveylily (~heythere@83605204.3E3670A3.900F8FD5.IP) has joined #HorribleSubs
+T 1560266333 23*	23Tsukinotaku has quit (23Read error: Connection reset by peer23)
+T 1560266338 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266368 19*	19Now talking on #HorribleSubs
+T 1560266368 29*	29Topic for #HorribleSubs 29is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266368 29*	29Topic for #HorribleSubs 29set by [M]-V!MV@The.Anime.God 29at Wed Jan  9 17:36:59 2019
+T 1560266368 28-29Horribly28-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266372 23*	23milby (23~pallafor@3F6A6EB.8537C56.63B6AE3.IP) has left #HorribleSubs
+T 1560266381 23*	23Tsukinotaku has quit (23Read error: Connection reset by peer23)
+T 1560266387 19*	19Qsol (~Qsol@E4E8CADC.42FFBB8A.81F5B94.IP) has joined #HorribleSubs
+T 1560266391 19*	19Tsukinotaku (~Tsukinota@Rizon-F6F3FD29.dsl.sta.abo.bbox.fr) has joined #HorribleSubs
+T 1560266401 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266439 25»19»	19Now talking on #HorribleSubs
+T 1560266439 29»22»	22Topic for #HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266439 29»22»	22Topic for #HorribleSubs set by [M]-V!MV@The.Anime.God at Wed Jan  9 17:36:59 2019
+T 1560266440 28-21Notice28-	21{28from Horribly21} [#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266446 26«18-11-31-	26Diogo (~Diogo@Rizon-4989DDDD.cpe.netcabo.pt26) has Quit (Quit: Leaving26)
+T 1560266452 31-25-19-19»	19Mazzuru (~Matty@Rizon-1E665ED8.eurotel.cz19) has Joined #HorribleSubs
+T 1560266454 31-25-19-19»	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP19) has Joined #HorribleSubs
+T 1560266466 26«18-11-31-	26eugeneultimates (~eugeneult@5CFC37F1.C1170727.DD21F2C3.IP26) has Quit (26)
+T 1560266476 26«18-11-31-	26ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP26) has Quit (Remote host closed the connection26)
+T 1560266482 31-25-19-19»	19hum (~Hum@4E52A736.2E0DE693.741FE71.IP19) has Joined #HorribleSubs
+T 1560266485 26«18-11-31-	26Tsukinotaku (~Tsukinota@Rizon-F6F3FD29.dsl.sta.abo.bbox.fr26) has Quit (Read error: Connection reset by peer26)
+T 1560266494 31-25-19-19»	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP19) has Joined #HorribleSubs
+T 1560266518 26«18-11-31-	26ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP26) has Quit (Remote host closed the connection26)
+T 1560266519 31-25-19-19»	19Dorko (~Nyilas@EFC2E80B.9DFADFCF.17DF81A1.IP19) has Joined #HorribleSubs
+T 1560266535 31-25-19-19»	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP19) has Joined #HorribleSubs
+T 1560266554 26«18-11-31-	26ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP26) has Quit (Remote host closed the connection26)
+T 1560266563 31-25-19-19»	19FierceMuffin (~BananaMan@71AC361C.20C441DB.474AE7F0.IP19) has Joined #HorribleSubs
+T 1560266565 31-25-19-19»	19gue (~asdfg@71E09886.3C8B480D.F7712A46.IP19) has Joined #HorribleSubs
+T 1560266566 26«18-11-31-	26Droko (~Nyilas@4C9FE439.FB40C6FB.17DF81A1.IP26) has Quit (Ping timeout: 240 seconds26)
+T 1560266567 26«18-11-31-	26hum (~Hum@4E52A736.2E0DE693.741FE71.IP26) has Quit (26)
+T 1560266571 31-25-19-19»	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP19) has Joined #HorribleSubs
+T 1560266572 31-25-19-19»	19biloso (~biloso@880D834:863706A4:9BB9A8F6:IP19) has Joined #HorribleSubs
+T 1560266591 26«18-11-31-	26ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP26) has Quit (Remote host closed the connection26)
+T 1560266601 31-25-19-19»	19HansMartin (~HansMarti@Rizon-CF1B3412.dip0.t-ipconnect.de19) has Joined #HorribleSubs
+T 1560266608 31-25-19-19»	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP19) has Joined #HorribleSubs
+T 1560266656 25»19»	19Now talking on #HorribleSubs
+T 1560266656 29»17»	17Topic for #HorribleSubs is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266656 29»17»	17Topic for #HorribleSubs set by [M]-V!MV@The.Anime.God at Wed Jan  9 17:36:59 2019
+T 1560266657 28-21Notice28-	21{17from Horribly21} [#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266664 30-21-25-19»	19Phate (~Phate@A3C2D96F.8D411A5E.A92C6C28.IP) has Joined #HorribleSubs
+T 1560266670 24«23-24-30-	24Nyilas (~Nyilas@D47BF69E.BD361C88.17DF81A1.IP) has Quit (SendQ timeout24)
+T 1560266777 19*	19Now talking on #HorribleSubs
+T 1560266777 29*	29Topic for #HorribleSubs 29is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560266777 29*	29Topic for #HorribleSubs 29set by [M]-V!MV@The.Anime.God 29at Wed Jan  9 17:36:59 2019
+T 1560266778 28-29Horribly28-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560266779 23*	23HansMartin has quit (2323)
+T 1560266788 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266794 23*	23Don has quit (23Ping timeout: 240 seconds23)
+T 1560266807 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266807 19*	19Slushe (~Slushe@ti.ti.ti.timo.timo.timothy) has joined #HorribleSubs
+T 1560266816 19*	19sHifny (~sHifny@DDD21E2B:F0F8D8FD:6AB3BA06:IP) has joined #HorribleSubs
+T 1560266822 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266833 19*	19Hestalon (~Hestalon@7A9D3F2D:E7C7C5B:7FBA1FD2:IP) has joined #HorribleSubs
+T 1560266846 23*	23Llilow (23~serv@Rizon-721F0CC7.ipv6.abo.wanadoo.fr) has left #HorribleSubs
+T 1560266856 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266871 23*	23coldarmpits has quit (23Ping timeout: 240 seconds23)
+T 1560266874 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266890 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266897 23*	23vasconcellos (23~lanton@98B0380.60E155C.68F2DEB.IP) has left #HorribleSubs
+T 1560266907 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266912 19*	19Mazaky (~Mazaky@5009668E.DC954E9D.2AC7DB80.IP) has joined #HorribleSubs
+T 1560266923 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266925 23*	23Dorko has quit (23Ping timeout: 240 seconds23)
+T 1560266940 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560266950 19*	19bachner (skrobacki@51E5174.3E6E49A.3266594.IP) has joined #HorribleSubs
+T 1560266959 23*	23ThinK has quit (2323)
+T 1560266965 23*	23biloso has quit (23Read error: Connection reset by peer23)
+T 1560266966 23*	23Hestalon has quit (2323)
+T 1560266982 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560266990 23*	23coldarmpits_ has quit (23Ping timeout: 240 seconds23)
+T 1560266998 19*	19Armarren (~armarren@Rizon-D4E30A0F.neoplus.adsl.tpnet.pl) has joined #HorribleSubs
+T 1560267000 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267009 23*	23BabyMagnum has quit (23Ping timeout: 240 seconds23)
+T 1560267028 23*	23serei has quit (23Quit: Leaving23)
+T 1560267037 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267048 19*	19torn (~Torn@marmalade.sugar.song) has joined #HorribleSubs
+T 1560267048 22*	26Horribly gives channel operator status to26 torn
+T 1560267048 19*	19Droko (~Nyilas@2BE79402.D38A1C9D.17DF81A1.IP) has joined #HorribleSubs
+T 1560267054 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267056 23*	23Asus has quit (23Remote host closed the connection23)
+T 1560267071 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267071 19*	19Asus (~Asus@Rizon-52DC6FBB.static.tpgi.com.au) has joined #HorribleSubs
+T 1560267080 19*	19Furiten (~Furiten@Rizon-D3790470.hsd1.ca.comcast.net) has joined #HorribleSubs
+T 1560267088 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267105 19*	19xekoyi (~xekoyi@BA6E7BA7.6311CE46.66409468.IP) has joined #HorribleSubs
+T 1560267118 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267134 23*	23Nyilas has quit (23Ping timeout: 240 seconds23)
+T 1560267135 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267139 19*	19bJhD2F8j (~PircBotX@8CF018C2.2F56A60C.268815E4.IP) has joined #HorribleSubs
+T 1560267139 23*	23Jeraw_ has quit (23Ping timeout: 240 seconds23)
+T 1560267146 19*	19Quint (~quint@Rizon-7DB898AC.hsd1.il.comcast.net) has joined #HorribleSubs
+T 1560267155 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267172 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267189 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267200 19*	19kifugin (~KifuGin@DA9373A5.B31CB30E.BB43C68A.IP) has joined #HorribleSubs
+T 1560267207 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267223 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267225 19*	19Jeraw (~Jeraw@93A42781:11AE210D:12EA522F:IP) has joined #HorribleSubs
+T 1560267225 19*	19Nyilas (~Nyilas@2C5C6618.1AFC6812.17DF81A1.IP) has joined #HorribleSubs
+T 1560267233 19*	19gicayi (~gicayi@AF6BCF2F.F28D88F9.452C1A0D.IP) has joined #HorribleSubs
+T 1560267240 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267241 19*	19NM31 (~androirc@2084BC0B:70748C84:D2412DBA:IP) has joined #HorribleSubs
+T 1560267244 19*	19_will (~will_i_am@A4BA23CC:ED9E0B16:A2C6054:IP) has joined #HorribleSubs
+T 1560267250 19*	19ybb__ (~ybb@Rizon-8B6F09A7.dhcp.stls.mo.charter.com) has joined #HorribleSubs
+T 1560267254 19*	19Hestalon (~Hestalon@7A9D3F2D:E7C7C5B:7FBA1FD2:IP) has joined #HorribleSubs
+T 1560267263 23*	23NM31 has quit (23Read error: Connection reset by peer23)
+T 1560267267 19*	19vowasa (~vowasa@Rizon-3DB6B767.abo.bbox.fr) has joined #HorribleSubs
+T 1560267270 19*	19rotok (~gigadot@F34EC2F2.62C3A83D.78507178.IP) has joined #HorribleSubs
+T 1560267272 23*	23MrMonkej has quit (23Ping timeout: 240 seconds23)
+T 1560267282 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267285 19*	19Absalon (~Absalon@Rizon-A337D4FD.dsl.telesp.net.br) has joined #HorribleSubs
+T 1560267297 19*	19Mani (~Mani@82C64DF9:94F34604:A4432AEA:IP) has joined #HorribleSubs
+T 1560267300 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267300 19*	19NM31 (~androirc@2084BC0B:70748C84:D2412DBA:IP) has joined #HorribleSubs
+T 1560267312 19*	19jas99 (~jamser999@Rizon-A6B1C17D.hr.hr.cox.net) has joined #HorribleSubs
+T 1560267315 23*	23bachner (23skrobacki@51E5174.3E6E49A.3266594.IP) has left #HorribleSubs
+T 1560267322 27<17%1827Ereshkigal27>	DE | 10Gbps | Anime - [1.2G] - [Kaleido-Flax] Kimetsu no Yaiba - 09 (WEB 1080p) [EA18EC31].mkv - /MSG Ereshkigal XDCC SEND 2071
+T 1560267332 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267360 19*	19Now talking on #HorribleSubs
+T 1560267360 29*	29Topic for #HorribleSubs 29is: 11Welcome to HorribleSubs! » 8https://horriblesubs.info | 13ファックチャック | 1,7BEST WISHES FOR 2019 | 11Official Discord: 9https://discord.gg/uXKgusy
+T 1560267360 29*	29Topic for #HorribleSubs 29set by [M]-V!MV@The.Anime.God 29at Wed Jan  9 17:36:59 2019
+T 1560267361 28-29Horribly28-	[#HorribleSubs] Missing Nyaa? Check out https://nyaa.si
+T 1560267371 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267374 23*	23Droko has quit (23Ping timeout: 240 seconds23)
+T 1560267375 19*	19testdriver (~testdrive@FF88BA9E.33AA7462.4E485EA6.IP) has joined #HorribleSubs
+T 1560267379 19*	19sohumg (~sohumg22@4DDA2174:8BFF3751:6973FD92:IP) has joined #HorribleSubs
+T 1560267387 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267391 23*	23Statue has quit (23Ping timeout: 240 seconds23)
+T 1560267398 19*	19narevaris (~narevaris@B3A47FEB.4AD83EF0.1BE08AAD.IP) has joined #HorribleSubs
+T 1560267408 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267416 23*	23xekoyi has quit (23Remote host closed the connection23)
+T 1560267417 23*	23NM31 has quit (23Read error: Connection reset by peer23)
+T 1560267425 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267443 23*	23ybb_ has quit (23Ping timeout: 240 seconds23)
+T 1560267444 19*	19Tsukinotaku (~Tsukinota@Rizon-3DB6B767.abo.bbox.fr) has joined #HorribleSubs
+T 1560267454 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267458 23*	23blebs has quit (23Quit: Leaving23)
+T 1560267471 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267476 23*	23gicayi has quit (23Ping timeout: 240 seconds23)
+T 1560267483 19*	19NM31 (~androirc@2084BC0B:70748C84:D2412DBA:IP) has joined #HorribleSubs
+T 1560267493 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267494 19*	19vgcookie (~kvirc@Rizon-9AC04D53.mxu.aerioconnect.net) has joined #HorribleSubs
+T 1560267509 23*	23vowasa has quit (23Ping timeout: 240 seconds23)
+T 1560267510 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267516 23*	23sohum has quit (23Ping timeout: 240 seconds23)
+T 1560267524 19*	19gicayi (~gicayi@AF6BCF2F.F28D88F9.452C1A0D.IP) has joined #HorribleSubs
+T 1560267538 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267552 23*	23Wooky has quit (23Ping timeout: 240 seconds23)
+T 1560267554 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267573 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267578 19*	19Aria002 (~Aria002@Rizon-99DE5A91.red-79-151-141.dynamicip.rima-tde.net) has joined #HorribleSubs
+T 1560267591 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267599 23*	23Mani has quit (2323)
+T 1560267609 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267625 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267642 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267644 23*	23Tsukinotaku has quit (23Read error: Connection reset by peer23)
+T 1560267646 19*	19coldarmpits (~coldarmpi@70663EA6.FEA27FF8.7CC1980D.IP) has joined #HorribleSubs
+T 1560267651 23*	23mikey has quit (23Ping timeout: 240 seconds23)
+T 1560267659 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267667 23*	23NM31 has quit (23Read error: Connection reset by peer23)
+T 1560267676 23*	23Ladholyman has quit (23Ping timeout: 240 seconds23)
+T 1560267686 23*	23danny has quit (23Ping timeout: 240 seconds23)
+T 1560267695 23*	23Nicklas2598 has quit (23Read error: Connection reset by peer23)
+T 1560267699 19*	19Tsukinotaku (~Tsukinota@Rizon-F6F3FD29.dsl.sta.abo.bbox.fr) has joined #HorribleSubs
+T 1560267713 19*	19NM31 (~androirc@2084BC0B:70748C84:D2412DBA:IP) has joined #HorribleSubs
+T 1560267723 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267741 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267746 23*	23Mazzuru has quit (23Quit: Leaving23)
+T 1560267756 23*	23NM31 has quit (23Read error: Connection reset by peer23)
+T 1560267766 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267771 19*	19lenoil (~lenoil@my.place) has joined #HorribleSubs
+T 1560267778 23*	23Tsukinotaku has quit (23Read error: Connection reset by peer23)
+T 1560267783 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267789 19*	19Tsukinotaku (~Tsukinota@Rizon-3DB6B767.abo.bbox.fr) has joined #HorribleSubs
+T 1560267808 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267815 19*	19chrth__ (~chrth@6D2C992C.F1C656E6.C857A0EF.IP) has joined #HorribleSubs
+T 1560267825 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267843 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267861 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267863 23*	23gicayi has quit (23Remote host closed the connection23)
+T 1560267875 19*	19aarong (~AaronG@Rizon-1234BDD1.dhcp.lncy.or.charter.com) has joined #HorribleSubs
+T 1560267879 19*	19gicayi (~gicayi@AF6BCF2F.F28D88F9.452C1A0D.IP) has joined #HorribleSubs
+T 1560267892 23*	23gicayi has quit (23Remote host closed the connection23)
+T 1560267893 19*	19J6VBAHK (~J6VBAHK@4CD56C89:82CDCC18:BA8D00A4:IP) has joined #HorribleSubs
+T 1560267894 23*	23donayre (23~rajaratn@04677B1.88BF6AA.E11395D.IP) has left #HorribleSubs
+T 1560267904 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267905 19*	19gicayi (~gicayi@AF6BCF2F.F28D88F9.452C1A0D.IP) has joined #HorribleSubs
+T 1560267916 19*	19O01eg (~o01eg@CA5B8B6D:ACD3308:FCF6E039:IP) has joined #HorribleSubs
+T 1560267921 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267932 19*	19Ladholyman (~lad@what.is.this.I.see) has joined #HorribleSubs
+T 1560267942 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267948 19*	19gunnells (goldson@Rizon-F972D38.ds1-sdb.adsl.cybercity.dk) has joined #HorribleSubs
+T 1560267957 19*	19HotDog (~HotDog@59AFB2AF.C06EE56F.1606AD4F.IP) has joined #HorribleSubs
+T 1560267959 19*	19GentlyCaressedYouth (~GCY@9C035762:73B53B8:D7686702:IP) has joined #HorribleSubs
+T 1560267960 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267976 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560267987 23*	23gicayi has quit (23Remote host closed the connection23)
+T 1560267994 23*	23lenoil has quit (2323)
+T 1560267994 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560267994 23*	23chrth_ has quit (23Ping timeout: 240 seconds23)
+T 1560268012 23*	23Asus has quit (23Remote host closed the connection23)
+T 1560268022 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268029 19*	19Asus (~Asus@Rizon-52DC6FBB.static.tpgi.com.au) has joined #HorribleSubs
+T 1560268040 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268044 19*	19mikey (~mikey@Rizon-6B5B049C.cpe.net.cable.rogers.com) has joined #HorribleSubs
+T 1560268044 23*	23Pene has quit (23Ping timeout: 240 seconds23)
+T 1560268044 23*	23Penetration has quit (23Ping timeout: 240 seconds23)
+T 1560268058 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268061 23*	23][GaRg0lA][ has quit (23Ping timeout: 240 seconds23)
+T 1560268073 23*	23coldarmpits has quit (23Ping timeout: 240 seconds23)
+T 1560268075 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268087 23*	23Reikyuubi has quit (23Quit: Leaving23)
+T 1560268088 19*	19Chronolf (~Chronolf@Rizon-71C2D761.static.user.transix.jp) has joined #HorribleSubs
+T 1560268093 23*	23Kuinshi has quit (23Ping timeout: 240 seconds23)
+T 1560268102 19*	19makaku (~makaku@5074C99E.96A9C391.AA547BFC.IP) has joined #HorribleSubs
+T 1560268111 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268116 23*	23ChiLLabiS has quit (23Ping timeout: 240 seconds23)
+T 1560268119 23*	23sohumg has quit (23Quit: Leaving23)
+T 1560268128 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268134 23*	23bJhD2F8j has quit (23Ping timeout: 240 seconds23)
+T 1560268146 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268163 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268165 19*	19][GaRg0lA][ (~GaRgOlA@814D173B.C376902B.E91CA039.IP) has joined #HorribleSubs
+T 1560268173 19*	19Kuinshi (~Kuinshi@B8BE1CC6:91E4067:13E0C6CB:IP) has joined #HorribleSubs
+T 1560268183 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268202 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268208 23*	23saf has quit (2323)
+T 1560268217 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268233 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268235 23*	23Quint has quit (23Quit: Leaving23)
+T 1560268241 19*	19ChiLLabiS (~chillabis@Rizon-36FBF09C.a166.priv.bahnhof.se) has joined #HorribleSubs
+T 1560268259 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268274 23*	23jas99 has quit (2323)
+T 1560268278 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268298 23*	23Chronolf has quit (2323)
+T 1560268307 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268310 23*	23gunnells (23goldson@Rizon-F972D38.ds1-sdb.adsl.cybercity.dk) has left #HorribleSubs
+T 1560268324 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268340 19*	19biss (~kisicki@057B160.6C1B62F.2C095F4.IP) has joined #HorribleSubs
+T 1560268350 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268366 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268385 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268390 19*	19Tsynk (~TsynkZZZ@Rizon-69C71DA4.krmtcmta02.res.dyn.suddenlink.net) has joined #HorribleSubs
+T 1560268402 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268406 19*	19Droko (~Nyilas@5FDFEE6D.1E3EF1E9.17DF81A1.IP) has joined #HorribleSubs
+T 1560268415 23*	23Tsukinotaku has quit (23Read error: Connection reset by peer23)
+T 1560268425 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268426 23*	23kona2000 has quit (23Ping timeout: 240 seconds23)
+T 1560268443 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268444 23*	23J6VBAHK has quit (2323)
+T 1560268445 19*	19Icerail (~Kanra@Rizon-9A3C4368.kyt1.eonet.ne.jp) has joined #HorribleSubs
+T 1560268468 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268486 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268490 23*	23Hestalon has quit (23Quit: Leaving23)
+T 1560268499 23*	23Aria002 has quit (2323)
+T 1560268501 23*	23GashBell33320 has quit (23Quit: Leaving23)
+T 1560268511 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268528 19*	19moeko (~moeko@50A1DC8E.D20CBD59.21EB1DF5.IP) has joined #HorribleSubs
+T 1560268529 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268538 19*	19Tsukinotaku (~Tsukinota@Rizon-3DB6B767.abo.bbox.fr) has joined #HorribleSubs
+T 1560268545 19*	19raffa (~raffa@Rizon-FE26B620.dynamic.kabel-deutschland.de) has joined #HorribleSubs
+T 1560268546 23*	23Kanra has quit (23Ping timeout: 240 seconds23)
+T 1560268551 19*	19Shisk (~Shisk@Rizon-C2C5F096.dip0.t-ipconnect.de) has joined #HorribleSubs
+T 1560268561 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268574 23*	23Nyilas has quit (23Ping timeout: 240 seconds23)
+T 1560268578 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268598 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268604 19*	19milan (~milan@82735315.A52992D3.95227003.IP) has joined #HorribleSubs
+T 1560268606 19*	19Daviox (~daviox@the.harmless.nerd) has joined #HorribleSubs
+T 1560268616 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268632 23*	23ZuzzleXYZa has quit (23Remote host closed the connection23)
+T 1560268640 19*	19KGZheng (~KGZheng@55E15ACC.BF417AC4.216F072D.IP) has joined #HorribleSubs
+T 1560268643 23*	23Uli_ has quit (23Quit: Leaving23)
+T 1560268650 19*	19ZuzzleXYZa (~ZuzzleXYZ@655B3077.8C6C2217.E24DA146.IP) has joined #HorribleSubs
+T 1560268661 23*	23Shiyori has quit (23Ping timeout: 240 seconds23)

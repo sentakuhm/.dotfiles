@@ -1,0 +1,827 @@
+**** BEGIN LOGGING AT Sun Jun  9 05:42:57 2019
+
+Jun 09 05:42:57 *	Now talking on ##linux
+Jun 09 05:42:57 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 09 05:42:57 *	Topic for ##linux set by sauvin (Tue Sep 18 19:14:08 2018)
+Jun 09 05:42:58 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 09 05:42:58 *	Channel ##linux url: http://linux.chat
+Jun 09 05:43:19 <Dagmar>	Umm.. no.
+Jun 09 05:43:21 *	hardran3 has quit (Quit: Leaving)
+Jun 09 05:43:26 <omero>	be both a speaker of words and a doer of deeds, shinzo
+Jun 09 05:43:34 <Dagmar>	Case in point: Trump *says* a lot of crap
+Jun 09 05:43:36 *	isokee (~isokee@unaffiliated/isokee) has joined
+Jun 09 05:44:19 *	redruM has quit (Quit: leaving)
+Jun 09 05:44:37 <shinzo>	"saying" was the wrong word, maybe "thinking you can"
+Jun 09 05:45:20 *	shooked (~shooked@82.102.15.253) has joined
+Jun 09 05:46:00 <omero>	eh, talking is a difficult task shinzo & Dagmar
+Jun 09 05:46:04 *	bepstein1 (~bepstein1@c-24-147-159-182.hsd1.ma.comcast.net) has joined
+Jun 09 05:46:16 <omero>	and I'm not very good
+**** ENDING LOGGING AT Sun Jun  9 05:47:31 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:47:31 2019
+
+Jun 09 05:47:43 *	macropreprocesso has quit (Ping timeout: 248 seconds)
+Jun 09 05:47:44 <omero>	time for breakfast here ^^ salvte et fortuna omnes
+Jun 09 05:48:15 *	matheusmoreira has quit (Ping timeout: 248 seconds)
+Jun 09 05:48:47 *	dingir (~asdf@unaffiliated/dingir) has joined
+Jun 09 05:49:12 *	matheusmoreira (~matheusmo@191.249.136.252) has joined
+Jun 09 05:49:14 <shinzo>	bon appétit
+Jun 09 05:49:38 *	indistylo has quit (Ping timeout: 246 seconds)
+Jun 09 05:49:52 *	bepstein11 has quit (Ping timeout: 248 seconds)
+Jun 09 05:51:12 *	shinzo has quit (Quit: brb)
+Jun 09 05:51:39 *	gdibass (~gdibass@rrcs-76-80-178-5.west.biz.rr.com) has joined
+Jun 09 05:53:12 *	bepstein11 (bepstein11@gateway/vpn/privateinternetaccess/bepstein111) has joined
+Jun 09 05:53:38 *	urodna has quit (Quit: urodna)
+Jun 09 05:54:27 <sauvin>	Time. It fidgets, and it's what turns kittens into cougars.
+Jun 09 05:54:40 *	[R] (~rbox@unaffiliated/rbox) has joined
+Jun 09 05:56:36 *	bepstein1 has quit (Ping timeout: 244 seconds)
+Jun 09 05:57:27 *	day__ (~Unknown@unaffiliated/day) has joined
+Jun 09 05:58:54 *	hardran3 (~hardran3@2604:3d09:4480:7e0:a46f:b431:b8ce:2958) has joined
+Jun 09 05:59:10 *	weedloser (~weedloser@c-fb6d235c.045-512-73746f34.bbcust.telenor.se) has joined
+Jun 09 05:59:13 *	Snoober (~Snoober@98.248.173.107) has joined
+Jun 09 05:59:27 *	Snoober has quit (Client Quit)
+Jun 09 06:00:37 *	day has quit (Ping timeout: 248 seconds)
+Jun 09 06:00:37 *	day__ is now known as day
+Jun 09 06:01:56 *	Brownbear has quit (Quit: Leaving)
+Jun 09 06:02:49 *	hutch (~hutch@71.236.248.124) has joined
+Jun 09 06:04:51 *	NexAdn has quit (Quit: ZNC 1.7.3 - https://znc.in)
+Jun 09 06:06:00 *	NexAdn (~NexAdn@pD9FDE21F.dip0.t-ipconnect.de) has joined
+Jun 09 06:07:51 *	mrig (~mrig@unaffiliated/mrig) has joined
+Jun 09 06:08:05 *	ozzeruk82 has quit (Ping timeout: 248 seconds)
+Jun 09 06:08:49 *	camfl has quit (Quit: %flyaway%)
+Jun 09 06:10:24 *	camfl (~flyaway@135-23-103-117.cpe.pppoe.ca) has joined
+Jun 09 06:12:36 *	netlar (~lwells@ip70-187-133-41.oc.oc.cox.net) has joined
+Jun 09 06:13:26 *	purpleunicorn has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+Jun 09 06:14:38 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 09 06:14:54 *	LearnAllTheTime (~LearnAllT@2600:1700:e560:21e0:912d:7eed:ba63:7557) has joined
+Jun 09 06:16:58 *	msimpson_ has quit (Remote host closed the connection)
+Jun 09 06:17:12 *	msimpson_ (~msimpson@cpc138714-sund15-2-0-cust436.11-1.cable.virginm.net) has joined
+Jun 09 06:18:30 *	NetTerminalGene (~NetTermin@unaffiliated/dontknow) has joined
+Jun 09 06:18:38 *	netlar has quit (Quit: leaving)
+Jun 09 06:19:30 *	pingfloyd (~pingfloyd@unaffiliated/pingfloyd) has joined
+Jun 09 06:19:52 *	eb0t has quit (Quit: WeeChat 2.3)
+Jun 09 06:19:58 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 09 06:21:10 *	hutch has quit (Ping timeout: 258 seconds)
+Jun 09 06:22:02 *	CreativeNothing (~CreativeN@garza.riseup.net) has joined
+Jun 09 06:22:05 *	MoarSpaceFi (~Forgot_my@65.155.84.20) has joined
+Jun 09 06:22:22 *	Nicmavr has quit (Read error: Connection reset by peer)
+Jun 09 06:22:49 *	frmus has quit (Quit: Leaving)
+Jun 09 06:23:51 *	obiwan90 has quit (Ping timeout: 258 seconds)
+Jun 09 06:24:06 *	Nicmavr (~Nicmavr@unaffiliated/nicmavr) has joined
+Jun 09 06:28:04 *	BOKALDO (~BOKALDO@46.109.203.201) has joined
+Jun 09 06:30:06 *	purpleunicorn (~purpleuni@unaffiliated/purpleunicorn) has joined
+Jun 09 06:32:31 *	gdibass has quit (Remote host closed the connection)
+Jun 09 06:32:56 *	Oatmeal has quit (Remote host closed the connection)
+Jun 09 06:33:15 *	MarcinWieczorek (~marcin@178-36-211-60.adsl.inetia.pl) has joined
+Jun 09 06:35:01 *	batteronizer (~abhishek@150.242.173.182) has joined
+Jun 09 06:36:11 *	first-order_ (~Arch-Star@24-139-45-27.fidnet.com) has joined
+Jun 09 06:36:27 *	palasso (~palasso@unaffiliated/palasso) has joined
+Jun 09 06:37:57 *	first-order has quit (Ping timeout: 248 seconds)
+Jun 09 06:39:10 *	simplisity has quit (Remote host closed the connection)
+Jun 09 06:41:54 *	chunkypuffs (~chunkypuf@2a01:4f9:2b:16d5::1) has joined
+Jun 09 06:43:10 *	Dandelock (~Dandelock@spectralcoding.com) has joined
+Jun 09 06:43:57 *	Goatman (~goatman@kchapman.de) has joined
+Jun 09 06:46:05 *	hooo (~hooo___@194-96-131-123.adsl.highway.telekom.at) has joined
+Jun 09 06:46:12 *	MarcinWieczorek has quit (Ping timeout: 244 seconds)
+Jun 09 06:46:13 <hooo>	hi, how do I escape ` so that I can use it as a string on the bash cmdline?
+Jun 09 06:46:30 <Curi0>	are there any settings on my router i can change to make masscan faster ? my router's cpu is the bottleneck when using masscan. looking at top on the router i can see the CPU is maxed out
+Jun 09 06:46:31 *	MarcinWieczorek (~marcin@178-36-211-60.adsl.inetia.pl) has joined
+Jun 09 06:47:21 <sauvin>	hooo, doesn't \ work ?
+Jun 09 06:48:06 <hooo>	well I have a ton of them, I need a way to escape an entire string
+Jun 09 06:48:09 <starstruck>	you can use
+Jun 09 06:48:10 <starstruck>	'
+Jun 09 06:48:21 <starstruck>	hooo:
+Jun 09 06:48:23 *	AbedB_ has quit (Ping timeout: 258 seconds)
+Jun 09 06:48:24 *	AbedB__ has quit (Ping timeout: 258 seconds)
+Jun 09 06:48:28 <starstruck>	sp.
+Jun 09 06:48:31 *	AbedB_ (~AbedBhuty@bzq-79-181-92-169.red.bezeqint.net) has joined
+Jun 09 06:48:31 <starstruck>	so: '`
+Jun 09 06:48:31 *	AbedB__ (~AbedBhuty@bzq-79-181-92-169.red.bezeqint.net) has joined
+Jun 09 06:50:19 <hooo>	thank you starstruck
+Jun 09 06:50:24 *	Zorroness (~Zorroness@ool-18ba9509.dyn.optonline.net) has joined
+Jun 09 06:50:24 <hooo>	I had only tried ""
+Jun 09 06:50:42 *	RickSanchezII has quit (Ping timeout: 245 seconds)
+Jun 09 06:50:51 <[R]>	hooo: things expand in ", ' basically means, treat everyting as is
+Jun 09 06:51:33 *	terabit[m] grateful you don't need "" to escape " in bash like in powershell :(
+Jun 09 06:51:53 *	fryguy has quit (Ping timeout: 258 seconds)
+Jun 09 06:51:55 *	macropreprocesso (~macroprep@2405:7f00:8a05:7100:509c:27a8:1307:37d7) has joined
+Jun 09 06:52:11 *	czesmir (~stefan@ehi79.neoplus.adsl.tpnet.pl) has joined
+Jun 09 06:52:47 *	Belinnon has quit (Remote host closed the connection)
+Jun 09 06:52:56 *	Belinnon (~rubik@141.226.212.149) has joined
+Jun 09 06:53:25 <starstruck>	thats actually pretty intuitive terabit[m] \
+**** BEGIN LOGGING AT Mon Jun 10 06:03:32 2019
+
+Jun 10 06:03:32 *	Now talking on ##linux
+Jun 10 06:03:32 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 10 06:03:32 *	Topic for ##linux set by sauvin (Tue Sep 18 19:14:08 2018)
+Jun 10 06:03:32 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 10 06:03:32 *	Channel ##linux url: http://linux.chat
+Jun 10 06:03:54 <veek_>	terabit[m], yep but it's a static file.. it can't send it's data without a binary/command
+Jun 10 06:04:28 <veek_>	it should be: cat /inet/etc..
+Jun 10 06:04:37 <terabit[m]>	sorry, you lost me
+Jun 10 06:04:40 <veek_>	or there's some other magic going on
+Jun 10 06:04:49 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:05:08 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:05:11 <terabit[m]>	veek_: look at the bullet points and paragaph before the text i quited earlier. the '|&' is bidirectional  (cat+echo equivalent I think)
+Jun 10 06:05:19 *	barteks2x (~barteks2x@156.17.232.33) has joined
+Jun 10 06:05:29 *	kichimi has quit (Remote host closed the connection)
+Jun 10 06:05:48 *	ZaydenStorm (~bitstorm@162.210.196.30) has left
+Jun 10 06:05:50 *	chewyDelicious (~nooblet@101.98.105.28) has joined
+Jun 10 06:06:22 <terabit[m]>	s/quited/quoted/
+Jun 10 06:07:24 *	Xaldafax has quit (Quit: Bye...)
+Jun 10 06:08:09 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 10 06:08:25 *	D-rex_ (derek@gateway/vpn/privateinternetaccess/d-rex) has joined
+Jun 10 06:08:31 *	snuffkins has quit (Ping timeout: 248 seconds)
+Jun 10 06:08:36 *	kichimi (~cat@ec2-3-8-49-132.eu-west-2.compute.amazonaws.com) has joined
+Jun 10 06:08:37 *	kuter (~qwerty@wpa222.bialnet.pl) has joined
+Jun 10 06:09:15 <terabit[m]>	x
+Jun 10 06:09:54 *	D-rex has quit (Ping timeout: 272 seconds)
+Jun 10 06:10:02 <veek_>	sec thinking
+Jun 10 06:10:07 *	uks has quit (Ping timeout: 248 seconds)
+Jun 10 06:10:18 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:10:22 <twainwek>	im aware of the gpg extensiom, was wondering if thrre has been... a better approach
+Jun 10 06:10:35 *	snuffkins (~snuffkins@196.196.193.86) has joined
+Jun 10 06:10:39 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+**** ENDING LOGGING AT Mon Jun 10 06:11:36 2019
+
+**** BEGIN LOGGING AT Mon Jun 10 06:11:36 2019
+
+Jun 10 06:12:12 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 10 06:12:33 *	Belinnon has quit (Read error: Connection reset by peer)
+Jun 10 06:12:33 *	olavx200 (~olavx200@229.221.202.84.customer.cdi.no) has joined
+Jun 10 06:12:41 *	Belinnon (~rubik@141.226.212.149) has joined
+Jun 10 06:12:51 <sauvin>	terabit[m], "I don't know", not "idk". I just walked back in; what are we trying to do?
+Jun 10 06:13:11 *	tsaka_ has quit (Ping timeout: 245 seconds)
+Jun 10 06:13:24 <terabit[m]>	I don't know
+Jun 10 06:13:30 <terabit[m]>	:P
+Jun 10 06:13:47 *	Burrito (~Burrito@unaffiliated/burrito) has joined
+Jun 10 06:13:48 <sauvin>	}:<
+Jun 10 06:14:01 *	luxeve (~luxeve@2001:8003:2355:7600:e1e1:7c03:a021:2ef9) has joined
+Jun 10 06:14:32 *	macropreprocesso has quit (Quit: Konversation terminated!)
+Jun 10 06:14:41 *	macropreprocesso (~macroprep@cpe-172-192-230-142.qld.foxtel.net.au) has joined
+Jun 10 06:14:53 <veek_>	terabit[m], gawk '{ print "hello world" |& "cat"; "cat" |& getline myvar; print myvar }' /etc/motd  A coprocess creates 2 pipes.. one for reading and one for writing.. BUT gawk's wrapping the 2nd pipe so it needs a "command NAME" <-- in this case "cat"
+Jun 10 06:14:59 <terabit[m]>	twainwek: what's wrong with gpg? I think you're using git wrong maybe. it's there for code management not data storage. if your code isn't public make the repo itself private. I personally don't know of other approaches
+Jun 10 06:15:18 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:15:21 <twainwek>	don't knos about others, but im trying to take over the worls
+Jun 10 06:15:23 <twainwek>	world
+Jun 10 06:15:24 <veek_>	terabit[m], could you suggest a working example which works with a file
+Jun 10 06:15:41 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:15:50 <terabit[m]>	veek_: sorry, I can't right now. maybe someone else can assist better
+Jun 10 06:15:55 <terabit[m]>	sauvin: ? ^
+Jun 10 06:15:56 *	frmus has quit (Quit: Leaving)
+Jun 10 06:16:20 *	os2mac_ has quit (Remote host closed the connection)
+Jun 10 06:16:43 <sauvin>	I'm not sure what we're trying to do. Since my knowledge of bash wouldn't impress the average third grade schoolgirl, any solution I might come up with is apt to be in perl.
+Jun 10 06:17:10 <veek_>	darn.. and the guys on awk aren't kicking about
+Jun 10 06:17:19 *	Maarten has quit (Quit: Erection reset by beer)
+Jun 10 06:17:32 <twainwek>	terabit[m]: well the approach i take is to commit fake credentials, but i have to remember to update them if credential file changes format
+Jun 10 06:17:36 <justsomeguy>	Have a bash question?
+Jun 10 06:17:47 *	Maarten (~maarten@unaffiliated/digz) has joined
+Jun 10 06:17:49 <veek_>	justsomeguy, gawk specific :(
+Jun 10 06:18:06 <veek_>	justsomeguy, but coprocess related - pipes
+Jun 10 06:18:18 <terabit[m]>	veek_: tried stackoverflow already?
+Jun 10 06:18:34 <veek_>	nope - I fought there - didn't like the overlords
+Jun 10 06:18:47 <justsomeguy>	There is an #awk
+Jun 10 06:18:57 <veek_>	yeah all asleep
+Jun 10 06:19:10 <sauvin>	Just be prepared for the possibility that the #awk guys will tell you that gawk ain't awk.
+Jun 10 06:19:11 *	AbedB__ (~AbedBhuty@bzq-79-179-23-57.red.bezeqint.net) has joined
+Jun 10 06:19:18 <veek_>	hehe
+Jun 10 06:19:25 <pingfloyd>	yeah, it's better
+Jun 10 06:19:35 <twainwek>	well it is sunday 1.30am
+Jun 10 06:19:37 *	rindolf (~rindolf@176.230.228.134) has joined
+Jun 10 06:19:42 <terabit[m]>	it's an awkward situation you could say
+Jun 10 06:19:49 <sauvin>	You lie. It's only 0019.
+Jun 10 06:20:08 <sauvin>	veek_, what *are* you trying to do?
+Jun 10 06:20:21 <twainwek>	the future is now old man
+Jun 10 06:20:36 <sauvin>	Feh, for me, the future died thirty five years ago.
+Jun 10 06:20:57 <pingfloyd>	twainwek: ever heard of timezones?
+Jun 10 06:21:00 <sauvin>	Heh... yeah, my arithmetic went with it, too. More like 45 years ago.
+Jun 10 06:21:19 <twainwek>	pingfloyd: no whats that?
+Jun 10 06:21:20 <terabit[m]>	sauvin: what happened 35 years ago? someone broke your heart?? :(
+Jun 10 06:21:52 *	Chr|s_ (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:21:52 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:21:56 *	fatalhalt has quit (Quit: fatal halt)
+Jun 10 06:21:56 *	barteks2x has quit (Ping timeout: 272 seconds)
+Jun 10 06:22:04 *	AbedB_ has quit (Ping timeout: 246 seconds)
+Jun 10 06:22:11 <twainwek>	:'(
+Jun 10 06:23:05 <veek_>	sauvin, https://www.gnu.org/software/gawk/manual/gawk.html#Switch-Statement '4.11 Reading Input with a Timeout' wondering how if ((Service |& getline) > 0) worked?
+Jun 10 06:23:06 <sauvin>	Dunno nothing about "time zones", but I know all about "Twilight Zones" - it's a cookbook!
+Jun 10 06:23:42 <terabit[m]>	35 years ago == 1984 == when email was formalized?
+Jun 10 06:23:49 <sauvin>	Without clicking on that link, do you know what "> 0" means?
+Jun 10 06:24:06 <twainwek>	greater than zero
+Jun 10 06:24:19 *	terabit[m] thinks sauvin traveled from the past to our current time
+Jun 10 06:24:22 <sauvin>	I took it to mean "dump to stdin".
+Jun 10 06:24:46 <veek_>	sauvin yeah, greater than
+Jun 10 06:25:02 *	peetaur (~peter@pD953ECCF.dip0.t-ipconnect.de) has joined
+Jun 10 06:25:04 <sauvin>	"greater than" has nothing to do with file IO redirection.
+Jun 10 06:25:26 <veek_>	sauvin, that's not file IO, Service = "/inet/tcp/0/localhost/daytime"
+Jun 10 06:25:26 <twainwek>	non-negative number
+Jun 10 06:25:52 <terabit[m]>	sauvin: I don't think that's IO redirection, it's inside an if() clause
+Jun 10 06:26:16 <twainwek>	he said without clicking the link
+Jun 10 06:26:31 <twainwek>	you broke the rules
+Jun 10 06:26:44 *	D-rex_ has quit (Quit: Konversation terminated!)
+Jun 10 06:27:00 *	him-cesjf has quit (Ping timeout: 272 seconds)
+Jun 10 06:27:10 <sauvin>	Yeah, and I also said I don't know bash. I forgot to say that awk/mawk/gawk and other awkwardnesses were a very long time ago for me, too. emx days on OS/2.
+Jun 10 06:27:28 *	markmcb1 is now known as markmcb
+Jun 10 06:28:20 *	Rudd0 has quit (Ping timeout: 248 seconds)
+Jun 10 06:28:47 *	os2mac (~os2mac@unaffiliated/os2mac) has joined
+Jun 10 06:28:54 <pingfloyd>	also 1984 was when gnu was born
+Jun 10 06:29:01 <terabit[m]>	first time hearing of it but I think what's tripping up veek_ is the '|&' operator
+Jun 10 06:29:20 <pingfloyd>	1984 wasn't 1984 because of Apple, but because of gnu.
+Jun 10 06:29:26 *	Bashing-om has quit (Quit: 'Nuff - can stands no more \o)
+Jun 10 06:29:30 <sauvin>	An awk operator, meaning, I gonna hafta snoop around to see.
+Jun 10 06:29:31 <terabit[m]>	pingfloyd: orwell predicted that year right
+Jun 10 06:29:48 <codeahol1c>	apple has kinda become that draconian overlord from their commercial
+Jun 10 06:29:53 *	goodblood has quit (Quit: Lost terminal)
+Jun 10 06:30:00 <pingfloyd>	kind of?
+Jun 10 06:30:07 <pingfloyd>	I'd say "without a doubt"
+Jun 10 06:30:15 <terabit[m]>	sauvin: *cough**cough* "have to"
+Jun 10 06:30:16 <terabit[m]>	tsk tsk
+Jun 10 06:30:21 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:30:23 *	Chr|s_ has quit (Ping timeout: 248 seconds)
+Jun 10 06:30:46 *	emacsomancer has quit (Quit: WeeChat 2.4)
+Jun 10 06:30:48 *	Leonarbro has quit (Ping timeout: 272 seconds)
+Jun 10 06:30:54 <pingfloyd>	codeahol1c: they're more draconian, not like a government, but like Scientology.
+Jun 10 06:30:55 <sauvin>	The rule is against SMS-style English. It doesn't say anything about idiomatic English.
+Jun 10 06:31:04 <codeahol1c>	pingfloyd: true enough
+Jun 10 06:31:22 <terabit[m]>	codeahol1c: there's a saying/superstition I kept hearing in asian media "Be careful who you hate, you'll become just like them"
+Jun 10 06:31:25 <terabit[m]>	¯\_(ツ)_/¯
+Jun 10 06:31:32 *	emacsomancer (~runner@c-174-52-88-123.hsd1.ut.comcast.net) has joined
+Jun 10 06:31:44 <codeahol1c>	interesting
+Jun 10 06:32:04 <codeahol1c>	and microsoft has become much less awful in the last few years
+Jun 10 06:32:11 <codeahol1c>	crazy times we live in
+Jun 10 06:32:13 *	idiocrash has quit (Remote host closed the connection)
+Jun 10 06:32:33 <sauvin>	They've become a bit less awful because they've lost a lot of power.
+Jun 10 06:32:41 <terabit[m]>	codeahol1c: no, they're the same just adopting after the new CEO took over.
+Jun 10 06:33:01 <pottsy>	lets not forget googles old slogan "Don't Be Evil"
+Jun 10 06:33:08 *	personnamehere (~personnam@71.212.206.92) has joined
+Jun 10 06:33:18 <pingfloyd>	pottsy: they might as well have said, "Don'
+Jun 10 06:33:18 <terabit[m]>	sauvin: their power has always been corporate stuff , they're very strong there. Azure is doing great too
+Jun 10 06:33:19 <codeahol1c>	terabit[m]: i disagree. they're different than they were under balmer
+Jun 10 06:33:21 *	idiocrash (~idiocrash@2620:149:e0:5004::44) has joined
+Jun 10 06:33:22 <pingfloyd>	pottsy: they might as well have said, "Don't be google"
+Jun 10 06:33:53 <terabit[m]>	codeahol1c: their strategy is different, their customer needs changed and they are adopting but their goal is the same
+Jun 10 06:34:05 <pottsy>	Microsoft still going for the their classic "Embrace, Extend, Extinguish" tactic with Open Source
+Jun 10 06:34:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:34:28 <codeahol1c>	pottsy: i don't think they can extend or extinguish
+Jun 10 06:34:31 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:34:45 <codeahol1c>	they're too far behind the curve
+Jun 10 06:34:47 <pingfloyd>	they bit off more than they can chew this tme
+Jun 10 06:34:50 <sauvin>	I'm getting a bit messed up on the |& operator myself. Piping to and/or from a backgrounded process?
+Jun 10 06:35:21 <sauvin>	I agree with pingfloyd. They're in over their heads if they want to try to fight FOSS.
+Jun 10 06:35:29 <pingfloyd>	they may be successful at taking over businesses, but taking over a community isn't the same.
+Jun 10 06:35:47 <pottsy>	I don't think they want to fight it perse,   just capitalise on it
+Jun 10 06:35:49 <pingfloyd>	especially when most citizens in that community know better than to trust them
+Jun 10 06:36:04 <sauvin>	We don't have legal departments because we don't have owners, shareholders or boards of directors.
+Jun 10 06:36:06 <terabit[m]>	pingfloyd: if someone came up to you and said "I don't murder"  you should ask why they're talking about murder to begin with :P "don't be evil" lol
+Jun 10 06:36:16 <pingfloyd>	terabit[m]: yeah
+Jun 10 06:36:20 <pottsy>	the purchase of github,   massive contributions to kernel,   azure adaption of linux etc
+Jun 10 06:36:35 <terabit[m]>	pottsy: yeah, their customers need that a lot
+Jun 10 06:36:43 <codeahol1c>	pingfloyd: yeah exactly. reputation is everything in the OS community and Microsoft has very little social capital
+Jun 10 06:36:56 <pingfloyd>	pottsy: one more reason to use gitlab instead
+Jun 10 06:37:08 <pottsy>	Until recently gitlab was hosted on azure lol
+Jun 10 06:37:17 <terabit[m]>	they're expanding portfolio so customers won't need other platforms to get things done on the enterprise end
+Jun 10 06:37:23 <pottsy>	even during the github exodus
+Jun 10 06:37:59 <codeahol1c>	terabit[m]: yeah i think they're trying to create an "on ramp" for customers using OS technologies on to the MS ecosystem
+Jun 10 06:39:09 <codeahol1c>	it may move some customers over but i think it'll just strengthen existing customers already on the MS stack.
+Jun 10 06:39:16 <terabit[m]>	win10 security isn't bad either. windows defender ATP is really good (not the best but beats any traditional AV) their culture too has adopted. google's strategy has always been to buy up as much brain-power as possible and drain the talent pool from the competition. now people are leaving google a lot, MS is playing their game and winning lol
+Jun 10 06:39:31 *	tsujp (~tsujp@unifi-student-15.nat.access.uwa.edu.au) has joined
+Jun 10 06:40:03 <codeahol1c>	google also isn't what it once was.
+Jun 10 06:40:09 *	Maarten has quit (Quit: Erection reset by beer)
+Jun 10 06:40:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:40:14 <pottsy>	google has a 2 year average turn over for staff
+Jun 10 06:40:20 *	AbedB_ (~AbedBhuty@bzq-109-65-32-106.red.bezeqint.net) has joined
+Jun 10 06:40:20 <terabit[m]>	they're not trying to win over OS X and Linux users, they're trying to keep existing customers trying to adopt "cloud" "devops" "EDR",etc... buzzwords
+Jun 10 06:40:27 <pingfloyd>	pottsy: doesn't surprise me
+Jun 10 06:40:31 <terabit[m]>	pottsy: excluding TVC?
+Jun 10 06:40:36 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:40:36 <pingfloyd>	pottsy: that's normal when you treat your staff like slaves
+Jun 10 06:40:38 *	Maarten (~maarten@unaffiliated/digz) has joined
+Jun 10 06:40:48 <codeahol1c>	terabit[m]: exactly.
+Jun 10 06:40:58 <pingfloyd>	that's how you know some place you're applying for is shit.  They have a high turnover rate.
+Jun 10 06:41:15 *	AC3J has quit (Quit: ZNC 1.7.2+deb1+bionic0 - https://znc.in)
+Jun 10 06:41:32 <codeahol1c>	in some markets the MS tech stack is quite popular. i've considered picking .NET back up again just to ensure i can get extra work here in Houston in the oil and gas market.
+Jun 10 06:41:37 <terabit[m]>	pingfloyd: meh, not really. most tech jobs you don't get into it for the pleasantry anyways
+Jun 10 06:42:03 <terabit[m]>	some tech jobs are high turn over because the nature of the work
+Jun 10 06:42:18 <codeahol1c>	although 2 years is pretty close to the average turn over for most tech workers these days
+Jun 10 06:42:25 <codeahol1c>	the days of the "company man" are dead
+Jun 10 06:42:53 *	terabit[m] works in a infosec subfield where turnover is 1 year average 5 year at best and likes it just fine :P
+Jun 10 06:42:58 <pingfloyd>	codeahol1c: that's more in the tech industry
+Jun 10 06:43:09 <pingfloyd>	codeahol1c: that's because talent is handles like cattle in it
+Jun 10 06:43:11 *	AbedB__ has quit (Ping timeout: 245 seconds)
+Jun 10 06:43:13 <pingfloyd>	handled
+Jun 10 06:43:49 <codeahol1c>	pingfloyd: i saw the same in Marketing and Advertising, but i suppose you have to call them part of the tech industry these days
+Jun 10 06:43:55 <terabit[m]>	codeahol1c: that's a lot of corporate jobs though. that's also why getting non-contractor/vendor jobs is harder now
+Jun 10 06:44:43 <personnamehere>	Hi all, I have a dell latitude 12 (model 7202) that the seller told me contains a GPS module. I am trying to identify that piece of hardware. I have the output of lspci, lsusb --verbose and lshw here: https://termbin.com/zr0o . Can anyone tell which is the GPS module or if there is one?
+Jun 10 06:45:40 <codeahol1c>	terabit[m]: i think the whole "try before they buy" contract to hire thing has a lot to do with it. they can out source the hiring process and save on benefits.
+Jun 10 06:45:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:45:41 *	macropreprocesso has quit (Read error: Connection reset by peer)
+Jun 10 06:45:59 *	DaijobuDes has quit (Changing host)
+Jun 10 06:45:59 *	DaijobuDes (~DaijobuDe@unaffiliated/daijobudes) has joined
+Jun 10 06:46:01 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:46:08 <pingfloyd>	codeahol1c: outsourcing has everything to do with it
+Jun 10 06:46:28 *	thePiGrepper has quit (Ping timeout: 248 seconds)
+Jun 10 06:46:42 *	idiocrash has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+Jun 10 06:46:49 <codeahol1c>	pingfloyd: DTO is the same thing. it's a money grab for when you leave. If you have unlimited PTO then they don't have to pay you accrued time off when you leave.
+Jun 10 06:47:10 <personnamehere>	or if there is another command or piece of software that could help me identify the GPS chip, please let me know
+Jun 10 06:47:13 *	macropreprocesso (~macroprep@cpe-172-192-230-142.qld.foxtel.net.au) has joined
+Jun 10 06:47:36 *	Merc has quit (Remote host closed the connection)
+Jun 10 06:47:45 <pingfloyd>	codeahol1c: the trend I've noticed lately though, is it seems like some are moving away from the head hunter model now.
+Jun 10 06:48:04 <codeahol1c>	pingfloyd: what are you seeing them move towards?
+Jun 10 06:48:15 <pingfloyd>	codeahol1c: companies are hiring directly more now
+Jun 10 06:48:16 *	codeahol1c is actively looking for a job and not having a lot of luck.
+Jun 10 06:48:35 <justsomeguy>	personnamehere:  Why not go to the support page for your particular model of laptop on the dells website? They list components there.
+Jun 10 06:48:55 <codeahol1c>	I just came off an 18 month remote position. i'd love to find another one of those, but they seem as rare as unicorn teeth
+Jun 10 06:49:03 *	arptiw has quit (Quit: arptiw)
+Jun 10 06:49:07 <justsomeguy>	personnamehere: It's probably a u-blox NEO-M8 GPS card
+Jun 10 06:49:26 <pingfloyd>	codeahol1c: I think from all the mistakes of the last few decades, they're starting to realize not keeping your brain power is ultimately a bad thing for the company.
+Jun 10 06:49:32 *	AC3J (~james@bbs.c-128.net) has joined
+Jun 10 06:49:41 *	arptiw (~Thunderbi@182.76.90.6) has joined
+Jun 10 06:50:25 <personnamehere>	ok justsomeguy, I came across that model name when researching this table previously so you are probably right
+Jun 10 06:50:37 <codeahol1c>	pingfloyd: possible. i've seen more companies embrace the "principal engineer" and the idea of retaining technical competency without making them move in to people management.
+Jun 10 06:50:44 <personnamehere>	*tablet
+Jun 10 06:51:02 <personnamehere>	though it is so bulky it could be used as a table =P
+Jun 10 06:51:34 <justsomeguy>	personnamehere: To be sure, the manufacturer website has a search field that usually goes off of serial number. That will lead you to a spec sheet + drivers and other stuff. But yeah, probably.
+Jun 10 06:51:35 <pingfloyd>	codeahol1c: it's like a stop gap solution vs. a real solution.
+Jun 10 06:51:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:51:48 *	sauvin has never been paid accrued paid time off that he can remember
+Jun 10 06:51:59 <pingfloyd>	the former is a quick fix and seems good in the moment, but ends up creating more problems in the long run.
+Jun 10 06:52:01 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:52:04 *	macropreprocesso has quit (Client Quit)
+Jun 10 06:52:16 <personnamehere>	ok justsomeguy I will look into that
+Jun 10 06:52:17 <codeahol1c>	pingfloyd: well a real solution would require real introspection and self examination, which corporate america seems unable to do
+Jun 10 06:52:46 <micky>	personnamehere, dell lists the LTE chip as a DW5808 / DW5809e just check their website, get the drivers, find pci ids and probably using those find linux drivers :)
+Jun 10 06:52:46 *	Belinnon has quit (Remote host closed the connection)
+Jun 10 06:52:48 <pingfloyd>	codeahol1c: that's because they try apply old and arbitrary hiring systems still
+Jun 10 06:52:55 *	Belinnon (~rubik@141.226.212.149) has joined
+Jun 10 06:53:06 <pingfloyd>	codeahol1c: the dilemma has evolved and changed, but they haven't evolved their processes.
+Jun 10 06:53:07 <personnamehere>	ok micky, justsomeguy thank you
+Jun 10 06:53:31 <pingfloyd>	codeahol1c: like ever been into an interview where there's endless irrelevant questions being asked?
+Jun 10 06:53:36 *	iua has quit (Quit: WeeChat 1.6)
+Jun 10 06:53:53 <pingfloyd>	and then the questions that would be good ones, are never asked.
+Jun 10 06:53:54 <codeahol1c>	pingfloyd: that's par for the course
+Jun 10 06:53:56 <terabit[m]>	personnamehere: make sure if there is an option in the bios/uefi it's enabled
+Jun 10 06:53:59 <pingfloyd>	codeahol1c: exactly
+Jun 10 06:54:03 <pingfloyd>	codeahol1c: that's the norm
+Jun 10 06:54:08 <personnamehere>	ok terabit[m] good call, I will definitely check
+Jun 10 06:54:20 <pingfloyd>	codeahol1c: so the dilemma is they don't know how to find qualified candidates.
+Jun 10 06:54:28 <codeahol1c>	although one strategy i try to do is steer the interview back towards points i wanted to cover by asking questions and then expanding on them
+Jun 10 06:54:42 *	iua (~neko@168.199.231.35.bc.googleusercontent.com) has joined
+Jun 10 06:54:48 <justsomeguy>	personnamehere: By the way, it looks like the name of the driver will show up as "gnss", most likely.
+Jun 10 06:54:59 <pingfloyd>	codeahol1c: and then they complain they can't find any qualified help.
+Jun 10 06:55:21 <personnamehere>	ok good to know justsomeguy good to know
+Jun 10 06:55:44 <personnamehere>	more shortened version of glonass possibly?
+Jun 10 06:55:47 <terabit[m]>	pingfloyd: codeahol1c interview questions are typically not meant to be 'good ones' they're just opportunities  to show your thinking process
+Jun 10 06:56:08 <pingfloyd>	that is, you find out who is qualified by asking smart and appropriate questions.
+Jun 10 06:56:36 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 06:56:39 *	CrystalMath has quit (Quit: Support Free Software - https://www.fsf.org/)
+Jun 10 06:56:43 <terabit[m]>	someone may ask you something dumb like "name commonly used flags with grep?" it's not to see if you know the flags, it's to see what you know so they can ask follow up questions
+Jun 10 06:56:49 <pingfloyd>	I also can't tell you how many times I've gotten a job where it was nothing like they made it seem.
+Jun 10 06:56:57 *	andrzejv (~andzej@mail.belyj.eu) has joined
+Jun 10 06:57:04 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 06:57:16 <codeahol1c>	my last employeer used a system where they asked you a huge laundry list of technologies and if you were familiar with them. You had to describe briefly how you used each one. They then ranked you based on your answers and this became your score which was used to determine which types of projects you could be on, and what type of compensation you got. As a hiring manager I ended up getting applicants
+Jun 10 06:57:22 <codeahol1c>	who could barely code for a project where we needed programmers, but they scored "high" on the devops section so they must be a fit
+Jun 10 06:57:24 <pingfloyd>	like I thought I was applying for a job that would take some smarts because of the application process.  Turns out it's a button pressing job.
+Jun 10 06:57:26 <foofbug>	I took a job at Intel, where they werent allowed to tell me what it was.
+Jun 10 06:57:36 <foofbug>	because secret
+Jun 10 06:57:45 *	Necktwi (~necktwi@202.153.45.33) has joined
+Jun 10 06:57:45 <foofbug>	was not a good job, lol
+Jun 10 06:58:28 <codeahol1c>	foofbug: nice
+Jun 10 06:58:32 <pingfloyd>	foofbug: let me guess. The top secret NOC tech job.
+Jun 10 06:58:34 <justsomeguy>	codeahol1c: Wow, that's a terrible way to screen people for a job that requires abstract reasoning abilities.
+Jun 10 06:58:34 *	bbt has quit (Quit: priatno)
+Jun 10 06:58:36 <terabit[m]>	I did a whiteboard thing only once, man that thing is bad. it's like trying to take a #2 while people are staring at you and you
+Jun 10 06:58:38 *	palasso (~palasso@unaffiliated/palasso) has joined
+Jun 10 06:58:57 <pingfloyd>	foofbug: with 20 different certifications required.
+Jun 10 06:59:01 *	iliv has quit (Ping timeout: 245 seconds)
+Jun 10 06:59:04 <terabit[m]>	s/and you//
+Jun 10 06:59:06 <pingfloyd>	that had nothing to do with the job
+Jun 10 06:59:31 <codeahol1c>	justsomeguy: yeah i wanted to institute a second level of screening and give the canidates they gave me a simple take home programming tests. They balked at the idea
+Jun 10 06:59:47 *	InfernalFlameZA (~stef@41.66.157.252) has joined
+Jun 10 06:59:48 <justsomeguy>	lol
+Jun 10 06:59:56 <foofbug>	pingfloyd:  nah, they were trying to get into the Cellphone @ tablet market with X86 chips. That division is all gone now :)
+Jun 10 07:00:10 *	iliv (~iliv@93.77.147.152) has joined
+Jun 10 07:00:14 <codeahol1c>	terabit[m]: i've been lucky to only have to do the whiteboard thing a few times. I absoulutely hated it.
+Jun 10 07:00:41 <pingfloyd>	foofbug: the thing is if they had gone in that direction early enough and retained the needed staff for it, they might still be a player in that market.
+Jun 10 07:01:02 *	ubervison (~ubervison@tsf-444-wpa-0-250.epfl.ch) has joined
+Jun 10 07:01:03 <pingfloyd>	foofbug: but instead they just want to jump on a bandwagon and outsource needed brainpower to pull it off.
+Jun 10 07:01:28 <foofbug>	pingfloyd:  Maybe... but the x86 is less efficient than ARM. All our stuff was slower with worse battery life
+Jun 10 07:01:31 *	oatmealraisin has quit (Ping timeout: 252 seconds)
+Jun 10 07:01:33 <terabit[m]>	codeahol1c: I blanked out how to solve a simple problem in pseudocode and just wrote it in python on the stupid whiteboard
+Jun 10 07:01:35 <codeahol1c>	terabit[m]: the worst was an online skype interview where they sprung a surprise programming skills test at the end of the interview. They wanted me to iterate over a 2x2 array in a spiral starting in the top left corner. I was so surprised by the request I froze up and couldn't do it.
+Jun 10 07:02:13 <pingfloyd>	foofbug: sure, because they couldn't pull of cracking that issue with it
+Jun 10 07:02:31 *	purpleunicorn (~purpleuni@unaffiliated/purpleunicorn) has joined
+Jun 10 07:02:34 <foofbug>	pingfloyd:  yeah, RIP x86 phones
+Jun 10 07:02:41 <pingfloyd>	foofbug: it's going to take some intelligent and dedicated people to pull that off.
+Jun 10 07:02:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:02:57 <pingfloyd>	foofbug: and they're clueless about how to get that
+Jun 10 07:03:01 <foofbug>	pingfloyd:  also, they tried to make their own phone OS first. I was hired to make it run Android ASAP, among other things
+Jun 10 07:03:01 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:03:17 <foofbug>	effing Meego
+Jun 10 07:03:24 <foofbug>	shite OS
+Jun 10 07:03:28 <codeahol1c>	nice
+Jun 10 07:03:32 <foofbug>	//rant
+Jun 10 07:03:33 *	yabo (yabo@nat/suse/x-zdfmcrzxwkcoqzzz) has joined
+Jun 10 07:03:44 *	phebus has quit (Ping timeout: 272 seconds)
+Jun 10 07:04:04 <pingfloyd>	foofbug: that was dumb of them
+Jun 10 07:04:13 <pingfloyd>	foofbug: they could have made the phone OS later
+Jun 10 07:04:31 <pingfloyd>	foofbug: first they have to get x86 platform off the ground for phone usage
+Jun 10 07:04:35 <terabit[m]>	codeahol1c: yeah, I'm convinced at least in the US, they expect everyone to have a a particular personality. most coders do their best work at 2am when nobody is around. open offices, conference calls all the time,etc...
+Jun 10 07:04:40 <justsomeguy>	Why do big orgs think making their own OS is an easy thing?!
+Jun 10 07:04:52 <pingfloyd>	foofbug: and if they held off on the OS, they'd probably come to realize that was a dead end.
+Jun 10 07:04:53 <terabit[m]>	meh, it's not so bad I guess
+Jun 10 07:05:10 <pingfloyd>	foofbug: that it's not worth fighting it out in phone OS market itself
+Jun 10 07:05:11 *	tsujp has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+Jun 10 07:05:16 *	phebus (~phebus@fsf/member/phebus) has joined
+Jun 10 07:05:38 *	talonz has quit (Ping timeout: 272 seconds)
+Jun 10 07:06:01 <luke-jr>	ETA until RIP x86 in general?
+Jun 10 07:06:29 <codeahol1c>	luke-jr: probably when intel ships a chip without 32 bit support
+Jun 10 07:06:29 *	airwind (~belovent@user149.c3.hrastnik.kabelnet.net) has joined
+Jun 10 07:06:37 <luke-jr>	codeahol1c: I'm including x86_64 in that
+Jun 10 07:06:48 <foofbug>	Meego was a neat idea. Had a Java JVM and QT and etc. Just soooo slow
+Jun 10 07:06:49 <codeahol1c>	i wouldn't. they're quite different
+Jun 10 07:06:58 <luke-jr>	foofbug: Java sucks
+Jun 10 07:07:03 <luke-jr>	codeahol1c: not meaningfully
+Jun 10 07:07:06 <foofbug>	X86_64 is here to stay
+Jun 10 07:07:13 <codeahol1c>	foofbug: yup
+Jun 10 07:07:14 <luke-jr>	x86* needs to die
+Jun 10 07:07:23 *	ygivenx has quit (Remote host closed the connection)
+Jun 10 07:07:25 <pingfloyd>	the thing is, if you can't make something clearly better than what is already out there, don't bother.
+Jun 10 07:07:26 <foofbug>	what wrong with x86?
+Jun 10 07:07:40 <luke-jr>	foofbug: poor architecture, and everyone making x86 chips includes backdoors
+Jun 10 07:08:00 <terabit[m]>	foofbug: took the whole CISC thing too far
+Jun 10 07:08:03 *	ygivenx (~ygivenx@2601:647:4e01:1561:5f4:45c7:1eca:21b8) has joined
+Jun 10 07:08:04 <pingfloyd>	you only have a chance in an existing market if you stick out enough.  Even then the odds are against you.
+Jun 10 07:08:16 <codeahol1c>	I'm really hoping Mill Computing is successful
+Jun 10 07:08:19 <foofbug>	I cant wait for an ARM based Mac Pro (cheesegrater)
+Jun 10 07:08:21 *	personnamehere (~personnam@71.212.206.92) has left ("Leaving")
+Jun 10 07:08:29 <terabit[m]>	pingfloyd: and if you don't try to make everyone happy at first
+Jun 10 07:08:31 <codeahol1c>	those guys have some fantastic ideas. eg. the belt, portals
+Jun 10 07:08:32 <pingfloyd>	that's why the phone OS business isn't a good one to compete in
+Jun 10 07:08:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:08:43 <foofbug>	Intel is dumb
+Jun 10 07:08:44 *	sauvin wants to know when they're going to start trotting out 128 bit machines
+Jun 10 07:08:44 <foofbug>	^^
+Jun 10 07:08:47 *	klabautermann has quit (Read error: Connection reset by peer)
+Jun 10 07:08:50 *	luke-jr is happy with his IBM PC
+Jun 10 07:08:52 <pingfloyd>	the giants have it covered better
+Jun 10 07:08:52 *	hellozee has quit (Ping timeout: 248 seconds)
+Jun 10 07:09:03 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:09:06 <pingfloyd>	foofbug: they are
+Jun 10 07:09:10 <codeahol1c>	sauvin: they already have. in the form of SIMD
+Jun 10 07:09:17 <pingfloyd>	foofbug: like if they had any brains, they never would have pushed IME on the world.
+Jun 10 07:09:42 <pingfloyd>	all that did is detract their value in a portion of their market
+Jun 10 07:09:51 <pingfloyd>	for what gain?
+Jun 10 07:09:59 <pingfloyd>	what does intel gain out it anyway?
+Jun 10 07:09:59 *	shodan_2000 (~shodan_20@gw1.lag-mlg-20130006.cust.net.lagis.at) has joined
+Jun 10 07:10:21 <luke-jr>	pingfloyd: DRM
+Jun 10 07:10:30 <pingfloyd>	I mean you have to be really stupid to ever think doing anything to get your customers to trust your brand less is a good idea.
+Jun 10 07:10:45 *	klabautermann (~klabauter@c-24-30-8-192.hsd1.ga.comcast.net) has joined
+Jun 10 07:10:56 *	cowboy_coder has quit (Ping timeout: 244 seconds)
+Jun 10 07:11:09 <pingfloyd>	stuff like this is a good thing for the consumer in the long run though
+Jun 10 07:11:18 <pingfloyd>	because it gives other competition more hope
+Jun 10 07:11:23 <foofbug>	Intel is just too big, and they pay like shit... so employees compete and steal each others ideas
+Jun 10 07:11:28 <pingfloyd>	a better chance to get into the ring
+Jun 10 07:11:31 <foofbug>	instead of doing their job
+Jun 10 07:11:59 <luke-jr>	I'm pretty sure I couldn't watch Netflix for example
+Jun 10 07:12:18 <terabit[m]>	foofbug: can easily be turned into an asset by foreign countries to steal trade secrets too :)
+Jun 10 07:12:32 <terabit[m]>	luke-jr: good! :P
+Jun 10 07:13:02 *	ygivenx has quit (Ping timeout: 248 seconds)
+Jun 10 07:13:34 *	rubentsirunyan (~rubentsir@212.42.213.130) has joined
+Jun 10 07:13:54 *	sQVe (~sQVe@unaffiliated/sqve) has joined
+Jun 10 07:14:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:14:32 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:14:39 <foofbug>	Intel seems to think that firing $100k/yr employees and replacing with 2 $40k/yr employees saves money.
+Jun 10 07:14:50 *	simbalion has quit (Remote host closed the connection)
+Jun 10 07:14:51 <foofbug>	and gets more work done. Um, no
+Jun 10 07:15:04 <codeahol1c>	foofbug: that's not unique to intel
+Jun 10 07:15:35 <pingfloyd>	foofbug: yeah, that seems like typical management minded BS
+Jun 10 07:15:37 <codeahol1c>	in recent years i've found less and less companies wanting to hire a programmer with 20 years of experience.
+Jun 10 07:15:46 <foofbug>	And like office-space. I had multiple bosses at Intel. W T F
+Jun 10 07:15:47 <pingfloyd>	foofbug: they're never scientific about anything.
+Jun 10 07:15:52 <codeahol1c>	yet when i've done people management they've thrown money at me
+Jun 10 07:16:34 *	indistylo (~aruns_@106.51.25.10) has joined
+Jun 10 07:16:49 *	Merc (~merc@173.234.31.253) has joined
+Jun 10 07:17:51 *	udni (~Thunderbi@78-134-59-207.v4.ngi.it) has joined
+Jun 10 07:17:54 <foofbug>	in certian jobs, the managers need to make less than their employees.
+Jun 10 07:18:04 <foofbug>	like in tech, and healthcare
+Jun 10 07:18:17 *	Deusdeorum (~Deusdeoru@unaffiliated/deusdeorum) has joined
+Jun 10 07:18:42 *	justsomeguy has quit ()
+Jun 10 07:19:05 <codeahol1c>	foofbug: that seldom happens
+Jun 10 07:19:08 *	kostrifon has quit (Quit: kostrifon)
+Jun 10 07:19:17 *	fjellfras has quit (Remote host closed the connection)
+Jun 10 07:19:26 <foofbug>	codeahol1c: I should go into management: more pay, less work
+Jun 10 07:19:37 *	fjellfras (~fjellfras@49.248.13.74) has joined
+Jun 10 07:19:41 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:20:00 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:21:02 *	knotwurk has quit (Ping timeout: 248 seconds)
+Jun 10 07:21:08 *	queip has quit (Ping timeout: 248 seconds)
+Jun 10 07:21:39 <codeahol1c>	foofbug: it's not less work, well sometimes it is, but usually it's just different work
+Jun 10 07:21:40 *	knotwurk (~knotwurk@unaffiliated/knotwurk) has joined
+Jun 10 07:22:09 <sauvin>	Where I work now, all new employees are first brought in as temporaries, and may remain temporaries for months or even years before being hired, if at all.
+Jun 10 07:22:09 <foofbug>	I never saw my mangers stay late, or be on the late-night phonecalls, or work on a weekend
+Jun 10 07:22:32 <codeahol1c>	sauvin: that's very common. it's a way to avoid paying benefits and taxes
+Jun 10 07:22:40 <sauvin>	One year survival rate for all new employees under these conditions is something like 5 percent.
+Jun 10 07:22:52 <foofbug>	Yeah, Eff these greedy bastards, lol
+Jun 10 07:23:01 <foofbug>	We need a programmers union
+Jun 10 07:23:05 <sauvin>	And we have some perfectly awful quality problems.
+Jun 10 07:23:16 <foofbug>	go on strike and LARP out front of the building
+Jun 10 07:23:16 <codeahol1c>	foofbug: maybe so
+Jun 10 07:23:41 <sauvin>	Strikes won't do any good. They'll just bring in a new batch of temps.
+Jun 10 07:24:04 *	veek_ has quit (Quit: Leaving)
+Jun 10 07:24:08 <foofbug>	computer progamming may have been a bad career choice :/
+Jun 10 07:24:12 <foofbug>	oops
+Jun 10 07:24:25 <sauvin>	ANY job in the US these days is a bad choice.
+Jun 10 07:24:53 <foofbug>	there are jobs, but they pay less than construction (no HS diploma even needed) and you work 10hsa a day 6 days a week
+Jun 10 07:25:11 *	Chr|s has quit (Remote host closed the connection)
+Jun 10 07:25:31 *	Chr|s (~Chr|s@unaffiliated/chrs/x-8492632) has joined
+Jun 10 07:26:10 *	queip (~queip@unaffiliated/rezurus) has joined
+Jun 10 07:26:18 *	truthr (~truthr@unaffiliated/truthr) has joined
+Jun 10 07:27:06 *	warp9 (~warp9@unaffiliated/warp9) has joined
+Jun 10 07:27:30 <sauvin>	The thing that's sticking in my craw is the quality problems. The company doesn't seem to want to understand that recalls and remanufactures cost arms and legs. The problem would be substantially mitigated if the workforce were to have some kind of investment in what they're producing. They don't because they have zero loyalty to the company because it's very, very clear that the company has zero loyalty towards THEM.
+Jun 10 07:28:09 <sauvin>	So, it's all about just putting in the time and not getting caught.
+Jun 10 07:28:16 *	D-melanogaster (~D-melanog@212.90.58.216) has joined
+Jun 10 07:28:26 *	kasitano (~kasitano@46.63.31.29) has joined
+Jun 10 07:28:30 <Mysterytrain>	that's every business these days, it seems
+Jun 10 07:28:41 *	sb35 (~sb35@67.231.16.203) has joined
+**** BEGIN LOGGING AT Tue Jun 11 15:08:10 2019
+
+Jun 11 15:08:10 *	Now talking on ##linux
+Jun 11 15:08:10 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:08:10 *	Topic for ##linux set by sauvin (Tue Sep 18 19:14:08 2018)
+Jun 11 15:08:10 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:08:10 *	Channel ##linux url: http://linux.chat
+Jun 11 15:08:40 *	titouan (~titouan@galactica.m.titouan.co) has joined
+Jun 11 15:09:02 *	mquy90 has quit (Quit: Leaving)
+Jun 11 15:09:44 *	nindustries (~nindustri@unaffiliated/nindustries) has joined
+Jun 11 15:09:51 *	jimgray has quit (Read error: Connection reset by peer)
+Jun 11 15:10:06 *	m1sosoup (~m1sosoup@62.23.209.50) has joined
+Jun 11 15:10:08 <nindustries>	Hi, any idea why this command doesn't fork ssh into the bg? ssh -N -L $(pwd)/docker.sock:/var/run/docker.sock vm
+Jun 11 15:10:22 <pingfloyd>	triceratux: "Microsoft, more than Apple, has worked on its reputation of being ruthless and having unfair practices that hurt the computer industry on several different levels. Co-founder Bill Gates has rebranded himself a philanthropist, a common pastime among former ruthless company leaders that gives them an image of being less destructive or sociopathic– and gives them something to spend money on that
+Jun 11 15:10:24 <pingfloyd>	makes it look like they care about something more than comfort, wealth and power."
+Jun 11 15:10:54 *	jimgray (~weechat@unaffiliated/jimgray) has joined
+Jun 11 15:10:55 *	jimgray has quit (Read error: Connection reset by peer)
+Jun 11 15:10:55 <triceratux>	shots fired
+Jun 11 15:11:36 <pingfloyd>	surely nobody thought he changed his spots overnight.  Did they?
+Jun 11 15:11:54 *	jimgray (~weechat@unaffiliated/jimgray) has joined
+Jun 11 15:12:12 *	lhe has quit (Quit: Lost terminal)
+Jun 11 15:12:25 *	titouan has quit (Remote host closed the connection)
+Jun 11 15:12:27 <pingfloyd>	the media and hollywood sure act like it
+Jun 11 15:12:32 *	AlexJakeGreen (~green@89.22.6.3) has joined
+Jun 11 15:12:39 *	sonicwind (~nottellin@d53-64-87-188.nap.wideopenwest.com) has joined
+Jun 11 15:12:43 <prussian>	nindustries: you can background it and disown or run it as a proper systemd service, possibly even socket activated
+Jun 11 15:12:47 *	titouan (~titouan@galactica.m.titouan.co) has joined
+Jun 11 15:13:10 *	andrzejv has quit (Ping timeout: 245 seconds)
+**** BEGIN LOGGING AT Tue Jun 11 15:13:58 2019
+
+Jun 11 15:13:58 »»	Now talking on ##linux
+Jun 11 15:13:58 »»	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:13:58 »»	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:13:58 -Notice-	{from ChanServ} [##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:13:58 *	Channel ##linux url: http://linux.chat
+Jun 11 15:14:14 <nindustries>	I forgot -f ...
+**** BEGIN LOGGING AT Tue Jun 11 15:15:38 2019
+
+Jun 11 15:15:38 *	Now talking on ##linux
+Jun 11 15:15:38 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:15:38 *	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:15:38 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:15:38 *	Channel ##linux url: http://linux.chat
+**** BEGIN LOGGING AT Tue Jun 11 15:16:57 2019
+
+Jun 11 15:16:57 *	Now talking on ##linux
+Jun 11 15:16:57 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:16:57 *	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:16:57 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:16:57 *	Channel ##linux url: http://linux.chat
+Jun 11 15:17:04 *	indistylo has quit (Read error: Connection reset by peer)
+Jun 11 15:17:18 *	vsbogd has quit (Remote host closed the connection)
+Jun 11 15:17:21 *	learningc (~learningc@121.121.98.115) has joined ##linux
+Jun 11 15:17:31 *	BeerLover (~BeerLover@203.122.2.56) has joined ##linux
+Jun 11 15:17:35 *	caecias (~caecias@unaffiliated/caecias) has joined ##linux
+Jun 11 15:17:43 <triceratux>	pingfloyd: anyway, thats over. dont get too carried away. drRoy says its all satire http://techrights.org/2019/06/02/handbook-fud/
+Jun 11 15:17:47 <pingfloyd>	triceratux: as well as any other free software as possible, but the others are more silent and don't rev up a commotion.  Those will drop like dominoes once you segregate the gnu element and try to band the community against it.
+Jun 11 15:18:15 <UnderSampled>	I'm trying to figure out why I'm getting return code -4 (or 252) when my c++ program quits mid-processing. Everything in main() is covered by a try-catch, but it doesn't catch. Is there anything that would cause that return code?
+Jun 11 15:18:34 <pingfloyd>	triceratux: satire is usually the humorous or ironic truth.
+Jun 11 15:18:36 <mrig>	Hi
+Jun 11 15:18:43 *	andrea15 has quit (Quit: Konversation terminated!)
+Jun 11 15:18:48 <mrig>	What am I doing wrong here: for each filename in *; do exiftool "$filename" | grep -i "Device Model Desc"; done
+Jun 11 15:18:52 *	Nes173 (~Nes173@unaffiliated/nes173) has joined ##linux
+**** BEGIN LOGGING AT Tue Jun 11 15:19:42 2019
+
+Jun 11 15:19:42 *	Now talking on ##linux
+Jun 11 15:19:42 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:19:42 *	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:19:42 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:19:42 *	Channel ##linux url: http://linux.chat
+Jun 11 15:19:45 <pingfloyd>	satire is the comedy of "cynics" when the real story is even worse.
+Jun 11 15:19:46 <mrig>	I would like to printout the color profile of all images in the folder.
+Jun 11 15:19:51 <EriC^^>	mrig: there's no 'each' in for loops in bash
+**** BEGIN LOGGING AT Tue Jun 11 15:20:58 2019
+
+Jun 11 15:20:58 »»	Now talking on ##linux
+Jun 11 15:20:58 »»	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:20:58 »»	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:20:58 -Notice-	{from ChanServ} [##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:20:58 *	Channel ##linux url: http://linux.chat
+Jun 11 15:21:00 »»	Disconnected (Remote host closed socket).
+**** ENDING LOGGING AT Tue Jun 11 15:21:00 2019
+
+**** BEGIN LOGGING AT Tue Jun 11 15:21:26 2019
+
+Jun 11 15:21:26 »»	Now talking on ##linux
+Jun 11 15:21:26 »»	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:21:26 »»	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:21:26 -Notice-	{from ChanServ} [##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:21:26 *	Channel ##linux url: http://linux.chat
+Jun 11 15:21:34 «---	rosco (~rosco@85.218.76.102) has Quit (Ping timeout: 248 seconds)
+Jun 11 15:21:36 .:EriC^^:.	mrig: no problem
+Jun 11 15:21:41 «---	os2mac (~os2mac@unaffiliated/os2mac) has Quit (Disconnected by services)
+Jun 11 15:22:05 ---»	comptroller (~comptroll@47-213-222-253.paolcmtc01.res.dyn.suddenlink.net) has Joined ##linux
+Jun 11 15:22:11 «---	caecias (~caecias@unaffiliated/caecias) has Quit (Ping timeout: 248 seconds)
+Jun 11 15:22:13 ---»	os2mac_ (~os2mac@unaffiliated/os2mac) has Joined ##linux
+Jun 11 15:22:23 .:mrig:.	EriC^^ your line runs much faster, why is that?
+Jun 11 15:22:23 «---	p71 (~chatzilla@68-187-65-81.dhcp.ftwo.tx.charter.com) has Quit (Remote host closed the connection)
+Jun 11 15:23:08 ---»	is_null (~jpic@pdpc/supporter/professional/is-null) has Joined ##linux
+Jun 11 15:23:15 «---	tsujp (~tsujp@115-166-8-105.dyn.iinet.net.au) has Quit (Ping timeout: 248 seconds)
+**** BEGIN LOGGING AT Tue Jun 11 15:24:31 2019
+
+Jun 11 15:24:31 »»	Now talking on ##linux
+Jun 11 15:24:31 »»	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:24:31 »»	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:24:31 -Notice-	{from ChanServ} [##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:24:31 *	Channel ##linux url: http://linux.chat
+**** BEGIN LOGGING AT Tue Jun 11 15:26:33 2019
+
+Jun 11 15:26:33 *	Now talking on ##linux
+Jun 11 15:26:33 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:26:33 *	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:26:33 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:26:33 *	Channel ##linux url: http://linux.chat
+Jun 11 15:26:56 <mrig>	just much faster starting, I did not time the operation, could be that there is not so much difference in completion, just starting appearance.
+Jun 11 15:27:05 *	indistylo (~aruns_@106.51.25.10) has joined ##linux
+Jun 11 15:27:06 *	Mr_Reader (~MrReader@unaffiliated/mrreader) has joined ##linux
+Jun 11 15:27:21 *	Thrasher194 (Thrasher19@cpe-65-191-107-135.nc.res.rr.com) has left ##linux
+Jun 11 15:27:26 <pingfloyd>	mrig: that makes sense
+Jun 11 15:27:30 *	Thrasher194 (Thrasher19@cpe-65-191-107-135.nc.res.rr.com) has joined ##linux
+Jun 11 15:27:46 *	Live (~codeaequi@pdpc/supporter/active/live) has joined ##linux
+Jun 11 15:28:28 <Chaekyung>	new kernels. you must upgrade. https://linuxreviews.org/Mihan
+Jun 11 15:28:56 <ayecee>	resistance is futile
+Jun 11 15:29:20 *	Jesin has quit (Quit: Leaving)
+Jun 11 15:29:37 *	jimgray has quit (Read error: Connection reset by peer)
+Jun 11 15:29:38 <mrig>	Yes the first one was faster to complete, funny that.
+Jun 11 15:30:18 *	paulcarroty (~paul@141.170.240.243) has joined ##linux
+Jun 11 15:30:40 *	jimgray (~weechat@unaffiliated/jimgray) has joined ##linux
+Jun 11 15:30:41 *	jimgray has quit (Read error: Connection reset by peer)
+Jun 11 15:31:14 <pingfloyd>	mrig: that doesn't surprise mme
+Jun 11 15:31:52 *	jimgray (~weechat@unaffiliated/jimgray) has joined ##linux
+Jun 11 15:32:05 <mrig>	what is the IFS='' doing?
+Jun 11 15:32:20 *	tprrt has quit (Ping timeout: 248 seconds)
+Jun 11 15:32:20 *	clearcasting has quit (Ping timeout: 248 seconds)
+Jun 11 15:32:23 *	royal_screwup21 has quit (Remote host closed the connection)
+Jun 11 15:32:29 *	indistylo has quit (Ping timeout: 272 seconds)
+Jun 11 15:32:32 <ayecee>	making sure that spaces in filenames don't ruin your day
+Jun 11 15:32:33 *	tijko has quit (Quit: leaving)
+Jun 11 15:32:56 *	kostrifon has quit (Quit: kostrifon)
+Jun 11 15:33:08 *	elagost has quit (Quit: elagost)
+Jun 11 15:33:14 *	clearcasting (~clearcast@203.221.89.69) has joined ##linux
+Jun 11 15:33:42 *	post-factum has quit (Quit: ZNC 1.7.3 - https://znc.in)
+Jun 11 15:34:05 *	post-factum (~post-fact@vulcan.natalenko.name) has joined ##linux
+Jun 11 15:34:20 <mrig>	while "internal field separator" is ''
+Jun 11 15:34:31 *	jack_rabbit (~jack_rabb@192-241-55-66.ip.ctc.biz) has joined ##linux
+Jun 11 15:34:49 *	xcorshinex (~xcorshine@180.241.46.52) has joined ##linux
+Jun 11 15:34:50 *	asnm has quit (Ping timeout: 256 seconds)
+Jun 11 15:35:00 *	Mystified1234 (~redcoreus@110-174-9-2.static.tpgi.com.au) has joined ##linux
+Jun 11 15:35:03 *	Mystified1234 is now known as _Random_
+Jun 11 15:35:11 *	HarveyPwca (~HarveyPwc@70-89-216-161-il.hfc.comcastbusiness.net) has joined ##linux
+Jun 11 15:35:16 <_Random_>	back to hassle you  guys again..
+Jun 11 15:35:25 <_Random_>	ssh working fine now..
+**** BEGIN LOGGING AT Tue Jun 11 15:36:11 2019
+
+Jun 11 15:36:11 *	Now talking on ##linux
+Jun 11 15:36:11 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: https://paste.linux.community | Need an op? Join ##linux-ops | CoC? ##linux-offtopic, please.
+Jun 11 15:36:11 *	Topic for ##linux set by sauvin at Tue Sep 18 19:14:08 2018
+Jun 11 15:36:11 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Jun 11 15:36:11 *	Channel ##linux url: http://linux.chat
+Jun 11 15:36:13 <_Random_>	have configurred teamviewer, but can't acces via samba the user profile not the root "with caps"
+Jun 11 15:36:27 *	tijko (~tijko@unaffiliated/tijko) has joined ##linux
+Jun 11 15:36:36 *	is_null has quit (Remote host closed the connection)
+Jun 11 15:36:59 <_Random_>	through dolphin I can access sftp to the pc but not via samba
+Jun 11 15:37:01 *	nindustries has quit (Ping timeout: 258 seconds)
+Jun 11 15:37:08 <_Random_>	via samba I can access other pc
+Jun 11 15:37:09 *	knusbaum (~jack_rabb@ec2-23-20-227-213.compute-1.amazonaws.com) has joined ##linux
+Jun 11 15:37:17 <_Random_>	but not inbound
+Jun 11 15:38:33 <xcorshinex>	is there any proper way to install nox in linux?
+Jun 11 15:38:37 <xcorshinex>	nox emulator
+Jun 11 15:38:43 <ayecee>	no, only improper ways
+Jun 11 15:38:57 <xcorshinex>	will it broke my things?
+Jun 11 15:39:02 <xcorshinex>	*break
+Jun 11 15:39:07 <ayecee>	all the things
+Jun 11 15:39:14 <gofio>	mrig: https://www.youtube.com/watch?v=pqxwXla3-Bw long life youtube ;)
+Jun 11 15:39:15 <pingfloyd>	it will steal your precious
+Jun 11 15:39:47 *	jack_rabbit has quit (Ping timeout: 248 seconds)
+Jun 11 15:39:48 *	TSPenguin (~Knecht@0154400414.0.fullrate.ninja) has joined ##linux
+Jun 11 15:40:20 *	sQVe has quit (Quit: Bye!)
+Jun 11 15:40:32 <_Random_>	137 &138 udp 139 & 445 tcp allowed in
+Jun 11 15:40:54 *	Raxz has quit (Quit: The story so far:  In the beginning the Universe was created.  This has made a lot of people very angry and been widely regarded as a bad move.)
+Jun 11 15:41:25 *	Ips (sid492@gateway/web/irccloud.com/x-gcgxocagmciaaign) has joined ##linux
+Jun 11 15:41:59 *	xcorshinex has quit (Quit: leaving)
+Jun 11 15:42:08 <pingfloyd>	_Random_: you're a NetBEUI
+Jun 11 15:42:23 *	akk (~akk@97.123.107.255) has joined ##linux
+Jun 11 15:42:43 *	clearcasting has quit (Ping timeout: 258 seconds)
+Jun 11 15:42:48 *	Raxz (~Raxzinato@cpe-76-84-94-233.neb.res.rr.com) has joined ##linux
+Jun 11 15:42:56 *	is_null (~jpic@pdpc/supporter/professional/is-null) has joined ##linux
+Jun 11 15:43:08 <ayecee>	that's so random!
+Jun 11 15:43:13 *	clearcasting (~clearcast@203.221.89.69) has joined ##linux
+Jun 11 15:43:19 *	nurdie (~nurdie@unaffiliated/nurdie) has joined ##linux
+Jun 11 15:43:29 *	Joellen (~Annmaria@p634032-ipngn200409motosinmat.mie.ocn.ne.jp) has joined ##linux
+Jun 11 15:43:49 *	boblamont (~boblamont@ip24-250-62-229.ri.ri.cox.net) has joined ##linux
+Jun 11 15:43:53 *	adroit_machine (~adroit_ma@unaffiliated/adroit-machine/x-2281387) has joined ##linux
+Jun 11 15:44:02 <pingfloyd>	no, it's pseudo random
+Jun 11 15:44:25 *	TSPenguin has quit (Ping timeout: 245 seconds)
+Jun 11 15:44:26 <_Random_>	never heard of it before
+Jun 11 15:44:37 *	mayurvpatil has quit (Quit: This computer has gone to sleep)
+Jun 11 15:45:46 *	mayurvpatil (~mayurvpat@202.149.218.202) has joined ##linux
+Jun 11 15:45:55 *	adroit_machine has quit (Remote host closed the connection)
+Jun 11 15:45:58 *	Jesin (~Jesin@pool-72-83-62-150.washdc.fios.verizon.net) has joined ##linux
+Jun 11 15:46:30 *	foofbug has quit (Quit: KVIrc 5.0.0 Aria http://www.kvirc.net/)
+Jun 11 15:46:34 <mrig>	gofio Awesome! ... and following those random youtube links that remind you of times past: https://www.youtube.com/watch?v=9EvYI5OT60k
+Jun 11 15:46:35 *	mayurvpatil has quit (Client Quit)
+Jun 11 15:46:57 <mrig>	sound up for that one!
+Jun 11 15:47:49 <gofio>	mrig: ha! yeah, I actually don't really like the music in that one just pasted, but being able to watch that again as it was recorded live, it's priceless
+Jun 11 15:48:13 *	adroit_machine (~adroit_ma@unaffiliated/adroit-machine/x-2281387) has joined ##linux
+Jun 11 15:48:20 <adroit_machine>	Hello folks, I have an issue with bluetooth and wifi on my computer. My Linux os is ubuntu 16.04. Bluetooth and wifi works fine when I'm working on windows, but when I'm on ubuntu wifi and bluetooth connection is not persistent. Would updating the kernel help fix the problem?
+Jun 11 15:48:37 <mrig>	not Blackmore in that clip though, the phrasing is not as good as his.
+Jun 11 15:48:41 *	ubervison (~ubervison@tsf-444-wpa-1-243.epfl.ch) has joined ##linux
+Jun 11 15:48:46 *	ygivenx (~ygivenx@c-67-161-30-108.hsd1.ca.comcast.net) has joined ##linux
+Jun 11 15:48:55 <gofio>	mrig: there's also clips from tv in the 50s, with groucho marx, or even prescot bush, of the Bush saga, it's just great
+Jun 11 15:49:00 *	slash_ has quit (Ping timeout: 245 seconds)
+Jun 11 15:49:18 *	v01d4lph4 has quit (Remote host closed the connection)
+Jun 11 15:49:19 *	jimgray has quit (Read error: Connection reset by peer)
+Jun 11 15:49:40 <gofio>	mrig: or the "doctors like camels" lol advertising, when doctors advertised cigarettes! xD
+Jun 11 15:49:53 *	v01d4lph4 (~v01d4lph4@103.6.158.186) has joined ##linux
+Jun 11 15:50:03 <mrig>	https://www.youtube.com/watch?v=gJ9lnIX9fRk <- richie blackmoore in lineup :D
+Jun 11 15:50:11 <jack>	hrhr
+Jun 11 15:50:21 <mrig>	ha! Yes camels good for your health :D
+Jun 11 15:50:28 *	mayurvpatil (~mayurvpat@202.149.218.202) has joined ##linux
+Jun 11 15:50:44 <pingfloyd>	gofio: https://www.youtube.com/watch?v=U80ebi4AKgs
+Jun 11 15:50:50 <jack>	doczors promoting cigarettes...that owns
+Jun 11 15:50:57 *	jimgray (~weechat@unaffiliated/jimgray) has joined ##linux
+Jun 11 15:51:07 <jack>	*doctors
+Jun 11 15:51:10 *	AlbeiEdward (~Thunderbi@213.233.108.8) has joined ##linux
+Jun 11 15:51:29 <gofio>	mrig: I think my older brothers had the double live album "made in japan" I believe from deep purple
+Jun 11 15:51:36 <gofio>	vinyl
+Jun 11 15:51:45 <pingfloyd>	mrig: https://www.youtube.com/watch?v=mFcRhDtkQyQ
+Jun 11 15:51:53 *	galgamach (~galgamach@2a02:587:a0f:3d00:ddbb:ff59:4fa0:3a4d) has joined ##linux
+Jun 11 15:52:09 <galgamach>	Hi all. What happens when you remove /var/run ?
+Jun 11 15:52:12 *	indistylo (~aruns_@106.51.25.10) has joined ##linux
+Jun 11 15:52:24 <gofio>	pingfloyd: indeed, it's like a museum of motion pictures :)
+Jun 11 15:52:26 <Enumeration>	wtf
+Jun 11 15:52:27 <jack>	is vinyl popular among metalheads?
+Jun 11 15:52:34 *	ossifrage_ is now known as ossifrage
+Jun 11 15:52:44 <Enumeration>	why would you want to remove /var/run
+Jun 11 15:52:46 <Enumeration>	i see no point
+Jun 11 15:53:03 <pingfloyd>	gofio: it will keep this old stuff alive
+Jun 11 15:53:10 <galgamach>	Enumeration: it was deleted by my coleague accidentaly and now nothing works
+Jun 11 15:53:15 *	vinaykns has quit (Read error: Connection reset by peer)
+Jun 11 15:53:23 <Enumeration>	try mkdir -p /var/run
+Jun 11 15:53:24 *	indistylo has quit (Read error: Connection reset by peer)
+Jun 11 15:53:27 <Enumeration>	and reboot
+Jun 11 15:53:51 <TJ->	galgamach: /var/run is usually a symlink to /run/ so "ln -s /run /var/run" may fix it
+Jun 11 15:53:54 <Enumeration>	i assume the system is a readyonly system and everything was running
+Jun 11 15:54:05 <pingfloyd>	gofio: mrig: https://www.youtube.com/watch?v=-V-bPLmtAFg
+Jun 11 15:54:09 <mrig>	pingfloyd hah duck and cover!
+Jun 11 15:54:15 <jack>	gofio: is vinyl popular among metalheads?
+Jun 11 15:54:16 *	Galactus (~Galactus@unaffiliated/galactus) has joined ##linux
+Jun 11 15:54:18 <jim>	galgamach, a lot of services would no longer be able to start or stop
+Jun 11 15:54:29 <Enumeration>	well it depends
+Jun 11 15:54:33 <galgamach>	jim: I know.... they are down. Even internet
+Jun 11 15:54:37 <mrig>	gofio oh yes live in japan is a classic.
+Jun 11 15:54:38 *	v01d4lph4 has quit (Ping timeout: 248 seconds)
+Jun 11 15:54:43 <Enumeration>	like if its a arm/embedded
+Jun 11 15:54:46 *	_Random_ has quit (Quit: Am testat redcore!)
+Jun 11 15:54:49 *	HerbY_NL2 has quit (Quit: Leaving)
+Jun 11 15:54:58 *	indistylo (~aruns_@106.51.25.10) has joined ##linux
+Jun 11 15:55:00 <pingfloyd>	gofio: https://www.youtube.com/watch?v=_0hTtsqiFCc
+Jun 11 15:55:02 <gofio>	pingfloyd: mrig as matter of fact thanks to youtube I can see my mother's grandfather recorded live by himself in 1929 (first selfie? xD) as he was testing that "new" motion picture thing, being a photographer for a living back in those days https://www.youtube.com/watch?v=FIUs18lFiLk he's the one carrying the tripod
+Jun 11 15:55:09 *	clearcasting_ (~clearcast@203.221.89.69) has joined ##linux
+Jun 11 15:55:12 *	Dr_Coke has quit (Quit: Textual IRC Client: www.textualapp.com)
+Jun 11 15:55:18 <jim>	galgamach, are you saying you already did it?
+Jun 11 15:55:21 *	clearcasting has quit (Ping timeout: 258 seconds)
+Jun 11 15:55:24 *	in2rd (~in2rd@pool-173-69-254-79.bltmmd.fios.verizon.net) has joined ##linux
+Jun 11 15:55:43 *	trymon (~trymon@2a02:8106:20f:1021:db39:51fc:eeb5:66aa) has joined ##linux
+Jun 11 15:56:02 <TJ->	galgamach: is there a tmpfs mounted at /run/ ? are it's contents still good? if so add back the symlink from /var/run/ as I suggested
+Jun 11 15:56:06 *	mayurvpatil has quit (Quit: This computer has gone to sleep)
+Jun 11 15:56:07 <galgamach>	jim: not me.me friend next to me
+Jun 11 15:56:07 <gofio>	1924 sorry
+Jun 11 15:56:10 *	serg-z has quit (Quit: ZNC 1.7.2 - https://znc.in)
+Jun 11 15:56:18 <TJ->	grrr s/it's/its/
+Jun 11 15:56:25 <Enumeration>	overlayfs
+Jun 11 15:56:27 <Enumeration>	lol
+Jun 11 15:56:38 <jim>	galgamach, point being it's already done
+Jun 11 15:57:04 <galgamach>	jim: yes... we are trying the symlink now
+Jun 11 15:57:19 <jim>	was anything else done?
+Jun 11 15:57:27 *	instantp10neer (~instantp1@unaffiliated/instantp10neer) has joined ##linux
+Jun 11 15:57:39 *	varaindemian has quit (Remote host closed the connection)
+Jun 11 15:57:42 <Enumeration>	i bet you rm -rf /usr/ too
+Jun 11 15:57:46 <Enumeration>	lol
+Jun 11 15:57:47 <mrig>	gofio cranked by hand from the looks of that :)

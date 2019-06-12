@@ -1,0 +1,203 @@
+**** BEGIN LOGGING AT Sun Jun  9 05:36:51 2019
+
+Jun 09 05:36:51 *	Now talking on #ubuntu
+Jun 09 05:36:51 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 09 05:36:51 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax (Sun Apr 28 03:56:16 2019)
+Jun 09 05:36:52 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 09 05:36:52 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 09 05:37:00 *	isomari (~isomari@197.210.243.85) has joined
+Jun 09 05:43:21 *	hardran3 has quit (Quit: Leaving)
+**** ENDING LOGGING AT Sun Jun  9 05:47:31 2019
+
+**** BEGIN LOGGING AT Sun Jun  9 05:47:31 2019
+
+Jun 09 05:47:43 *	dellavg_ (~dellavg@host249-100-dynamic.9-87-r.retail.telecomitalia.it) has joined
+Jun 09 05:49:38 *	indistylo has quit (Ping timeout: 246 seconds)
+Jun 09 05:50:51 *	epopt has quit (Remote host closed the connection)
+Jun 09 05:51:01 *	quintopia has quit (Ping timeout: 248 seconds)
+Jun 09 05:51:39 *	gdibass (~gdibass@rrcs-76-80-178-5.west.biz.rr.com) has joined
+Jun 09 05:51:53 *	Saukk (~Saukk@2001:99a:0:b07c:257d:c634:fb9a:a700) has joined
+Jun 09 05:52:09 *	quintopia (~quintopia@unaffiliated/quintopia) has joined
+Jun 09 05:58:55 *	hardran3 (~hardran3@2604:3d09:4480:7e0:a46f:b431:b8ce:2958) has joined
+Jun 09 05:59:13 *	Snoober (~Snoober@98.248.173.107) has joined
+Jun 09 05:59:27 *	Snoober has quit (Client Quit)
+Jun 09 06:00:09 *	JoeLlama (~snork@unaffiliated/joellama) has joined
+Jun 09 06:00:56 *	Joah has quit (Quit: joe)
+Jun 09 06:01:56 *	Brownbear has quit (Quit: Leaving)
+Jun 09 06:04:57 *	the2048 (~the2048@216.130.212.109) has joined
+Jun 09 06:05:19 <the2048>	So today is the day I have to reinstall because I broke something, and now I'm not sure which option to choose for the installer
+Jun 09 06:07:12 <the2048>	I have three choices
+Jun 09 06:08:44 <the2048>	I can either erase Ubuntu 18.04.2 and reinstall, install Ubuntu alongside Ubuntu, or erase the whole disk and install
+Jun 09 06:08:49 <the2048>	Which one would save me time
+Jun 09 06:08:53 *	alazy has quit (Quit: WeeChat 2.4)
+Jun 09 06:11:22 *	icarusfactor (~factor@47-217-151-184.msk1cmtc01.res.dyn.suddenlink.net) has joined
+Jun 09 06:11:23 *	alazy (~alazy@d23-16-50-221.bchsia.telus.net) has joined
+Jun 09 06:11:35 <jayjo>	is it possible to get a secondary ip address to be recognized by ubuntu automatically in aws when I associate it? anyone ever done something like this where it has 2 ip addresses?
+Jun 09 06:12:22 *	bradleyprice (~bradleypr@2600:1700:5d00:6d60:83f:7c9b:5986:cd24) has joined
+Jun 09 06:14:23 *	factor has quit (Ping timeout: 248 seconds)
+Jun 09 06:14:38 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 09 06:15:18 *	n888 (~quassel@69.172.190.174) has joined
+Jun 09 06:17:03 *	bradleyprice has quit (Ping timeout: 248 seconds)
+Jun 09 06:18:23 *	bashfulshell has quit (Quit: Connection closed for inactivity)
+Jun 09 06:19:58 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 09 06:22:33 <the2048>	Are there any performance losses to encrypting my Ubuntu install
+Jun 09 06:30:28 <blackflow>	the2048: it's negligible especially if you have AESNI capable CPU and are talking about FDE with LUKS
+Jun 09 06:32:31 *	gdibass has quit (Remote host closed the connection)
+Jun 09 06:32:56 *	Oatmeal has quit (Remote host closed the connection)
+Jun 09 06:33:44 <blackflow>	jayjo: I don't know about AWS but yes, you can configure multiple IP addresses on a NIC
+Jun 09 06:33:48 *	lotuspsychje has quit (Quit: Leaving)
+Jun 09 06:33:56 *	bradleyprice (~bradleypr@172-0-2-31.lightspeed.brhmal.sbcglobal.net) has joined
+Jun 09 06:35:01 *	batteronizer (~abhishek@150.242.173.182) has joined
+Jun 09 06:36:15 *	epsilonKNOT has quit (Ping timeout: 248 seconds)
+Jun 09 06:36:48 *	signalsout has quit (Ping timeout: 248 seconds)
+Jun 09 06:37:22 *	mobutils has quit (Disconnected by services)
+Jun 09 06:37:23 *	mobutils (mob@gateway/vpn/privateinternetaccess/mobutils) has joined
+Jun 09 06:40:33 *	FrostFeline has quit (Quit: Connection closed for inactivity)
+Jun 09 06:43:39 *	epsilonKNOT (~epsilon@pool-108-35-221-153.nwrknj.fios.verizon.net) has joined
+Jun 09 06:48:23 *	AbedB_ has quit (Ping timeout: 258 seconds)
+Jun 09 06:48:24 *	AbedB__ has quit (Ping timeout: 258 seconds)
+Jun 09 06:48:31 *	AbedB_ (~AbedBhuty@bzq-79-181-92-169.red.bezeqint.net) has joined
+Jun 09 06:48:31 *	AbedB__ (~AbedBhuty@bzq-79-181-92-169.red.bezeqint.net) has joined
+Jun 09 06:51:48 *	czesmir (~stefan@ehi79.neoplus.adsl.tpnet.pl) has joined
+Jun 09 06:52:14 *	mducharme has quit (Quit: Connection closed for inactivity)
+Jun 09 06:53:00 *	mr_lou has quit (Quit: Leaving)
+**** BEGIN LOGGING AT Mon Jun 10 06:02:40 2019
+
+Jun 10 06:02:40 *	Now talking on #ubuntu
+Jun 10 06:02:40 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 10 06:02:40 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax (Sun Apr 28 03:56:16 2019)
+Jun 10 06:02:40 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 10 06:02:40 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 10 06:04:00 <gallomimia>	cheater, i'm having trouble following your requirements there. but it sounds like you need to chroot and run grub-install ?
+Jun 10 06:04:58 *	truthseeker_ has quit (Quit: Ex-Chat)
+Jun 10 06:05:20 *	cfhowlett (~cfhowlett@fs276eca05.knge105.ap.nuro.jp) has joined
+Jun 10 06:06:23 *	bradleyprice has quit (Ping timeout: 248 seconds)
+Jun 10 06:08:09 *	al2o3-cr has quit (Quit: If the universe is a machine where the future is uniquely determined by its present state, it would not be possible to calculate what the future will be.)
+Jun 10 06:09:25 *	qwebirc15353 has quit (Ping timeout: 256 seconds)
+Jun 10 06:09:58 *	unlike has quit (Ping timeout: 244 seconds)
+**** ENDING LOGGING AT Mon Jun 10 06:11:36 2019
+
+**** BEGIN LOGGING AT Mon Jun 10 06:11:36 2019
+
+Jun 10 06:11:55 <cfhowlett>	!ping
+Jun 10 06:11:56 <ubottu>	pong!
+Jun 10 06:12:12 *	al2o3-cr (~gr33n7007@unaffiliated/gr33n7007h) has joined
+Jun 10 06:13:01 *	JoeLlama has quit (Quit: "I know it sounds crazy, but that's quantum physics" --= LaMarr on The Orville)
+Jun 10 06:14:57 *	unisTest (~user@59.79.238.84) has joined
+Jun 10 06:16:45 *	kk4ewt has quit (Remote host closed the connection)
+Jun 10 06:19:08 *	ivlioioilvi (~Thunderbi@2409:8a62:5111:ca10:2c1e:9fff:fe52:ee39) has joined
+Jun 10 06:19:11 *	AbedB__ (~AbedBhuty@bzq-79-179-23-57.red.bezeqint.net) has joined
+Jun 10 06:20:19 *	unisTest has quit (Quit: ERC (IRC client for Emacs 26.1))
+Jun 10 06:21:23 *	unisTest (~user@59.79.238.84) has joined
+Jun 10 06:22:04 *	AbedB_ has quit (Ping timeout: 246 seconds)
+Jun 10 06:23:04 *	unisTest has quit (Remote host closed the connection)
+Jun 10 06:25:08 *	WinterNight (~Thunderbi@h238240.net.pulawy.pl) has joined
+Jun 10 06:25:55 *	cfhowlett has quit (Ping timeout: 246 seconds)
+Jun 10 06:27:50 *	v0lta (~v0lta@176.113.74.179) has joined
+Jun 10 06:28:26 *	cfhowlett (~cfhowlett@fs276eca05.knge105.ap.nuro.jp) has joined
+Jun 10 06:29:26 *	Bashing-om has quit (Quit: 'Nuff - can stands no more \o)
+Jun 10 06:32:13 *	idiocrash has quit (Remote host closed the connection)
+Jun 10 06:33:02 *	idiocrash (~idiocrash@2620:149:e0:5004::44) has joined
+Jun 10 06:33:54 *	wgrant has quit (Quit: WeeChat 1.4)
+Jun 10 06:35:16 *	Jeder has quit (Ping timeout: 248 seconds)
+Jun 10 06:35:48 *	epsilonKNOT has quit (Ping timeout: 248 seconds)
+Jun 10 06:40:20 *	AbedB_ (~AbedBhuty@bzq-109-65-32-106.red.bezeqint.net) has joined
+Jun 10 06:41:15 *	AC3J has quit (Quit: ZNC 1.7.2+deb1+bionic0 - https://znc.in)
+Jun 10 06:42:26 *	epsilonKNOT (~epsilon@pool-108-35-221-153.nwrknj.fios.verizon.net) has joined
+Jun 10 06:42:56 *	bradleyprice (~bradleypr@2600:1700:5d00:6d60:ccdc:7049:8ba3:1828) has joined
+Jun 10 06:43:11 *	AbedB__ has quit (Ping timeout: 245 seconds)
+Jun 10 06:44:04 *	Biessie has quit (Ping timeout: 244 seconds)
+Jun 10 06:44:17 *	gallomimia has quit (Remote host closed the connection)
+Jun 10 06:46:33 *	cfhowlett has quit (Remote host closed the connection)
+Jun 10 06:46:42 *	idiocrash has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+Jun 10 06:46:53 *	cfhowlett (~cfhowlett@fs276eca05.knge105.ap.nuro.jp) has joined
+Jun 10 06:47:04 *	cfhowlett has quit (Remote host closed the connection)
+Jun 10 06:47:25 *	cfhowlett (~cfhowlett@fs276eca05.knge105.ap.nuro.jp) has joined
+Jun 10 06:47:30 *	ace_me (~Thunderbi@unaffiliated/ace-me/x-814638) has joined
+Jun 10 06:48:02 *	vicamo (~vicamo@61-220-137-37.HINET-IP.hinet.net) has joined
+Jun 10 06:49:25 *	bradleyprice has quit (Ping timeout: 252 seconds)
+Jun 10 06:49:32 *	AC3J (~james@bbs.c-128.net) has joined
+Jun 10 06:57:40 *	onohiroko is now known as sarashina_
+Jun 10 07:06:29 *	airwind (~belovent@user149.c3.hrastnik.kabelnet.net) has joined
+Jun 10 07:07:11 *	YuGiOhJCJ (~YuGiOhJCJ@gateway/tor-sasl/yugiohjcj) has joined
+Jun 10 07:08:35 *	InfernalFlameZA (~stef@41.66.157.252) has joined
+Jun 10 07:16:26 *	wgrant (~wgrant@ubuntu/member/wgrant) has joined
+Jun 10 07:16:33 *	indistylo (~aruns_@106.51.25.10) has joined
+Jun 10 07:19:17 *	fjellfras has quit (Remote host closed the connection)
+Jun 10 07:19:37 *	fjellfras (~fjellfras@49.248.13.74) has joined
+Jun 10 07:22:54 *	gde33 has quit (Ping timeout: 268 seconds)
+Jun 10 07:23:35 *	gde33 (~gde33@84-106-24-118.cable.dynamic.v4.ziggo.nl) has joined
+Jun 10 07:26:21 *	bradleyprice (~bradleypr@2600:1700:5d00:6d60:ccdc:7049:8ba3:1828) has joined
+Jun 10 07:28:16 *	D-melanogaster (~D-melanog@212.90.58.216) has joined
+Jun 10 07:28:38 *	algorist (~algorist@176.240.254.175) has joined
+**** BEGIN LOGGING AT Tue Jun 11 15:08:08 2019
+
+Jun 11 15:08:08 *	Now talking on #ubuntu
+Jun 11 15:08:08 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:08:08 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax (Sun Apr 28 03:56:16 2019)
+Jun 11 15:08:10 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:08:10 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:10:06 *	m1sosoup (~m1sosoup@62.23.209.50) has joined
+Jun 11 15:10:22 *	GodFather (~rcc@96-92-43-9-static.hfc.comcastbusiness.net) has joined
+Jun 11 15:11:12 <yuradoc>	https://paste.ubuntu.com/p/JpgRTtdJzD/
+Jun 11 15:11:34 <yuradoc>	i think it's ok
+Jun 11 15:12:16 *	sonicwind (~nottellin@d53-64-87-188.nap.wideopenwest.com) has joined
+Jun 11 15:13:02 <TJ->	yuradoc: yes, with quite a delay at 16:44:12 until  16:44:40
+**** BEGIN LOGGING AT Tue Jun 11 15:13:57 2019
+
+Jun 11 15:13:57 »»	Now talking on #ubuntu
+Jun 11 15:13:57 »»	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:13:57 »»	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:13:58 -Notice-	{from ChanServ} [#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:13:58 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:14:15 «---	yuradoc (~yuriy@37.115.67.178) has Quit (Quit: Konversation terminated!)
+**** BEGIN LOGGING AT Tue Jun 11 15:15:38 2019
+
+Jun 11 15:15:38 *	Now talking on #ubuntu
+Jun 11 15:15:38 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:15:38 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:15:38 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:15:38 *	Channel #ubuntu url: https://www.ubuntu.com
+**** BEGIN LOGGING AT Tue Jun 11 15:16:56 2019
+
+Jun 11 15:16:56 *	Now talking on #ubuntu
+Jun 11 15:16:56 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:16:56 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:16:57 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:16:57 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:17:04 *	indistylo has quit (Read error: Connection reset by peer)
+Jun 11 15:17:18 *	vsbogd has quit (Remote host closed the connection)
+Jun 11 15:17:24 *	BeerLover (~BeerLover@203.122.2.56) has joined #ubuntu
+**** BEGIN LOGGING AT Tue Jun 11 15:19:42 2019
+
+Jun 11 15:19:42 *	Now talking on #ubuntu
+Jun 11 15:19:42 *	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:19:42 *	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:19:42 -ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:19:42 *	Channel #ubuntu url: https://www.ubuntu.com
+**** BEGIN LOGGING AT Tue Jun 11 15:20:57 2019
+
+Jun 11 15:20:57 »»	Now talking on #ubuntu
+Jun 11 15:20:57 »»	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:20:57 »»	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:20:58 -Notice-	{from ChanServ} [#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:20:58 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:21:00 »»	Disconnected (Remote host closed socket).
+**** ENDING LOGGING AT Tue Jun 11 15:21:00 2019
+
+**** BEGIN LOGGING AT Tue Jun 11 15:21:26 2019
+
+Jun 11 15:21:26 »»	Now talking on #ubuntu
+Jun 11 15:21:26 »»	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:21:26 »»	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:21:26 -Notice-	{from ChanServ} [#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:21:26 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:23:12 ---»	lupulo (~lupulo4@193.146.9.193) has Joined #ubuntu
+**** BEGIN LOGGING AT Tue Jun 11 15:24:30 2019
+
+Jun 11 15:24:30 »»	Now talking on #ubuntu
+Jun 11 15:24:30 »»	Topic for #ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 18.10, 19.04 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+Jun 11 15:24:30 »»	Topic for #ubuntu set by dax!dax@freenode/staff/dax at Sun Apr 28 03:56:16 2019
+Jun 11 15:24:31 -Notice-	{from ChanServ} [#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+Jun 11 15:24:31 *	Channel #ubuntu url: https://www.ubuntu.com
+Jun 11 15:24:35 <CoffeeCattle>	when I suspend my computer and turn it back on this happens to my background https://files.catbox.moe/necdmr.jpg
