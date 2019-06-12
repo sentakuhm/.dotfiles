@@ -42,17 +42,16 @@ $rm -r tmpdotfiles
 * run tmux then `Ctrl+a` then click `shift+i` to install all plugins and exit. 
 
 ### Treminal theme:
-+ Only supported terminals:
-```
-mintty and deriviates
-guake
-iTerm2
-elementary terminal (pantheon/elementary)
-mate-terminal
-gnome-terminal
-tilix
-xfce4-terminal
-```
++ Only supported terminals:<br/>
+-mintty and deriviates<br/>
+-guake<br/>
+-iTerm2<br/>
+-elementary terminal (pantheon/elementary)<br/>
+-mate-terminal<br/>
+-gnome-terminal<br/>
+-tilix<br/>
+-xfce4-terminal<br/>
+
 i'm using Gruvbox, to change one [Click Here](https://mayccoll.github.io/Gogh/)
 you'll find all themes, to change one open terminal then:
 ```
