@@ -11,6 +11,8 @@ vim<br/>
 tmux<br/>
 ranger<br/>
 powerline<br/>
+most *"for colored man pages"*<br/>
+oh-my-zsh *"zsh themes"* to install [Go Here](sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")<br/>
 
 + and clone vundle and tmux plugins manager to home directory:<br/>
 for vundle:
