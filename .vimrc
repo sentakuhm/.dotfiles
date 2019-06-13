@@ -64,6 +64,7 @@ set encoding=utf-8
  syntax on
  set number
  set spell
+ set t_ut=
 
 "Visual wrapping:
  autocmd FileType python set breakindentopt=shift:4
