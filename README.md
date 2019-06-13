@@ -15,18 +15,18 @@ most *"for colored man pages"*<br/>
 oh-my-zsh *"zsh themes"* to install run this command:<br/>
 `$sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")`<br/>
 
-+ and clone vundle and tmux plugins manager to home directory:<br/>
+* and clone vundle and tmux plugins manager to home directory:<br/>
 for vundle:
 
 `$git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-+ for tmux plugin manager:
+* for tmux plugin manager:
 
 `$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 ### ubuntu needed
 
-+ make sure you installed:<br/>
+* make sure you installed:<br/>
 build-essential<br/>
 npm<br/>
 mono-complete after install run `$npm install xbuild`<br/>
@@ -45,7 +45,7 @@ $rm -r tmpdotfiles
 * run tmux then `Ctrl+a` then click `shift+i` to install all plugins and exit. 
 
 ### Treminal theme:
-+ Only supported terminals:<br/>
+* Only supported terminals:<br/>
 -mintty and deriviates<br/>
 -guake<br/>
 -iTerm2<br/>
@@ -63,7 +63,7 @@ enter number of desired theme and click enter.
 
 ## issues
 
-+ if you faced : `E185: Cannot find color scheme 'gruvbox'`
+* if you faced : `E185: Cannot find color scheme 'gruvbox'`
 
 just do:
 ```
@@ -71,7 +71,7 @@ $mkdir ~/.vim/colors
 $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
-+ if you faced: 
+* if you faced: 
 `Error detected while processing VimEnter Auto commands for "*":`<br/>
 `E492: Not an editor command: NERDTree`
 
