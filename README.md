@@ -16,12 +16,10 @@ oh-my-zsh *"zsh themes"* to install run this command:<br/>
 `$sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")`<br/>
 
 * and clone vundle and tmux plugins manager to home directory:<br/>
-for vundle:
-
+for vundle:<br/>
 `$git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-* for tmux plugin manager:
-
+* for tmux plugin manager:<br/>
 `$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 ### ubuntu needed
@@ -46,15 +44,14 @@ $rm -r tmpdotfiles
 
 ### Treminal theme:
 * Only supported terminals:<br/>
--mintty and deriviates<br/>
--guake<br/>
--iTerm2<br/>
--elementary terminal (pantheon/elementary)<br/>
--mate-terminal<br/>
--gnome-terminal<br/>
--tilix<br/>
--xfce4-terminal<br/>
-
+mintty and deriviates<br/>
+guake<br/>
+iTerm2<br/>
+elementary terminal (pantheon/elementary)<br/>
+mate-terminal<br/>
+gnome-terminal<br/>
+tilix<br/>
+xfce4-terminal<br/>
 i'm using Gruvbox, to change one [Click Here](https://mayccoll.github.io/Gogh/)
 you'll find all themes, to change one open terminal then:<br/>
 `$bash -c  "$(wget -qO- https://git.io/vQgMr)"`<br/>
@@ -64,17 +61,15 @@ enter number of desired theme and click enter.
 ## issues
 
 * if you faced : `E185: Cannot find color scheme 'gruvbox'`
-
 just do:
 ```
 $mkdir ~/.vim/colors
 $cp ~/.vim/bundle/gruvbox/colors/gruvbox.vim ~/.vim/colors
 ```
 
-* if you faced: 
+* if you faced:<br/>
 `Error detected while processing VimEnter Auto commands for "*":`<br/>
-`E492: Not an editor command: NERDTree`
-
+`E492: Not an editor command: NERDTree`<br/>
 add `set rtp+=~/.vim/bundle/nerdtree` to .vimrc before line: `autocmd vimenter * NERDTree` like this
 ```
 set rtp+=~/.vim/bundle/nerdtree
