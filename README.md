@@ -22,12 +22,12 @@ for vundle:<br/>
 * for tmux plugin manager:<br/>
 `$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
-### ubuntu needed
+### linux needed
 
 * make sure you installed:<br/>
 build-essential<br/>
 npm<br/>
-mono-complete after install run `$npm install xbuild`<br/>
+mono-complete<br/>
 cargo<br/>
 golang-go<br/>
 
