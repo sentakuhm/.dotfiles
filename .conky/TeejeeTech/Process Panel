@@ -20,7 +20,7 @@ conky.config = {
 	default_color = 'white',
 	default_shade_color = 'black',
 	default_outline_color = 'white',
-	alignment = 'middle_right',
+	alignment = 'top_right',
 	gap_x = 0,
 	gap_y = 0,
 	no_buffers = true,
@@ -33,7 +33,7 @@ conky.config = {
 };
 
 conky.text = [[
-${font Comic Sans MS:bold:size=18}${color #007fff}    Arch${color}Linux${font}
+${font Comic Sans MS:bold:size=18}${color #007fff}${alignc}Arch${color}Linux${font}
 
 ${color green}System${hr 1}${color}
 Hostname$alignr$nodename
@@ -45,8 +45,10 @@ CPU${alignr}${freq} MHz
 Processes${alignr}$processes ($running_processes running)
 Load${alignr}$loadavg
 ${color green}${hr 1}${color}
-CPU 1:  ${cpu cpu1}%${goto 135}${alignr}CPU 2:  ${cpu cpu2}%
-${cpugraph cpu1 25,115 a1a1a1 cd8500 -l}${alignr}${cpugraph cpu2 25,115 a1a1a1 cd8500 -l}
+${font Ubuntu:style:bold:size=8}CPU 1:  ${cpu cpu1}%${goto 135}${alignr}CPU 2:  ${cpu cpu2}%${font}
+${cpugraph cpu1 25,100 a1a1a1 cd8500 -l}${alignr}${cpugraph cpu2 25,100 a1a1a1 cd8500 -l}
+${font Ubuntu:style:bold:size=8}CPU 3:  ${cpu cpu3}%${goto 135}${alignr}CPU 4:  ${cpu cpu4}%${font}
+${cpugraph cpu3 25,100 a1a1a1 cd8500 -l}${alignr}${cpugraph cpu4 25,100 a1a1a1 cd8500 -l}
 ${color yellow}Ram${color} ${alignr}$mem / $memmax - $memperc%
 ${membar 8,280}
 ${color green}${hr 1}${color}
@@ -70,7 +72,7 @@ ${fs_bar 8,280 /}
 Home${alignr}${fs_free /home} / ${fs_size /home}
 ${fs_bar 8,280 /home}
 ${color green}Network${hr 1}${color}
-${font Ubuntu:style:size=8}Down ${downspeed wlp4s0} k/s ${alignr}Up ${upspeed wlp4s0} k/s
+${font Ubuntu:style:bold:size=8}Down ${downspeed wlp4s0} k/s ${alignr}Up ${upspeed wlp4s0} k/s
 ${downspeedgraph wlp4s0 25,99 a1a1a1 cd8500} ${alignr}${upspeedgraph wlp4s0 25,99 a1a1a1 cd8500}
 Total ${totaldown wlp4s0} ${alignr}Total ${totalup wlp4s0}${font}
 ]];
