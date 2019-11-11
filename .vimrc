@@ -20,6 +20,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'morhetz/gruvbox'
+Plugin 'jiangmiao/auto-pairs'
 "Plugin 'scrooloose/nerdtree'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'mhinz/vim-startify'
@@ -41,6 +42,7 @@ filetype plugin on
 filetype plugin indent on 
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py'
 let g:ycm_use_clangd = 0
+let g:airline_powerline_fonts = 1
 "jumps to the last known position in a file
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
 set backspace=indent,eol,start
