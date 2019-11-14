@@ -15,8 +15,7 @@ ZSH_THEME="eastwood"
 # ++ Plugins ++ 
 plugins=(git arcanist iterm2 archlinux arcanist zeus tmuxinator nanoc python sudo vim-interaction vi-mode man rails tmux vundle history zsh-autosuggestions zsh-syntax-highlighting)
 
-# ++ Sources & Stuffs ++
+# ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
-
-# aliases
-alias config='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+config config status.showUntrackedFiles no
