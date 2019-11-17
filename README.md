@@ -1,6 +1,6 @@
 dotfiles
 ***
-![screenshot](https://github.com/madaramost/.dotfiles/blob/master/Screenshot.png)
+![screenshot](https://github.com/sentakuhm/.dotfiles/blob/master/preview.png)
 
 (Here's what my setup looks like. Tmux/Vim/Ranger)
 ***
