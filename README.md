@@ -2,7 +2,7 @@ dotfiles
 ***
 ![screenshot](https://github.com/sentakuhm/.dotfiles/blob/master/preview.png)
 
-(Here's what my setup looks like. Tmux/Vim/Ranger)
+(Here's what my setup looks like. Tmux/Vim/Vifm)
 ***
 
 ### Notes
