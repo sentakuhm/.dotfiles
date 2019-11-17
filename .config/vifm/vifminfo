@@ -1,0 +1,346 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/sentaku/
+	..
+1573988003
+'b
+	/home/sentaku/bin/
+	..
+1573988003
+'h
+	/home/sentaku/
+	..
+1573988003
+'z
+	/home/sentaku/.config/vifm
+	..
+1573988003
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/LocalDisk/Quran
+	..
+0
+d/home/sentaku/go
+	..
+0
+d/home/sentaku
+	Documents
+2
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku/Documents/Myproj
+	toolbar.java
+3
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku
+	Music
+5
+d/home/sentaku/Music
+	..
+0
+d/home/sentaku
+	Pictures
+6
+d/home/sentaku/Pictures
+	smplayer_screenshots
+1
+d/home/sentaku
+	..
+0
+d/home
+	sentaku
+2
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Other
+5
+d/LocalDisk/Other
+	S02
+4
+d/LocalDisk
+	Other
+5
+d/
+	home
+5
+d/home
+	sentaku
+2
+d/home/sentaku
+	.java
+10
+d/home/sentaku/.java
+	fonts
+1
+d/home/sentaku
+	Documents
+13
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku/Documents/Myproj
+	toolbar.java
+3
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku
+	Pictures
+6
+d/home/sentaku/Pictures
+	Screenshot from 2019-11-16 10-32-40.png
+4
+d/home/sentaku
+	Music
+5
+d/home
+	sentaku
+2
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Programming
+6
+d/LocalDisk/Programming
+	Python
+6
+d/LocalDisk/Programming/Python
+	QII6vM6.png
+5
+d/LocalDisk/Programming
+	Networking
+5
+d/LocalDisk/Programming/Networking
+	Computer Networking - The Complete Beginner's Guide to Learning the Basics of Network Security
+2
+d/LocalDisk/Programming/Networking/Computer Networking - The Complete Beginner's Guide to Learning the Basics of Network Security
+	..
+0
+d/LocalDisk/Programming/Networking
+	[My free Planet Club] Udemy - Cisco CCNA Configuration Labs  Hands On Experience Guide
+3
+d/LocalDisk/Programming/Networking/[My free Planet Club] Udemy - Cisco CCNA Configuration Labs  Hands On Experience Guide
+	..
+0
+d/LocalDisk/Programming/Networking
+	Computer Networking - The Complete Beginner's Guide to Learning the Basics of Network Security
+2
+d/LocalDisk/Programming/Networking/Computer Networking - The Complete Beginner's Guide to Learning the Basics of Network Security
+	Computer Networking.epub
+1
+d/LocalDisk/Programming/Networking
+	Computer Networking - The Complete Beginner's Guide to Learning the Basics of Network Security
+2
+d/LocalDisk/Programming
+	Python
+6
+d/LocalDisk/Programming/Python
+	byteofpython_arabic.pdf
+6
+d/LocalDisk/Programming
+	Python
+6
+d/LocalDisk
+	Programming
+6
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Other
+5
+d/LocalDisk/Other
+	Before.The.Coffee.Gets.Cold.2018.720p.BRRip.x264-MkvCage.ws.mkv
+9
+d/LocalDisk
+	Quran
+7
+d/LocalDisk/Quran
+	Saad Al Ghamdi
+1
+d/LocalDisk/Quran/Saad Al Ghamdi
+	005.mp3
+5
+d/LocalDisk/Quran
+	..
+0
+d/LocalDisk
+	Quran
+7
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Quran
+7
+d/
+	home
+5
+d/home
+	sentaku
+2
+d/home/sentaku
+	Documents
+2
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku/Documents/Myproj
+	menutest.java
+2
+d/home/sentaku/Documents
+	Myproj
+1
+d/home/sentaku
+	Templates
+8
+d/home
+	sentaku
+2
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Quran
+7
+d/LocalDisk/Quran
+	..
+0
+d/LocalDisk
+	Other
+5
+d/LocalDisk/Other
+	Impulse S02 COMPLETE 720p WEB-DL x264 4.6GB MSubs
+3
+d/LocalDisk
+	tw9it.docx
+10
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Quran
+7
+d/LocalDisk/Quran
+	..
+0
+d/LocalDisk
+	Linux
+4
+d/LocalDisk/Linux
+	..
+0
+d/LocalDisk
+	Games
+3
+d/LocalDisk/Games
+	..
+0
+d/LocalDisk
+	0Apps
+2
+d/LocalDisk/0Apps
+	..
+0
+d/LocalDisk
+	..
+0
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Linux
+4
+d/LocalDisk/Linux
+	wall
+8
+d/LocalDisk/Linux/wall
+	82t53bh31uf31.jpg
+6
+d/LocalDisk/Linux
+	..
+0
+d/LocalDisk
+	Linux
+4
+d/
+	LocalDisk
+0
+d/LocalDisk
+	Linux
+4
+d
+
+# Right window history (oldest to newest):
+D/home/sentaku
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:colorscheme snowwhite
+:colorscheme zeburn_1
+:colorscheme zenburn
+:colorscheme matrix
+:help
+:colorscheme desert
+:za
+:zo
+:zm
+:colorscheme asterll
+:colorscheme astrell
+:colorscheme zenburn_1
+:colorscheme ph
+:colorscheme dracula
+:colorscheme solorized-dark
+:colorscheme solarized-dark
+:colorscheme gruvbox
+:colorscheme mc-like
+:colorscheme molokai
+:colorscheme near-default
+:colorscheme reicheltd
+:colorscheme reicheltd-light
+:colorscheme semidarkdesert
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
