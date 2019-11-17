@@ -1,9 +1,18 @@
+-- ╔═╗╔═╗╔╗╔╔╦╗╔═╗╦╔═╦ ╦  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
+-- ╚═╗║╣ ║║║ ║ ╠═╣╠╩╗║ ║  ║  ║ ║║║║╠╣ ║║ ╦
+-- ╚═╝╚═╝╝╚╝ ╩ ╩ ╩╩ ╩╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝
+-- ==================================================
+-- " Dotfiles: https://github.com/sentakuhm/.dotfiles
+-- " Email: madaramost@gmail.com
+-- ==================================================
+
+
 conky.config = {
 -- display settings:	
 	background = false,
 	double_buffer = true,
 	alignment = 'top_right',
-	font = 'Ubuntu:style:size=10',
+	font = 'Ubuntu:style:size=8',
 	use_xft = true,
 	xftalpha = 0.1,
 	update_interval = 2,
@@ -47,9 +56,9 @@ CPU${alignr}${freq} MHz
 Processes${alignr}$processes ($running_processes running)
 Load${alignr}$loadavg
 ${color green}${hr 1}${color}
-${font Ubuntu:style:bold:size=8}CPU 1:  ${cpu cpu1}%${goto 135}${alignr}CPU 2:  ${cpu cpu2}%${font}
+${font Ubuntu:style:bold:size=6}CPU 1:  ${cpu cpu1}%${goto 135}${alignr}CPU 2:  ${cpu cpu2}%${font}
 ${cpugraph cpu1 25,100 a1a1a1 cd8500 -l}${alignr}${cpugraph cpu2 25,100 a1a1a1 cd8500 -l}
-${font Ubuntu:style:bold:size=8}CPU 3:  ${cpu cpu3}%${goto 135}${alignr}CPU 4:  ${cpu cpu4}%${font}
+${font Ubuntu:style:bold:size=6}CPU 3:  ${cpu cpu3}%${goto 135}${alignr}CPU 4:  ${cpu cpu4}%${font}
 ${cpugraph cpu3 25,100 a1a1a1 cd8500 -l}${alignr}${cpugraph cpu4 25,100 a1a1a1 cd8500 -l}
 ${color yellow}Ram${color} $memperc% ${alignr}$mem / $memmax
 ${membar 8,280}
@@ -74,7 +83,7 @@ ${fs_bar 8,280 /}
 Home${alignr}${fs_free /home} / ${fs_size /home}
 ${fs_bar 8,280 /home}
 ${color green}Network${hr 1}${color}
-${font Ubuntu:style:bold:size=8}Down ${downspeed wlp4s0} k/s ${alignr}Up ${upspeed wlp4s0} k/s
+${font Ubuntu:style:bold:size=6}Down ${downspeed wlp4s0} k/s ${alignr}Up ${upspeed wlp4s0} k/s
 ${downspeedgraph wlp4s0 25,99 a1a1a1 cd8500} ${alignr}${upspeedgraph wlp4s0 25,99 a1a1a1 cd8500}
 Total ${totaldown wlp4s0} ${alignr}Total ${totalup wlp4s0}${font}
 ]];
