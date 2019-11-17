@@ -9,7 +9,7 @@ dotfiles
 * before install dotfiles make sure you have installed:<br/>
 vim<br/>
 tmux<br/>
-ranger<br/>
+vifm<br/>
 powerline<br/>
 most *"for colored man pages"*<br/>
 oh-my-zsh *"zsh themes"* to install run this command:<br/>
@@ -25,9 +25,8 @@ for vundle:<br/>
 ### linux needed
 
 * make sure you installed:<br/>
-build-essential<br/>
 npm<br/>
-mono-complete<br/>
+mono<br/>
 cargo<br/>
 golang-go<br/>
 
