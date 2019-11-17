@@ -1,10 +1,21 @@
+!! ╔═╗╔═╗╔╗╔╔╦╗╔═╗╦╔═╦ ╦  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
+!! ╚═╗║╣ ║║║ ║ ╠═╣╠╩╗║ ║  ║  ║ ║║║║╠╣ ║║ ╦
+!! ╚═╝╚═╝╝╚╝ ╩ ╩ ╩╩ ╩╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝
+!! ==================================================
+!! Dotfiles: https://github.com/sentakuhm/.dotfiles
+!! Email: madaramost@gmail.com
+!! ==================================================
+
+
 !!Font
 Xft.dpi:        96
 Xft.antialias:  true
 Xft.rgba:       rgb
 Xft.hinting:    true
 Xft.hintstyle:  hintfull
-URxvt*font: xft:SauceCodePro Nerd Font Mono:size=11, xft:DejaVu Sans:size=11
+URxvt*font: xft:SauceCodePro Nerd Font Mono:size=11,\
+            xft:DejaVu Sans:size=11,\
+            xft:DroidSansMono Nerd Font,\
 URxvt.depth: 32
 
 !! Fullscreen key
