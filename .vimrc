@@ -7,37 +7,32 @@
 " ==================================================
 set nocompatible              
 filetype on                  
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+call plug#begin('~/.vim/plugged')
 
-" let Vundle manage Vundle, required
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
-Plugin 'morhetz/gruvbox'
-Plugin 'jiangmiao/auto-pairs'
-Plugin 'bling/vim-bufferline'
-"Plugin 'scrooloose/nerdtree'
-Plugin 'ryanoasis/vim-devicons'
-Plugin 'mhinz/vim-startify'
-Plugin 'mattn/emmet-vim'
-"Plugin 'airblade/vim-gitgutter'
-Plugin 'nathanaelkane/vim-indent-guides'
-"Plugin 'tpope/vim-surround'
-"Plugin 'majutsushi/tagbar'
-Plugin 'honza/vim-snippets'
-"Plugin 'scrooloose/nerdcommenter'
-Plugin 'junegunn/fzf'
-Plugin 'junegunn/fzf.vim'
-"Plugin 'tpope/vim-fugitive'
-Plugin 'git://git.wincent.com/command-t.git'
-Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
-" All of your Plugins must be added before the following line
-call vundle#end() 
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'morhetz/gruvbox'
+"Plug 'scrooloose/nerdtree'
+Plug 'ryanoasis/vim-devicons'
+Plug 'mhinz/vim-startify'
+Plug 'jiangmiao/auto-pairs'
+"Plug 'mattn/emmet-vim'
+"Plug 'airblade/vim-gitgutter'
+"Plug 'tpope/vim-surround'
+"Plug 'majutsushi/tagbar'
+"Plug 'honza/vim-snippets'
+"Plug 'scrooloose/nerdcommenter'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+"Plug 'tpope/vim-fugitive'
+
+" Initialize plugin system
+call plug#end()
+
+"+++++++++++++Settings++++++++++++++
 filetype plugin on
 filetype plugin indent on 
-let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py'
-let g:ycm_use_clangd = 0
 let g:airline_powerline_fonts = 1
+
 "jumps to the last known position in a file
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
 set backspace=indent,eol,start
@@ -94,6 +89,12 @@ autocmd VimEnter *
                 \ |   wincmd w
                 \ | endif
 
+"Latex
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor = "latex"
+"set runtimepath=~/.vim,$VIM/vimfiles,$VIMRUNTIME,$VIM/vimfiles/after,~/.vim/after
+
+
 "Syntastic:
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
@@ -143,7 +144,7 @@ let g:fzf_colors =
 let g:fzf_history_dir = '~/.local/share/fzf-history'
 "############## end fzf ###########################
 
-"Lightline:
+"Powerline:
 let g:powerline_pycmd="py3"
 
 "Emmets:
