@@ -14,8 +14,10 @@ export ZSH="/home/sentaku/.oh-my-zsh"
 export PAGER="most"
 # apps installed by cargo
 export PATH=$PATH:.cargo/bin
-# path to script for vifm
-export PATH=$PATH:./.config/vifm/scripts
+# script for vifm
+./.config/vifm/scripts/vifmimg
+./.config/vifm/scripts/vifmrun
+
 
 # ++ End of paths ++
 #
