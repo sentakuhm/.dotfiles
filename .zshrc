@@ -14,10 +14,8 @@ export ZSH="/home/sentaku/.oh-my-zsh"
 export PAGER="most"
 # apps installed by cargo
 export PATH=$PATH:.cargo/bin
-# script for vifm
-./.config/vifm/scripts/vifmimg
-./.config/vifm/scripts/vifmrun
-
+# script PATH for vifm
+export PATH=$PATH:./.config/vifm/scripts
 
 # ++ End of paths ++
 #
@@ -29,6 +27,7 @@ plugins=(git arcanist iterm2 archlinux arcanist zeus tmuxinator nanoc python sud
 
 # ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
+alias vifm='vifmrun'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 config config status.showUntrackedFiles no
 
