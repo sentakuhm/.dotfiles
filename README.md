@@ -1,8 +1,8 @@
 dotfiles
 ***
-![screenshot](https://github.com/sentakuhm/.dotfiles/blob/master/preview.png)
+![screenshot](https://github.com/sentakuhm/.dotfiles/blob/master/rice.png)
 
-(Here's what my setup looks like. Tmux/Vim/Vifm)
+(Here's what my setup looks like. I3-Gaps/Vim/Polybar....)
 ***
 
 ### Notes
@@ -12,6 +12,7 @@ tmux<br/>
 vifm<br/>
 powerline<br/>
 most *"for colored man pages"*<br/>
+uberzug *""img viewer in vifm"*<br/> 
 oh-my-zsh *"zsh themes"* to install run this command:<br/>
 `$sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")`<br/>
 
