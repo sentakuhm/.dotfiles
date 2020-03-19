@@ -15,6 +15,7 @@ Plug 'morhetz/gruvbox'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
 Plug 'jiangmiao/auto-pairs'
+Plug 'KabbAmine/vCoolor.vim'
 "Plug 'mattn/emmet-vim'
 "Plug 'airblade/vim-gitgutter'
 "Plug 'tpope/vim-surround'
@@ -32,10 +33,9 @@ call plug#end()
 filetype plugin on
 filetype plugin indent on 
 let g:airline_powerline_fonts = 1
-
-"jumps to the last known position in a file
-au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+let g:coc_global_extensions = 1
 set backspace=indent,eol,start
+se mouse+=a
 set encoding=utf-8
 set tabstop=4
 set softtabstop=4
@@ -46,15 +46,11 @@ set t_ut=
 set showcmd
 set cursorline
 set wildmenu
+set hidden
 set lazyredraw
 set showmatch
 set incsearch
 set hlsearch
-"###############Color Theme:##############
-syntax on
-colorscheme gruvbox 
-let g:gruvbox_contrast_dark="hard"
-set background=dark
 
 "Visual wrapping:
 autocmd FileType python set breakindentopt=shift:4
@@ -65,20 +61,7 @@ vmap <C-x> "+c
 vmap <C-v> c<ESC>"+p
 imap <C-v> <C-r><C-o>+
 nnoremap x "_x
-"Taglist:
-let Tlist_Compact_Format = 1
-let Tlist_GainFocus_On_ToggleOpen = 1
-let Tlist_Close_On_Select = 1
-nnoremap <C-l> :TlistToggle<CR>
 
-try
-source ~/.vim_runtime/my_configs.vim
-catch
-endtry
-
-if !has('gui_running')
-	set t_Co=256
-endif
 
 "#########Enable-Plugins:#############
 "Startify:
@@ -89,21 +72,6 @@ autocmd VimEnter *
                 \ |   wincmd w
                 \ | endif
 
-"Latex
-set grepprg=grep\ -nH\ $*
-let g:tex_flavor = "latex"
-"set runtimepath=~/.vim,$VIM/vimfiles,$VIMRUNTIME,$VIM/vimfiles/after,~/.vim/after
-
-
-"Syntastic:
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*
-
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
 
 "fzf settings:
 " This is the default extra key bindings
@@ -155,6 +123,24 @@ let g:gitgutter_max_signs = 500
 
 "Ident-Guides:
 "let g:indent_guides_enable_on_vim_startup = 1
+
+"###############Color Theme:##############
+let g:onedark_hide_endofbuffer = 1
+let g:onedark_terminal_italics = 1
+let g:airline_theme='onedark'
+syntax on
+colorscheme onedark
+
+if !has('gui_running')
+	set t_Co=256
+endif
+
+"let g:gruvbox_contrast_dark="hard"
+"set background=dark
+
+"#################### coc.nvim Settings #################
+
+"########################################################
 
 "NERDTree:
 autocmd vimenter * NERDTree
