@@ -1,9 +1,4 @@
 dotfiles
-***
-![screenshot](https://github.com/sentakuhm/.dotfiles/blob/master/rice.png)
-
-(Here's what my setup looks like. I3-Gaps/Vim/Polybar....)
-***
 
 ### Notes
 * before install dotfiles make sure you have installed:<br/>
