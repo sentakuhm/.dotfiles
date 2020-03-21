@@ -1,34 +1,32 @@
-dotfiles
+## dotfiles
 
 ### Notes
-* before install dotfiles make sure you have installed:<br/>
-vim<br/>
-tmux<br/>
-vifm<br/>
-powerline<br/>
-most *"for colored man pages"*<br/>
-uberzug *""img viewer in vifm"*<br/> 
-oh-my-zsh *"zsh themes"* to install run this command:<br/>
-`$sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")`<br/>
+before install dotfiles make sure you have installed:
+* vim
+* tmux
+* vifm
+* powerline
+* most *"for colored man pages"*
+* oh-my-zsh *"zsh themes"* to install run this command:<br>
+`
+$sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+`
+* and clone vim-plug and tmux plugins manager to home directory:<br>
+for vim-plug:<br>
+```
+$curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
 
-* and clone vim-plug and tmux plugins manager to home directory:<br/>
-for vim-plug:<br/>
-`$curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
-
-* for tmux plugin manager:<br/>
-`$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
-
-### linux needed
-
-* make sure you installed:<br/>
-npm<br/>
-golang-go<br/>
+for tmux plugin manager:<br>
+```
+$git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
 
 ### Installation
 
 ```
-$git clone --separate-git-dir=$HOME/.dotfiles https://github.com/sentakuhm/.dotfiles.git tmpdotfiles
+$git clone --separate-git-dir=$HOME/.dotfiles https://gitlab.com/Sentaku/dotfiles.git tmpdotfiles
 $rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 $rm -r tmpdotfiles
 ```
@@ -37,36 +35,38 @@ $rm -r tmpdotfiles
 * run tmux then `Ctrl+a` then click `shift+i` to install all plugins and exit. 
 
 ### Treminal theme:
-* Only supported terminals:<br/>
-mintty and deriviates<br/>
-guake<br/>
-iTerm2<br/>
-elementary terminal (pantheon/elementary)<br/>
-mate-terminal<br/>
-gnome-terminal<br/>
-tilix<br/>
-xfce4-terminal<br/>
+* Only supported terminals:
+* mintty and deriviates
+* guake
+* iTerm2
+* elementary terminal (pantheon/elementary)
+* mate-terminal
+* gnome-terminal
+* tilix
+* xfce4-terminal<br>
 i'm using Gruvbox, to change one [Click Here](https://mayccoll.github.io/Gogh/)
 you'll find all themes, to change one open terminal then:<br/>
-`$bash -c  "$(wget -qO- https://git.io/vQgMr)"`<br/>
+`
+$bash -c  "$(wget -qO- https://git.io/vQgMr)"
+`<br>
 enter number of desired theme and click enter.
 ***
 
 ### Tmux Commands
 
-`Ctrl + a`	Command<br/>
-`Command + t`	New window<br/>
-`Command + w`	Kill pane<br/>
-`Command + q`	Kill session<br/>
-`Command + r`	Reload tmux config<br/>
-`Command + z`	Zoom to pane<br/>
-`Command + $`	Rename session<br/>
-`Command + ,`	Rename window<br/>
-`Command + g`	Split vertically<br/>
-`Command + h`	Split horizontally<br/>
-`Command + ?`	List keyboard shortcuts<br/>
-`Command + :`	Command prompt<br/>
-`Command + s`	List sessions<br/>
-`Command + Ctrl + r`	Reload session<br/>
-`Command + Ctrl + s`	Save session<br/>
-`Command + Shift + i`	Install plugins<br/>
+* `Ctrl + a`	Command
+* `Command + t`	New window
+* `Command + w`	Kill pane
+* `Command + q`	Kill session
+* `Command + r`	Reload tmux config
+* `Command + z`	Zoom to pane
+* `Command + $`	Rename session
+* `Command + ,`	Rename window
+* `Command + g`	Split vertically
+* `Command + h`	Split horizontally
+* `Command + ?`	List keyboard shortcuts
+* `Command + :`	Command prompt
+* `Command + s`	List sessions
+* `Command + Ctrl + r`	Reload session
+* `Command + Ctrl + s`	Save session
+* `Command + Shift + i`	Install plugins
