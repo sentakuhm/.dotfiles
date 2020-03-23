@@ -6,6 +6,8 @@ before install dotfiles make sure you have installed:
 * tmux
 * vifm
 * powerline
+* zsh-autosuggestions
+* zsh-syntax-highlighting
 * most *"for colored man pages"*
 * oh-my-zsh *"zsh themes"* to install run this command:<br>
 `
