@@ -23,10 +23,12 @@ export PATH=$PATH:./.config/vifm/scripts
 ZSH_THEME="eastwood"
 
 # ++ Plugins ++ 
-plugins=(git arcanist iterm2 archlinux arcanist zeus tmuxinator nanoc python sudo vim-interaction vi-mode man rails tmux vundle history zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git archlinux zeus nanoc python sudo vim-interaction vi-mode man rails tmux history)
 
 # ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias vifm='vifmrun'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 config config status.showUntrackedFiles no
