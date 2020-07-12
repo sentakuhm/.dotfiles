@@ -3,19 +3,19 @@
 " ╚═╝╚═╝╝╚╝ ╩ ╩ ╩╩ ╩╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝
 " ==================================================
 " Dotfiles: https://github.com/sentakuhm/.dotfiles
-" Email: madaramost@gmail.com
+" Email: sentakuhm@gmail.com
 " ==================================================
 set nocompatible              
 filetype on                  
 call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'morhetz/gruvbox'
+"Plug 'morhetz/gruvbox'
+Plug 'sainnhe/gruvbox-material'
 "Plug 'scrooloose/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
 Plug 'jiangmiao/auto-pairs'
-Plug 'KabbAmine/vCoolor.vim'
 "Plug 'mattn/emmet-vim'
 "Plug 'airblade/vim-gitgutter'
 "Plug 'tpope/vim-surround'
@@ -31,7 +31,10 @@ call plug#end()
 
 "+++++++++++++Settings++++++++++++++
 filetype plugin on
-filetype plugin indent on 
+filetype plugin indent on
+source $VIMRUNTIME/vimrc_example.vim
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor = "latex"
 let g:airline_powerline_fonts = 1
 let g:coc_global_extensions = 1
 set backspace=indent,eol,start
@@ -125,21 +128,19 @@ let g:gitgutter_max_signs = 500
 "let g:indent_guides_enable_on_vim_startup = 1
 
 "###############Color Theme:##############
-let g:onedark_hide_endofbuffer = 1
-let g:onedark_terminal_italics = 1
-let g:airline_theme='onedark'
-syntax on
-colorscheme onedark
-
-if !has('gui_running')
-	set t_Co=256
+if has('termguicolors')
+  set termguicolors
 endif
 
-"let g:gruvbox_contrast_dark="hard"
-"set background=dark
+syntax on
+set background=dark
+let g:gruvbox_material_background = 'soft'
+let g:gruvbox_material_enable_italic = 1
+colorscheme gruvbox-material
 
-"#################### coc.nvim Settings #################
-
+"if !has('gui_running')
+"	set t_Co=256
+"endif
 "########################################################
 
 "NERDTree:
