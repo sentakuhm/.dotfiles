@@ -1,6 +1,9 @@
-" ╔═╗╔═╗╔╗╔╔╦╗╔═╗╦╔═╦ ╦  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
-" ╚═╗║╣ ║║║ ║ ╠═╣╠╩╗║ ║  ║  ║ ║║║║╠╣ ║║ ╦
-" ╚═╝╚═╝╝╚╝ ╩ ╩ ╩╩ ╩╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝
+"                  __ _       
+"  ___ ___  _ __  / _(_) __ _ 
+" / __/ _ \| '_ \| |_| |/ _` |
+"| (_| (_) | | | |  _| | (_| |
+" \___\___/|_| |_|_| |_|\__, |
+"                       |___/ 
 " ==================================================
 " Dotfiles: https://github.com/sentakuhm/.dotfiles
 " Email: sentakuhm@gmail.com
@@ -44,7 +47,7 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 set number
-set spell
+"set spell
 set t_ut=
 set showcmd
 set cursorline
@@ -138,9 +141,6 @@ let g:gruvbox_material_background = 'soft'
 let g:gruvbox_material_enable_italic = 1
 colorscheme gruvbox-material
 
-"if !has('gui_running')
-"	set t_Co=256
-"endif
 "########################################################
 
 "NERDTree:
