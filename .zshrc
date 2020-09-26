@@ -1,6 +1,9 @@
-# ╔═╗╔═╗╔╗╔╔╦╗╔═╗╦╔═╦ ╦  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
-# ╚═╗║╣ ║║║ ║ ╠═╣╠╩╗║ ║  ║  ║ ║║║║╠╣ ║║ ╦
-# ╚═╝╚═╝╝╚╝ ╩ ╩ ╩╩ ╩╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝
+#                  __ _       
+#  ___ ___  _ __  / _(_) __ _ 
+# / __/ _ \| '_ \| |_| |/ _` |
+#| (_| (_) | | | |  _| | (_| |
+# \___\___/|_| |_|_| |_|\__, |
+#                       |___/ 
 # ==================================================
 # " Dotfiles: https://github.com/sentakuhm/.dotfiles
 # " Email: madaramost@gmail.com
@@ -20,10 +23,10 @@ export PATH=$PATH:./.config/vifm/scripts
 # ++ End of paths ++
 #
 # ++ Theme ++
-ZSH_THEME="eastwood"
+ZSH_THEME="intheloop"
 
 # ++ Plugins ++ 
-plugins=(git archlinux zeus nanoc python sudo vim-interaction vi-mode man rails tmux history)
+plugins=(git dotenv extract rake archlinux python vscode sudo vim-interaction vi-mode man history themes last-working-dir z zsh-interactive-cd)
 
 # ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
