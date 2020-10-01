@@ -9,6 +9,7 @@ before install dotfiles make sure you have installed:
 * zsh-autosuggestions
 * zsh-syntax-highlighting
 * most *"for colored man pages"*
+* logo-ls from (AUR)
 * oh-my-zsh *"zsh themes"* to install run this command:<br>
 `
 $sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
