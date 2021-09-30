@@ -36,13 +36,4 @@ alias vifm='vifmrun'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 config config status.showUntrackedFiles no
 
-# ++ logo-ls Configs ++
-alias ls='logo-ls'
-alias la='logo-ls -A'
-alias ll='logo-ls -al'
-# equivalents with Git Status on by Default
-alias lsg='logo-ls -D'
-alias lag='logo-ls -AD'
-alias llg='logo-ls -alD'
-# ++ end of logo-ls configs ++
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

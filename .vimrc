@@ -15,6 +15,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Plug 'morhetz/gruvbox'
 Plug 'sainnhe/gruvbox-material'
+Plug 'srcery-colors/srcery-vim'
 "Plug 'scrooloose/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
@@ -32,10 +33,11 @@ Plug 'junegunn/fzf.vim'
 " Initialize plugin system
 call plug#end()
 
-"+++++++++++++Settings++++++++++++++
+"+++++++++++++ Settings
 filetype plugin on
 filetype plugin indent on
 source $VIMRUNTIME/vimrc_example.vim
+"set runtimepath=~/.vim,$VIM/vimfiles,$VIMRUNTIME,$VIM/vimfiles/after,~/.vim/after
 set grepprg=grep\ -nH\ $*
 let g:tex_flavor = "latex"
 let g:airline_powerline_fonts = 1
@@ -58,19 +60,17 @@ set showmatch
 set incsearch
 set hlsearch
 
-"Visual wrapping:
+"+++++++++++++ Visual wrapping:
 autocmd FileType python set breakindentopt=shift:4
 
-"Cut/Copy/Paste:
+"+++++++++++++ Cut/Copy/Paste:
 vmap <C-c> "+yi
 vmap <C-x> "+c
 vmap <C-v> c<ESC>"+p
 imap <C-v> <C-r><C-o>+
 nnoremap x "_x
 
-
-"#########Enable-Plugins:#############
-"Startify:
+"+++++++++++++ Startify
 autocmd VimEnter *
                 \   if !argc()
                 \ |   Startify
@@ -79,7 +79,7 @@ autocmd VimEnter *
                 \ | endif
 
 
-"fzf settings:
+"+++++++++++++ fzf
 " This is the default extra key bindings
 let g:fzf_action = {
   \ 'ctrl-t': 'tab split',
@@ -116,40 +116,39 @@ let g:fzf_colors =
 " previous-history instead of down and up. If you don't like the change,
 " explicitly bind the keys to down and up in your $FZF_DEFAULT_OPTS.
 let g:fzf_history_dir = '~/.local/share/fzf-history'
-"############## end fzf ###########################
 
-"Powerline:
-let g:powerline_pycmd="py3"
+"+++++++++++++ Powerline
+"let g:powerline_pycmd="py3"
 
-"Emmets:
+"+++++++++++++ Emmets
 let g:user_emmet_mode='a'
 
- "Gitgutter:
+"+++++++++++++ Gitgutter
 let g:gitgutter_max_signs = 500
 
-"Ident-Guides:
+"+++++++++++++ Ident-Guides
 "let g:indent_guides_enable_on_vim_startup = 1
 
-"###############Color Theme:##############
+"+++++++++++++ Color Theme
 if has('termguicolors')
   set termguicolors
 endif
 
 syntax on
 set background=dark
-let g:gruvbox_material_background = 'soft'
-let g:gruvbox_material_enable_italic = 1
-colorscheme gruvbox-material
+"let g:gruvbox_material_background = 'soft'
+"let g:gruvbox_material_enable_italic = 1
+let g:srcery_italic = 1
+colorscheme srcery
 
-"########################################################
-
-"NERDTree:
+"+++++++++++++ NERDTree
 autocmd vimenter * NERDTree
 "let g:NERDTreeDirArrowExpandable = '▸'
 "let g:NERDTreeDirArrowCollapsible = '▾'
 let NERDTreeShowHidden=1
 nmap <F6> :NERDTreeToggle<CR>
-"NRDCommenter:
+
+"+++++++++++++ NRDCommenter
 let g:NERDSpaceDelims = 1
 let g:NERDCompactSexyComs = 1
 let g:NERDDefaultAlign = 'left'
