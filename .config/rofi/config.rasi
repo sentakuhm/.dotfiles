@@ -1,0 +1,7 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ theme: "lb.rasi";
+ icon-theme: "Yaru";
+ font: "Segoe UI Semibold 14";
+ combi-modi: "window,drun,ssh";
+}

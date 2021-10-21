@@ -1,7 +1,0 @@
-configuration {
- modi: "window,drun,ssh,combi";
- theme: gruvbox-dark-hard.rasi;
- font: "Ubuntu Nerd Font 10";
- combi-modi: "window,drun,ssh";
-}
-rofi.theme: /usr/share/rofi/themes/arthur.rasi
