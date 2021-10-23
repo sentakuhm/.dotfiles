@@ -28,6 +28,7 @@ Plug 'jiangmiao/auto-pairs'
 "Plug 'scrooloose/nerdcommenter'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
+Plug 'voldikss/vim-floaterm'
 "Plug 'tpope/vim-fugitive'
 
 " Initialize plugin system
@@ -49,6 +50,7 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 set number
+set autoread
 "set spell
 set t_ut=
 set showcmd
@@ -78,6 +80,12 @@ autocmd VimEnter *
                 \ |   wincmd w
                 \ | endif
 
+"+++++++++++++ Floaterm
+let g:floaterm_keymap_new    = '<F7>'
+let g:floaterm_keymap_prev   = '<F8>'
+let g:floaterm_keymap_next   = '<F9>'
+let g:floaterm_keymap_toggle = '<F12>'
+let g:floaterm_keymap_kill = '<F11>'
 
 "+++++++++++++ fzf
 " This is the default extra key bindings
@@ -130,9 +138,11 @@ let g:gitgutter_max_signs = 500
 "let g:indent_guides_enable_on_vim_startup = 1
 
 "+++++++++++++ Color Theme
-if has('termguicolors')
-  set termguicolors
-endif
+"if has('termguicolors')
+"  set termguicolors
+"endif
+
+set t_Co=256
 
 syntax on
 set background=dark
