@@ -49,7 +49,7 @@ exec --no-startup-id picom --config $HOME/.config/picom/picom.conf
 floating_modifier $mod
 
 # lockscreen
-bindsym $mod+Space+l exec "i3lock -B sigma"
+bindsym $mod+Ctrl+l exec "i3lock -B sigma"
 
 # Start a screenshot tool (m)
 bindsym $mod+Print exec "flameshot gui"
@@ -61,7 +61,7 @@ bindsym $mod+Return exec urxvt
 bindsym $mod+Shift+q kill
 
 # start rofi (a program launcher)
-bindsym $mod+d exec "rofi -modi drun,run -show drun"
+bindsym $mod+d exec ~/.config/rofi/bin/launcher_colorful
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
