@@ -53,7 +53,7 @@ get_duration() {
 }
 
 KEY="609c282126be703a2aaa13f5d02ebb06"
-CITY="Douis, DZ"
+CITY="Douis,DZ"
 UNITS="metric"
 SYMBOL="°"
 
@@ -109,5 +109,5 @@ if [ -n "$current" ] && [ -n "$forecast" ]; then
         daytime=" $(get_duration "$((sun_rise-now))")"
     fi
 
-    echo "$(get_icon "$current_icon") $current_temp$SYMBOL  $trend  $(get_icon "$forecast_icon") $forecast_temp$SYMBOL   $daytime"
+    echo "$(get_icon "$current_icon") $current_temp"
 fi

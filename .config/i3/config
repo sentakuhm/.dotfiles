@@ -27,8 +27,8 @@ font pango:Segoe UI 10
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id feh --bg-scale '/D/Linux/well/23.jpg'
-exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock -B sigma
+exec --no-startup-id feh --bg-scale '/D/Linux/well/24.jpg'
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock-fancy -g
 exec_always --no-startup-id $HOME/.config/polybar/forest/launch.sh
 exec_always --no-startup-id /usr/lib/gsd-xsettings
 exec --no-startup-id dunst --config $HOME/.config/dunst/dunstrc
@@ -49,7 +49,7 @@ exec --no-startup-id picom --config $HOME/.config/picom/picom.conf
 floating_modifier $mod
 
 # lockscreen
-bindsym $mod+Ctrl+l exec "i3lock -B sigma"
+bindsym $mod+Ctrl+l exec "i3lock-fancy -g"
 
 # Start a screenshot tool (m)
 bindsym $mod+Print exec "flameshot gui"

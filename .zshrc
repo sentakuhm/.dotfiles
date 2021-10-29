@@ -26,13 +26,12 @@ export PATH=$PATH:./.config/vifm/scripts
 ZSH_THEME="intheloop"
 
 # ++ Plugins ++ 
-plugins=(git dotenv extract rake archlinux python vscode sudo vim-interaction vi-mode man history themes last-working-dir z zsh-interactive-cd)
+plugins=(git dotenv extract rake archlinux python sudo vim-interaction vi-mode man history themes last-working-dir z zsh-interactive-cd)
 
 # ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-alias vifm='vifmrun'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 config config status.showUntrackedFiles no
 
