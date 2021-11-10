@@ -33,6 +33,7 @@ exec_always --no-startup-id $HOME/.config/polybar/forest/launch.sh
 exec_always --no-startup-id /usr/lib/gsd-xsettings
 exec --no-startup-id dunst --config $HOME/.config/dunst/dunstrc
 exec --no-startup-id picom --config $HOME/.config/picom/picom.conf
+exec --no-startup-id xdotool key --clearmodifiers Num_Lock
 #exec_always --no-startup-id conky 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
