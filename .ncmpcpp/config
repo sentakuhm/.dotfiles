@@ -6,44 +6,49 @@ mpd_port =								"6600"
 mpd_connection_timeout = 				5
 
 # Interface:
-user_interface = 						"alternative"
+user_interface = 						alternative
 alternative_header_first_line_format = 	"$(white)─┤ $b$(magenta)%a$(end)$/b ├─$(end)"
 alternative_header_second_line_format =	"$(16)%t (%y)$(end)"
-alternative_ui_separator_color = 		"cyan"
 
 #Connection Format:
 song_columns_list_format = 				"$L (10)[white]{n} $1│$7 (20)[magenta]{a} $1│$7 (20)[white]{b} $1│$7 (20)[magenta]{t} $1│$7 (20)[white]{l}"
 now_playing_prefix = 					"$b"
-centered_cursor = 						"no"
-cyclic_scrolling = 						"yes"
-mouse_list_scroll_whole_page = 			"no"
+centered_cursor = 						no
+cyclic_scrolling = 						yes
+mouse_list_scroll_whole_page = 			no
 
 # Other configuration:
-autocenter_mode = 						"yes"
-display_bitrate = 						"yes"
-header_visibility = 					"yes"
-statusbar_visibility = 					"yes"
-progressbar_look = 						"◾◾◽"
+autocenter_mode = 						yes
+display_bitrate = 						yes
+header_visibility = 					yes
+statusbar_visibility = 					yes
+progressbar_look = 						─⭘
 
 
 # Music Visualizer:
-visualizer_output_name = 				"FIFO"
-visualizer_in_stereo = 					"yes"
+visualizer_output_name = 				FIFO
+visualizer_in_stereo = 					yes
 visualizer_data_source = 				"/tmp/mpd.fifo"
-#visualizer_sync_interval = 				"10"
-visualizer_type = 						"spectrum"
-visualizer_look = 						"▋▋"
+visualizer_type = 						spectrum
+visualizer_look = 						●▮
 
 
 # Colors:
-color1 = 								"white"
-color2 = 								"red"
-discard_colors_if_item_is_selected = 	"yes"
-main_window_color = 					"white"
-header_window_color = 					"4"
-progressbar_color = 					"cyan"
-statusbar_color = 						"red"
-#active_column_color = 					"white"
-volume_color = 							"4"
-window_border_color = 					"white"
-active_window_border = 					"4"
+colors_enabled =                        yes
+empty_tag_color =                       yellow
+header_window_color =                   200
+volume_color =                          default
+state_line_color =                      default
+state_flags_color =                     default
+main_window_color =                     165
+color1 =                                52
+color2 =                                green
+current_item_prefix =                   "$(blue)$r"
+current_item_suffix =                   "$/r$(end)"
+progressbar_color =                     black:b 
+progressbar_elapsed_color =             165:b
+statusbar_color =                       default
+alternative_ui_separator_color =        164
+window_border_color =                   green
+active_window_border =                  red
+visualizer_color =                      blue, yellow, green, cyan, magenta, red
