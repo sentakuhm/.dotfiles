@@ -1,82 +1,84 @@
 {
-    "codeLens.enable": true,
-    "coc.preferences.extensionUpdateCheck": "daily",
-    "coc.preferences.formatOnType": true,
-    "coc.preferences.noselect": false,
-    "suggest.noselect": false,
-    "coc.preferences.formatOnSaveFiletypes": [
-      "go",
-      "python",
-      "markdown",
-      "javascript",
-      "typescript",
-      "json",
-      "jsonc"
-    ],
-    "coc.source.around.firstMatch": false,
-    "coc.source.file.ignoreHidden": false,
-    "clangd.semanticHighlighting": true,
-    "clangd.arguments": [
-      "--background-index"
-    ],
-    "diagnostic.format": "%message [%source]",
-    "diagnostic.virtualText": true,
-    "diagnostic.checkCurrentLine": true,
-    "diagnostic.separateRelatedInformationAsDiagnostics": true,
-    "eslint.autoFixOnSave": true,
-    "eslint.packageManager": "yarn",
-    "git.addGBlameToVirtualText": true,
-    "git.semanticCommit.scope": false,
-    "go.goplsOptions": {
-      "linksInHover": false,
-      "usePlaceholders": true,
-      "staticcheck": true
-    },
-    "list.normalMappings": {
-      "<C-c>": "do:exit"
-    },
-    "list.insertMappings": {
-      "<C-c>": "do:exit"
-    },
-    "markdownlint.config": {
-      "default": true,
-      "line-length": false
-    },
-    "python.formatting.provider": "black",
-    "python.linting.enabled": false,
-    "signature.target": "echo",
-    "suggest.timeout": 5000,
-    "suggest.asciiCharactersOnly": true,
-    "snippets.ultisnips.enable": false,
-    "snippets.ultisnips.usePythonx": false,
-    "snippets.extends": {
-      "javascriptreact": [
-        "javascript"
-      ],
-      "typescript": [
-        "javascript"
-      ]
-    },
-    "typescript.format.semicolons": "insert",
-    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
-    "languageserver": {
-      /* "ccls": { */
-      /*   "command": "ccls", */
-      /*   "filetypes": ["c", "cpp", "objc", "objcpp"], */
-      /*   "rootPatterns": [".ccls", "compile_commands.json", ".vim/", ".git/", ".hg/"], */
-      /*   "initializationOptions": { */
-      /*     "cache": { */
-      /*       "directory": "/tmp/ccls" */
-      /*     }, */
-      /*     "highlight": { "lsRanges": true } */
-      /*   } */
-      /* }, */
-      /* "rust": { */
-      /*   "command": "rust-analyzer", */
-      /*   "trace.server": "verbose", */
-      /*   "filetypes": ["rust"], */
-      /*   "rootPatterns": ["Cargo.toml", ".git/"], */
-      /*   "progressOnInitialization": true */
-      /* }, */
-    }
+        "codeLens.enable": true,
+        "coc.preferences.extensionUpdateCheck": "daily",
+        "coc.preferences.formatOnType": true,
+        "coc.preferences.noselect": false,
+        "suggest.noselect": false,
+        "coc.preferences.formatOnSaveFiletypes": [
+                "go",
+                "python",
+                "markdown",
+                "javascript",
+                "typescript",
+                "json",
+                "jsonc",
+                "html",
+                "css"
+        ],
+        "coc.preferences.messageLevel": "error",
+        "coc.source.around.firstMatch": false,
+        "coc.source.file.ignoreHidden": false,
+        "clangd.semanticHighlighting": true,
+        "clangd.arguments": [
+                "--background-index"
+        ],
+        "diagnostic.format": "%message [%source]",
+        "diagnostic.virtualText": true,
+        "diagnostic.checkCurrentLine": true,
+        "diagnostic.separateRelatedInformationAsDiagnostics": true,
+        "eslint.autoFixOnSave": true,
+        "eslint.packageManager": "yarn",
+        "git.addGBlameToVirtualText": true,
+        "git.semanticCommit.scope": false,
+        "go.goplsOptions": {
+                "linksInHover": false,
+                "usePlaceholders": true,
+                "staticcheck": true
+        },
+        "list.normalMappings": {
+                "<C-c>": "do:exit"
+        },
+        "list.insertMappings": {
+                "<C-c>": "do:exit"
+        },
+        "markdownlint.config": {
+                "default": true,
+                "line-length": false
+        },
+        "python.formatting.provider": "black",
+        "python.linting.enabled": false,
+        "signature.target": "echo",
+        "suggest.timeout": 5000,
+        "suggest.asciiCharactersOnly": true,
+        "snippets.ultisnips.enable": false,
+        "snippets.ultisnips.usePythonx": false,
+        "javascript.autoClosingTags": true,
+        "suggest.maxCompleteItemCount": 10,
+        "snippets.extends": {
+                "javascriptreact": [
+                        "javascript"
+                ],
+                "typescript": [
+                        "javascript"
+                ]
+        },
+        "typescript.format.semicolons": "insert",
+        "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+        "languageserver": {
+                "golang": {
+                        "command": "gopls",
+                        "rootPatterns": [
+                                "go.mod"
+                        ],
+                        "filetypes": [
+                                "go"
+                        ]
+                },
+                "lua": {
+                        "command": "lua-lsp",
+                        "filetypes": [
+                                "lua"
+                        ]
+                }
+        }
 }

@@ -13,25 +13,16 @@ filetype on
 call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'morhetz/gruvbox'
-Plug 'sainnhe/gruvbox-material'
 Plug 'srcery-colors/srcery-vim'
 Plug 'lervag/vimtex'
-"Plug 'scrooloose/nerdtree'
+Plug 'shime/vim-livedown'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
 Plug 'jiangmiao/auto-pairs'
 Plug 'chrisbra/Colorizer'
-"Plug 'mattn/emmet-vim'
-"Plug 'airblade/vim-gitgutter'
-"Plug 'tpope/vim-surround'
-"Plug 'majutsushi/tagbar'
-"Plug 'honza/vim-snippets'
-"Plug 'scrooloose/nerdcommenter'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'voldikss/vim-floaterm'
-"Plug 'tpope/vim-fugitive'
 
 " Initialize plugin system
 call plug#end()
@@ -139,10 +130,23 @@ let g:user_emmet_mode='a'
 "+++++++++++++ Gitgutter
 let g:gitgutter_max_signs = 500
 
+"+++++++++++++ Livedown
+" should markdown preview get shown automatically upon opening markdown buffer
+let g:livedown_autorun = 0
+
+" should the browser window pop-up upon previewing
+let g:livedown_open = 1
+
+" the port on which Livedown server will run
+let g:livedown_port = 1337
+
+" the browser to use, can also be firefox, chrome or other, depending on your executable
+let g:livedown_browser = "firefox"
+
 "+++++++++++++ Colorizer
-let g:colorizer_auto_filetype='css,html,conf,ini,py'
-"let g:colorizer_auto_color = 1
-let g:colorizer_skip_comments = 1
+"let g:colorizer_auto_filetype='css,html,conf,ini,py,*rc'
+let g:colorizer_auto_color = 1
+"let g:colorizer_skip_comments = 1
 "let g:colorizer_syntax = 1
 "au BufNewFile,BufRead *.css,*.html,*.htm,*.conf  :ColorHighlight!
 
@@ -152,9 +156,9 @@ let g:colorizer_skip_comments = 1
 "+++++++++++++ LaTeX
 
 "+++++++++++++ Color Theme
-"if has('termguicolors')
-"  set termguicolors
-"endif
+if has('termguicolors')
+  set termguicolors
+endif
 
 set t_Co=256
 
