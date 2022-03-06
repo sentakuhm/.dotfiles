@@ -23,7 +23,7 @@ export PATH=$PATH:./.config/vifm/scripts
 # ++ End of paths ++
 #
 # ++ Theme ++
-ZSH_THEME="intheloop"
+ZSH_THEME="zeta"
 
 # ++ Plugins ++ 
 plugins=(git dotenv extract rake archlinux python sudo vim-interaction vi-mode man history themes last-working-dir z zsh-interactive-cd)
@@ -33,6 +33,8 @@ source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias vib='nvidia-settings -a "DigitalVibrance=${1:-1023}"'
+alias novib='nvidia-settings -a "DigitalVibrance=${1:-0}"'
 config config status.showUntrackedFiles no
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
