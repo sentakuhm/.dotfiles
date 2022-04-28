@@ -27,7 +27,7 @@ font pango:Segoe UI 10
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id feh --bg-scale '/D/Linux/well/24.jpg'
+exec --no-startup-id feh --bg-scale '/Disk_D/Linux/well/zero-g-3840×2160.jpg'
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock-fancy -g
 exec_always --no-startup-id $HOME/.config/polybar/forest/launch.sh
 exec_always --no-startup-id /usr/lib/gsd-xsettings
@@ -63,6 +63,8 @@ bindsym $mod+Shift+q kill
 
 # start rofi (a program launcher)
 bindsym $mod+d exec ~/.config/rofi/bin/launcher_colorful
+# rofi powermenu
+bindsym $mod+q exec ~/.config/rofi/bin/powermenu
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a

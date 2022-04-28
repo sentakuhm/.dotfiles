@@ -15,12 +15,12 @@
 # full_circle     full_square     full_rounded     full_alt
 # row_circle      row_square      row_rounded      row_alt
 
-theme="card_rounded"
+theme="card_circle"
 dir="$HOME/.config/rofi/powermenu"
 
 # random colors
-styles=($(ls -p --hide="colors.rasi" $dir/styles))
-color="${styles[$(( $RANDOM % 8 ))]}"
+#styles=($(ls -p --hide="colors.rasi" $dir/styles))
+#color="${styles[$(( $RANDOM % 8 ))]}"
 
 # comment this line to disable random colors
 #sed -i -e "s/@import .*/@import \"$color\"/g" $dir/styles/colors.rasi
