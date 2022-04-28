@@ -44,7 +44,7 @@ set softtabstop=4
 set expandtab
 set number
 set autoread
-set spell
+"set spell
 set t_ut=
 set showcmd
 set cursorline
@@ -157,7 +157,7 @@ let g:colorizer_auto_color = 1
 
 "+++++++++++++ Color Theme
 if has('termguicolors')
-  set termguicolors
+    set termguicolors
 endif
 
 set t_Co=256

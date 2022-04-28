@@ -19,6 +19,8 @@ export PAGER="most"
 export PATH=$PATH:.cargo/bin
 # script PATH for vifm
 export PATH=$PATH:./.config/vifm/scripts
+# rofi run
+export PATH=$HOME/.config/rofi/bin:$PATH
 
 # ++ End of paths ++
 #
