@@ -93,7 +93,7 @@ window:
 scrolling:
   history: 10000
   # Scrolling distance multiplier.
-  #multiplier: 3
+  multiplier: 3
 
 # Font configuration
 font:
@@ -105,11 +105,11 @@ font:
     family: MonoLisa NF
     style: Bold
 
-  italic:
+  italics:
     family: MonoLisa NF
     style: Italic
 
-  bold_italic:
+  bold_italics:
     family: MonoLisa NF
     style: Bold Italic
 
