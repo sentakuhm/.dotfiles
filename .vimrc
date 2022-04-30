@@ -14,12 +14,16 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'srcery-colors/srcery-vim'
+Plug 'ghifarit53/tokyonight-vim'
+Plug 'joshdick/onedark.vim'
+Plug 'sheerun/vim-polyglot'
 Plug 'lervag/vimtex'
 Plug 'shime/vim-livedown'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
 Plug 'jiangmiao/auto-pairs'
-Plug 'chrisbra/Colorizer'
+"Plug 'chrisbra/Colorizer'
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase'  }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'voldikss/vim-floaterm'
@@ -125,12 +129,13 @@ let g:fzf_history_dir = '~/.local/share/fzf-history'
 "let g:powerline_pycmd="py3"
 
 "+++++++++++++ Emmets
-let g:user_emmet_mode='a'
+let g:user_emmet_install_global = 0
+autocmd FileType html,css EmmetInstall
 
 "+++++++++++++ Gitgutter
 let g:gitgutter_max_signs = 500
 
-"+++++++++++++ Livedown
+"++++++++++++ Livedown
 " should markdown preview get shown automatically upon opening markdown buffer
 let g:livedown_autorun = 0
 
@@ -143,9 +148,13 @@ let g:livedown_port = 1337
 " the browser to use, can also be firefox, chrome or other, depending on your executable
 let g:livedown_browser = "firefox"
 
+"+++++++++++++ hexokinase
+let g:Hexokinase_highlighters = [ 'sign_column'  ] " Method One
+"let g:Hexokinase_highlighters = ['backgroundfull'] " Method Twe
+
 "+++++++++++++ Colorizer
 "let g:colorizer_auto_filetype='css,html,conf,ini,py,*rc'
-let g:colorizer_auto_color = 1
+"let g:colorizer_auto_color = 1
 "let g:colorizer_skip_comments = 1
 "let g:colorizer_syntax = 1
 "au BufNewFile,BufRead *.css,*.html,*.htm,*.conf  :ColorHighlight!
@@ -156,18 +165,32 @@ let g:colorizer_auto_color = 1
 "+++++++++++++ LaTeX
 
 "+++++++++++++ Color Theme
-if has('termguicolors')
+"if has('termguicolors')
+"    set termguicolors
+"endif
+
+"set t_Co=256
+if exists('+termguicolors')
+    let &t_8f="\<Esc>[38;2;%lu;%lu;%lum"
+    let &t_8b="\<Esc>[48;2;%lu;%lu;%lum"
     set termguicolors
 endif
 
-set t_Co=256
-
 syntax on
-set background=dark
+let g:tokyonight_style = 'night' " available: night, storm
+let g:tokyonight_enable_italic = 1
+
+colorscheme tokyonight"
+
+"let g:airline_theme='onedark'
+"let g:onedark_termcolors = 256
+"let g:onedark_terminal_italics = 1
+
+"set background=dark
 "let g:gruvbox_material_background = 'soft'
 "let g:gruvbox_material_enable_italic = 1
-let g:srcery_italic = 1
-colorscheme srcery
+"let g:srcery_italic = 1
+"colorscheme onedark
 
 "+++++++++++++ NERDTree
 autocmd vimenter * NERDTree
@@ -186,3 +209,6 @@ let g:NERDCommentEmptyLines = 1
 let g:NERDTrimTrailingWhitespace = 1
 let g:NERDToggleCheckAllLines = 1
 let g:webdevicons_enable_nerdtree = 1
+
+"+++++++++++++ For Alacritty
+set ttymouse=sgr
