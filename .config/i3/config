@@ -56,7 +56,7 @@ bindsym $mod+Ctrl+l exec "i3lock-fancy -g"
 bindsym $mod+Print exec "flameshot gui"
 
 # start a terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
