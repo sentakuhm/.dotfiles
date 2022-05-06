@@ -16,7 +16,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'srcery-colors/srcery-vim'
 Plug 'ghifarit53/tokyonight-vim'
 Plug 'joshdick/onedark.vim'
-Plug 'sheerun/vim-polyglot'
 Plug 'lervag/vimtex'
 Plug 'shime/vim-livedown'
 Plug 'ryanoasis/vim-devicons'
@@ -170,6 +169,8 @@ let g:Hexokinase_highlighters = [ 'sign_column'  ] " Method One
 "endif
 
 "set t_Co=256
+
+"Support 24bit color
 if exists('+termguicolors')
     let &t_8f="\<Esc>[38;2;%lu;%lu;%lum"
     let &t_8b="\<Esc>[48;2;%lu;%lu;%lum"
@@ -178,9 +179,9 @@ endif
 
 syntax on
 let g:tokyonight_style = 'night' " available: night, storm
-let g:tokyonight_enable_italic = 1
-
-colorscheme tokyonight"
+let g:tokyonight_enable_italic = 0
+set background=dark
+colorscheme tokyonight
 
 "let g:airline_theme='onedark'
 "let g:onedark_termcolors = 256
