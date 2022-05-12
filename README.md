@@ -2,7 +2,7 @@
 
 ### Notes
 * Before installing dotfiles make sure you have installed:<br>
-`$sudo pacman -S vim tmux powerline zsh-autosuggestions zsh-syntax-highlighting most`
+`$sudo pacman -S alacritty vim tmux powerline zsh-autosuggestions zsh-syntax-highlighting most`
 
 * For *"i3wm"* install:<br>
 `$sudo pacman -S i3-gaps dunst picom ncmpcpp rofi mpd vifm`
