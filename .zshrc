@@ -15,8 +15,6 @@
 export ZSH="/home/sentaku/.oh-my-zsh"
 # Colored man pages
 export PAGER="most"
-# apps installed by cargo
-export PATH=$PATH:.cargo/bin
 # script PATH for vifm
 export PATH=$PATH:./.config/vifm/scripts
 # rofi run
