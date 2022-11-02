@@ -35,6 +35,7 @@ filetype plugin on
 filetype plugin indent on
 source $VIMRUNTIME/vimrc_example.vim
 "set runtimepath=~/.vim,$VIM/vimfiles,$VIMRUNTIME,$VIM/vimfiles/after,~/.vim/after
+inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
 set grepprg=grep\ -nH\ $*
 let g:tex_flavor = "latex"
 let g:airline_powerline_fonts = 1
