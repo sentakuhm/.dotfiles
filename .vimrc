@@ -11,17 +11,15 @@
 set nocompatible              
 filetype on                  
 call plug#begin('~/.vim/plugged')
-
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'srcery-colors/srcery-vim'
 Plug 'ghifarit53/tokyonight-vim'
-Plug 'joshdick/onedark.vim'
+"Plug 'joshdick/onedark.vim'
 Plug 'lervag/vimtex'
 Plug 'shime/vim-livedown'
 Plug 'ryanoasis/vim-devicons'
 Plug 'mhinz/vim-startify'
 Plug 'jiangmiao/auto-pairs'
-"Plug 'chrisbra/Colorizer'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase'  }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
@@ -38,8 +36,8 @@ source $VIMRUNTIME/vimrc_example.vim
 inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
 set grepprg=grep\ -nH\ $*
 let g:tex_flavor = "latex"
-let g:airline_powerline_fonts = 1
-let g:coc_global_extensions = 1
+"let g:airline_powerline_fonts = 1
+"let g:coc_global_extensions = 1
 set backspace=indent,eol,start
 se mouse+=a
 set encoding=utf-8
@@ -152,13 +150,6 @@ let g:livedown_browser = "firefox"
 let g:Hexokinase_highlighters = [ 'sign_column'  ] " Method One
 "let g:Hexokinase_highlighters = ['backgroundfull'] " Method Twe
 
-"+++++++++++++ Colorizer
-"let g:colorizer_auto_filetype='css,html,conf,ini,py,*rc'
-"let g:colorizer_auto_color = 1
-"let g:colorizer_skip_comments = 1
-"let g:colorizer_syntax = 1
-"au BufNewFile,BufRead *.css,*.html,*.htm,*.conf  :ColorHighlight!
-
 "+++++++++++++ Ident-Guides
 "let g:indent_guides_enable_on_vim_startup = 1
 
@@ -179,20 +170,15 @@ if exists('+termguicolors')
 endif
 
 syntax on
-let g:tokyonight_style = 'night' " available: night, storm
-let g:tokyonight_enable_italic = 0
-set background=dark
-colorscheme tokyonight
-
-"let g:airline_theme='onedark'
-"let g:onedark_termcolors = 256
-"let g:onedark_terminal_italics = 1
-
+"let g:tokyonight_style = 'night' " available: night, storm
+"let g:tokyonight_enable_italic = 0
 "set background=dark
-"let g:gruvbox_material_background = 'soft'
-"let g:gruvbox_material_enable_italic = 1
-"let g:srcery_italic = 1
-"colorscheme onedark
+"colorscheme tokyonight
+
+set background=dark
+let g:srcery_background = 'soft'
+let g:srcery_italic = 1
+colorscheme srcery
 
 "+++++++++++++ NERDTree
 autocmd vimenter * NERDTree
