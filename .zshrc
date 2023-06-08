@@ -6,15 +6,17 @@
 #                       |___/ 
 # ==================================================
 # " Dotfiles: https://github.com/sentakuhm/.dotfiles
-# " Email: madaramost@gmail.com
+# " Email: sentakuhm@gmail.com
 # ==================================================
 
 # ++ Paths ++
 
 # oh-my-zsh
 export ZSH="/home/sentaku/.oh-my-zsh"
+#Vim as default Editor
+export EDITOR=nvim
 # Colored man pages
-export PAGER="most"
+export PAGER="nvimpager"
 # script PATH for vifm
 export PATH=$PATH:./.config/vifm/scripts
 # rofi run
@@ -26,14 +28,15 @@ export PATH=$PATH:./.config/vifm/scripts
 ZSH_THEME="zeta"
 
 # ++ Plugins ++ 
-plugins=(git dotenv extract rake archlinux python sudo vim-interaction vi-mode man history themes last-working-dir z zsh-interactive-cd)
+plugins=(git dotenv extract rake archlinux python sudo man themes last-working-dir zsh-history-substring-search)
 
 # ++ Sources & Aliases ++
 source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-alias vib='nvidia-settings -a "DigitalVibrance=${1:-1023}"'
+#alias vib='nvidia-settings -a "DigitalVibrance=${1:-1023}"' #full
+alias vib='nvidia-settings -a "DigitalVibrance=${1:-700}"' #Custom
 alias novib='nvidia-settings -a "DigitalVibrance=${1:-0}"'
 alias cdd='cd Downloads'
 alias gte=gnome-text-editor
