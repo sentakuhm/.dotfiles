@@ -13,8 +13,9 @@
 
 # oh-my-zsh
 export ZSH="/home/sentaku/.oh-my-zsh"
-#Vim as default Editor
+#Neoim as default Editor
 export EDITOR=nvim
+export VISUAL=nvim
 # Colored man pages
 export PAGER="nvimpager"
 # script PATH for vifm

@@ -1,18 +1,19 @@
 *{
-font-family: "RobotoMono Nerd Font";
+font-family: "JetBrainsMono Nerd Font", Helvetica, Arial, sans-serif;
 font-weight: bold;
 min-height: 0;
-/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
+/* set font-size to 100% if font scaling is set to 1.00 using nwg-look*/
 font-size: 100%;
 font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 padding: 0px;
 margin-top: 1px;
 margin-bottom: 1px;
 }
+
 window#waybar {
     background: rgba(0, 0, 0, 0.6);
     border-radius: 10px;
-    color: #cba6f7;
+    color: #FEA425;
     /*border: 1px solid #cba6f7;*/
 }
 
@@ -27,7 +28,7 @@ tooltip {
 }
 
 tooltip label {
-    color: #cba6f7;
+    color: #FEA425;
     margin-right: 2px;
     margin-left: 2px;
 }
@@ -59,7 +60,7 @@ tooltip label {
 }
    
 #workspaces button.active {
-    color: #cba6f7;
+    color: #FEA425;
     border-radius: 15px 15px 15px 15px;
 }
   
@@ -117,7 +118,7 @@ tooltip label {
 #custom-weather.snowyIcyNight,
 #custom-weather.default 
 #idle_inhibitor {
-    color: #cba7f7;
+    color: #FEA425;
     padding: 0px 10px;
     border-radius:10px;
 }
@@ -144,4 +145,3 @@ tooltip label {
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-   

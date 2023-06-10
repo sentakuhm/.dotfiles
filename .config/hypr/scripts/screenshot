@@ -1,13 +1,13 @@
 #!/bin/bash
 
-iDIR="$HOME/.config/hypr/mako/icons"
+iDIR="/usr/share/icons/Papirus/128x128/apps/"
 
 time=$(date +%Y-%m-%d-%H-%M-%S)
-dir="$(xdg-user-dir)/Pictures/Screenshots"
+dir="$HOME/Pictures/Screenshots"
 file="Screenshot_${time}_${RANDOM}.png"
 
 # notify and view screenshot
-notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/picture.png"
+notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/image-viewer.svg"
 notify_view() {
 	${notify_cmd_shot} "Copied to clipboard."
 ##	viewnior ${dir}/"$file"
@@ -21,7 +21,7 @@ notify_view() {
 # countdown
 countdown() {
 	for sec in $(seq $1 -1 1); do
-		notify-send -h string:x-canonical-private-synchronous:shot-notify -t 1000 -i "$iDIR"/timer.png "Taking shot in : $sec"
+		notify-send -h string:x-canonical-private-synchronous:shot-notify -t 1000 -i "$iDIR"/time.svg "Taking shot in : $sec"
 		sleep 1
 	done
 }
@@ -57,6 +57,11 @@ shotarea() {
 	notify_view
 }
 
+shotareaedit() {
+	cd ${dir} && grim -g "$(slurp -b 1B1F28CC -c E06B74ff -s C778DD0D -w 2)" - | swappy -f - | tee "$file" | wl-copy
+	notify_view
+}
+
 if [[ ! -d "$dir" ]]; then
 	mkdir -p "$dir"
 fi
@@ -71,8 +76,10 @@ elif [[ "$1" == "--win" ]]; then
 	shotwin
 elif [[ "$1" == "--area" ]]; then
 	shotarea
+elif [[ "$1" == "--edit" ]]; then
+  	shotareaedit
 else
-	echo -e "Available Options : --now --in5 --in10 --win --area"
+	echo -e "Available Options : --now --in5 --in10 --win --area --edit"
 fi
 
 exit 0

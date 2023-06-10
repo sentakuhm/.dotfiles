@@ -1,14 +1,8 @@
 {
-    "label" : "logout",
-    "action" : "hyprctl dispatch exit 0",
-    "text" : "Logout",
-    "keybind" : "e"
-}
-{
-    "label" : "hibernate",
-    "action" : "systemctl hibernate",
-    "text" : "Hibernate",
-    "keybind" : "h"
+    "label" : "lock",
+    "action" : "~/.config/hypr/scripts/lockscreen",
+    "text" : "Lock",
+    "keybind" : "l"
 }
 {
     "label" : "reboot",
@@ -17,16 +11,16 @@
     "keybind" : "r"
 }
 {
-    "label" : "lock",
-    "action" : "~/.config/hypr/scripts/lockscreen",
-    "text" : "Lock",
-    "keybind" : "l"
-}
-{
     "label" : "shutdown",
     "action" : "systemctl poweroff",
     "text" : "Shutdown",
     "keybind" : "s"
+}
+{
+    "label" : "logout",
+    "action" : "hyprctl dispatch exit 0",
+    "text" : "Logout",
+    "keybind" : "e"
 }
 {
     "label" : "suspend",

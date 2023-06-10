@@ -17,21 +17,22 @@
 	"cpu",
 	"temperature",
 	"memory",
-	"disk",
+	//"disk",
 	"custom/weather",
 	],
   
 "modules-center": [
-	"clock",
+  "mpd",
+  "clock",
 	"custom/lock",
 	],
 
 "modules-right": [
-	"hyprland/window",
+	//"hyprland/window",
 	"tray",
 	"pulseaudio",
 	//"wireplumber",
-	"network2",
+	//"network2",
 	"pulseaudio#microphone",
 	"custom/power",
 	],
