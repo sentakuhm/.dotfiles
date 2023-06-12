@@ -22,9 +22,15 @@ export PAGER="nvimpager"
 export PATH=$PATH:./.config/vifm/scripts
 # rofi run
 #export PATH=$HOME/.config/rofi/bin:$PATH
-
 # ++ End of paths ++
 #
+#arabic support
+# hack to launch bicon if not launched
+if ! [[ "$(ps -p $(ps -p $(echo $$) -o ppid=) -o comm=)" =~ 'bicon'* ]]; then
+  bicon.bin
+fi
+
+
 # ++ Theme ++
 ZSH_THEME="zeta"
 
