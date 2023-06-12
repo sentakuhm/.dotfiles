@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "~/.config/hypr/scripts/lockscreen",
+    "action" : "gtklock",
     "text" : "Lock",
     "keybind" : "l"
 }
