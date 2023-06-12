@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.MD
+*.md
+*.png
+LICENSE_NERDFONT
+LICENSE
+.mypy_cache/
+
