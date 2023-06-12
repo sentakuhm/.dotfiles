@@ -1,15 +1,17 @@
 ## dotfiles
 
 ### Notes
-* Before installing dotfiles make sure you have installed:<br>
-`$sudo pacman -S alacritty nvim nvimpager tmux zsh zsh-autosuggestions zsh-syntax-highlighting`
-
-* For *"Hyprland"* install:<br>
+* Before installing dotfiles make sure you have installed
 ```
-$yay -S  hyprland-nvidia wofi wlroots-git waybar-hyprland-git wl-clipboard nwg-look hyprpicker-git hyprpaper grim slurp dunst wlogout viewnior ueberzugpp thunar swww swaylock-effects-git swaybg swappy sddm-theme-tokyo-night sddm-git qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 qt5-graphicaleffects papirus-icon-theme pamixer network-manager-applet jq mpd vifm cava pipes-rs-git
+$sudo pacman -S alacritty nvim nvimpager tmux zsh zsh-autosuggestions zsh-syntax-highlighting
 ```
 
-* oh-my-zsh *"zsh themes"* to install run this command:<br>
+* For *"Hyprland"* install
+```
+$yay -S  hyprland-nvidia wofi wlroots waybar-hyprland-git wl-clipboard nwg-look hyprpicker-git hyprpaper grim slurp dunst wlogout viewnior ueberzugpp thunar swww gtklock swaybg swappy sddm-theme-tokyo-night sddm-git qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 qt5-graphicaleffects papirus-icon-theme pamixer network-manager-applet jq mpd vifm cava pipes-rs-git
+```
+
+* oh-my-zsh *"zsh themes"* to install run this command
 ```
 $sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
