@@ -29,8 +29,8 @@ window:
   # must be at least `2`, while using a value of `0` for columns and lines will
   # fall back to the window manager's recommended size.
   dimensions:
-    columns: 138
-    lines: 34
+    columns: 135
+    lines: 32
 
   # Window position (changes require restart)
   #
@@ -63,7 +63,7 @@ window:
   #
   # Window opacity as a floating point number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
-  opacity: 0.8
+  opacity: 0.98
   # Startup Mode (changes require restart)
   #
   # Values for `startup_mode`:
@@ -88,7 +88,7 @@ window:
   #
   # Override the variant of the GTK theme. Commonly supported values are `dark`
   # and `light`. Set this to `None` to use the default theme variant.
-  gtk_theme_variant: dark
+  #gtk_theme_variant: dark
 
 scrolling:
   history: 10000
@@ -113,7 +113,7 @@ font:
     family: MonoLisa NF
     style: Bold Italic
 
-  size: 12.0
+  size: 10.0
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
   # spacing.

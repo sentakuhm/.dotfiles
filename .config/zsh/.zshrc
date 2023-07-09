@@ -35,11 +35,9 @@ alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias vib='nvidia-settings -a "DigitalVibrance=${1:-1023}"' #full
 alias vibmid='nvidia-settings -a "DigitalVibrance=${1:-700}"' #Custom
 alias novib='nvidia-settings -a "DigitalVibrance=${1:-0}"'
-
+alias v=nvim
+alias ve='sudoedit'
 # ++ For Canon Printer ++
 alias cjob='captstatusui -P LBP6020 -e'
 
 config config status.showUntrackedFiles no
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-

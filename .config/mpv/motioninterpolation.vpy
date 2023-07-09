@@ -9,8 +9,8 @@ dst_fps = display_fps
 while (dst_fps > 60):
     dst_fps /= 2
 
-# Skip interpolation for >1080p or 60 Hz content due to performance
-if not (clip.width > 1920 or clip.height > 1080 or container_fps > 59):
+# Skip interpolation for >2160p or 60 Hz content due to performance
+if not (clip.width > 3840 or clip.height > 2160 or container_fps > 59):
     src_fps_num = int(container_fps * 1e8)
     src_fps_den = int(1e8)
     dst_fps_num = int(dst_fps * 1e4)
