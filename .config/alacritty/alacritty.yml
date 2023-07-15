@@ -29,8 +29,8 @@ window:
   # must be at least `2`, while using a value of `0` for columns and lines will
   # fall back to the window manager's recommended size.
   dimensions:
-    columns: 135
-    lines: 32
+    columns: 138
+    lines: 36
 
   # Window position (changes require restart)
   #
@@ -98,22 +98,22 @@ scrolling:
 # Font configuration
 font:
   normal:
-    family: MonoLisa NF
+    family: CaskaydiaCove Nerd Font Mono
     style: Regular
 
   bold:
-    family: MonoLisa NF
+    family: CaskaydiaCove Nerd Font Mono
     style: Bold
 
   italics:
-    family: MonoLisa NF
+    family: CaskaydiaCove Nerd Font Mono
     style: Italic
 
   bold_italics:
-    family: MonoLisa NF
+    family: CaskaydiaCove Nerd Font Mono
     style: Bold Italic
 
-  size: 10.0
+  size: 12.0
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
   # spacing.
