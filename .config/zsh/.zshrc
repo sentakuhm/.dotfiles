@@ -23,11 +23,6 @@ source $ZSH/oh-my-zsh.sh
 # ++ For tlmgr CTAN latex package installer ++
 alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 
-# ++ Arabic support | launch bicon if not launched ++
-if ! [[ "$(ps -p $(ps -p $(echo $$) -o ppid=) -o comm=)" =~ 'bicon'* ]]; then
-  bicon.bin
-fi
-
 # ++ Sources & Aliases ++
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
