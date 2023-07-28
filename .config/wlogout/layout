@@ -18,7 +18,7 @@
 }
 {
     "label" : "logout",
-    "action" : "hyprctl dispatch exit 0",
+    "action" : "sh -c 'sway exit || riverctl exit || hyprctl dispatch exit 0'",
     "text" : "Logout",
     "keybind" : "e"
 }

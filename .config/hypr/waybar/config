@@ -7,17 +7,12 @@
     "gtk-layer-shell": true,
     "height": 34,
     "modules-left": [
-        //"custom/launch",
         "wlr/workspaces",
         "custom/separator_r",
-        //"custom/media_previous",
-        //"custom/media_play",
-        //"custom/media_next",
-        //"custom/media",
-        "cpu",
-        "temperature",
-        "memory",
-        "disk"
+        "custom/media_previous",
+        "custom/media_play",
+        "custom/media_next",
+        "custom/media"
     ],
     "modules-center": [
         "custom/separator_l",
@@ -25,13 +20,16 @@
         "custom/separator_r"
     ],
     "modules-right": [
+        "cpu",
+        "temperature",
+        //"memory",
+        //"disk",
         "custom/separator_l",
-        //"pulseaudio#microphone",
         "hyprland/language",
-        //"idle_inhibitor",
+        "network",
         "pulseaudio",
+        "pulseaudio#microphone",
         "tray",
-        //"custom/updates",
         "custom/weather",
         "clock",
         "custom/power_btn"
@@ -45,32 +43,17 @@
     "hyprland/language": {
         "format": "{}",
         "format-en": "EN",
-        "format-ru": "ARA",
+        "format-ar": "ARA",
         //"on-click": "hyprctl switchxkblayout sem-usb-keyboard next"
     },
 
-    "idle_inhibitor": {
-        //"format": "{icon}",
-        //"format-icons": {
-        //    "activated": "",
-        //    "deactivated": ""
-        //}
-        "tooltip-format-activated": "Caffeine: ON",
-        "tooltip-format-deactivated": "Caffeine: OFF",
-        "format": ""
-    },
-
     "custom/separator_l": {
-        "format": ""
+        "format": "",
+        "tooltip": false
     },
 
     "custom/separator_r": {
-        "format": ""
-    },
-
-    "custom/launch": {
-        "format": "",
-        "on-click": "~/.config/rofi/rofitoggle",
+        "format": "",
         "tooltip": false
     },
 
@@ -88,9 +71,9 @@
     },
     
     "temperature": {
-    	"interval": 10,
-  	"tooltip": false,
-    	"hwmon-path": "/sys/class/hwmon/hwmon0/temp1_input",
+        "interval": 10,
+        "tooltip": false,
+        "hwmon-path": "/sys/class/hwmon/hwmon1/temp1_input",
         //"thermal-zone": 1,
         "format": " {temperatureC}°C",
         "critical-threshold": 82,
@@ -116,14 +99,6 @@
         "on-click": "foot --title btop sh -c 'btop'"
     },
 
-    "custom/updates": {
-        "format": "{}",
-        "exec": "~/.config/waybar/scripts/update-sys",
-        "on-click": "~/.config/waybar/scripts/update-sys update",
-        "interval": 300,
-        "tooltip": true
-    },
-
     "wlr/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
@@ -142,21 +117,12 @@
         }
     },
 
-    "custom/power_profile": {
-        //shows the current power profile and switches to next on click
-        "exec": "asusctl profile -p | sed s:'Active profile is'::",
-        "interval": 30,
-        "format": "󰈐{}",
-        "on-click": "asusctl profile -n; pkill -SIGRTMIN+8 waybar",
-        "signal": 8
-    },
-
     "custom/weather": {
         //shows the current weather and forecast
         "tooltip": true,
         "format": "{}",
         "interval": 30,
-        "exec": "~/.config/waybar/scripts/waybar-wttr.py",
+        "exec": "~/.config/hypr/waybar/scripts/waybar-wttr.py",
         "return-type": "json"
     },
 
@@ -165,7 +131,7 @@
         "tooltip": false,
         "return-type": "json",
         "on-click": "playerctl play-pause",
-        "exec": "~/.config/waybar/scripts/mediaplayer.py -b 2> /dev/null"
+        "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py -b 2> /dev/null"
     },
 
     "custom/media_next": {
@@ -192,7 +158,7 @@
         "on-click-right": "gtk-launch com.yktoo.ymuse",
         //"on-click-forward": "playerctl next",
         //"on-click-backward": "playerctl previous",
-        "exec": "~/.config/waybar/scripts/mediaplayer.py 2> /dev/null"
+        "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py 2> /dev/null"
     },
 
     "tray": {
@@ -201,29 +167,18 @@
     },
 
     "clock": {
+        "timezone": "Africa/Algiers",
         "format": "{:%H:%M}",
         "format-alt": "{:%A, %B %d, %Y %R}",
         "tooltip-format": "{calendar}",
         "calendar": {
-                    "mode"          : "year",
-                    "mode-mon-col"  : 3,
-                    "weeks-pos"     : "right",
-                    "on-scroll"     : 1,
-                    "on-click-right": "mode",
                     "format": {
                               "months":     "<span color='#ffead3'><b>{}</b></span>",
-                              "days":       "<span color='#ecc6d9'><b>{}</b></span>",
+                              "days":       "<span color='#74C7EC'><b>{}</b></span>",
                               "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
                               "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
                               "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
                               }
-                    },
-        "actions":  {
-                    "on-click-right": "mode",
-                    "on-click-forward": "tz_up",
-                    "on-click-backward": "tz_down",
-                    "on-scroll-up": "shift_up",
-                    "on-scroll-down": "shift_down"
                     }
     },
     
@@ -255,5 +210,18 @@
         "on-scroll-up": "pamixer --default-source -i 1",
         "on-scroll-down": "pamixer --default-source -d 1",
         "scroll-step": 5
+    },
+    
+    "network": {
+        "interface": "enp4s0",
+        "format": "{ifname}",
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-ethernet": "󰈀",
+        "format-disconnected": "", //An empty format will hide the module.
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+        "tooltip-format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format-disconnected": "Disconnected",
+        "max-length": 50
     }
 }
