@@ -12,11 +12,12 @@
 # default apps
 export EDITOR="nvim"
 export VISUAL="nvim"
-export TERMINAL="alacritty"
+export TERMINAL="foot"
 export BROWSER="firefox"
 export PAGER="nvimpager"
-export PATH=$PATH:./.config/vifm/scripts
-
+typeset -U path PATH
+path=(~/.local/bin $path)
+export PATH
 # cleaning up home folder
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
