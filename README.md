@@ -3,7 +3,7 @@
 ### Notes
 * Before installing dotfiles make sure you have installed
 ```
-$sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
+$sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-highlighting capitaine-cursors
 ```
 
 * For *"Hyprland"* install
