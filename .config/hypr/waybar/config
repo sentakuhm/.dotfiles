@@ -28,7 +28,7 @@
         "hyprland/language",
         "network",
         "pulseaudio",
-        "pulseaudio#microphone",
+        //"pulseaudio#microphone",
         "tray",
         "custom/weather",
         "clock",

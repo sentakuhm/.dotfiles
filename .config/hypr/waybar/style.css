@@ -99,7 +99,7 @@ tooltip {
     padding-right: 20px;
 }
 #window {
-    min-width: 600px;
+    min-width: 500px;
 }
 #temperature.critical {
     color: #e92d4d;
