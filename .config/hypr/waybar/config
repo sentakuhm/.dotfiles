@@ -7,7 +7,7 @@
     "gtk-layer-shell": true,
     "height": 34,
     "modules-left": [
-        "wlr/workspaces",
+        "hyprland/workspaces",
         "custom/separator_r",
         "custom/media_previous",
         "custom/media_play",
@@ -99,22 +99,23 @@
         "on-click": "foot --title btop sh -c 'btop'"
     },
 
-    "wlr/workspaces": {
+    "hyprland/workspaces": {
+        "format": "{icon}",
         "disable-scroll": true,
-        "all-outputs": true,
         "on-click": "activate",
-        "persistent_workspaces": {
-            "1": [],
-            "2": [],
-            "3": [],
-            "4": [],
-            "5": [],
-            "6": [],
-            "7": [],
-            "8": [],
-            "9": [],
-            "10": []
-        }
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "󰇰",
+            "5": "󰓓",
+            "6": "",
+            "7": "󱑥",
+            "urgent": "",
+            "active": "",
+            "default": ""
+        },
+        "sort-by-number": true
     },
 
     "custom/weather": {
