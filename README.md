@@ -8,7 +8,7 @@ $sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-high
 
 * For *"Hyprland"* install
 ```
-$yay -S  hyprland-nvidia-git wofi nvimpager waybar-hyprland-git wl-clipboard nwg-look hyprpicker-git grim slurp dunst wlogout imv ueberzugpp thunar swww gtklock sddm qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 qt5-graphicaleffects papirus-icon-theme pamixer network-manager-applet mpd cava
+$yay -S  hyprland wofi nvimpager waybar-hyprland-git wl-clipboard nwg-look hyprpicker-git grim slurp dunst wlogout imv ueberzugpp swww gtklock qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 qt5-graphicaleffects papirus-icon-theme pamixer network-manager-applet mpd cava
 ```
 * Some dependancies for apps:
 ```
