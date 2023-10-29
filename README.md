@@ -1,9 +1,9 @@
 ## dotfiles
 
 ### Notes
-* Before installing dotfiles make sure you have installed
+* Before installing dotfiles make sure you installed
 ```
-$sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-highlighting capitaine-cursors
+$sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
 ```
 
 * For *"Hyprland"* install
