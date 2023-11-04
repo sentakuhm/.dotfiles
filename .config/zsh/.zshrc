@@ -32,7 +32,12 @@ alias vibmid='nvidia-settings -a "DigitalVibrance=${1:-700}"' #Custom
 alias novib='nvidia-settings -a "DigitalVibrance=${1:-0}"'
 alias v=nvim
 alias ve='sudoedit'
+alias mkdir='mkdir -p'
+alias ping='ping -c 10'
+alias less='less -R'
+alias cls='clear'
 # ++ For Canon Printer ++
 alias cjob='captstatusui -P LBP6020 -e'
 
+# ++ For Dotfiles ++
 config config status.showUntrackedFiles no
