@@ -58,8 +58,7 @@ shotarea() {
 }
 
 shotareaedit() {
-	cd ${dir} && grim -g "$(slurp -b 1B1F28CC -c E06B74ff -s C778DD0D -w 2)" - | swappy -f - | tee "$file" | wl-copy
-	notify_view
+	cd ${dir} && grim -g "$(slurp)" - | swappy -f -
 }
 
 if [[ ! -d "$dir" ]]; then
