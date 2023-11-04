@@ -1,9 +1,9 @@
 * {
     border: none;
     border-radius: 0;
-    font-family: "SegoeUI Nerd Font";
+    font-family: "JetBrainsMono Nerd Font";
     font-weight: bold;
-    font-size: 14px;
+    font-size: 12px;
     min-height: 0px;
 }
 window#waybar {
@@ -99,7 +99,7 @@ tooltip {
     padding-right: 20px;
 }
 #window {
-    min-width: 500px;
+    min-width: 300px;
 }
 #temperature.critical {
     color: #e92d4d;

@@ -9,10 +9,14 @@
     "modules-left": [
         "hyprland/workspaces",
         "custom/separator_r",
-        "custom/media_previous",
-        "custom/media_play",
-        "custom/media_next",
-        "custom/media"
+        "cpu",
+        "temperature",
+        "memory"
+        //"disk",
+        //"custom/media_previous",
+        //"custom/media_play",
+        //"custom/media_next",
+        //"custom/media"
     ],
     "modules-center": [
         "custom/separator_l",
@@ -20,10 +24,6 @@
         "custom/separator_r"
     ],
     "modules-right": [
-        "cpu",
-        "temperature",
-        //"memory",
-        //"disk",
         "custom/separator_l",
         "hyprland/language",
         "network",
@@ -111,9 +111,9 @@
             "5": "󰓓",
             "6": "",
             "7": "󱑥",
-            "urgent": "",
-            "active": "",
-            "default": ""
+            "urgent": ""
+            //"active": "",
+            //"default": ""
         },
         "sort-by-number": true
     },
@@ -127,40 +127,40 @@
         "return-type": "json"
     },
 
-    "custom/media_play": {
-        "format": "{}",
-        "tooltip": false,
-        "return-type": "json",
-        "on-click": "playerctl play-pause",
-        "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py -b 2> /dev/null"
-    },
+    //"custom/media_play": {
+    //    "format": "{}",
+    //    "tooltip": false,
+    //    "return-type": "json",
+    //    "on-click": "playerctl play-pause",
+    //    "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py -b 2> /dev/null"
+    //},
 
-    "custom/media_next": {
-        "format": "",
-        "tooltip": false,
-        "on-click": "playerctl next"
-    },
+    //"custom/media_next": {
+    //    "format": "",
+    //    "tooltip": false,
+    //    "on-click": "playerctl next"
+    //},
 
-    "custom/media_previous": {
-        "format": "",
-        "tooltip": false,
-        "on-click": "playerctl previous"
-    },
+    //"custom/media_previous": {
+    //    "format": "",
+    //    "tooltip": false,
+    //    "on-click": "playerctl previous"
+    //},
 
-    "custom/media": {
-        "format": "{}",
-        "return-type": "json",
-        "max-length": 32,
-        "escape": true,
-        //"format-icons": {
-        //    "default": " "
-        //},
-        "on-click": "playerctl play-pause",
-        "on-click-right": "gtk-launch com.yktoo.ymuse",
-        //"on-click-forward": "playerctl next",
-        //"on-click-backward": "playerctl previous",
-        "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py 2> /dev/null"
-    },
+    //"custom/media": {
+    //    "format": "{}",
+    //    "return-type": "json",
+    //    "max-length": 32,
+    //    "escape": true,
+    //    //"format-icons": {
+    //    //    "default": " "
+    //    //},
+    //    "on-click": "playerctl play-pause",
+    //    "on-click-right": "gtk-launch com.yktoo.ymuse",
+    //    //"on-click-forward": "playerctl next",
+    //    //"on-click-backward": "playerctl previous",
+    //    "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py 2> /dev/null"
+    //},
 
     "tray": {
         "icon-size": 18,
@@ -214,11 +214,12 @@
     },
     
     "network": {
-        "interface": "enp4s0",
+        "interface": "enp3s0",
         "format": "{ifname}",
         "format-wifi": "{essid} ({signalStrength}%) ",
         "format-ethernet": "󰈀",
         "format-disconnected": "", //An empty format will hide the module.
+        "on-click-right": "nm-connection-editor",
         "tooltip-format": "{ifname} via {gwaddr} ",
         "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
         "tooltip-format-ethernet": "{ipaddr}/{cidr} ",
