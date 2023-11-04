@@ -1,4 +1,4 @@
 #/bin/bash
 if [[ ! $(pidof wlogout) ]]; then
-    wlogout --protocol layer-shell -b 5 -T 400 -B 400
+    wlogout --protocol layer-shell -b 5 -T 350 -B 350
 fi
