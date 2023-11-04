@@ -1,6 +1,6 @@
 #!/bin/bash
 
-iDIR="/usr/share/icons/Papirus/128x128/apps/"
+iDIR="/usr/share/icons/candy-icons/apps/scalable"
 
 time=$(date +%Y-%m-%d-%H-%M-%S)
 dir="$HOME/Pictures/Screenshots"
@@ -53,12 +53,13 @@ shotwin() {
 }
 
 shotarea() {
-	cd ${dir} && grim -g "$(slurp -b 1B1F28CC -c E06B74ff -s C778DD0D -w 2)" - | tee "$file" | wl-copy
+	cd ${dir} && grim -g "$(slurp)" - | tee "$file" | wl-copy
 	notify_view
 }
 
 shotareaedit() {
-	cd ${dir} && grim -g "$(slurp)" - | swappy -f -
+	cd ${dir} && grim -g "$(slurp)" - | tee "$file" | swappy -f - | wl-copy
+  notify_view
 }
 
 if [[ ! -d "$dir" ]]; then

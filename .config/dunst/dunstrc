@@ -17,29 +17,29 @@
     #
     # If this option is set to mouse or keyboard, the monitor option
     # will be ignored.
-    follow = keyboard 
+    follow = none
 
     ### Geometry ###
 
     # dynamic width from 0 to 300
     # width = (0, 300)
     # constant width of 300
-    width = (240,480)
+    width = 300
 
     # The maximum height of a single notification, excluding the frame.
-    height = 480
+    height = 300
 
     # Position the notification in the top right corner
     origin = top-right
 
     # Offset from the origin
-    offset = "10x10"
+    offset = 10x50
 
     # Scale factor. It is auto-detected if value is 0.
     scale = 0
 
     # Maximum number of notification (0 means no limit)
-    notification_limit = 0
+    notification_limit = 20
 
     ### Progress bar ###
 
@@ -49,17 +49,22 @@
 
     # Set the progress bar height. This includes the frame, so make sure
     # it's at least twice as big as the frame width.
-    progress_bar_height = 25
+    progress_bar_height = 10
 
     # Set the frame width of the progress bar
-    progress_bar_frame_width = 3
+    progress_bar_frame_width = 1
 
     # Set the minimum width for the progress bar
-    progress_bar_min_width = 240
+    progress_bar_min_width = 150
 
     # Set the maximum width for the progress bar
-    progress_bar_max_width = 480
+    progress_bar_max_width = 300
 
+    # Corner radius for the progress bar. 0 disables rounded corners.
+    progress_bar_corner_radius = 0
+
+    # Corner radius for the icon image.
+    icon_corner_radius = 0
 
     # Show how many messages are currently hidden (because of
     # notification_limit).
@@ -74,10 +79,10 @@
     # notifications.
     # Set to 0 to disable.
     # If gap_size is greater than 0, this setting will be ignored.
-    separator_height = 3
+    separator_height = 2
 
     # Padding between text and separator.
-    padding = 6
+    padding = 8
 
     # Horizontal padding.
     horizontal_padding = 8
@@ -87,14 +92,11 @@
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
-    frame_width = 2
+    frame_width = 3
 
     # Defines color of the frame around the notification window.
-    frame_color = "#96CDFB"
-    
-    # Defines color of the Progress Bar.
-    highlight = "#70a5eb"
-    
+    frame_color = "#aaaaaa"
+
     # Size of gap to display between notifications - requires a compositor.
     # If value is greater than 0, separator_height will be ignored and a border
     # of size frame_width will be drawn around each notification instead.
@@ -121,11 +123,11 @@
 
     ### Text ###
 
-    font = SegoeUI Nerd Font 14
+    font = JetBrainsMono Nerd Font 10
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
-    line_height = 2
+    line_height = 0
 
     # Possible values are:
     # full: Allow a small subset of html markup in notifications:
@@ -190,7 +192,7 @@
     hide_duplicate_count = false
 
     # Display indicators for URLs (U) and actions (A).
-    show_indicators = false
+    show_indicators = yes
 
     ### Icons ###
 
@@ -199,9 +201,9 @@
     enable_recursive_icon_lookup = true
 
     # Set icon theme (only used for recursive icon lookup)
-    # icon_theme = Adwaita
+    icon_theme = candy-icons
     # You can also set multiple icon themes, with the leftmost one being used first.
-    icon_theme = "Papirus-Dark"
+    # icon_theme = "Adwaita, breeze"
 
     # Align icons left/right/top/off
     icon_position = left
@@ -209,13 +211,13 @@
     # Scale small icons up to this size, set to 0 to disable. Helpful
     # for e.g. small files or high-dpi screens. In case of conflict,
     # max_icon_size takes precedence over this.
-    min_icon_size = 60
+    #min_icon_size = 32
 
     # Scale larger icons down to this size, set to 0 to disable
-    max_icon_size = 100
+    max_icon_size = 32
 
     # Paths to default icons (only neccesary when not using recursive icon lookup)
-    # icon_path = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
+    icon_path = /usr/share/icons/candy-icons/apps/scalable/:/usr/share/icons/candy-icons/devices/scalable/
 
     ### History ###
 
@@ -224,12 +226,12 @@
     sticky_history = yes
 
     # Maximum amount of notifications kept in history
-    history_length = 25
+    history_length = 20
 
     ### Misc/Advanced ###
 
     # dmenu path.
-    dmenu = /usr/bin/rofi -p dunst:
+    dmenu = /usr/bin/dmenu -p dunst:
 
     # Browser for opening urls in context menu.
     browser = /usr/bin/xdg-open
@@ -307,27 +309,28 @@
     # where there are multiple screens with very different dpi values.
     per_monitor_dpi = false
 
+
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#171B20"
-    foreground = "#b6beca"
-    timeout = 3
+    background = "#222222"
+    foreground = "#888888"
+    timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #default_icon = /path/to/icon
 
 [urgency_normal]
-    background = "#171B20"
-    foreground = "#b6beca"
-    timeout = 6
+    background = "#285577"
+    foreground = "#ffffff"
+    timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #default_icon = /path/to/icon
 
 [urgency_critical]
-    background = "#171B20"
-    foreground = "#b6beca"  
-    frame_color = "#e05f65"
-    timeout = 10
+    background = "#900000"
+    foreground = "#ffffff"
+    frame_color = "#ff0000"
+    timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
     #default_icon = /path/to/icon
 
@@ -406,24 +409,51 @@
 #    msg_urgency = critical
 #    fullscreen = show
 
-[screenshot]
-appname = "screenshot"
-max_icon_size = 250
-summary = "*"
-set_stack_tag = "screenshot"
-format = "<b>%s</b>\n%b"
+#[espeak]
+#    summary = "*"
+#    script = dunst_espeak.sh
 
-[spotify]
-appname= Spotify
-summary = "*"
-set_stack_tag = "spotify"
-format = "<b>Now Playing</b>\n%s"
+#[script-test]
+#    summary = "*script*"
+#    script = dunst_test.sh
 
-#[volume]
-#summary = "Volume *"
-#format = "<b>Volume</b>\n%n%%"
+#[ignore]
+#    # This notification will not be displayed
+#    summary = "foobar"
+#    skip_display = true
 
-[discord]
-appname = discord
-summary = "*"
-set_stack_tag = "discord"
+#[history-ignore]
+#    # This notification will not be saved in history
+#    summary = "foobar"
+#    history_ignore = yes
+
+#[skip-display]
+#    # This notification will not be displayed, but will be included in the history
+#    summary = "foobar"
+#    skip_display = yes
+
+#[signed_on]
+#    appname = Pidgin
+#    summary = "*signed on*"
+#    urgency = low
+#
+#[signed_off]
+#    appname = Pidgin
+#    summary = *signed off*
+#    urgency = low
+#
+#[says]
+#    appname = Pidgin
+#    summary = *says*
+#    urgency = critical
+#
+#[twitter]
+#    appname = Pidgin
+#    summary = *twitter.com*
+#    urgency = normal
+#
+#[stack-volumes]
+#    appname = "some_volume_notifiers"
+#    set_stack_tag = "volume"
+#
+# vim: ft=cfg
