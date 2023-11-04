@@ -10,7 +10,7 @@ for _prs in "${_ps[@]}"; do
 	fi
 done
 
-# Lauch notification daemon (mako)
+# Lauch notification daemon (dunst)
 ${SCRIPTSDIR}/notifications &
 
 # Lauch statusbar (waybar)
