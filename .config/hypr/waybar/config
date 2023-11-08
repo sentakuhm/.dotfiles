@@ -27,7 +27,7 @@
         "custom/separator_l",
         "hyprland/language",
         "network",
-        "pulseaudio",
+        "wireplumber",
         //"pulseaudio#microphone",
         "tray",
         "custom/weather",
@@ -111,9 +111,9 @@
             "5": "󰓓",
             "6": "",
             "7": "󱑥",
-            "urgent": ""
+            "urgent": "",
             //"active": "",
-            //"default": ""
+            "default": ""
         },
         "sort-by-number": true
     },
@@ -169,20 +169,41 @@
 
     "clock": {
         "timezone": "Africa/Algiers",
-        "format": "{:%H:%M}",
-        "format-alt": "{:%A, %B %d, %Y %R}",
-        "tooltip-format": "{calendar}",
+        "format": "{:%H:%M} <span color='#bf616a'></span>",
+        "format-alt": "{:%A, %B %d, %Y (%R)} <span color='#bf616a'></span>",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
         "calendar": {
+                    "mode"          : "year",
+                    "mode-mon-col"  : 3,
+                    "weeks-pos"     : "right",
+                    "on-scroll"     : 1,
+                    "on-click-right": "mode",
                     "format": {
                               "months":     "<span color='#ffead3'><b>{}</b></span>",
-                              "days":       "<span color='#74C7EC'><b>{}</b></span>",
+                              "days":       "<span color='#CDD6F4'><b>{}</b></span>",
                               "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
                               "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
                               "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
                               }
+                    },
+        "actions":  {
+                    "on-click-right": "mode",
+                    "on-click-forward": "tz_up",
+                    "on-click-backward": "tz_down",
+                    "on-scroll-up": "shift_up",
+                    "on-scroll-down": "shift_down"
                     }
     },
     
+    "wireplumber": {
+        "format": "{volume}% {icon}",
+        "format-muted": "",
+        "on-click": "helvum",
+        "format-icons": ["", "", ""],
+        "max-volume": 120,
+        "scroll-step": 5
+    },
+
     "pulseaudio": {
         "format": "{icon} {volume}%",
         "format-muted": "",

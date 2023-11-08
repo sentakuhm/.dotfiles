@@ -60,6 +60,8 @@ tooltip {
 #custom-weather,
 #window,
 #clock,
+#wireplumber,
+#wireplumber.muted,
 #pulseaudio,
 #pulseaudio.microphone,
 #network,
@@ -112,6 +114,10 @@ tooltip {
     color: #89b4fa;
 }
 #pulseaudio {
+    color: #89b4fa;
+    min-width: 52px;
+}
+#wireplumber {
     color: #89b4fa;
     min-width: 52px;
 }

@@ -1,48 +1,34 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
-send_notification() {
-    volume=$(pamixer --get-volume)
-    if [ "${volume}" -gt 70 ]; then icon=notification-audio-volume-high
-    elif [ "${volume}" -gt 40 ]; then icon=notification-audio-volume-medium
-    elif [ "${volume}" -gt 0 ]; then icon=notification-audio-volume-low
-    else icon=notification-audio-volume-muted
-    fi
-    dunstify -a "changevolume" -u low -r "9993" -h int:value:"$volume" -i "$icon" "Volume: ${volume}%" -t 2000
-    canberra-gtk-play -i audio-volume-change -d "changeVolume" &
+down() {
+pamixer -d 2
+volume=$(pamixer --get-volume)
+[$volume -gt 0 ] && volume=`expr $volume`  
+dunstify -a "VOLUME" "Decreasing to $volume%" -h int:value:"$volume" -i audio-volume-low-symbolic -r 2593 -u normal
+canberra-gtk-play -i audio-volume-change -d "changevolume"
 }
 
-show_usage() {
-    echo "Usage: $(basename "$0") [up|down|mute]" >&2
-    echo "  up         Increase volume by 5%"
-    echo "  down       Decrease volume by 5%"
-    echo "  mute       Toggle mute/unmute"
+up() {
+pamixer -i 2
+volume=$(pamixer --get-volume)
+[ $volume -lt 100 ] && volume=`expr $volume`  
+dunstify -a "VOLUME" "Increasing to $volume%" -h int:value:"$volume" -i audio-volume-high-symbolic -r 2593 -u normal
+canberra-gtk-play -i audio-volume-change -d "changevolume"
 }
 
-case $1 in
-up)
-    # Set the volume on (if it was muted)
-    pamixer -u
-    pamixer -i 5
-    send_notification "$1"
-    exit 0
-    ;;
-down)
-    pamixer -u
-    pamixer -d 5
-    send_notification "$1"
-    exit 0
-    ;;
-mute)
-    pamixer -t
-    if eval "$(pamixer --get-mute)"; then
-        dunstify -i notification-audio-volume-muted -a "changevolume" -t 2000 -r 9993 -u low "Muted"
-    else
-        send_notification up
-    fi
-    exit 0
-    ;;
-*)
-    show_usage
-    exit 1
-    ;;
+mute() {
+muted="$(pamixer --get-mute)"
+if $muted; then
+  pamixer -u
+  dunstify -a "VOLUME" "UNMUTED" -i audio-volume-high-symbolic -r 2593 -u normal
+else 
+  pamixer -m
+  dunstify -a "VOLUME" "MUTED" -i audio-volume-muted-symbolic -r 2593 -u normal
+fi
+}
+
+case "$1" in
+  up) up;;
+  down) down;;
+  mute) mute;;
 esac
