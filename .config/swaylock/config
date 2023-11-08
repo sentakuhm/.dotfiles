@@ -1,16 +1,16 @@
 ignore-empty-password
-font=JetBrainsMono Nerd Font Mono
+font=JetBrainsMono Nerd Font
 
 clock
 timestr=%R
 
-image=~/.config/swaylock/Moonlight.jpg
+#image=~/.config/swaylock/Moonlight.jpg
 
 fade-in=0.2
-
-#effect-blur=15x2
+screenshots
+effect-blur=7x5
 #effect-greyscale
-#effect-scale=0.1
+effect-scale=0.1
 
 indicator
 indicator-radius=110
