@@ -1,21 +1,14 @@
-## Wofi Config
-
-## General
 show=drun
-prompt=Apps
+width=750
+height=400
+#always_parse_args=true
+show_all=false
+print_command=true
 normal_window=true
 layer=overlay
-term=alacritty
+term=foot
 columns=2
-
-## Geometry
-width=30%
-height=30%
-location=top_left
-orientation=vertical
-halign=fill
-line_wrap=off
-dynamic_lines=false
+prompt= Search Apps...?
 
 ## Images
 allow_markup=true

@@ -197,11 +197,23 @@
     
     "wireplumber": {
         "format": "{volume}% {icon}",
-        "format-muted": "",
-        "on-click": "helvum",
+        "format-muted": "",
+        "on-click": "pamixer -t",
+        "on-click-right": "pavucontrol",
+        "on-scroll-up": "pamixer -i 5",
+        "on-scroll-down": "pamixer -d 5",
         "format-icons": ["", "", ""],
         "max-volume": 120,
-        "scroll-step": 5
+        "scroll-step": 5,
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        }
     },
 
     "pulseaudio": {
