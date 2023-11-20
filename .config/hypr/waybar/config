@@ -27,10 +27,9 @@
         "custom/separator_l",
         "hyprland/language",
         "network",
-        "wireplumber",
+        "pulseaudio",
         //"pulseaudio#microphone",
         "tray",
-        "custom/weather",
         "clock",
         "custom/power_btn"
     ],
@@ -67,7 +66,7 @@
         "interval": 10,
         "format": "󰍛 {usage}%",
         "max-length": 10,
-        "on-click": "foot --title btop sh -c 'btop'"
+        "on-click": "alacritty --title btop -e 'btop'"
     },
     
     "temperature": {
@@ -78,7 +77,7 @@
         "format": " {temperatureC}°C",
         "critical-threshold": 82,
         "format-critical": " {temperatureC}°C",
-        "on-click": "foot --title btop sh -c 'btop'"
+        "on-click": "alacritty --title btop -e 'btop'"
     },
 
     "disk": {
@@ -87,7 +86,7 @@
         "path": "/",
         "tooltip": true,
         "tooltip-format": "Disk - {used} used out of {total} on {path} ({percentage_used}%)",
-        "on-click": "foot --title btop sh -c 'btop'"
+        "on-click": "alacritty --title btop -e 'btop'"
     },
 
     "memory": {
@@ -96,7 +95,7 @@
         "max-length": 10,
         "tooltip": true,
         "tooltip-format": "Memory - {used:0.1f}GB used",
-        "on-click": "foot --title btop sh -c 'btop'"
+        "on-click": "alacritty --title btop -e 'btop'"
     },
 
     "hyprland/workspaces": {
@@ -105,7 +104,7 @@
         "on-click": "activate",
         "format-icons": {
             "1": "",
-            "2": "",
+            "2": "",
             "3": "",
             "4": "󰇰",
             "5": "󰓓",
@@ -180,7 +179,7 @@
                     "on-click-right": "mode",
                     "format": {
                               "months":     "<span color='#ffead3'><b>{}</b></span>",
-                              "days":       "<span color='#CDD6F4'><b>{}</b></span>",
+                              "days":       "<span color='#ffffff'><b>{}</b></span>",
                               "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
                               "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
                               "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
@@ -193,27 +192,6 @@
                     "on-scroll-up": "shift_up",
                     "on-scroll-down": "shift_down"
                     }
-    },
-    
-    "wireplumber": {
-        "format": "{volume}% {icon}",
-        "format-muted": "",
-        "on-click": "pamixer -t",
-        "on-click-right": "pavucontrol",
-        "on-scroll-up": "pamixer -i 5",
-        "on-scroll-down": "pamixer -d 5",
-        "format-icons": ["", "", ""],
-        "max-volume": 120,
-        "scroll-step": 5,
-        "format-icons": {
-            "headphone": "",
-            "hands-free": "",
-            "headset": "",
-            "phone": "",
-            "portable": "",
-            "car": "",
-            "default": ["", "", ""]
-        }
     },
 
     "pulseaudio": {
