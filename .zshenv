@@ -20,6 +20,7 @@ typeset -U path PATH
 path=(~/.local/bin $path)
 export PATH
 # cleaning up home folder
+alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_STATE_HOME="$HOME/.local/state"
