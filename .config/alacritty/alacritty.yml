@@ -98,19 +98,19 @@ scrolling:
 # Font configuration
 font:
   normal:
-    family: CaskaydiaCove Nerd Font Mono
+    family: JetBrainsMono NF
     style: Regular
 
   bold:
-    family: CaskaydiaCove Nerd Font Mono
+    family: JetBrainsMono NF
     style: Bold
 
   italics:
-    family: CaskaydiaCove Nerd Font Mono
+    family: JetBrainsMono NF
     style: Italic
 
   bold_italics:
-    family: CaskaydiaCove Nerd Font Mono
+    family: JetBrainsMono NF
     style: Bold Italic
 
   size: 11.0
