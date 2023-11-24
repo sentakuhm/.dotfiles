@@ -43,7 +43,7 @@
 
 #entry:selected {
 	background-color: --wofi-color3;
-	background: linear-gradient(90deg, #bbccdd, #FEA425);
+	background: linear-gradient(90deg, #bbccdd, #74C7EC);
 	color: --wofi-color0;
 }
 

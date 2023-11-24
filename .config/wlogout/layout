@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "gtklock",
+    "action" : "swaylock",
     "text" : "Lock",
     "keybind" : "l"
 }

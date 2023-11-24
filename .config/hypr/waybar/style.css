@@ -1,9 +1,7 @@
-/*@import 'colors-waybar.css';*/
-
 * {
     border: none;
     border-radius: 0;
-    font-family: "JetBrainsMono Nerd Font";
+    font-family: "JetBrainsMono NF";
     font-weight: bold;
     font-size: 12px;
     min-height: 0px;

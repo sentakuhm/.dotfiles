@@ -1,5 +1,5 @@
 window {
-    font-family: SegoeUI Nerd Font,monospace;
+    font-family: JetBrainsMono NF,monospace;
     font-size: 14pt;
     color: #cdd6f4; /* text */
     background-color: rgba(30, 30, 46, 0.5);
@@ -22,7 +22,7 @@ button:hover {
 }
 
 button:focus {
-    background-color: #cdd6f4;
+    background-color: #74C7EC; /*#cdd6f4;*/
     color: #18182a;
     text-shadow: none;
 }

@@ -38,7 +38,7 @@ tooltip {
 #workspaces button.active {
     color: #2E3440;
     padding: 1px;
-    background: #FEA425;
+    background: #74C7EC;
     border-radius: 10px 10px 10px 10px;
     border-width: 10px 10px 10px 10px;
 }
@@ -133,7 +133,7 @@ tooltip {
     }
 
 #clock {
-    color: #FEA425;
+    color: #74C7EC;
     border-radius: 0px 0px 0px 0px;
     margin-left: 0px;
     border-right: 0px;
@@ -141,14 +141,14 @@ tooltip {
 }
 
 #custom-menu {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
     border-radius: 10px 0px 0px 10px;
 }
 
 #custom-lock_screen {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
     border-radius: 0 10px 10px 0px;
@@ -161,7 +161,7 @@ tooltip {
 
 }
 #network {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
 }
@@ -173,7 +173,7 @@ tooltip {
 }
 
 #tray {
-    color: #FEA425;
+    color: #74C7EC;
     margin-right: 5px;
     border-left: 0px;
     border-right: 0px;
@@ -181,34 +181,34 @@ tooltip {
 }
 
 #pulseaudio {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
     border-radius: 10px 0px 0px 10px;
 }
 
 #wireplumber {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
     border-radius: 10px 0px 0px 10px;
 }
 
 #pulseaudio.microphone {
-    color: #FEA425;
+    color: #74C7EC;
     margin-right: 5px;
     border-radius: 0 10px 10px 0;
 }
 
 #battery {
-    color: #FEA425;
+    color: #74C7EC;
     margin-left: 0px;
     border-radius: 10px 0px 0px 10px;
     border-left: 0px;
 }
 
 #custom-power {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 0px;
     border-right: 0px;
     padding-right: 5px;
@@ -216,7 +216,7 @@ tooltip {
 }
 
 #backlight {
-    color: #FEA425;
+    color: #74C7EC;
     border-left: 5px;
     margin-right: 5px;
     border-radius: 0 10px 10px 0;
