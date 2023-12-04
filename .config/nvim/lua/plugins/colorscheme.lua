@@ -1,18 +1,13 @@
 return {
   {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "tokyonight-night",
-    },
-  },
-  -- Make tokyonight transparent
-  {
     "folke/tokyonight.nvim",
+    lazy = true,
     opts = {
       transparent = true,
       styles = {
+        style = "night",
         sidebars = "transparent",
-        floats = "transparent",
+        floats = "normal",
       },
     },
   },
