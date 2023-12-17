@@ -1,11 +1,11 @@
 #!/bin/bash
 
-CONFIG="$HOME/.config/hypr/wofi/config"
-STYLE="$HOME/.config/hypr/wofi/style.css"
+CONFIG="$HOME/.config/rofi/config"
+STYLE="$HOME/.config/rofi/style.css"
 #COLORS="$HOME/.config/hypr/wofi/colors"
 
 if [[ ! $(pidof wofi) ]]; then
-	wofi --show drun --prompt 'Search...' --conf ${CONFIG} --style ${STYLE} #--color ${COLORS}
+	rofi --show drun --prompt 'Search...' --conf ${CONFIG} --style ${STYLE} #--color ${COLORS}
 else
-	pkill wofi
+	pkill rofi
 fi

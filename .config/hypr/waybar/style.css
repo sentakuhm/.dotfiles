@@ -1,59 +1,59 @@
 * {
-    border: none;
-    border-radius: 0;
-    font-family: "JetBrainsMono NF";
-    font-weight: bold;
-    font-size: 12px;
-    min-height: 0px;
+  border: none;
+  border-radius: 0;
+  font-family: "JetBrainsMono Nerd Font";
+  font-weight: bold;
+  font-size: 12px;
+  min-height: 0px;
 }
 window#waybar {
-    background: rgba(30, 30, 46, 0.6);
-    color: #cdd6f4;
+  background: rgba(30, 30, 46, 0.6);
+  color: #cdd6f4;
 }
 tooltip {
-    background: #1e1e2e;
-    opacity: 0.8;
+  background: #1e1e2e;
+  opacity: 0.8;
 }
 tooltip label {
-    color: #cdd6f4;
+  color: #cdd6f4;
 }
 tooltip {
-    animation-name: appear;
-    animation-duration: 0.1s;
-    animation-timing-function: linear;
-    animation-iteration-count: 1;
+  animation-name: appear;
+  animation-duration: 0.1s;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
 }
 @keyframes appear {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 0.8;
-    }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.8;
+  }
 }
 #workspaces button {
-    padding: 0px 6px;
-    padding-top: 3px;
-    color: #6C7086;
-    text-shadow: none;
+  padding: 0px 6px;
+  padding-top: 3px;
+  color: #6c7086;
+  text-shadow: none;
 }
 #workspaces button.active {
-    padding-top: 0px;
-    border-top: solid #a6adc8 3px;
-    color: #a6adc8;
-    text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+  padding-top: 0px;
+  border-top: solid #a6adc8 3px;
+  color: #a6adc8;
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
 #workspaces button.focused {
-    color: #a6adc8;
-    background: #eba0ac;
-    text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+  color: #a6adc8;
+  background: #eba0ac;
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
 #workspaces button.urgent {
-    color: #1e1e2e;
-    background: #a6e3a1;
+  color: #1e1e2e;
+  background: #a6e3a1;
 }
 #workspaces button:hover {
-    color: #cdd6f4;
+  color: #cdd6f4;
 }
 #language,
 #custom-power_btn,
@@ -67,63 +67,63 @@ tooltip {
 #network,
 #tray,
 #workspaces {
-    padding: 0px 10px;
-    background: rgba(49, 50, 68, 0.8);
+  padding: 0px 10px;
+  background: rgba(49, 50, 68, 0.8);
 }
 #custom-separator_l,
 #custom-separator_r {
-    font-size: 25px;
-    color: rgba(49, 50, 68, 0.8);
+  font-size: 25px;
+  color: rgba(49, 50, 68, 0.8);
 }
 #cpu,
 #temperature,
 #memory,
 #disk {
-    padding: 0px 10px;
-    border-top: solid #74C7EC 3px;
-    color: #74c7ec;
+  padding: 0px 10px;
+  border-top: solid #74c7ec 3px;
+  color: #74c7ec;
 }
 #custom-media,
 #custom-media_play,
 #custom-media_next,
 #custom-media_previous {
-    padding: 0px 10px;
-    border-top: solid #CBA6F7 3px;
+  padding: 0px 10px;
+  border-top: solid #cba6f7 3px;
 }
 #custom-media {
-    margin-right: 10px;
-    color: #CBA6F7;
+  margin-right: 10px;
+  color: #cba6f7;
 }
 #custom-media_previous {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 #custom-power_btn {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 #window {
-    min-width: 300px;
+  min-width: 300px;
 }
 #temperature.critical {
-    color: #e92d4d;
+  color: #e92d4d;
 }
 #workspaces {
-    padding-right: 0px;
-    padding-left: 5px;
+  padding-right: 0px;
+  padding-left: 5px;
 }
 #network {
-    color: #89b4fa;
+  color: #89b4fa;
 }
 #pulseaudio {
-    color: #89b4fa;
-    min-width: 52px;
+  color: #89b4fa;
+  min-width: 25px;
 }
 #wireplumber {
-    color: #89b4fa;
-    min-width: 52px;
+  color: #89b4fa;
+  min-width: 25px;
 }
 #pulseaudio.microphone {
-    color: #cba6f7;
-    min-width: 52px;
+  color: #f66618;
+  min-width: 25px;
 }
 #idle_inhibitor {
   background-color: #2d3436;
