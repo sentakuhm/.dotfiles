@@ -1,9 +1,9 @@
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "dmenu";
+	      modi:                       "dmenu";
         show-icons:                 true;
         display-dmenu:              "Powermenu :";
-	window-format:              "{w} · {c} · {t}";
+	      window-format:              "{w} · {c} · {t}";
 }
 
 /*****----- Global Properties -----*****/
@@ -25,8 +25,8 @@ window {
     location:                    center;
 
     fullscreen:                  true;
-    width:                       1920px;
-    height:                      1080px;
+    width:                       1280px;
+    height:                      720px;
     x-offset:                    0px;
     y-offset:                    0px;
 
