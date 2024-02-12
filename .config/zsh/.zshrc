@@ -27,10 +27,9 @@ alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-alias vib='nvidia-settings -a "DigitalVibrance=${1:-1023}"' #full
-alias vibmid='nvidia-settings -a "DigitalVibrance=${1:-700}"' #Custom
-alias novib='nvidia-settings -a "DigitalVibrance=${1:-0}"'
 alias v=nvim
+alias ya=yazi
+alias ls=eza
 alias ve='sudoedit'
 alias mkdir='mkdir -p'
 alias ping='ping -c 10'
