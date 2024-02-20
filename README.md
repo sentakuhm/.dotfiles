@@ -3,15 +3,15 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   sudo pacman -S alacritty foot nvim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
+   sudo pacman -S kitty zoxide eza neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
    ```
 
 2. For _"Hyprland"_ install
 
    ```cmd
-   yay -S  hyprland wofi nvimpager waybar-hyprland-git wl-clipboard \
-   nwg-look hyprpicker-git grim slurp dunst wlogout imv ueberzugpp swww \
-   gtklock qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 \
+   paru -S  hyprland-git hyprlock-git hypridle-git rofi-lbonn-wayland-git wl-clipboard \
+   nvimpager waybar nwg-look hyprpicker-git grim slurp dunst wlogout imv swww \
+   qt5ct qt6ct qt5-wayland qt6-wayland qt5-quickcontrols2 \
    qt5-graphicaleffects papirus-icon-theme pamixer \
    network-manager-applet mpd cava
    ```
