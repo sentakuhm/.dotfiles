@@ -112,7 +112,7 @@
         "on-click": "activate",
         "format-icons": {
             "1": "",
-            "2": "",
+            "2": "󰈹",
             "3": "",
             "4": "󰇰",
             "5": "󰓓",
@@ -233,7 +233,7 @@
     },
 
     "network": {
-        "interface": "enp3s0",
+        "interface": "enp6s0",
         "format": "{ifname}",
         "format-wifi": "{essid} ({signalStrength}%) ",
         "format-ethernet": "󰈀",
