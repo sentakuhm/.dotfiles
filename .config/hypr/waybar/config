@@ -22,10 +22,6 @@
         "temperature",
         "memory"
         //"disk",
-        //"custom/media_previous",
-        //"custom/media_play",
-        //"custom/media_next",
-        //"custom/media"
     ],
     "modules-center": [
         "custom/separator_l",
@@ -125,48 +121,13 @@
         "sort-by-number": true
     },
 
-    "custom/weather": {
-        //shows the current weather and forecast
-        "tooltip": true,
-        "format": "{}",
-        "interval": 30,
-        "exec": "~/.config/hypr/waybar/scripts/waybar-wttr.py",
-        "return-type": "json"
-    },
-
-    //"custom/media_play": {
+    //"custom/weather": {
+    //    //shows the current weather and forecast
+    //    "tooltip": true,
     //    "format": "{}",
-    //    "tooltip": false,
-    //    "return-type": "json",
-    //    "on-click": "playerctl play-pause",
-    //    "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py -b 2> /dev/null"
-    //},
-
-    //"custom/media_next": {
-    //    "format": "",
-    //    "tooltip": false,
-    //    "on-click": "playerctl next"
-    //},
-
-    //"custom/media_previous": {
-    //    "format": "",
-    //    "tooltip": false,
-    //    "on-click": "playerctl previous"
-    //},
-
-    //"custom/media": {
-    //    "format": "{}",
-    //    "return-type": "json",
-    //    "max-length": 32,
-    //    "escape": true,
-    //    //"format-icons": {
-    //    //    "default": " "
-    //    //},
-    //    "on-click": "playerctl play-pause",
-    //    "on-click-right": "gtk-launch com.yktoo.ymuse",
-    //    //"on-click-forward": "playerctl next",
-    //    //"on-click-backward": "playerctl previous",
-    //    "exec": "~/.config/hypr/waybar/scripts/mediaplayer.py 2> /dev/null"
+    //    "interval": 30,
+    //    "exec": "~/.config/hypr/waybar/scripts/waybar-wttr.py",
+    //    "return-type": "json"
     //},
 
     "tray": {
