@@ -3,7 +3,7 @@ configuration {
 	      modi:                       "dmenu";
         show-icons:                 true;
         display-dmenu:              "Powermenu :";
-	      window-format:              "{w} · {c} · {t}";
+	      /*window-format:              "{w} · {c} · {t}";*/
 }
 
 /*****----- Global Properties -----*****/

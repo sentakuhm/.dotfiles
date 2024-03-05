@@ -4,60 +4,6 @@ import json
 import requests
 from datetime import datetime
 
-CELSIUS = True
-
-WEATHER_CODES = {
-    "113": " ",
-    "116": " ",
-    "119": " ",
-    "122": " ",
-    "143": " ",
-    "176": " ",
-    "179": " ",
-    "182": " ",
-    "185": " ",
-    "200": "󰖓 ",
-    "227": " ",
-    "230": " ",
-    "248": " ",
-    "260": " ",
-    "263": " ",
-    "266": " ",
-    "281": " ",
-    "284": " ",
-    "293": " ",
-    "296": " ",
-    "299": " ",
-    "302": " ",
-    "305": " ",
-    "308": " ",
-    "311": " ",
-    "314": " ",
-    "317": " ",
-    "320": " ",
-    "323": " ",
-    "326": " ",
-    "329": " ",
-    "335": " ",
-    "332": " ",
-    "338": " ",
-    "353": " ",
-    "350": " ",
-    "356": " ",
-    "362": " ",
-    "359": " ",
-    "365": " ",
-    "368": " ",
-    "371": " ",
-    "374": " ",
-    "377": " ",
-    "386": " ",
-    "389": " ",
-    "392": " ",
-    "395": " ",
-}
-
-"""
 WEATHER_CODES = {
     '113': '☀️ ',
     '116': '⛅ ',
@@ -108,12 +54,9 @@ WEATHER_CODES = {
     '392': '🌧️',
     '395': '❄️ '
 }
-"""
 
 data = {}
-
-
-weather = requests.get("https://wttr.in/Douis?format=j1").json()
+weather = requests.get("https://wttr.in/Hochiminh?format=j1").json()
 
 
 def format_time(time):
@@ -121,7 +64,7 @@ def format_time(time):
 
 
 def format_temp(temp):
-    return (hour["FeelsLikeC" if CELSIUS else "FeelsLikeF"] + "°").ljust(3)
+    return (hour['FeelsLikeC']+"°").ljust(3)
 
 
 def format_chances(hour):
@@ -133,61 +76,43 @@ def format_chances(hour):
         "chanceofsnow": "Snow",
         "chanceofsunshine": "Sunshine",
         "chanceofthunder": "Thunder",
-        "chanceofwindy": "Wind",
+        "chanceofwindy": "Wind"
     }
 
     conditions = []
     for event in chances.keys():
         if int(hour[event]) > 0:
-            conditions.append(chances[event] + " " + hour[event] + "%")
+            conditions.append(chances[event]+" "+hour[event]+"%")
     return ", ".join(conditions)
 
-
-tempint = int(
-    weather["current_condition"][0]["FeelsLikeC" if CELSIUS else "FeelsLikeF"]
-)
-extrachar = ""
+tempint = int(weather['current_condition'][0]['temp_C'])
+extrachar = ''
 if tempint > 0 and tempint < 10:
-    extrachar = "+"
+    extrachar = '+'
 
 
-data["text"] = (
-    " "
-    + WEATHER_CODES[weather["current_condition"][0]["weatherCode"]]
-    + " "
-    + extrachar
-    + weather["current_condition"][0]["FeelsLikeC" if CELSIUS else "FeelsLikeF"]
-    + "°"
-)
+data['text'] = ' '+WEATHER_CODES[weather['current_condition'][0]['weatherCode']] + \
+    " "+extrachar+weather['current_condition'][0]['temp_C']+"°"
 
-data[
-    "tooltip"
-] = f"<b>{weather['current_condition'][0]['weatherDesc'][0]['value']} {weather['current_condition'][0]['temp_C' if CELSIUS else 'temp_F']}°</b>\n"
-data[
-    "tooltip"
-] += f"Feels like: {weather['current_condition'][0]['FeelsLikeC' if CELSIUS else 'FeelsLikeF']}°\n"
-data["tooltip"] += f"Wind: {weather['current_condition'][0]['windspeedKmph']}Km/h\n"
-data["tooltip"] += f"Humidity: {weather['current_condition'][0]['humidity']}%\n"
-for i, day in enumerate(weather["weather"]):
-    data["tooltip"] += f"\n<b>"
+data['tooltip'] = f"<b>{WEATHER_CODES[weather['current_condition'][0]['weatherCode']]}{weather['current_condition'][0]['weatherDesc'][0]['value']}</b>\n" 
+data['tooltip'] +=f" Temperature: {weather['current_condition'][0]['temp_C']}°\n"
+data['tooltip'] += f" Feels like: {weather['current_condition'][0]['FeelsLikeC']}°\n"
+data['tooltip'] += f" Wind: {weather['current_condition'][0]['windspeedKmph']}Km/h\n"
+data['tooltip'] += f" Humidity: {weather['current_condition'][0]['humidity']}%\n"
+for i, day in enumerate(weather['weather']):
+    data['tooltip'] += f"\n<b>"
     if i == 0:
-        data["tooltip"] += "Today, "
+        data['tooltip'] += "Today, "
     if i == 1:
-        data["tooltip"] += "Tomorrow, "
-    data["tooltip"] += f"{day['date']}</b>\n"
-    data[
-        "tooltip"
-    ] += f" {day['maxtempC' if CELSIUS else 'maxtempF']}°  {day['mintempC' if CELSIUS else 'mintempF']}° "
-    data[
-        "tooltip"
-    ] += f"🌅 {day['astronomy'][0]['sunrise']} 🌇 {day['astronomy'][0]['sunset']}\n"
-    for hour in day["hourly"]:
+        data['tooltip'] += "Tomorrow, "
+    data['tooltip'] += f"{day['date']}</b>\n"
+    data['tooltip'] += f"⬆️ {day['maxtempC']}° ⬇️ {day['mintempC']}° "
+    data['tooltip'] += f"🌅 {day['astronomy'][0]['sunrise']} 🌇 {day['astronomy'][0]['sunset']}\n"
+    for hour in day['hourly']:
         if i == 0:
-            if int(format_time(hour["time"])) < datetime.now().hour - 2:
+            if int(format_time(hour['time'])) < datetime.now().hour-2:
                 continue
-        data[
-            "tooltip"
-        ] += f"{format_time(hour['time'])} {WEATHER_CODES[hour['weatherCode']]} {format_temp(hour['FeelsLikeC' if CELSIUS else 'FeelsLikeF'])} {hour['weatherDesc'][0]['value']}, {format_chances(hour)}\n"
+        data['tooltip'] += f"{format_time(hour['time'])} {WEATHER_CODES[hour['weatherCode']]} {format_temp(hour['FeelsLikeC'])} {hour['weatherDesc'][0]['value']}, {format_chances(hour)}\n"
 
 
 print(json.dumps(data))

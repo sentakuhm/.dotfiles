@@ -1,20 +1,21 @@
 /**
  *
- * Author : Aditya Shakya (adi1090x)
- * Github : @adi1090x
+ * Author : SentakuHM
+ * Github : @sentakuhm
  * 
  * Rofi Theme File
- * Rofi Version: 1.7.3
+ * Rofi Version: -git
  **/
 
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "drun,run,filebrowser,window,";
+	modi:                       "drun,run,filebrowser,window,calc,";
         show-icons:                 true;
         display-drun:               " ";
         display-run:                " ";
         display-filebrowser:        " ";
         display-window:             " ";
+        display-calc:               " ";
 	      drun-display-format:        "{name}";
 	      window-format:              "{w} · {c} · {t}";
 }
