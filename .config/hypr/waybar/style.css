@@ -9,24 +9,24 @@
 }
 
 window#waybar {
-    background: rgba(21, 18, 27, 0.7);
+    background: rgba(31, 33, 48, 0.5);
     color: @text;
 }
 
 tooltip {
     border-radius: 10px;
     border-width: 0px;
-    background: rgba(24, 24, 37, 0.6);
+    background: rgba(24, 24, 37, 0.8);
 }
 
 #workspaces button {
     padding: 5px;
-    color: @surface2;
+    color: @text;
     margin-right: 5px;
 }
 
 #workspaces button.active {
-    color: @text;
+    color: @peach;
 }
 
 #workspaces button.focused {
@@ -60,7 +60,7 @@ tooltip {
 #language,
 #custom-power_btn,
 #tray {
-    background: rgba(24, 24, 37, 0.6);
+    background: rgba(24, 24, 37, 0.8);
     padding: 0px 5px;
     margin: 3px 0px;
     margin-top: 5px;
