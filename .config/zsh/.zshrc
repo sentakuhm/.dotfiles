@@ -16,7 +16,7 @@ export ZSH="$ZDOTDIR/.oh-my-zsh"
 ZSH_THEME="zeta"
 
 # ++ Plugins ++
-plugins=(git dotenv extract rake archlinux python sudo man themes last-working-dir history-substring-search)
+plugins=(git dotenv extract rake archlinux python sudo man themes last-working-dir history-substring-search fzf zoxide)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -35,8 +35,17 @@ alias mkdir='mkdir -p'
 alias ping='ping -c 10'
 alias less='less -R'
 alias cls='clear'
+alias reboot='systemctl reboot'
+alias dmesg='sudo -v; sudo dmesg --color=always | less'
+alias grep='grep --color'
+
 # ++ For Canon Printer ++
 alias cjob='captstatusui -P LBP6020 -e'
+
+# Zoxide and fzf
+# eval "$(zoxide init zsh --hook prompt)"
+# source /usr/share/fzf/completion.zsh
+# source /usr/share/fzf/key-bindings.zsh
 
 # ++ For Dotfiles ++
 config config status.showUntrackedFiles no

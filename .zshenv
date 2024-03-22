@@ -12,7 +12,7 @@
 # default apps
 export EDITOR="nvim"
 export VISUAL="nvim"
-export TERMINAL="foot"
+export TERMINAL="kitty"
 export BROWSER="firefox"
 export PAGER="nvimpager"
 export MOZ_ENABLE_WAYLAND=1 # Fix Blurry Firefox on HiDPI + Wayland
