@@ -3,7 +3,7 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   sudo pacman -S kitty zoxide eza neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
+   sudo pacman -S kitty zoxide eza fd ripgrep fzf neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting
    ```
 
 2. For _"Hyprland"_ install
