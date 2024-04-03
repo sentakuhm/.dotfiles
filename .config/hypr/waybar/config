@@ -31,15 +31,15 @@
     "on-scroll-down": "hyprctl dispatch workspace e-1",
     "format": "{icon}",
      "format-icons": {
-      "1": "",
-      "2": "󰈹",
-      "3": "",
-      "4": "󰇰",
-      "5": "󰓓",
-      "6": "",
-      "7": "󱑥"
-    //   "active": "",
-    //   "default": ""
+      "1": " ",
+      "2": "󰈹 ",
+      "3": " ",
+      "4": "󰇰 ",
+      "5": "󰓓 ",
+      "6": " ",
+      "7": "󱑥 "
+    //   "active": " ",
+    //   "default": " "
      },
      //"sort-by-number": true
   },
@@ -124,26 +124,26 @@
   },
   "pulseaudio": {
         "format": "{icon} {volume}%",
-        "format-muted": "",
+        "format-muted": " ",
         "on-click": "pamixer -t",
         "on-click-right": "pavucontrol",
         "on-scroll-up": "pamixer -i 5",
         "on-scroll-down": "pamixer -d 5",
         "scroll-step": 5,
         "format-icons": {
-            "headphone": "",
-            "hands-free": "",
-            "headset": "",
-            "phone": "",
-            "portable": "",
-            "car": "",
-            "default": ["", "", ""]
+            "headphone": " ",
+            "hands-free": " ",
+            "headset": " ",
+            "phone": " ",
+            "portable": " ",
+            "car": " ",
+            "default": [" ", " ", " "]
         }
   },
   "pulseaudio#microphone": {
         "format": "{format_source}",
         "format-source": "󰍬 {volume}%",
-        "format-source-muted": "󰍭",
+        "format-source-muted": "󰍭 ",
         "on-click": "pamixer --default-source -t",
         "on-click-right": "pavucontrol",
         "on-scroll-up": "pamixer --default-source -i 1",
@@ -153,18 +153,18 @@
   "network": {
         "interface": "enp6s0",
         "format": "{ifname}",
-        "format-wifi": "{essid} ({signalStrength}%) ",
-        "format-ethernet": "󰈀",
+        "format-wifi": "{essid} ({signalStrength}%)  ",
+        "format-ethernet": "󰈀 ",
         "format-disconnected": "", //An empty format will hide the module.
         "on-click-right": "nm-connection-editor",
-        "tooltip-format": "{ifname} via {gwaddr} ",
-        "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
-        "tooltip-format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format": "{ifname} via {gwaddr}  ",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
+        "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
         "tooltip-format-disconnected": "Disconnected",
         "max-length": 50
   },
   "custom/power_btn": {
-        "format": "",
+        "format": " ",
         "on-click": "~/.config/wlogout/exec",
         "tooltip": false
   }
