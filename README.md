@@ -9,9 +9,10 @@
 
 2. For _"Hyprland"_ install
    ```cmd
-   $ sudo pacman -S hyprland hyprlock hypridle hyprcursor grim slurp dunst imv \
-   waybar nwg-look qt5ct qt6ct qt5-wayland qt6-wayland pamixer mpd \
-   papirus-icon-theme network-manager-applet wl-clipboard
+   $ sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper \
+   grim slurp dunst imv waybar nwg-look qt5ct qt6ct qt5-wayland \
+   qt6-wayland pamixer mpd papirus-icon-theme \
+   network-manager-applet wl-clipboard
    ```
 
    Additional deps from AUR
