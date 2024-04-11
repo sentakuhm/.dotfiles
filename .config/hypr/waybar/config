@@ -165,7 +165,7 @@
   },
   "custom/power_btn": {
         "format": " ",
-        "on-click": "~/.config/wlogout/exec",
+        "on-click": "~/.config/wleave/exec",
         "tooltip": false
   }
 }
