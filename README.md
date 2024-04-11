@@ -3,7 +3,7 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   $ sudo pacman -S kitty zoxide eza fd ripgrep less fzf neovim tmux zsh \
+   $ sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat neovim tmux zsh \
    zsh-autosuggestions zsh-syntax-highlighting
    ```
 
