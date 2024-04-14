@@ -27,8 +27,8 @@ find_position = { fg = "magenta", bg = "reset", bold = true, italic = true }
 # Marker
 marker_copied   = { fg = "lightgreen",  bg = "lightgreen" }
 marker_cut      = { fg = "lightred",    bg = "lightred" }
-marker_marked   = { fg = "lightyellow", bg = "lightyellow" }
-marker_selected = { fg = "lightblue",   bg = "lightblue" }
+marker_marked   = { fg = "lightcyan",   bg = "lightcyan" }
+marker_selected = { fg = "lightyellow", bg = "lightyellow" }
 
 # Tab
 tab_active   = { reversed = true }
@@ -177,14 +177,12 @@ rules = [
 	{ mime = "audio/*", fg = "yellow" },
 
 	# Archives
-	{ mime = "application/zip",             fg = "magenta" },
-	{ mime = "application/gzip",            fg = "magenta" },
+	{ mime = "application/*zip",            fg = "magenta" },
 	{ mime = "application/x-tar",           fg = "magenta" },
-	{ mime = "application/x-bzip",          fg = "magenta" },
-	{ mime = "application/x-bzip2",         fg = "magenta" },
+	{ mime = "application/x-bzip*",         fg = "magenta" },
 	{ mime = "application/x-7z-compressed", fg = "magenta" },
 	{ mime = "application/x-rar",           fg = "magenta" },
-	{ mime = "application/xz",              fg = "magenta" },
+	{ mime = "application/x-xz",            fg = "magenta" },
 
 	# Documents
 	{ mime = "application/doc",   fg = "green" },
