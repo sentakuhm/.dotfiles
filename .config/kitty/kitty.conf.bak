@@ -2451,6 +2451,6 @@ linux_display_server auto
 #: }}}
 
 # BEGIN_KITTY_THEME
-# Cherry Midnight
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
