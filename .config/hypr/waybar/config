@@ -158,9 +158,9 @@
         "format-ethernet": "󰈀 ",
         "format-disconnected": "", //An empty format will hide the module.
         "on-click-right": "nm-connection-editor",
-        "tooltip-format": "{ifname} via {gwaddr}  ",
+        "tooltip-format": "{ifname} via {gwaddr} 󰈀 ",
         "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
-        "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
+        "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
         "tooltip-format-disconnected": "Disconnected",
         "max-length": 50
   },
