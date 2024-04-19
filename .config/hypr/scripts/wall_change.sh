@@ -16,5 +16,3 @@ elif [[ -f $wallpaper_folder/$wallpaper_location ]]; then
 else
 	exit 1
 fi
-
-#https://github.com/asifakonjee/Hyprland/blob/3b148eae43b2a542c1d8f3a2459d023f0e2b6177/config/rofi/bin/powermenu
