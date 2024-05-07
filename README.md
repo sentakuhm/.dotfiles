@@ -17,7 +17,7 @@
 
    Additional deps from AUR
    ```cmd
-   $ paru -S rofi-lbonn-wayland-git nvimpager hyprpicker-git wleave-git swww cava
+   $ paru -S rofi-lbonn-wayland-git clipse nvimpager hyprpicker-git wleave-git swww cava
    ```
 
    - Some dependencies for apps
