@@ -16,7 +16,7 @@ export ZSH="$ZDOTDIR/.oh-my-zsh"
 ZSH_THEME="zeta"
 
 # ++ Plugins ++
-plugins=(git dotenv extract rake archlinux python sudo man themes last-working-dir history-substring-search fzf zoxide)
+plugins=(git dotenv extract rake archlinux kitty sudo man themes last-working-dir history-substring-search fzf zoxide)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -28,8 +28,9 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias v=nvim
-alias ya=yazi
+alias yy=yazi
 alias ls=eza
+alias ff=fastfetch
 alias ve='sudoedit'
 alias mkdir='mkdir -p'
 alias ping='ping -c 10'
