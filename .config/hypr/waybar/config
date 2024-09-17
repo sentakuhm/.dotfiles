@@ -152,7 +152,7 @@
         "scroll-step": 5
   },
   "network": {
-        "interface": "enp6s0",
+        "interface": "enp4s0",
         "format": "{ifname}",
         "format-wifi": "{essid} ({signalStrength}%)  ",
         "format-ethernet": "󰈀 ",
