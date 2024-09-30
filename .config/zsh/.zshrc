@@ -16,7 +16,7 @@ export ZSH="$ZDOTDIR/.oh-my-zsh"
 ZSH_THEME="zeta"
 
 # ++ Plugins ++
-plugins=(git dotenv extract rake archlinux kitty sudo man themes last-working-dir history-substring-search fzf zoxide)
+plugins=(git dotenv extract rake archlinux kitty sudo man themes last-working-dir history-substring-search fzf zoxide web-search)
 
 source $ZSH/oh-my-zsh.sh
 
