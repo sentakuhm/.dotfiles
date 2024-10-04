@@ -85,7 +85,7 @@ tooltip {
 }
 
 #clock {
-    color: @flamingo;
+    color: @peach;
 }
 
 #cpu {
@@ -111,7 +111,7 @@ tooltip {
 
 #custom-weather {
     border-radius: 10px;
-    margin-left: 5px;
+    margin-right: 5px;
 }
 
 #language{

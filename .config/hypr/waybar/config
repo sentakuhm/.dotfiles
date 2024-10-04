@@ -16,6 +16,7 @@
   "modules-center": ["hyprland/workspaces"],
   "modules-right": [
     "tray",
+    "custom/weather",
     "hyprland/language",
     "network",
     "pulseaudio",
@@ -115,7 +116,7 @@
     "tooltip": true,
     "format": "{}",
     "interval": 60,
-    "exec": "~/.config/waybar/scripts/waybar-wttr.py",
+    "exec": "~/.config/hypr/waybar/scripts/waybar-wttr.py",
     "return-type": "json"
   },
   "hyprland/language": {
@@ -152,7 +153,7 @@
         "scroll-step": 5
   },
   "network": {
-        "interface": "enp4s0",
+        "interface": "enp42s0",
         "format": "{ifname}",
         "format-wifi": "{essid} ({signalStrength}%)  ",
         "format-ethernet": "󰈀 ",
