@@ -3,33 +3,28 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   $ sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat neovim tmux zsh \
-   zsh-autosuggestions zsh-syntax-highlighting
+   $ sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting jq python-requests python-gobject
    ```
 
 2. For _"Hyprland"_ install
    ```cmd
-   $ sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper \
-   grim slurp dunst imv waybar nwg-look qt5ct qt6ct qt5-wayland \
-   qt6-wayland pamixer mpd papirus-icon-theme \
-   network-manager-applet wl-clipboard
+   $ sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst imv waybar nwg-look qt6ct qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
    ```
 
    Additional deps from AUR
    ```cmd
-   $ paru -S rofi-lbonn-wayland-git clipse nvimpager hyprpicker-git wleave-git swww cava
+   $ paru -S rofi-lbonn-wayland-git clipse nvimpager wleave-git swww
    ```
 
-   - Some dependencies for apps
+4. oh-my-zsh & tmux plugin manager
 
-     ```cmd
-     sudo pacman -S jq python-requests python-gobject
-     ```
-
-4. oh-my-zsh _"zsh themes"_ to install run this command
-
+   omz:
    ```cmd
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   ```
+   tpm:
+   ```cmd
+   git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
    ```
 
 ## Installation
