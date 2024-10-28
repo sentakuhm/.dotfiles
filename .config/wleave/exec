@@ -1,4 +1,5 @@
 #/bin/bash
+# @sentakuhm
 if [[ ! $(pidof wleave) ]]; then
     wleave --protocol layer-shell -b 5 -T 400 -B 400
 fi
