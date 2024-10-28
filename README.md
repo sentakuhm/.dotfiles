@@ -3,26 +3,31 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   $ sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting jq python-requests python-gobject
+   sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting jq python-requests python-gobject
    ```
 
 2. For _"Hyprland"_ install
+
    ```cmd
-   $ sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst imv waybar nwg-look qt6ct qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
+   sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst swww imv waybar nwg-look qt6ct qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
    ```
 
    Additional deps from AUR
+
    ```cmd
-   $ paru -S rofi-lbonn-wayland-git clipse nvimpager wleave-git swww
+   paru -S rofi-lbonn-wayland-git hyprpolkitagent-git clipse nvimpager wleave-git pwvucontrol
    ```
 
 4. oh-my-zsh & tmux plugin manager
 
    omz:
+
    ```cmd
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
    ```
+
    tpm:
+
    ```cmd
    git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
    ```
