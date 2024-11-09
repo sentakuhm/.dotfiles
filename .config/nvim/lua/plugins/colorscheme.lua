@@ -9,4 +9,16 @@ return {
       },
     },
   },
+
+  -- Make terminal float
+  -- {
+  --   "folke/snacks.nvim",
+  --   opts = {
+  --     terminal = {
+  --       win = {
+  --         position = "float",
+  --       },
+  --     },
+  --   },
+  -- },
 }
