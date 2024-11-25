@@ -91,8 +91,8 @@ if tempint > 0 and tempint < 10:
     extrachar = '+'
 
 
-data['text'] = ' '+WEATHER_CODES[weather['current_condition'][0]['weatherCode']] + \
-    " "+extrachar+weather['current_condition'][0]['temp_C']+"°"
+data['text'] = ''+WEATHER_CODES[weather['current_condition'][0]['weatherCode']] + \
+    ""+extrachar+weather['current_condition'][0]['temp_C']+"°"
 
 data['tooltip'] = f"<b>{WEATHER_CODES[weather['current_condition'][0]['weatherCode']]}{weather['current_condition'][0]['weatherDesc'][0]['value']}</b>\n" 
 data['tooltip'] +=f" Temperature: {weather['current_condition'][0]['temp_C']}°\n"
@@ -106,7 +106,7 @@ for i, day in enumerate(weather['weather']):
     if i == 1:
         data['tooltip'] += "Tomorrow, "
     data['tooltip'] += f"{day['date']}</b>\n"
-    data['tooltip'] += f"⬆️ {day['maxtempC']}° ⬇️ {day['mintempC']}° "
+    data['tooltip'] += f"⬆️ {day['maxtempC']}° ⬇️ {day['mintempC']}°"
     data['tooltip'] += f"🌅 {day['astronomy'][0]['sunrise']} 🌇 {day['astronomy'][0]['sunset']}\n"
     for hour in day['hourly']:
         if i == 0:
