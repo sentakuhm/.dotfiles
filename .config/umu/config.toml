@@ -1,0 +1,7 @@
+[umu]
+prefix = "~/.local/share/wineprefixes/default/"
+proton = "~/.local/share/Steam/compatibilitytools.d/GE-Proton9-20"
+game_id = "0"
+exe = "/Games/MyGames/Warhammer 40000 - Space Marine 2/client_pc/root/bin/pc/Warhammer 40000 Space Marine 2 - Retail.exe"
+#launch_args = ["-opengl", "-SkipBuildPatchPrereq"]
+#store = "gog"

@@ -10,7 +10,7 @@
 # ==================================================
 
 # ++ Path to your oh-my-zsh installation ++
-export ZSH="$ZDOTDIR/.oh-my-zsh"
+export ZSH="$ZDOTDIR/ohmyzsh"
 
 # ++ Theme ++
 ZSH_THEME="zeta"
