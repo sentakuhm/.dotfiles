@@ -130,7 +130,7 @@
     "format": "{icon} {volume}%",
     "format-muted": " ",
     "on-click": "pamixer -t",
-    "on-click-right": "pwvucontrol",
+    "on-click-right": "pavucontrol",
     "on-scroll-up": "pamixer -i 5",
     "on-scroll-down": "pamixer -d 5",
     "scroll-step": 5,
@@ -153,7 +153,7 @@
     "format-source": "󰍬 {volume}%",
     "format-source-muted": "󰍭 ",
     "on-click": "pamixer --default-source -t",
-    "on-click-right": "pwvucontrol",
+    "on-click-right": "pwavucontrol",
     "on-scroll-up": "pamixer --default-source -i 1",
     "on-scroll-down": "pamixer --default-source -d 1",
     "scroll-step": 5
