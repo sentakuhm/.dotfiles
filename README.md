@@ -9,13 +9,13 @@
 2. For _"Hyprland"_ install
 
    ```cmd
-   sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst swww imv waybar nwg-look qt6ct qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
+   sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst swww imv waybar nwg-look qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
    ```
 
    Additional deps from AUR
 
    ```cmd
-   paru -S rofi-lbonn-wayland-git hyprpolkitagent-git clipse nvimpager wleave-git pwvucontrol
+   paru -S qt6ct-kde rofi-lbonn-wayland-git hyprpolkitagent-git clipse nvimpager wleave-git pwvucontrol
    ```
 
 4. oh-my-zsh & tmux plugin manager
