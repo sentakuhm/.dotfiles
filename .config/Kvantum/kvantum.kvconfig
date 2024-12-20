@@ -1,6 +1,0 @@
-[General]
-theme=Catppuccin-Mocha-Blue
-
-[Applications]
-Catppuccin-Mocha-Blue=qbittorrent, btrfs-assistant
-Default=qbittorrent, btrfs-assistant
