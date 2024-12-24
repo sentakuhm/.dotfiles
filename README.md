@@ -51,5 +51,3 @@ rm -r tmpdotfiles
 ```cmd
 systemctl --user enable --now hypridle.service && systemctl --user enable --now hyprpolkitagent.service
 ```
-
-```
