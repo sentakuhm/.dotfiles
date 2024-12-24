@@ -45,3 +45,11 @@ rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
 ```cmd
 rm -r tmpdotfiles
 ```
+
+### Run Hyprland Services
+
+```cmd
+systemctl --user enable --now hypridle.service && systemctl --user enable --now hyprpolkitagent.service
+```
+
+```

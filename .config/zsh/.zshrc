@@ -10,7 +10,7 @@
 # ==================================================
 
 # ++ Path to your oh-my-zsh installation ++
-export ZSH="$ZDOTDIR/ohmyzsh"
+export ZSH="$HOME/.config/zsh/.oh-my-zsh"
 
 # ++ Theme ++
 ZSH_THEME="zeta"
@@ -30,7 +30,7 @@ alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias v=nvim
 alias yy=yazi
 alias ls=eza
-alias ff=fastfetch
+alias ff='clear && fastfetch'
 alias ve='sudoedit'
 alias mkdir='mkdir -p'
 alias ping='ping -c 10'

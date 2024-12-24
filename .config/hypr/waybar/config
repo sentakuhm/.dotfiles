@@ -20,7 +20,7 @@
     "tray",
     "custom/weather",
     "hyprland/language",
-    "network",
+    //"network",
     "pulseaudio",
     "pulseaudio#microphone",
     "clock",
@@ -158,19 +158,19 @@
     "on-scroll-down": "pamixer --default-source -d 1",
     "scroll-step": 5
   },
-  "network": {
-    "interface": "enp42s0",
-    "format": "{ifname}",
-    "format-wifi": "{essid} ({signalStrength}%)  ",
-    "format-ethernet": "󰈀 ",
-    "format-disconnected": "", //An empty format will hide the module.
-    "on-click-right": "nm-connection-editor",
-    "tooltip-format": "{ifname} via {gwaddr} 󰈀 ",
-    "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
-    "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
-    "tooltip-format-disconnected": "Disconnected",
-    "max-length": 50
-  },
+  //"network": {
+  //  "interface": "enp42s0",
+  //  "format": "{ifname}",
+  //  "format-wifi": "{essid} ({signalStrength}%)  ",
+  //  "format-ethernet": "󰈀 ",
+  //  "format-disconnected": "", //An empty format will hide the module.
+  //  "on-click-right": "nm-connection-editor",
+  //  "tooltip-format": "{ifname} via {gwaddr} 󰈀 ",
+  //  "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
+  //  "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
+  //  "tooltip-format-disconnected": "Disconnected",
+  //  "max-length": 50
+  //},
   "custom/power_btn": {
     "format": " ",
     "on-click": "~/.config/wleave/exec",
