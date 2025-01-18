@@ -1,0 +1,33 @@
+#       _               _   _
+#  __ _| |__   ___  ___| |_| |_ _   _
+# / _` | '_ \ / _ \/ __| __| __| | | |
+#| (_| | | | | (_) \__ \ |_| |_| |_| |
+# \__, |_| |_|\___/|___/\__|\__|\__, |
+# |___/                         |___/
+# sentakuhm
+#
+
+# Empty values reset the configuration to the default value
+# Look
+theme = tokyonight_night
+window-decoration = false
+scrollback-limit = 100_000_000
+#desktop-notifications = false
+
+# Font | run: ghostty +list-fonts | to list fonts
+font-family = "JetBrainsMono Nerd Font"
+font-family-bold = "JetBrainsMono NF Bold"
+font-family-italic = "JetBrainsMono NF Italic"
+font-family-bold-italic = "JetBrainsMono NF Bold Italic"
+font-size = 11
+
+# keybindings
+keybind = ctrl+shift+,=reload_config
+keybind = ctrl+d=close_surface
+keybind = ctrl+l=new_split:right
+keybind = ctrl+h=new_split:down
+keybind = ctrl+shift+up=goto_split:top
+keybind = ctrl+shift+right=goto_split:right
+keybind = ctrl+shift+left=goto_split:left
+keybind = ctrl+shift+down=goto_split:bottom
+

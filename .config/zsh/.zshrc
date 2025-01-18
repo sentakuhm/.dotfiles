@@ -21,7 +21,7 @@ plugins=(git dotenv extract rake archlinux kitty sudo man themes last-working-di
 source $ZSH/oh-my-zsh.sh
 
 # ++ For tlmgr CTAN latex package installer ++
-alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
+#alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 
 # ++ Sources & Aliases ++
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -41,7 +41,7 @@ alias dmesg='sudo -v; sudo dmesg --color=always | less'
 alias grep='grep --color'
 
 # ++ For Canon Printer ++
-alias cjob='captstatusui -P LBP6020 -e'
+#alias cjob='captstatusui -P LBP6020 -e'
 
 # Zoxide and fzf
 # eval "$(zoxide init zsh --hook prompt)"
