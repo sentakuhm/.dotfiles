@@ -71,7 +71,7 @@ window {
     border-color:                @border-colour;
     cursor:                      "default";
     /* Backgroud Colors */
-    background-color:            rgba(21, 22, 30, 0.6);
+    background-color:            rgba(21, 22, 30, 0.8);
     /* Backgroud Image */
     //background-image:          url("/path/to/image.png", none);
     /* Simple Linear Gradient */
