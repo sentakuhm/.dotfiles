@@ -10,7 +10,7 @@ configuration {
     me-select-entry:             "MouseSecondary";
     me-accept-entry:             "MousePrimary";
     window-format:               "{w} · {c} · {t}";
-	dpi:						 1;
+	dpi:						 88;
 }
 
 /* ---- Load pywal colors ---- */
