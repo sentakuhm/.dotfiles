@@ -10,15 +10,16 @@
 # ==================================================
 
 # ++ Path to your oh-my-zsh installation ++
-export ZSH="$HOME/.config/zsh/.oh-my-zsh"
+ZSH=/usr/share/oh-my-zsh/
 
 # ++ Theme ++
 ZSH_THEME="zeta"
 
 # ++ Plugins ++
-plugins=(git dotenv extract rake archlinux kitty sudo man themes last-working-dir history-substring-search fzf zoxide web-search)
+plugins=(git dotenv extract rake archlinux sudo man themes last-working-dir history-substring-search fzf zoxide eza)
 
-source $ZSH/oh-my-zsh.sh
+# Would you like to use another custom folder than $ZSH/custom?
+ZSH_CUSTOM=$HOME/.config/zsh/oh-my-zsh/custom/
 
 # ++ For tlmgr CTAN latex package installer ++
 #alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
@@ -47,6 +48,13 @@ alias grep='grep --color'
 # eval "$(zoxide init zsh --hook prompt)"
 # source /usr/share/fzf/completion.zsh
 # source /usr/share/fzf/key-bindings.zsh
+
+ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
+if [[ ! -d $ZSH_CACHE_DIR ]]; then
+  mkdir $ZSH_CACHE_DIR
+fi
+
+source $ZSH/oh-my-zsh.sh
 
 # ++ For Dotfiles ++
 config config status.showUntrackedFiles no

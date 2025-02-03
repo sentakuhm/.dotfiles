@@ -87,12 +87,12 @@
     "format": " {}%",
     "tooltip": true,
     "tooltip-format": "Memory - {used:0.1f}GB used",
-    "on-click": "uwsm app -- ghostty --start-as=fullscreen --title btop sh -c 'btop'"
+    "on-click": "uwsm app -- kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
   "cpu": {
     "interval": 1,
     "format": " {usage}%",
-    "on-click": "uwsm app -- ghostty --start-as=fullscreen --title btop sh -c 'btop'"
+    "on-click": "uwsm app -- kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
   "disk": {
     "interval": 1,
@@ -102,7 +102,7 @@
     "format-alt": "󰋊 {percentage_used}%",
     "tooltip": true,
     "tooltip-format": "Disk - {used} used out of {total} on {path} ({percentage_used}%)",
-    "on-click": "uwsm app -- ghostty --start-as=fullscreen --title btop sh -c 'btop'"
+    "on-click": "uwsm app -- kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
   "temperature": {
     "interval": 10,
@@ -112,13 +112,15 @@
     "format": " {temperatureC}°C",
     "critical-threshold": 82,
     "format-critical": " {temperatureC}°C",
-    "on-click": "uwsm app -- ghostty --start-as=fullscreen --title btop sh -c 'btop'"
+    "on-click": "uwsm app -- kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
+
+  // install wttrbar from AUR
   "custom/weather": {
     "tooltip": true,
-    "format": "{}",
-    "interval": 60,
-    "exec": "uwsm app -- ~/.config/hypr/waybar/scripts/waybar-wttr.py",
+    "format": "{}°",
+    "interval": 3600,
+    "exec": "uwsm app -- wttrbar --date-format \"%m/%d\" --location bordj+douis --hide-conditions",
     "return-type": "json"
   },
   "hyprland/language": {
