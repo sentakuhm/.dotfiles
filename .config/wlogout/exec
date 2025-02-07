@@ -1,0 +1,5 @@
+#/bin/bash
+# @sentakuhm
+if [[ ! $(pidof wlogout) ]]; then
+    wlogout -p layer-shell -b 5 -s -T 312 -B 312 -L 100 -R 100
+fi

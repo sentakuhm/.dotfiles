@@ -1,155 +1,122 @@
 #!/usr/bin/env bash
 # @sentakuhm
 
-# Directories
-ICON_DIR="/usr/share/icons/Papirus-Dark/128x128/apps/"
-SCREENSHOT_DIR="$(xdg-user-dir PICTURES)/Screenshots"
-NOTIFY_CMD="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${ICON_DIR}/image-viewer.svg"
+iDIR="/usr/share/icons/Papirus-Dark/128x128/apps/"
+sDIR="."
+notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/image-viewer.svg"
 
-# File naming
-TIMESTAMP=$(date "+%d-%b_%H-%M-%S")
-SCREENSHOT_FILE="Screenshot_${TIMESTAMP}_${RANDOM}.png"
-SCREENSHOT_PATH="${SCREENSHOT_DIR}/${SCREENSHOT_FILE}"
+time=$(date "+%d-%b_%H-%M-%S")
+dir="$(xdg-user-dir)/Pictures/Screenshots"
+file="Screenshot_${time}_${RANDOM}.png"
 
-# Ensure screenshot directory exists
-mkdir -p "$SCREENSHOT_DIR"
+active_window_class=$(hyprctl -j activewindow | jq -r '(.class)')
+active_window_file="Screenshot_${time}_${active_window_class}.png"
+active_window_path="${dir}/${active_window_file}"
 
-# Notify and view screenshot
+# notify and view screenshot
 notify_view() {
-  local message_type="$1"
-  local message="Screenshot Saved."
-  local icon="${ICON_DIR}/image-viewer.svg"
-
-  case "$message_type" in
-    "active")
-      if [[ -e "$active_window_path" ]]; then
-        message="Screenshot of '${active_window_class}' Saved."
-      else
-        message="Screenshot of '${active_window_class}' Not Saved."
-      fi
-      ;;
-    "swappy")
-      message="Screenshot Captured."
-      ;;
-    *)
-      if [[ ! -e "$SCREENSHOT_PATH" ]]; then
-        message="Screenshot NOT Saved."
-      fi
-      ;;
-  esac
-
-  $NOTIFY_CMD "$message"
+  if [[ "$1" == "active" ]]; then
+    if [[ -e "${active_window_path}" ]]; then
+      ${notify_cmd_shot} "Screenshot of '${active_window_class}' Saved."
+    else
+      ${notify_cmd_shot} "Screenshot of '${active_window_class}' not Saved"
+    fi
+  elif [[ "$1" == "swappy" ]]; then
+    ${notify_cmd_shot} "Screenshot Captured."
+  else
+    local check_file="$dir/$file"
+    if [[ -e "$check_file" ]]; then
+      ${notify_cmd_shot} "Screenshot Saved."
+    else
+      ${notify_cmd_shot} "Screenshot NOT Saved."
+    fi
+  fi
 }
 
-# Countdown
+# countdown
 countdown() {
-  for sec in $(seq "$1" -1 1); do
-    notify-send -h string:x-canonical-private-synchronous:shot-notify -t 1000 -i "${ICON_DIR}/timer.png" "Taking shot in : $sec"
+  for sec in $(seq $1 -1 1); do
+    notify-send -h string:x-canonical-private-synchronous:shot-notify -t 1000 -i "$iDIR"/timer.png "Taking shot in : $sec"
     sleep 1
   done
 }
 
-# Take screenshot now
+# take shots
 shotnow() {
-  if grim - | tee "$SCREENSHOT_PATH" | wl-copy; then
-    notify_view
-  else
-    notify_view "error"
-  fi
+  cd ${dir} && grim - | tee "$file" | wl-copy
+  sleep 2
+  notify_view
 }
 
-# Take screenshot after 5 seconds
 shot5() {
-  countdown 5
+  countdown '5'
+  sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
   sleep 1
-  if grim - | tee "$SCREENSHOT_PATH" | wl-copy; then
-    notify_view
-  else
-    notify_view "error"
-  fi
+  notify_view
+
 }
 
-# Take screenshot after 10 seconds
 shot10() {
-  countdown 10
-  sleep 1
-  if grim - | tee "$SCREENSHOT_PATH" | wl-copy; then
-    notify_view
-  else
-    notify_view "error"
-  fi
+  countdown '10'
+  sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
+  notify_view
 }
 
-# Take screenshot of active window
 shotwin() {
-  local win_pos win_size
-  win_pos=$(hyprctl activewindow | grep 'at:' | cut -d':' -f2 | tr -d ' ' | tail -n1)
-  win_size=$(hyprctl activewindow | grep 'size:' | cut -d':' -f2 | tr -d ' ' | tail -n1 | sed s/,/x/g)
-
-  if grim -g "$win_pos $win_size" - | tee "$SCREENSHOT_PATH" | wl-copy; then
-    notify_view
-  else
-    notify_view "error"
-  fi
+  w_pos=$(hyprctl activewindow | grep 'at:' | cut -d':' -f2 | tr -d ' ' | tail -n1)
+  w_size=$(hyprctl activewindow | grep 'size:' | cut -d':' -f2 | tr -d ' ' | tail -n1 | sed s/,/x/g)
+  cd ${dir} && grim -g "$w_pos $w_size" - | tee "$file" | wl-copy
+  notify_view
 }
 
-# Take screenshot of selected area
 shotarea() {
-  local tmpfile
   tmpfile=$(mktemp)
-
-  if grim -g "$(slurp)" - >"$tmpfile"; then
+  grim -g "$(slurp)" - >"$tmpfile"
+  if [[ -s "$tmpfile" ]]; then
     wl-copy <"$tmpfile"
-    mv "$tmpfile" "$SCREENSHOT_PATH"
-    notify_view
-  else
-    notify_view "error"
+    mv "$tmpfile" "$dir/$file"
   fi
-
-  rm -f "$tmpfile"
+  rm "$tmpfile"
+  notify_view
 }
 
-# Take screenshot of active window with class name
 shotactive() {
   active_window_class=$(hyprctl -j activewindow | jq -r '(.class)')
-  active_window_file="Screenshot_${TIMESTAMP}_${active_window_class}.png"
-  active_window_path="${SCREENSHOT_DIR}/${active_window_file}"
+  active_window_file="Screenshot_${time}_${active_window_class}.png"
+  active_window_path="${dir}/${active_window_file}"
 
-  if hyprctl -j activewindow | jq -r '"\(.at[0]),\(.at[1]) \(.size[0])x\(.size[1])"' | grim -g - "$active_window_path"; then
-    notify_view "active"
-  else
-    notify_view "error"
-  fi
+  hyprctl -j activewindow | jq -r '"\(.at[0]),\(.at[1]) \(.size[0])x\(.size[1])"' | grim -g - "${active_window_path}"
+  sleep 1
+  notify_view "active"
 }
 
-# Take screenshot and edit with swappy
 shotswappy() {
-  local tmpfile
   tmpfile=$(mktemp)
-
-  if grim -g "$(slurp)" - >"$tmpfile"; then
-    notify_view "swappy"
-    swappy -f - <"$tmpfile"
-  else
-    notify_view "error"
-  fi
-
-  rm -f "$tmpfile"
+  grim -g "$(slurp)" - >"$tmpfile" && notify_view "swappy"
+  swappy -f - <"$tmpfile"
+  rm "$tmpfile"
 }
 
-# Main script logic
-case "$1" in
-  "--now") shotnow ;;
-  "--in5") shot5 ;;
-  "--in10") shot10 ;;
-  "--win") shotwin ;;
-  "--area") shotarea ;;
-  "--active") shotactive ;;
-  "--swappy") shotswappy ;;
-  *)
-    echo "Available Options: --now --in5 --in10 --win --area --active --swappy"
-    exit 1
-    ;;
-esac
+if [[ ! -d "$dir" ]]; then
+  mkdir -p "$dir"
+fi
+
+if [[ "$1" == "--now" ]]; then
+  shotnow
+elif [[ "$1" == "--in5" ]]; then
+  shot5
+elif [[ "$1" == "--in10" ]]; then
+  shot10
+elif [[ "$1" == "--win" ]]; then
+  shotwin
+elif [[ "$1" == "--area" ]]; then
+  shotarea
+elif [[ "$1" == "--active" ]]; then
+  shotactive
+elif [[ "$1" == "--swappy" ]]; then
+  shotswappy
+else
+  echo -e "Available Options : --now --in5 --in10 --win --area --active --swappy"
+fi
 
 exit 0
