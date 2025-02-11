@@ -175,7 +175,7 @@
   //},
   "custom/power_btn": {
     "format": " ",
-    "on-click": "uwsm app -- ~/.config/wleave/exec",
+    "on-click": "uwsm app -- ~/.config/wlogout/exec",
     "tooltip": false
   }
 }
