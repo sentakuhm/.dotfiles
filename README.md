@@ -9,7 +9,7 @@
 2. For _"Hyprland"_ install
 
    ```cmd
-   sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp dunst swww imv waybar rofi-wayland nwg-look qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
+   sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker grim slurp swaync swww imv waybar rofi-wayland nwg-look qt5-wayland qt6-wayland pamixer mpd papirus-icon-theme wl-clipboard network-manager-applet
    ```
 
    Additional deps from AUR
@@ -19,9 +19,6 @@
    ```
 
 4. Tmux plugin manager
-
-   ```
-   tpm:
 
    ```cmd
    git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
