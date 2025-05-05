@@ -47,6 +47,7 @@ tooltip {
     border-radius: 10px;
 }
 
+#custom-chatgpt,
 #custom-weather,
 #clock,
 #cpu,
@@ -58,6 +59,7 @@ tooltip {
 #workspaces,
 #window,
 #language,
+#custom-notification,
 #custom-power_btn,
 #tray {
     background: rgba(24, 24, 37, 0.8);
@@ -86,6 +88,10 @@ tooltip {
 
 #clock {
     color: @peach;
+}
+
+#custom-chatgpt {
+    color: @red;
 }
 
 #cpu {
@@ -117,6 +123,10 @@ tooltip {
 #language{
     color: @sky;
     border-radius: 10px 0px 0px 10px;
+}
+
+#custom-notification{
+  color: @teal;
 }
 
 #network {

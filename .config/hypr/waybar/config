@@ -7,6 +7,7 @@
   "gtk-layer-shell": true,
   "height": 0,
   "modules-left": [
+    //"custom/chatgpt",
     "cpu",
     "memory",
     "disk",
@@ -20,6 +21,7 @@
     "tray",
     "custom/weather",
     "hyprland/language",
+    "custom/notification",
     //"network",
     "pulseaudio",
     "pulseaudio#microphone",
@@ -81,6 +83,37 @@
       "on-scroll-up": "shift_up",
       "on-scroll-down": "shift_down"
     }
+  },
+  // ChatGPT
+  "custom/chatgpt": {
+    "format": " ",
+    "on-click": "~/.config/hypr/scripts/ai.sh",
+    "tooltip-format": "AI Support"
+  },
+  // SwayNC
+  "custom/notification": {
+    "tooltip-format": "Left: Notifications\nRight: Do not disturb",
+    "format": "{icon}",
+    "format-icons": {
+      "notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "none": "",
+      "dnd-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "dnd-none": "",
+      "inhibited-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "dnd-inhibited-none": ""
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": true
   },
   "memory": {
     "interval": 1,

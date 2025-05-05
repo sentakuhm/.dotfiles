@@ -21,7 +21,7 @@ notify_view() {
     else
       ${notify_cmd_shot} "Screenshot of '${active_window_class}' not Saved"
     fi
-  elif [[ "$1" == "swappy" ]]; then
+  elif [[ "$1" == "satty" ]]; then
     ${notify_cmd_shot} "Screenshot Captured."
   else
     local check_file="$dir/$file"
@@ -90,10 +90,10 @@ shotactive() {
   notify_view "active"
 }
 
-shotswappy() {
+shotsatty() {
   tmpfile=$(mktemp)
-  grim -g "$(slurp)" - >"$tmpfile" && notify_view "swappy"
-  swappy -f - <"$tmpfile"
+  grim -g "$(slurp)" - >"$tmpfile" && notify_view "satty"
+  satty -f - <"$tmpfile"
   rm "$tmpfile"
 }
 
@@ -113,10 +113,10 @@ elif [[ "$1" == "--area" ]]; then
   shotarea
 elif [[ "$1" == "--active" ]]; then
   shotactive
-elif [[ "$1" == "--swappy" ]]; then
-  shotswappy
+elif [[ "$1" == "--satty" ]]; then
+  shotsatty
 else
-  echo -e "Available Options : --now --in5 --in10 --win --area --active --swappy"
+  echo -e "Available Options : --now --in5 --in10 --win --area --active --satty"
 fi
 
 exit 0
