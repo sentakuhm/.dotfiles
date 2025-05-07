@@ -95,18 +95,14 @@
     "tooltip-format": "Left: Notifications\nRight: Do not disturb",
     "format": "{icon}",
     "format-icons": {
-      "notification":
-        "<span rise='8pt'> <span foreground='red'><sup></sup></span></span>",
-      "none": " ",
-      "dnd-notification":
-        "<span rise='8pt'> <span foreground='red'><sup></sup></span></span>",
-      "dnd-none": " ",
-      "inhibited-notification":
-        "<span rise='8pt'> <span foreground='red'><sup></sup></span></span>",
-      "inhibited-none": " ",
-      "dnd-inhibited-notification":
-        "<span rise='8pt'> <span foreground='red'><sup></sup></span></span>",
-      "dnd-inhibited-none": " "
+      "notification":"",
+      "none": "",
+      "dnd-notification":"",
+      "dnd-none": "",
+      "inhibited-notification":"",
+      "inhibited-none": "",
+      "dnd-inhibited-notification":"",
+      "dnd-inhibited-none": ""
     },
     "return-type": "json",
     "exec-if": "which swaync-client",
