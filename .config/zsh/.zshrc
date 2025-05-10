@@ -30,7 +30,8 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias v=nvim
 alias yy=yazi
-alias ls=eza
+alias cat=bat
+alias ls='eza --colour=always --git --no-filesize --icons=always --no-time --no-user --no-permissions --long --group-directories-first -a' # you can add --long
 alias ff='clear && fastfetch'
 alias ve='sudoedit'
 alias mkdir='mkdir -p'
