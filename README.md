@@ -3,7 +3,7 @@
 1. Before installing dotfiles make sure you installed
 
    ```cmd
-   sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat htop btop neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting jq python-requests python-gobject rsync mission-center wf-recorder
+   sudo pacman -S kitty zoxide eza fd ripgrep less fzf bat htop btop neovim tmux zsh zsh-autosuggestions zsh-syntax-highlighting jq python-requests python-gobject rsync mission-center wf-recorder udiskie
    ```
 
 2. For _"Hyprland"_ install
