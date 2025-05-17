@@ -16,7 +16,7 @@ ZSH=/usr/share/oh-my-zsh/
 ZSH_THEME="zeta"
 
 # ++ Plugins ++
-plugins=(git dotenv extract rake archlinux sudo man themes last-working-dir history-substring-search fzf zoxide eza)
+plugins=(git dotenv extract rake archlinux sudo man themes last-working-dir history-substring-search fzf zoxide)
 
 # Would you like to use another custom folder than $ZSH/custom?
 ZSH_CUSTOM=$HOME/.config/zsh/oh-my-zsh/custom/
@@ -31,7 +31,6 @@ alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias v=nvim
 alias yy=yazi
 alias cat=bat
-alias ls='eza --colour=always --git --no-filesize --icons=always --no-time --no-user --no-permissions --long --group-directories-first -a' # you can add --long
 alias ff='clear && fastfetch'
 alias ve='sudoedit'
 alias mkdir='mkdir -p'
@@ -56,6 +55,7 @@ if [[ ! -d $ZSH_CACHE_DIR ]]; then
 fi
 
 source $ZSH/oh-my-zsh.sh
+alias ls='eza --colour=always --git --no-filesize --icons=always --no-time --no-user --no-permissions --group-directories-first' # you can add --long
 
 # ++ For Dotfiles ++
 config config status.showUntrackedFiles no

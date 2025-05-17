@@ -8,7 +8,7 @@ export QT_WAYLAND_DISABLE_WINDOWDECORATION='1'
 export QT_AUTO_SCREEN_SCALE_FACTOR='1'
 
 # GDK
-export GDK_SCALE='1.5'
+export GDK_SCALE='1'
 
 # Toolkit Backend
 export GDK_BACKEND='wayland,x11,*'
