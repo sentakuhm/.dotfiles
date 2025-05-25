@@ -95,13 +95,13 @@
     "tooltip-format": "Left: Notifications\nRight: Do not disturb",
     "format": "{icon}",
     "format-icons": {
-      "notification":"",
+      "notification": "",
       "none": "",
-      "dnd-notification":"",
+      "dnd-notification": "",
       "dnd-none": "",
-      "inhibited-notification":"",
+      "inhibited-notification": "",
       "inhibited-none": "",
-      "dnd-inhibited-notification":"",
+      "dnd-inhibited-notification": "",
       "dnd-inhibited-none": ""
     },
     "return-type": "json",
@@ -143,7 +143,6 @@
     "format-critical": " {temperatureC}°C",
     "on-click": "kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
-
   // install wttrbar from AUR
   "custom/weather": {
     "tooltip": true,
