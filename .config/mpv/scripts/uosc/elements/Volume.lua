@@ -215,6 +215,7 @@ function Volume:destroy()
 end
 
 function Volume:get_visibility()
+	if state.is_image then return 0 end
 	return self.slider.pressed and 1 or Elements:maybe('timeline', 'get_is_hovered') and -1
 		or Element.get_visibility(self)
 end
@@ -249,7 +250,7 @@ function Volume:render()
 	if visibility <= 0 then return end
 
 	-- Reset volume on secondary click
-	cursor:zone('secondary_down', self, function()
+	cursor:zone('secondary_click', self, function()
 		mp.set_property_native('mute', false)
 		mp.set_property_native('volume', 100)
 	end)
