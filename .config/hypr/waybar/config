@@ -7,7 +7,6 @@
   "gtk-layer-shell": true,
   "height": 0,
   "modules-left": [
-    //"custom/chatgpt",
     "cpu",
     "memory",
     "disk",
@@ -22,7 +21,7 @@
     "custom/weather",
     "hyprland/language",
     "custom/notification",
-    //"network",
+    "network",
     "pulseaudio",
     "pulseaudio#microphone",
     "clock",
@@ -85,12 +84,6 @@
       "on-scroll-down": "shift_down"
     }
   },
-  // ChatGPT
-  "custom/chatgpt": {
-    "format": " ",
-    "on-click": "~/.config/hypr/scripts/ai.sh",
-    "tooltip-format": "AI Support"
-  },
   // SwayNC
   "custom/notification": {
     "tooltip-format": "Left: Notifications\nRight: Do not disturb",
@@ -112,6 +105,7 @@
     "on-click-right": "swaync-client -d -sw",
     "escape": true
   },
+  // Ram
   "memory": {
     "interval": 1,
     "format": " {}%",
@@ -119,11 +113,13 @@
     "tooltip-format": "Memory - {used:0.1f}GB used",
     "on-click": "kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
+  // CPU
   "cpu": {
     "interval": 1,
     "format": " {usage}%",
     "on-click": "kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
+  // Disk
   "disk": {
     "interval": 1,
     "format": "󰋊 {percentage_used}%",
@@ -134,6 +130,7 @@
     "tooltip-format": "Disk - {used} used out of {total} on {path} ({percentage_used}%)",
     "on-click": "kitty --start-as=fullscreen --title btop sh -c 'btop'"
   },
+  // Temperature
   "temperature": {
     "interval": 10,
     "tooltip": false,
@@ -152,11 +149,13 @@
     "exec": "wttrbar --date-format \"%m/%d\" --location bordj+douis --hide-conditions",
     "return-type": "json"
   },
+  // Layout
   "hyprland/language": {
     "format": "{}",
     "format-en": "EN",
     "format-ar": "ARA"
   },
+  // Audio
   "pulseaudio": {
     "format": "{icon} {volume}%",
     "format-muted": " ",
@@ -189,19 +188,19 @@
     "on-scroll-down": "pamixer --default-source -d 1",
     "scroll-step": 5
   },
-  //"network": {
-  //  "interface": "enp42s0",
-  //  "format": "{ifname}",
-  //  "format-wifi": "{essid} ({signalStrength}%)  ",
-  //  "format-ethernet": "󰈀 ",
-  //  "format-disconnected": "", //An empty format will hide the module.
-  //  "on-click-right": "nm-connection-editor",
-  //  "tooltip-format": "{ifname} via {gwaddr} 󰈀 ",
-  //  "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
-  //  "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
-  //  "tooltip-format-disconnected": "Disconnected",
-  //  "max-length": 50
-  //},
+  "network": {
+    "interface": "eno1",
+    "format": "{ifname}",
+    "format-wifi": "{essid} ({signalStrength}%)  ",
+    "format-ethernet": "󰈀 ",
+    "format-disconnected": "", //An empty format will hide the module.
+    "on-click-right": "nm-connection-editor",
+    "tooltip-format": "{ifname} via {gwaddr} 󰈀 ",
+    "tooltip-format-wifi": "{essid} ({signalStrength}%)  ",
+    "tooltip-format-ethernet": "{ipaddr}/{cidr}  ",
+    "tooltip-format-disconnected": "Disconnected",
+    "max-length": 50
+  },
   "custom/power_btn": {
     "format": " ",
     "on-click": "~/.config/wlogout/exec",

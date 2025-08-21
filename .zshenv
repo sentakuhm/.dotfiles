@@ -14,7 +14,6 @@ export EDITOR="nvim"
 export VISUAL="nvim"
 export TERMINAL="kitty"
 export BROWSER="firefox"
-export MOZ_ENABLE_WAYLAND=1 # Fix Blurry Firefox on HiDPI + Wayland
 typeset -U path PATH
 path=(~/.local/bin $path)
 export PATH
@@ -27,11 +26,8 @@ export XDG_STATE_HOME="$HOME/.local/state"
 export XDG_CACHE_HOME="$HOME/.cache"
 export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 export LD_PRELOAD=/usr/lib/libgamemode.so
-#export XCURSOR_THEME=/usr/share/icons/Breeze_Light
-#export XCURSOR_SIZE=24
 export W3M_DIR="$XDG_STATE_HOME/w3m"
 export GNUPGHOME="$XDG_DATA_HOME"/gnupg
-export GTK_RC_FILES="$XDG_CONFIG_HOME"/gtk-1.0/gtkrc
 export GTK2_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
 export _JAVA_OPTIONS=-Djava.util.prefs.userRoot="$XDG_CONFIG_HOME"/java
 export TERMINFO="$XDG_DATA_HOME"/terminfo
