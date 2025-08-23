@@ -14,8 +14,9 @@ export GDK_DPI_SCALE=1
 # Toolkit Backend
 export GDK_BACKEND='wayland,x11,*'
 export QT_QPA_PLATFORM='wayland;xcb'
-#export CLUTTER_BACKEND=wayland
-#export SDL_VIDEODRIVER=wayland
+export CLUTTER_BACKEND=wayland
+export SDL_VIDEODRIVER=wayland
+export AQ_DRM_DEVICES=/dev/dri/card1
 
 # Mozilla
 #export MOZ_ENABLE_WAYLAND=1
@@ -30,5 +31,5 @@ export HYPRCURSOR_SIZE=24
 #export APPIMAGELAUNCHER_DISABLE='1'
 
 # Ozone
-#export OZONE_PLATFORM=wayland
-#export ELECTRON_OZONE_PLATFORM_HINT=auto
+export OZONE_PLATFORM=wayland
+export ELECTRON_OZONE_PLATFORM_HINT=auto
