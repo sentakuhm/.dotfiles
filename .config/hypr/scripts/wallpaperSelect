@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 ## @sentakuhm  ##
-# This script for selecting wallpapers (SUPER+CTRL+W)
+# This script for selecting wallpapers ($mainMod+CTRL+W)
 
 # Wallpapers Path
-wallpaperDir="$HOME/Pictures/wallpapers"
+wallpaperDir="$HOME/Pictures/Wallpapers"
 themesDir="$HOME/.config/rofi/"
 # Transition config
 FPS=60
