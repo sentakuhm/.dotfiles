@@ -19,7 +19,7 @@ export SDL_VIDEODRIVER=wayland
 export AQ_DRM_DEVICES=/dev/dri/card1
 
 # Mozilla
-#export MOZ_ENABLE_WAYLAND=1
+export MOZ_ENABLE_WAYLAND=1
 
 # Set the cursor size for xcursor
 export XCURSOR_THEME=BreezeX-RosePine-Linux

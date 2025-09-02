@@ -10,9 +10,9 @@
 * {
     background:     		#15161EFF;
     background-alt: 		#1A1B26FF;
-    background-transparent: 	#0c0c0cBB;
+    background-transparent: #0c0c0cBB;
     foreground:     		#C0CAF5FF;
-    foreground-alt:         	#010101FF;
+    foreground-alt:         #010101FF;
     selected:       		#FB958BFF;
     active:         		#414868FF;
     urgent:         		#F7768EFF;

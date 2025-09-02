@@ -1,7 +1,7 @@
 * {
   all: unset;
   font-size: 14px;
-  font-family: "JetBrainsMono Nerd Font";
+  font-family: "JetBrainsMono Nerd Font Propo";
   transition: 200ms;
 }
 
@@ -11,7 +11,7 @@ trough highlight {
 
 scale trough {
   margin: 0rem 1rem;
-  background-color: #131317;
+  background-color: #313244;
   min-height: 8px;
   min-width: 70px;
 }
@@ -27,7 +27,7 @@ slider {
   margin-bottom: 18px;
   margin-right: 18px;
   margin-left: 150px;
-  background-color: rgba(19, 19, 23, 0.8);
+  background-color: rgba(30, 30, 46, 0.8);
   color: #cdd6f4;
   padding: 0;
 }
@@ -64,14 +64,14 @@ slider {
 .floating-notifications.background .notification-row .notification-background .notification > *:last-child > * .notification-action {
   border-radius: 7px;
   color: #cdd6f4;
-  background-color: #131317;
+  background-color: #313244;
   box-shadow: inset 0 0 0 1px #45475a;
   margin: 7px;
 }
 
 .floating-notifications.background .notification-row .notification-background .notification > *:last-child > * .notification-action:hover {
   box-shadow: inset 0 0 0 1px #45475a;
-  background-color: #131317;
+  background-color: #313244;
   color: #cdd6f4;
 }
 
@@ -106,7 +106,7 @@ slider {
   margin-bottom: 300px;
   margin-right: 18px;
   margin-left: 150px;
-  background-color: rgba(19, 19, 23, 0.9);
+  background-color: rgba(30, 30, 46, 0.9);
   color: #cdd6f4;
   padding: 14px;
 }
@@ -119,7 +119,7 @@ slider {
 .control-center .widget-title button {
   border-radius: 7px;
   color: #cdd6f4;
-  background-color: #131317;
+  background-color: #313244;
   box-shadow: inset 0 0 0 1px #45475a;
   padding: 8px;
 }
@@ -139,7 +139,7 @@ slider {
 .control-center .notification-row .notification-background {
   border-radius: 7px;
   color: #cdd6f4;
-  background-color: #131317;
+  background-color: #313244;
   box-shadow: inset 0 0 0 1px #45475a;
   margin-top: 14px;
 }
@@ -183,7 +183,7 @@ slider {
 
 .control-center .notification-row .notification-background .notification > *:last-child > * .notification-action:hover {
   box-shadow: inset 0 0 0 1px #45475a;
-  background-color: #131317;
+  background-color: #313244;
   color: #cdd6f4;
 }
 
@@ -239,13 +239,13 @@ slider {
 .control-center-dnd {
   margin-top: 5px;
   border-radius: 8px;
-  background: #131317;
+  background: #313244;
   border: 1px solid #45475a;
   box-shadow: none;
 }
 
 .control-center-dnd:checked {
-  background: #131317;
+  background: #313244;
 }
 
 .control-center-dnd slider {
@@ -261,13 +261,13 @@ slider {
 .widget-dnd > switch {
   font-size: initial;
   border-radius: 8px;
-  background: #131317;
+  background: #313244;
   border: 1px solid #45475a;
   box-shadow: none;
 }
 
 .widget-dnd > switch:checked {
-  background: #131317;
+  background: #313244;
 }
 
 .widget-dnd > switch slider {
@@ -277,7 +277,7 @@ slider {
 }
 
 .widget-mpris .widget-mpris-player {
-  background: #131317;
+  background: #313244;
   padding: 7px;
 }
 
@@ -301,7 +301,7 @@ slider {
 .power-buttons button:hover,
 .powermode-buttons button:hover,
 .screenshot-buttons button:hover {
-  background: #131317;
+  background: #313244;
 }
 
 .control-center .widget-label > label {

@@ -3,7 +3,7 @@
 /* ---- Configuration ---- */
 configuration {
     modi:                        "drun";
-    font:                        "JetBrainsMono Nerd Font Propo 10";
+    font:                        "JetBrainsMono Nerd Font 11";
     show-icons:                  true;
 	drun-display-format:         "{name}";
     hover-select:                true;
