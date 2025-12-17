@@ -152,6 +152,8 @@
     "interval": 3600,
     "exec": "wttrbar --date-format \"%m/%d\" --location bordj+douis --hide-conditions",
     "return-type": "json"
+    //"exec": "curl https://wttr.in/Douis?format=1;curl https://wttr.in/Douis?format=4", //another format 
+    //"on-click": "kitty -e zsh -c 'curl v2n.wttr.in/Douis; read'" //for another format
   },
   // Layout
   "hyprland/language": {
@@ -164,7 +166,7 @@
     "format": "{icon} {volume}%",
     "format-muted": " ",
     "on-click": "pamixer -t",
-    "on-click-right": "hyprpwcenter",
+    "on-click-right": "pavucontrol",
     "on-scroll-up": "pamixer -i 5",
     "on-scroll-down": "pamixer -d 5",
     "scroll-step": 5,
@@ -187,7 +189,7 @@
     "format-source": "󰍬 {volume}%",
     "format-source-muted": "󰍭 ",
     "on-click": "pamixer --default-source -t",
-    "on-click-right": "hyprpwcenter",
+    "on-click-right": "pavucontrol",
     "on-scroll-up": "pamixer --default-source -i 1",
     "on-scroll-down": "pamixer --default-source -d 1",
     "scroll-step": 5
