@@ -10,19 +10,6 @@ return {
     },
   },
 
-  -- Bufferline
-  -- {
-  --   "akinsho/bufferline.nvim",
-  --   dependencies = { "echasnovski/mini.icons" },
-  --   config = function()
-  --     require("bufferline").setup({
-  --       options = {
-  --         separator_style = "slant", -- Style for separator between buffers
-  --       },
-  --     })
-  --   end,
-  -- },
-
   -- LazyVim
   {
     "LazyVim/LazyVim",
@@ -39,26 +26,4 @@ return {
       end,
     },
   },
-
-  -- Neo-Tree
-  {
-    "nvim-neo-tree/neo-tree.nvim",
-    opts = {
-      window = {
-        width = 25, -- Set Neo-tree width to 35 columns
-      },
-    },
-  },
-
-  -- Make terminal float
-  -- {
-  --   "folke/snacks.nvim",
-  --   opts = {
-  --     terminal = {
-  --       win = {
-  --         position = "float",
-  --       },
-  --     },
-  --   },
-  -- },
 }
