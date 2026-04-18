@@ -40,6 +40,7 @@ alias cls='clear'
 alias reboot='systemctl reboot'
 alias dmesg='sudo -v; sudo dmesg --color=always | less'
 alias grep='grep --color'
+alias umugame='mangohud gamemoderun umu-run --config ~/.config/umu/config.toml'
 
 # ++ For Canon Printer ++
 #alias cjob='captstatusui -P LBP6020 -e'
