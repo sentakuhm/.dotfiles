@@ -14,12 +14,21 @@ export EDITOR="nvim"
 export VISUAL="nvim"
 export TERMINAL="kitty"
 export BROWSER="firefox"
+# For firefox
+#export MOZ_DISABLE_RDD_SANDBOX=1
+#export LIBVA_DRIVER_NAME=nvidia
+#export NVD_BACKEND=direct
+#export CUDA_DISABLE_PERF_BOOST=1
 typeset -U path PATH
 path=(~/.local/bin $path)
 export PATH
 # cleaning up home folder
 alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
 alias wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"
+# for claude code AI
+export ANTHROPIC_BASE_URL=http://localhost:1234
+export ANTHROPIC_AUTH_TOKEN=lmstudio
+###############################################
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_STATE_HOME="$HOME/.local/state"

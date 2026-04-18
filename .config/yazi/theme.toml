@@ -11,7 +11,7 @@
 
 [flavor]
 # create "flavors" folder under yazi & run: $ ya pack -a BennyOe/tokyo-night
-dark = "tokyo-night"
+dark = "tokyonight-night"
 light = ""
 
 # : }}}
