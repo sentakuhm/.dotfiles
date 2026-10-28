@@ -25,15 +25,14 @@ export PATH
 # cleaning up home folder
 alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
 alias wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"
-# for claude code AI
-export ANTHROPIC_BASE_URL=http://localhost:1234
-export ANTHROPIC_AUTH_TOKEN=lmstudio
+# Local AI
+export PATH="$HOME/.local/share/llama-cpp/vulkan/:$PATH"
 ###############################################
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_STATE_HOME="$HOME/.local/state"
 export XDG_CACHE_HOME="$HOME/.cache"
-export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
+#export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 export LD_PRELOAD=/usr/lib/libgamemode.so
 export W3M_DIR="$XDG_STATE_HOME/w3m"
 export GNUPGHOME="$XDG_DATA_HOME"/gnupg
@@ -43,8 +42,9 @@ export TERMINFO="$XDG_DATA_HOME"/terminfo
 export TERMINFO_DIRS="$XDG_DATA_HOME"/terminfo:/usr/share/terminfo
 export WINEPREFIX="$XDG_DATA_HOME"/wineprefixes/default
 export TEXMFVAR="$XDG_CACHE_HOME"/texlive/texmf-var
-export TEXMFHOME=$XDG_DATA_HOME/texmf
-export TEXMFCONFIG=$XDG_CONFIG_HOME/texlive/texmf-config
+export TEXMFHOME="$XDG_DATA_HOME"/texmf
+export TEXMFCONFIG="$XDG_CONFIG_HOME"/texlive/texmf-config
+export PATH="/usr/local/texlive/2026/bin/x86_64-linux:$PATH"
 export PARALLEL_HOME="$XDG_CONFIG_HOME"/parallel
 export LESSHISTFILE="-"
 export WGETRC="$XDG_CONFIG_HOME/wgetrc"
@@ -56,3 +56,12 @@ export RUSTUP_HOME="$XDG_DATA_HOME"/rustup
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 export N_PREFIX="$HOME/.local/bin/n"
 export ZDOTDIR="$HOME/.config/zsh"
+
+# ==================================================
+# REA (reverse-engineering agents) — https://github.com/morluto/rea
+# ==================================================
+# Ghidra headless provider root. REA also resolves the JDK from PATH
+# (java on this host is OpenJDK 27), so JAVA_HOME is intentionally not set
+# here to avoid pinning a JVM version. Set it only if you change runtimes:
+# export JAVA_HOME="/usr/lib/jvm/default"   # full JDK, Arch-managed symlink
+export GHIDRA_INSTALL_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/ghidra/ghidra_12.1.4_PUBLIC"

@@ -23,6 +23,9 @@ ZSH_CUSTOM=$HOME/.config/zsh/oh-my-zsh/custom/
 
 # ++ For tlmgr CTAN latex package installer ++
 #alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
+alias tlinstall='sudo /usr/local/texlive/2026/bin/x86_64-linux/tlmgr install'
+alias tlup='sudo /usr/local/texlive/2026/bin/x86_64-linux/tlmgr update --all'
+alias tllist='sudo /usr/local/texlive/2026/bin/x86_64-linux/tlmgr update --list'
 
 # ++ Sources & Aliases ++
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -41,7 +44,13 @@ alias reboot='systemctl reboot'
 alias dmesg='sudo -v; sudo dmesg --color=always | less'
 alias grep='grep --color'
 alias umugame='mangohud gamemoderun umu-run --config ~/.config/umu/config.toml'
-
+#++ Local AI
+#Fast Answer
+alias llfast='llama-server -m "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp.gguf" --mmproj "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/mmproj-Qwen3.8-27B-BF16.gguf" -a "Qwen3.8 27B GSQ-RCO IQ3_XXS" -ngl 999 -fa on --jinja -c 41523 -b 512 -ub 512 -t 6 -tb 6 -np 1 --no-mmproj-offload --spec-type draft-mtp --spec-draft-n-max 2 --spec-draft-p-min 0.75 -ctk q5_1 -ctv q5_1 -ctkd q5_1 -ctvd q5_1 --temp 1.0 --top-p 0.95 --top-k 20 --min-p 0.0 --presence-penalty 0.0 --repeat-penalty 1.0'
+# Medium Project
+alias llprojm='llama-server -m "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp.gguf" --mmproj "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/mmproj-Qwen3.8-27B-BF16.gguf" -a "Qwen3.8 27B GSQ-RCO IQ3_XXS" -ngl 999 -fa on --jinja -c 65410 -b 512 -ub 512 -t 6 -tb 6 -np 1 --no-mmproj-offload --spec-type draft-mtp --spec-draft-n-max 2 --spec-draft-p-min 0.75 -ctk q5_1 -ctv q5_1 -ctkd q5_1 -ctvd q5_1 --temp 1.0 --top-p 0.95 --top-k 20 --min-p 0.0 --presence-penalty 0.0 --repeat-penalty 1.0'
+# Big Project
+alias llprojb='llama-server -m "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp.gguf" --mmproj "/Games/Models/Qwen/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-mtp/mmproj-Qwen3.8-27B-BF16.gguf" -a "Qwen3.8 27B GSQ-RCO IQ3_XXS" -ngl 999 -fa on --jinja -c 131312 -b 1024 -ub 1024 -t 6 -tb 6 -np 1 --no-mmproj-offload --spec-type draft-mtp --spec-draft-n-max 2 --spec-draft-p-min 0.75 -ctk q5_1 -ctv q5_1 -ctkd q5_1 -ctvd q5_1 --temp 1.0 --top-p 0.95 --top-k 20 --min-p 0.0 --presence-penalty 0.0 --repeat-penalty 1.0'
 # ++ For Canon Printer ++
 #alias cjob='captstatusui -P LBP6020 -e'
 
