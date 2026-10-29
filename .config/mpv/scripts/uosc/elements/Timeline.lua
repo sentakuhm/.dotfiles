@@ -18,12 +18,20 @@ function Timeline:init()
 	self.progress_line_width = 0
 	self.is_hovered = false
 	self.has_thumbnail = false
+	self.heatmap = nil
 
 	self:decide_progress_size()
 	self:update_dimensions()
 
-	-- Release any dragging when file gets unloaded
-	self:register_mp_event('end-file', function() self.pressed = false end)
+	-- Load Youtube heatmap data if available
+	self:register_mp_event('file-loaded', function()
+		self.heatmap = load_youtube_heatmap()
+	end)
+	-- Release any dragging and clear heatmap when file gets unloaded
+	self:register_mp_event('end-file', function()
+		self.pressed = false
+		self.heatmap = nil
+	end)
 end
 
 function Timeline:get_visibility()
@@ -166,6 +174,13 @@ function Timeline:on_global_mouse_move()
 	end
 end
 
+function Timeline:cursor_command(command)
+	if type(command) == 'string' and #command > 0 and state.time and state.duration then
+		local expanded_command = command:gsub("{time}", self:get_time_at_x(cursor.x))
+		mp.command(expanded_command)
+	end
+end
+
 function Timeline:render()
 	if self.size == 0 then
 		self:clear_thumbnail()
@@ -181,7 +196,7 @@ function Timeline:render()
 		return
 	end
 
-	if self.proximity_raw == 0 then
+	if self.proximity_raw <= 0 then
 		self.is_hovered = true
 	end
 	if visibility > 0 then
@@ -189,6 +204,11 @@ function Timeline:render()
 			self:handle_cursor_down()
 			cursor:once('primary_up', function() self:handle_cursor_up() end)
 		end)
+		if #options.timeline_mbtn_right > 0 then
+			cursor:zone('secondary_down', self, function()
+				self:cursor_command(options.timeline_mbtn_right)
+			end)
+		end
 		if config.timeline_step ~= 0 then
 			cursor:zone('wheel_down', self, function()
 				mp.commandv('seek', -config.timeline_step, config.timeline_step_flag)
@@ -257,7 +277,32 @@ function Timeline:render()
 	ass:draw_stop()
 
 	-- Progress
-	ass:rect(fax, fay, fbx, fby, {opacity = config.opacity.position})
+	local function draw_progress()
+		ass:rect(fax, fay, fbx, fby, {opacity = config.opacity.position})
+	end
+
+	-- Youtube heatmap
+	local function draw_heatmap()
+		if options.timeline_heatmap ~= 'no' and self.heatmap and config.opacity.heatmap > 0 and visibility > 0 then
+			local is_above = options.timeline_heatmap == 'above'
+			local height = math.min(40, size / self.size * 40)
+			local ax, ay = bax, is_above and (bay - height) or (bay + self.top_border)
+			local bx, by = bbx, is_above and bay or bby
+			local opts = {color = config.color.heatmap, opacity = config.opacity.heatmap * visibility}
+			local clip_ay = is_above and (ay - 10) or ay
+			opts.clip = string.format('\\clip(%d,%d,%d,%d)', ax, clip_ay, bx, by)
+			ass:smooth_curve(ax, ay, bx, by, self.heatmap, opts)
+		end
+	end
+
+	-- Change draw order based on 'timeline_style' to keep the heatmap visible
+	if is_line then
+		draw_heatmap()
+		draw_progress()
+	else
+		draw_progress()
+		draw_heatmap()
+	end
 
 	-- Uncached ranges
 	if state.uncached_ranges then
@@ -380,7 +425,7 @@ function Timeline:render()
 
 	-- Time values
 	if text_opacity > 0 then
-		local time_opts = {size = self.font_size, opacity = text_opacity, border = 2 * state.scale}
+		local time_opts = {size = self.font_size, opacity = text_opacity, border = options.text_border * state.scale}
 		-- Upcoming cache time
 		local cache_duration = state.cache_duration and state.cache_duration / state.speed or nil
 		if cache_duration and options.buffered_time_threshold > 0
@@ -412,7 +457,7 @@ function Timeline:render()
 
 	-- Hovered time and chapter
 	local rendered_thumbnail = false
-	if (self.proximity_raw == 0 or self.pressed or hovered_chapter) and not Elements:v('speed', 'dragging') then
+	if (self.proximity_raw <= 0 or self.pressed or hovered_chapter) and not Elements:v('speed', 'dragging') then
 		local cursor_x = hovered_chapter and t2x(hovered_chapter.time) or cursor.x
 		local hovered_seconds = hovered_chapter and hovered_chapter.time or self:get_time_at_x(cursor.x)
 
